@@ -10680,3 +10680,1298 @@
     }
   }
 ]
+[
+  {
+    "id": "ehsaas_future_001",
+    "messages": [
+      {"role": "user", "content": "Yaar graduation ho jayegi 3 mahine mein aur mujhe kuch nahi pata kya karunga life mein. Sab plan bana rahe hain main blank hoon completely."},
+      {"role": "assistant", "content": "Teen mahine baaki hain aur sabke paas direction hai but tu abhi bhi lost feel kar raha. Woh blank feeling jab future dhundla dikhta hai - heavy lagta hai yaar. Kya specific cheez zyada daraa rahi hai - job, further study, ya kuch aur?"}
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "tone": "friendly_peer",
+      "intent": "fear_of_future",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_future_002",
+    "messages": [
+      {"role": "user", "content": "Everyone around me has their life figured out. Jobs, masters abroad, startups. I'm just existing with no clue what's next. Feels like I'm falling behind permanently."},
+      {"role": "assistant", "content": "Everyone has clarity and you're just existing with zero direction - that comparison is making you feel like you've already lost the race permanently. Falling behind forever feels so real right now. When you think about the next six months, what specific step scares you most?"}
+    ],
+    "metadata": {
+      "language": "english",
+      "tone": "supportive_elder_sibling",
+      "intent": "fear_of_future",
+      "severity": 8,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_future_003",
+    "messages": [
+      {"role": "user", "content": "Parents retire ho rahe hain 2 saal mein aur main abhi bhi struggling student hoon. Unka financial burden uthana padega but main khud settle nahi hoon. Darr lagta hai."},
+      {"role": "assistant", "content": "Do saal mein unhe support karna hoga but abhi khud standing pe nahi hai tu - woh pressure aur responsibility ka weight saath mein aa raha hai. Parents ki retirement real deadline ban gayi hai. Abhi kya kar raha hai job ya studies ke liye?"}
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "tone": "supportive_elder_sibling",
+      "intent": "fear_of_future",
+      "severity": 8,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_future_004",
+    "messages": [
+      {"role": "user", "content": "Mera ek close friend 12 LPA package le gaya aur main abhi bhi resume bhej raha hoon interviews bhi nahi aa rahe. What if I never reach that level? Hamesha peeche hi rahunga kya?"},
+      {"role": "assistant", "content": "Dost 12 lakh pe pohoch gaya aur tere interviews tak nahi aa rahe - woh gap bohot bada feel ho raha hoga yaar. Never reaching there ka thought chipak gaya hai. Resume mein kya specific problem lag rahi tujhe ya random bhej raha hai abhi?"}
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "tone": "friendly_peer",
+      "intent": "fear_of_future",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_future_005",
+    "messages": [
+      {"role": "user", "content": "Agar main fail ho gaya final year mein toh poora saal waste ho jayega. Phir job market mein aur peeche ho jaunga. This anxiety is paralyzing me I can't even study properly now."},
+      {"role": "assistant", "content": "Fail hone se saal waste aur job race mein aur peeche - yeh darr itna strong hai ki padhna bhi mushkil ho gaya. Anxiety ne action ko hi rok diya. What's actually happening with studies right now - pending work hai ya focus hi nahi ban raha?"}
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "tone": "supportive_elder_sibling",
+      "intent": "fear_of_future",
+      "severity": 8,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_future_006",
+    "messages": [
+      {"role": "user", "content": "mujhe lagta hai main galat field mein aa gaya aur ab bahut late ho chuka hai switch karne ke liye sab years waste ho gaye future kharab hone wala hai"},
+      {"role": "assistant", "content": "galat field choose kar liya aur ab switch karne ki window bhi close lagti hai tujhe - saal waste hone ka regret aur aage kharab hone ka darr dono saath. kab se yeh feel ho raha hai ki yeh teri field nahi hai?"}
+    ],
+    "metadata": {
+      "language": "hindi",
+      "tone": "friendly_peer",
+      "intent": "fear_of_future",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_future_007",
+    "messages": [
+      {"role": "user", "content": "I see my seniors still unemployed after 2 years of graduation. What if that's my future too? Degree leke bhi kuch nahi hoga lagta hai."},
+      {"role": "assistant", "content": "Seniors struggling for two years after graduating and you're seeing your own future in their struggle - the degree itself feels worthless now. That pattern looks like your inevitable story. Are they in the same field as you or is it a different situation?"}
+    ],
+    "metadata": {
+      "language": "english",
+      "tone": "friendly_peer",
+      "intent": "fear_of_future",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_future_008",
+    "messages": [
+      {"role": "user", "content": "Yaar COVID ne do saal kharab kar diye proper learning nahi hui ab market mein compete kaise karunga? Skills bhi nahi develop hui theek se anxiety ho rahi hai."},
+      {"role": "assistant", "content": "COVID mein do saal ki learning gap ho gayi aur ab market ready nahi feel kar raha - skills missing hone ka ehsaas competition mein peeche kar raha hai. Kaunsi specific skills ki kami zyada mehsoos hoti hai tujhe?"}
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "tone": "supportive_elder_sibling",
+      "intent": "fear_of_future",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_future_009",
+    "messages": [
+      {"role": "user", "content": "My parents took a loan for my education. What if I don't get placed? How will I face them? The guilt and fear is eating me up every single day."},
+      {"role": "assistant", "content": "They took a loan for your education and if placement doesn't happen you won't be able to face them - that guilt and fear is consuming you daily. Their investment weighs on you constantly. Where are you at with placement prep right now?"}
+    ],
+    "metadata": {
+      "language": "english",
+      "tone": "supportive_elder_sibling",
+      "intent": "fear_of_future",
+      "severity": 8,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_future_010",
+    "messages": [
+      {"role": "user", "content": "Sab bolta hai tier 3 college se kuch nahi hota placements bekar hote hain. Main tier 3 se hoon aur future dark dikhta hai already. Starting se hi disadvantage mein hoon."},
+      {"role": "assistant", "content": "Tier 3 tag leke future dark dikhai de raha kyunki sab bolte hain placement nahi hoti - starting se hi race haar gaye jaise feel hota hai. College ka label itna heavy hai. Campus se bahar apply karne ki koshish ki hai ya campus placements pe hi focused hai?"}
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "tone": "friendly_peer",
+      "intent": "fear_of_future",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_future_011",
+    "messages": [
+      {"role": "user", "content": "AI and automation will take away all jobs in few years. Padh ke bhi kya fayda? Future mein kaam hi nahi bachega. I'm studying for a world that won't exist."},
+      {"role": "assistant", "content": "AI sab jobs kha jayega aur jo padh rahe ho woh obsolete ho jayega - tumhara effort ek disappearing world ke liye lag raha hai. Future existence ka darr hi motivation kha gaya. Kaunse specific field mein ho aur AI ka threat zyada real lagta hai?"}
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "tone": "supportive_elder_sibling",
+      "intent": "fear_of_future",
+      "severity": 8,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_future_012",
+    "messages": [
+      {"role": "user", "content": "mere paas koi backup plan nahi hai agar yeh nahi hua toh kya karunga completely lost ho jaunga parents ne itna invest kiya pressure bahut hai"},
+      {"role": "assistant", "content": "ek hi plan hai aur agar woh fail ho gaya toh completely lost feel hoga - backup na hone se darr aur bhi strong hai kyunki parents ka investment bhi stake pe hai. kis cheez ka plan hai abhi jo itna critical lag raha?"}
+    ],
+    "metadata": {
+      "language": "hindi",
+      "tone": "friendly_peer",
+      "intent": "fear_of_future",
+      "severity": 8,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_future_013",
+    "messages": [
+      {"role": "user", "content": "I'm 24 and haven't achieved anything significant. Friends are buying cars, getting married, settled. Main abhi bhi gharwalo pe dependent hoon. Lagta hai life mein kuch nahi kar paunga."},
+      {"role": "assistant", "content": "At 24 friends have cars and marriages while you're still dependent on family - achievements comparison is making you feel like nowhere. Life mein kuch na kar pane ka thought set ho gaya hai. What's going on right now with job or studies?"}
+    ],
+    "metadata": {
+      "language": "english",
+      "tone": "supportive_elder_sibling",
+      "intent": "fear_of_future",
+      "severity": 8,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_future_014",
+    "messages": [
+      {"role": "user", "content": "Yaar 6 mahine se job search kar raha hoon ek call bhi nahi aayi. Savings khatam ho rahi hain ghar pe bhi taane sun raha hoon. Future mein homeless ho jaunga kya aisa lagta hai."},
+      {"role": "assistant", "content": "6 months se ek call tak nahi aayi, savings khatam, aur ghar pe taane - homeless hone ka darr real lagta hai jab basic survival question ban jaye. Yeh bohot heavy hai yaar. Kis field mein apply kar raha aur resume mein koi specific feedback mila kahi se?"}
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "tone": "supportive_elder_sibling",
+      "intent": "fear_of_future",
+      "severity": 9,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_future_015",
+    "messages": [
+      {"role": "user", "content": "What if I make the wrong career choice and waste 5 more years? Already wasted 4 in engineering. Can't afford another mistake. Paralyzed by this fear."},
+      {"role": "assistant", "content": "Four years already feel wasted and another wrong choice means five more gone - making any decision has become paralysis itself. You can't afford mistakes so you can't move. What options are you considering right now that feel so risky?"}
+    ],
+    "metadata": {
+      "language": "english",
+      "tone": "friendly_peer",
+      "intent": "fear_of_future",
+      "severity": 8,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_future_016",
+    "messages": [
+      {"role": "user", "content": "Recession aa raha hai news mein dikhaate hain layoffs ho rahe. Main graduate hone wala hoon worst time pe. Pehle se hi mushkil tha ab aur bhi impossible lagta hai."},
+      {"role": "assistant", "content": "Recession ke news aur layoffs dekh ke worst timing pe graduate ho rahe - pehle se tough race ab impossible level ka lag raha hai. Market condition tumhare control se bahar hai aur woh darr badha rahi. Graduate hone mein kitna time baaki hai?"}
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "tone": "supportive_elder_sibling",
+      "intent": "fear_of_future",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_future_017",
+    "messages": [
+      {"role": "user", "content": "sab bol rahe gate crack karo government job lo stable rahega but main interested nahi hoon us line mein phir bhi karna padega security ke liye future compromise karna padega"},
+      {"role": "assistant", "content": "security chahiye toh gate aur government job lena padega but interest nahi hai - future ko compromise karna already decided lag raha just survival ke liye. passion vs stability ka pressure hai. agar interest nahi hai toh kisme actually hai?"}
+    ],
+    "metadata": {
+      "language": "hindi",
+      "tone": "friendly_peer",
+      "intent": "fear_of_future",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_future_018",
+    "messages": [
+      {"role": "user", "content": "I got backlogs in 2 subjects. My placement eligibility is gone. Watching everyone get jobs while I'm stuck. Feel like my career ended before it even started."},
+      {"role": "assistant", "content": "Two backlogs killed your placement eligibility and everyone's getting jobs while you're stuck - career feels over before it began. This is really heavy. Do you have a plan to clear the backlogs or are you still stuck there?"}
+    ],
+    "metadata": {
+      "language": "english",
+      "tone": "supportive_elder_sibling",
+      "intent": "fear_of_future",
+      "severity": 8,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_future_019",
+    "messages": [
+      {"role": "user", "content": "Yaar Mumbai mein rent itna expensive hai starting salary se afford nahi hoga. Ghar se door job milegi toh survive kaise karunga financially struggle hoga definitely."},
+      {"role": "assistant", "content": "Mumbai rent vs starting salary ka math nahi baith raha aur ghar se door rehna financial struggle pakka lag raha - survive karna hi question ban gaya hai. Living cost ka darr job search ko bhi affect kar raha hoga. Kaha job dhoondh rahe mostly?"}
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "tone": "friendly_peer",
+      "intent": "fear_of_future",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_future_020",
+    "messages": [
+      {"role": "user", "content": "My field is saturated with competition. Thousands of graduates every year fighting for same positions. What makes me special? Nothing. I'll just be another rejected resume."},
+      {"role": "assistant", "content": "Thousands competing for the same spots and you have nothing special to offer - just another resume heading for rejection. Saturated field is making you invisible. What field is this and what specifically makes you feel weak in the competition?"}
+    ],
+    "metadata": {
+      "language": "english",
+      "tone": "supportive_elder_sibling",
+      "intent": "fear_of_future",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_future_021",
+    "messages": [
+      {"role": "user", "content": "Parents shaadi ka pressure de rahe hain but main financially stable nahi hoon abhi. Shaadi bhi karni padegi settle bhi hona padega dono ka pressure handle nahi ho raha."},
+      {"role": "assistant", "content": "Shaadi ka pressure aa raha but financially stable nahi ho - dono life milestones ek saath achieve karne ka expectation crush kar raha hai. Handle nahi ho raha yeh double demand. Parents ko bataya hai ki abhi financially ready nahi feel karte?"}
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "tone": "supportive_elder_sibling",
+      "intent": "fear_of_future",
+      "severity": 8,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_future_022",
+    "messages": [
+      {"role": "user", "content": "koi skill nahi hai mere paas jo job dilwa sake degree toh sab ke paas hai main kaise alag dikhaunga interviews mein reject hi hona hai"},
+      {"role": "assistant", "content": "degree toh sabke paas hai but koi alag skill nahi jo tumhe stand out karae - interview mein reject hona already confirm lag raha. invisible feel kar rahe competition mein. degree kis field ki hai aur kya try kiya hai skills develop karne?"}
+    ],
+    "metadata": {
+      "language": "hindi",
+      "tone": "friendly_peer",
+      "intent": "fear_of_future",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_future_023",
+    "messages": [
+      {"role": "user", "content": "I'm an introvert and networking is everything these days. Referrals se hi jobs milti hain. I can't do that fake socializing. Doomed to fail because of my personality."},
+      {"role": "assistant", "content": "Networking drives everything and referrals get jobs but you can't do the socializing - your personality itself feels like the reason you're doomed. Being introverted has become a career death sentence in your mind. Do you have any close friends or seniors who might help without heavy networking?"}
+    ],
+    "metadata": {
+      "language": "english",
+      "tone": "supportive_elder_sibling",
+      "intent": "fear_of_future",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_future_024",
+    "messages": [
+      {"role": "user", "content": "Yaar mental health issues ki wajah se gap year liya tha ab resume pe explain karna padega. Koi hire nahi karega mental health history dekh ke. Stuck hoon permanently."},
+      {"role": "assistant", "content": "Gap year liya mental health ke liye but ab resume explain karne mein darr hai ki reject kar denge - history tumhe permanently unhireable bana rahi tumhare mann mein. Yeh bohot isolating lagta hoga. Gap ke baad wapas koshish kari hai kahi apply karne ki?"}
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "tone": "supportive_elder_sibling",
+      "intent": "fear_of_future",
+      "severity": 8,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_future_025",
+    "messages": [
+      {"role": "user", "content": "Cost of living keeps increasing but salaries are stagnant. Even if I get a job, I'll barely survive. Comfortable life seems impossible for our generation."},
+      {"role": "assistant", "content": "Inflation rising but salaries stuck - even with a job you'll just survive not live comfortably. A decent life feels impossible for the whole generation. This hopelessness is heavy. What field are you targeting for jobs?"}
+    ],
+    "metadata": {
+      "language": "english",
+      "tone": "friendly_peer",
+      "intent": "fear_of_future",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_future_026",
+    "messages": [
+      {"role": "user", "content": "mujhe coding nahi aati but engineering student hoon sab companies coding test lete hain main kaise qualify karunga future mein job hi nahi milegi lagta"},
+      {"role": "assistant", "content": "engineering student ho but coding nahi aati aur saari companies wohi test lete - qualify karna impossible lag raha aur jobless future dikhai de raha. stuck feel kar rahe completely. non-coding roles try kiye ya coding seekhne ki koshish ki?"}
+    ],
+    "metadata": {
+      "language": "hindi",
+      "tone": "friendly_peer",
+      "intent": "fear_of_future",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_future_027",
+    "messages": [
+      {"role": "user", "content": "Everyone's doing internships from 2nd year building their resume. I'm in final year with zero internships. Already so behind I can't catch up now. Game over."},
+      {"role": "assistant", "content": "Everyone built resumes since second year and you're in final year with nothing - so far behind that catching up feels impossible. Game over before it started. Do you have any projects or other work you can show on your resume?"}
+    ],
+    "metadata": {
+      "language": "english",
+      "tone": "supportive_elder_sibling",
+      "intent": "fear_of_future",
+      "severity": 8,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_future_028",
+    "messages": [
+      {"role": "user", "content": "Yaar abroad jaane ka plan tha but financially possible nahi hai. India mein opportunities kam lagti competition zyada. Trapped feel hota hai limited options mein."},
+      {"role": "assistant", "content": "Abroad jaana tha but afford nahi kar sakte aur India mein limited opportunities high competition - trapped lag rahe restricted options mein. Financial limitation ne dream hi band kar di. India mein kaunse specific field explore kar rahe?"}
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "tone": "friendly_peer",
+      "intent": "fear_of_future",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_future_029",
+    "messages": [
+      {"role": "user", "content": "agar main iss baar bhi fail ho gaya toh parents ka trust khatam ho jayega unhe lagega main kuch nahi kar sakta future mein bhi disappoint karunga"},
+      {"role": "assistant", "content": "ek aur failure se parents ka trust permanently khatam hone ka darr - unhe lagega capable nahi ho aur future mein bhi disappoint hi karoge. trust lose karne ka thought bohot bhaari hai. abhi kisme struggle ho raha jo fail hone ka darr hai?"}
+    ],
+    "metadata": {
+      "language": "hindi",
+      "tone": "supportive_elder_sibling",
+      "intent": "fear_of_future",
+      "severity": 8,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_future_030",
+    "messages": [
+      {"role": "user", "content": "I see people with connections getting opportunities easily. I have none. Pure merit se compete karna hai which feels impossible. System is rigged against people like me."},
+      {"role": "assistant", "content": "People with connections get easy opportunities and you have to fight purely on merit - the system feels rigged against you. Already lost in an unfair race. How far have you tried on the merit path for opportunities?"}
+    ],
+    "metadata": {
+      "language": "english",
+      "tone": "supportive_elder_sibling",
+      "intent": "fear_of_future",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_future_031",
+    "messages": [
+      {"role": "user", "content": "Main government exam prepare kar raha hoon 2 saal se but crack nahi ho raha. Private sector mein late ho gaya hoon ab. Dono taraf se fail feel hota hai."},
+      {"role": "assistant", "content": "Do saal se gov exam try kar rahe but clear nahi ho raha aur private mein late ho gaye - dono sides se fail feel kar rahe simultaneously. Stuck between two paths aur dono mein peeche. Kya specific exam hai aur private side kyun late lagta?"}
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "tone": "friendly_peer",
+      "intent": "fear_of_future",
+      "severity": 8,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_future_032",
+    "messages": [
+      {"role": "user", "content": "Climate change, economic instability, political chaos - what kind of future are we even building towards? Feels pointless to plan when everything is falling apart."},
+      {"role": "assistant", "content": "Everything collapsing globally - climate, economy, politics - so what's the point of personal planning. Macro problems have made your future feel meaningless. This existential weight is heavy. What are you doing for immediate future despite these feelings?"}
+    ],
+    "metadata": {
+      "language": "english",
+      "tone": "supportive_elder_sibling",
+      "intent": "fear_of_future",
+      "severity": 8,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_future_033",
+    "messages": [
+      {"role": "user", "content": "yaar mera confidence khatam ho gaya har rejection se ab apply karte waqt bhi lagta hai reject hi hona hai kyun try karu future mein bhi yahi hoga"},
+      {"role": "assistant", "content": "har rejection ne confidence itna toda ki ab try karna bhi meaningless lagta - pehle se hi rejection confirm maan lete ho. future mein bhi yahi pattern dikhta hai tumhe. kitne rejections aaye hain aur koi feedback mila tha kisi mein?"}
+    ],
+    "metadata": {
+      "language": "hindi",
+      "tone": "friendly_peer",
+      "intent": "fear_of_future",
+      "severity": 8,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_future_034",
+    "messages": [
+      {"role": "user", "content": "My health issues make me unreliable for consistent work. Who will hire someone who might take frequent leaves? Chronic illness ruined my career before it started."},
+      {"role": "assistant", "content": "Health makes you unreliable and frequent leaves are inevitable - who would hire that. Chronic illness killed your career before it could begin. Medical reality versus job expectations is a painful gap. What's the health condition and have you looked into flexible work options?"}
+    ],
+    "metadata": {
+      "language": "english",
+      "tone": "supportive_elder_sibling",
+      "intent": "fear_of_future",
+      "severity": 8,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_future_035",
+    "messages": [
+      {"role": "user", "content": "Yaar ek job offer aaya tha but toxic work culture ki news sunn ke reject kar diya. Ab koi aur offer nahi aa raha. Galti kar di lagta hai desperate ho jaunga future mein."},
+      {"role": "assistant", "content": "Toxic culture wala offer reject kiya but ab kuch aur nahi aa raha - galat decision liya lagta aur desperate hone ka future dikhai de raha. Standards rakhne ka guilt aa raha hai. Kitna time ho gaya reject kiye aur kitna apply kar rahe abhi?"}
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "tone": "friendly_peer",
+      "intent": "fear_of_future",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_future_036",
+    "messages": [
+      {"role": "user", "content": "My younger sibling is more successful than me already. Parents compare constantly. Failed as the elder one. What kind of example am I setting? Humiliating."},
+      {"role": "assistant", "content": "Younger sibling already ahead and parents compare you constantly - being the elder one who failed feels humiliating. What kind of role model are you now. This comparison cuts deep. What are they successful in and where are you struggling?"}
+    ],
+    "metadata": {
+      "language": "english",
+      "tone": "supportive_elder_sibling",
+      "intent": "fear_of_future",
+      "severity": 8,
+      "escalation_needed": false
+    }
+  },
+  [
+  {
+    "id": "ehsaas_future_038",
+    "messages": [
+      {"role": "user", "content": "Yaar imposter syndrome hai mujhe bohot. Job mil bhi gayi toh kya main handle kar paunga? Sabke saamne expose ho jaunga incompetent hoon main fired hone se pehle hi darr lagta hai."},
+      {"role": "assistant", "content": "Job milne se pehle fired hone ka darr - handle nahi kar paoge aur sab samajh jayenge incompetent ho. Yeh feeling kitna suffocating hai yaar. Pehle kabhi koi kaam kiya tha jisme yeh darr real hua ho ya bas thought hai abhi?"}
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "tone": "friendly_peer",
+      "intent": "fear_of_future",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_future_039",
+    "messages": [
+      {"role": "user", "content": "sab paid courses kar rahe upskilling kar rahe main afford nahi kar sakta free resources confusing hain competition mein aur peeche reh jaunga pakka"},
+      {"role": "assistant", "content": "sabke paas paid courses hain skills badha rahe aur tere paas sirf confusing free stuff - aur peeche hone ka feeling strong ho raha. money ki kami tumhe race se bahar kar rahi. kaunsi skills chahiye tujhe abhi sabse zyada?"}
+    ],
+    "metadata": {
+      "language": "hindi",
+      "tone": "friendly_peer",
+      "intent": "fear_of_future",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  },
+  [
+  {
+    "id": "ehsaas_future_007",
+    "messages": [
+      {"role": "user", "content": "I see my seniors still unemployed after 2 years of graduation. What if that's my future too? Degree leke bhi kuch nahi hoga lagta hai."},
+      {"role": "assistant", "content": "Seniors do saal se unemployed hain aur tu apna future unme dekh raha - degree ka value hi questionable lagta hai ab. Unka pattern teri story ban jayegi yeh darr hai. Unki field same hai teri jaise ya different struggle hai?"}
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "tone": "friendly_peer",
+      "intent": "fear_of_future",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_future_013",
+    "messages": [
+      {"role": "user", "content": "I'm 24 and haven't achieved anything significant. Friends are buying cars, getting married, settled. Main abhi bhi gharwalo pe dependent hoon. Lagta hai life mein kuch nahi kar paunga."},
+      {"role": "assistant", "content": "24 pe friends cars aur shaadi kar rahe aur tu abhi bhi gharwalo pe dependent - achievements ka comparison tumhe nowhere feel kara raha hai. Life mein kuch na kar pane ka thought set ho gaya. Abhi kya chal raha hai job ya studies wise?"}
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "tone": "supportive_elder_sibling",
+      "intent": "fear_of_future",
+      "severity": 8,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_future_023",
+    "messages": [
+      {"role": "user", "content": "I'm an introvert and networking is everything these days. Referrals se hi jobs milti hain. I can't do that fake socializing. Doomed to fail because of my personality."},
+      {"role": "assistant", "content": "Networking aur referrals se jobs milti but socializing tumse nahi hota - personality hi failure ka reason ban gayi lagti hai tumhe. Introvert hone se doomed feel kar rahe. Koi close friends ya seniors hain jo help kar sakte bina heavy networking ke?"}
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "tone": "supportive_elder_sibling",
+      "intent": "fear_of_future",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_future_036",
+    "messages": [
+      {"role": "user", "content": "My younger sibling is more successful than me already. Parents compare constantly. Failed as the elder one. What kind of example am I setting? Humiliating."},
+      {"role": "assistant", "content": "Younger sibling already ahead and parents keep comparing - being the elder one who failed feels humiliating. What kind of example are you now, that question hurts. What are they successful in and where are you stuck?"}
+    ],
+    "metadata": {
+      "language": "english",
+      "tone": "supportive_elder_sibling",
+      "intent": "fear_of_future",
+      "severity": 8,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_future_037",
+    "messages": [
+      {"role": "user", "content": "I'm too old to start fresh in a new field but too young to give up. Stuck in this limbo. Wasted years can't be recovered and future looks equally bleak."},
+      {"role": "assistant", "content": "Too old for fresh starts but too young to quit - stuck in limbo where past feels wasted and future looks just as dark. Age has you trapped between both sides. How old are you and what field are you thinking of leaving?"}
+    ],
+    "metadata": {
+      "language": "english",
+      "tone": "supportive_elder_sibling",
+      "intent": "fear_of_future",
+      "severity": 8,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_future_042",
+    "messages": [
+      {"role": "user", "content": "I keep seeing posts about people my age buying houses, traveling, living their best life. Main struggling hoon basic job ke liye. Feel like such a failure."},
+      {"role": "assistant", "content": "Same age ke log houses aur travel kar rahe aur tu basic job ke liye struggle kar raha - woh gap tumhe total failure feel kara raha hai. Social media comparison brutal hai yaar. Kaunsi jobs try kar rahe ho abhi?"}
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "tone": "supportive_elder_sibling",
+      "intent": "fear_of_future",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  }
+]
+  {
+    "id": "ehsaas_future_040",
+    "messages": [
+      {"role": "user", "content": "Every job posting wants 2-3 years experience. How do I get experience without a job? This loop is impossible. Fresh graduates are basically unemployable."},
+      {"role": "assistant", "content": "Need experience to get a job but need a job to get experience - stuck in a loop that feels unbreakable. Fresh grad tag makes you unemployable. It's maddening. Have you tried applying anyway or does the requirement stop you before that?"}
+    ],
+    "metadata": {
+      "language": "english",
+      "tone": "friendly_peer",
+      "intent": "fear_of_future",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_future_041",
+    "messages": [
+      {"role": "user", "content": "Parents ne ghar bhi kharida loan pe meri job ke bharose. Agar placement nahi hui toh unka EMI kaun bharega? Itna pressure hai I can't breathe sometimes."},
+      {"role": "assistant", "content": "Ghar ka loan tumhare job ke bharose liya aur agar placement nahi hui EMI ka kya hoga - woh responsibility breathe karna mushkil kar rahi kabhi kabhi. Unka decision tumhara burden ban gaya. Placement ke liye kya chal raha abhi?"}
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "tone": "supportive_elder_sibling",
+      "intent": "fear_of_future",
+      "severity": 9,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_future_042",
+    "messages": [
+      {"role": "user", "content": "I keep seeing posts about people my age buying houses, traveling, living their best life. Main struggling hoon basic job ke liye. Feel like such a failure."},
+      {"role": "assistant", "content": "Your age group buying houses and traveling while you're struggling for a basic job - that gap makes you feel like total failure. Social media comparison is brutal right now. What kind of jobs are you going for?"}
+    ],
+    "metadata": {
+      "language": "english",
+      "tone": "supportive_elder_sibling",
+      "intent": "fear_of_future",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_future_043",
+    "messages": [
+      {"role": "user", "content": "Mera college placement record hi kharab hai companies aati hi nahi. Brand value zero hai degree ki future mein kaise compete karunga yaar hopeless lagta hai."},
+      {"role": "assistant", "content": "College mein companies aati hi nahi placement record kharab hai - degree ki brand value zero aur compete karna hopeless lag raha. College choice ab regret ban gayi hai. Off campus try kar rahe ya campus ke wait mein hi stuck ho?"}
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "tone": "friendly_peer",
+      "intent": "fear_of_future",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_future_044",
+    "messages": [
+      {"role": "user", "content": "agar main abhi galat decision le liya career mein toh poori zindagi regret karunga sahi choice kya hai samajh nahi aa raha paralyzed hoon completely"},
+      {"role": "assistant", "content": "galat decision liya toh lifelong regret aur sahi kya hai woh pata nahi - decision lena hi impossible ho gaya completely paralyzed. ek galti ka weight itna bhaari lag raha. abhi kaunse options ke beech fasa hua hai?"}
+    ],
+    "metadata": {
+      "language": "hindi",
+      "tone": "supportive_elder_sibling",
+      "intent": "fear_of_future",
+      "severity": 8,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_future_045",
+    "messages": [
+      {"role": "user", "content": "Technology changes so fast. What I'm learning today will be obsolete tomorrow. Feels like running on a treadmill going nowhere. What's the point?"},
+      {"role": "assistant", "content": "Learning stuff that'll be outdated tomorrow - running hard but going nowhere on a treadmill. The speed of change makes effort feel pointless. That's exhausting. What tech are you studying right now?"}
+    ],
+    "metadata": {
+      "language": "english",
+      "tone": "friendly_peer",
+      "intent": "fear_of_future",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_future_046",
+    "messages": [
+      {"role": "user", "content": "Yaar startup kholne ka sapna tha but funding nahi milti bina experience ke. 9-5 job mein hi ghusna padega soul crushing lagta hai dreams compromise karna padega."},
+      {"role": "assistant", "content": "Startup ka dream tha but funding impossible without experience - 9-5 mein ghusna soul crushing lag raha aur dreams ko shelf karna padega. Compromise karna hi ek option dikhta hai. Startup idea pe kaam kiya kuch ya abhi idea stage pe hai?"}
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "tone": "supportive_elder_sibling",
+      "intent": "fear_of_future",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  },
+  [
+  {
+    "id": "ehsaas_future_047",
+    "messages": [
+      {"role": "user", "content": "My anxiety about future is affecting my present. Can't enjoy anything because I'm always worried. What if I'm wasting my last carefree days stressing about what's next?"},
+      {"role": "assistant", "content": "Future anxiety is eating up your present and you can't enjoy anything because worry is constant - wasting carefree days stressing about what's next. That's such a heavy feeling. What specifically triggers the anxiety most for you?"}
+    ],
+    "metadata": {
+      "language": "english",
+      "tone": "friendly_peer",
+      "intent": "fear_of_future",
+      "severity": 8,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_future_048",
+    "messages": [
+      {"role": "user", "content": "Yaar sab bol rahe side hustle karo passive income banao. Main toh regular job ke liye bhi eligible nahi feel karta multiple income streams toh door ki baat hai overwhelmed hoon."},
+      {"role": "assistant", "content": "Sab side hustle aur passive income ki baatein kar rahe aur tu regular job ke liye bhi ready nahi feel kar raha - multiple streams toh bohot door lagti hain. Overwhelmed hona natural hai yaar. Abhi ek job pe focus karna chahte ho ya pressure hai multiple karne ka?"}
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "tone": "friendly_peer",
+      "intent": "fear_of_future",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_future_049",
+    "messages": [
+      {"role": "user", "content": "mere dost sab settle ho gaye shaadi job sab ho gaya main abhi bhi same jagah pe hoon jaha 2 saal pehle tha koi growth nahi hui stagnant feel hota hai"},
+      {"role": "assistant", "content": "sab dost aage badh gaye shaadi job sab aur tu wahi pe hai jaha do saal pehle tha - growth bilkul nahi hui stagnant lagta hai. yeh bohot frustrating hai yaar. do saal mein kya try kiya tha jo work nahi kiya?"}
+    ],
+    "metadata": {
+      "language": "hindi",
+      "tone": "friendly_peer",
+      "intent": "fear_of_future",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_future_050",
+    "messages": [
+      {"role": "user", "content": "I'm afraid of being stuck in a job I hate just to pay bills. That's not living, that's surviving. But what choice do I have? Dreams don't pay rent."},
+      {"role": "assistant", "content": "Stuck in a job you hate just for bills - surviving not living. Dreams don't pay rent so what choice is there. That trapped feeling between passion and practical reality is rough. What would you actually want to do if money wasn't the main concern?"}
+    ],
+    "metadata": {
+      "language": "english",
+      "tone": "supportive_elder_sibling",
+      "intent": "fear_of_future",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  }
+]
+[
+  {
+    "id": "ehsaas_future_051",
+    "messages": [
+      {"role": "user", "content": "Placement season khatam ho gaya aur mujhe kuch nahi mila. Ab off-campus try karna padega but confidence zero hai. Lagta hai main qualified hi nahi hoon kisi cheez ke liye."},
+      {"role": "assistant", "content": "Placement season khatam ho gaya empty handed aur ab off-campus ka struggle shuru hoga - confidence bilkul nahi bacha. Qualified hi nahi hone ka feeling aa raha hai. Placement mein kya hua tha mostly - interviews tak pohoche the ya wahi nahi?"}
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "tone": "supportive_elder_sibling",
+      "intent": "fear_of_future",
+      "severity": 8,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_future_052",
+    "messages": [
+      {"role": "user", "content": "I don't have any passion or interest in anything. How do I choose a career when nothing excites me? Feel like I'm just drifting with no direction."},
+      {"role": "assistant", "content": "Nothing excites you and choosing a career feels impossible when there's no passion pulling you anywhere - just drifting with zero direction. That emptiness makes decisions even harder. Have you always felt this way or did something change?"}
+    ],
+    "metadata": {
+      "language": "english",
+      "tone": "friendly_peer",
+      "intent": "fear_of_future",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_future_053",
+    "messages": [
+      {"role": "user", "content": "Yaar relatives poochte rehte hain job lagi ki nahi. Har baar jhooth bolna padta hai. Sharam aati hai admit karne mein ki abhi tak kuch nahi hua. Social gatherings se bachta hoon ab."},
+      {"role": "assistant", "content": "Relatives bar bar job ke baare mein poochte aur jhooth bolna pad raha hai - admit karne mein sharam aati hai ki kuch nahi hua. Social gatherings se bachne laga hai ab tu. Yeh pressure kitna constant hai ghar pe?"}
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "tone": "friendly_peer",
+      "intent": "fear_of_future",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_future_054",
+    "messages": [
+      {"role": "user", "content": "mera best friend abroad settle ho gaya aur main yaha struggle kar raha hoon basic cheezon ke liye uski life dekh ke lagta hai hum different worlds mein hain ab"},
+      {"role": "assistant", "content": "best friend abroad settle ho gaya aur tu yaha basic cheezon ke liye struggle - uski life dekh ke alag duniya mein hone jaisa lagta hai ab. woh gap bohot real feel hota hoga. tum dono mein baat hoti hai ya distance aa gayi hai?"}
+    ],
+    "metadata": {
+      "language": "hindi",
+      "tone": "friendly_peer",
+      "intent": "fear_of_future",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_future_055",
+    "messages": [
+      {"role": "user", "content": "Every rejection email feels like proof I'm not good enough. Started counting them - 47 so far. Each one confirms I'll never make it."},
+      {"role": "assistant", "content": "Forty-seven rejections and counting - each one feels like proof you're not good enough and never will be. That number sitting in your head must be brutal. Are the rejections coming after interviews or before you even get that far?"}
+    ],
+    "metadata": {
+      "language": "english",
+      "tone": "supportive_elder_sibling",
+      "intent": "fear_of_future",
+      "severity": 8,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_future_056",
+    "messages": [
+      {"role": "user", "content": "Main NEET clear nahi kar paya do baar try kiya. Parents ke doctor banane ke sapne tod diye. Ab kya karunga pata nahi guilty bhi feel hota hai aur lost bhi."},
+      {"role": "assistant", "content": "Do baar NEET try kiya clear nahi hua aur parents ka doctor wala dream toot gaya - guilt aur lost dono saath mein aa rahe. Unka sapna nahi poora kar paya woh weight hai. Ab tum kya soch rahe ho next step ka?"}
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "tone": "supportive_elder_sibling",
+      "intent": "fear_of_future",
+      "severity": 8,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_future_057",
+    "messages": [
+      {"role": "user", "content": "I have a stutter and it gets worse in stressful situations. Interviews are nightmares. Who will hire someone who can't even introduce themselves properly? This disability will ruin everything."},
+      {"role": "assistant", "content": "Stutter gets worse under stress and interviews are nightmares - introducing yourself properly feels impossible and who would hire that. Disability feels like it'll destroy everything. Have you tried any interviews yet or does the fear stop you before that?"}
+    ],
+    "metadata": {
+      "language": "english",
+      "tone": "supportive_elder_sibling",
+      "intent": "fear_of_future",
+      "severity": 8,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_future_058",
+    "messages": [
+      {"role": "user", "content": "Yaar LinkedIn pe sab apni achievements post karte rehte hain. Mere paas daalne ko kuch hai hi nahi. Profile khali lagti hai embarrassing hai comparison mein."},
+      {"role": "assistant", "content": "LinkedIn pe sabki achievements dikhai deti rehti aur tere paas daalne ko kuch nahi - profile khali hai aur comparison mein embarrassing lagti. Woh pressure constant hai yaar. Kuch chhote projects ya courses kiye hain jo daal sakte ho ya bilkul blank hai?"}
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "tone": "friendly_peer",
+      "intent": "fear_of_future",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_future_059",
+    "messages": [
+      {"role": "user", "content": "corona ke baad job market bohot competitive ho gayi hai layoffs bhi ho rahe hain freshers ke liye toh aur mushkil hai worst time pe graduate ho raha hoon"},
+      {"role": "assistant", "content": "corona ke baad market aur competitive aur layoffs chal rahe - freshers ke liye toh aur bhi tough aur tu worst timing pe graduate ho raha. timing ka bad luck heavy lag raha hoga. kab graduate hone wale ho exactly?"}
+    ],
+    "metadata": {
+      "language": "hindi",
+      "tone": "friendly_peer",
+      "intent": "fear_of_future",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_future_060",
+    "messages": [
+      {"role": "user", "content": "My college didn't teach practical skills. Everything was theoretical. Now companies want experience with tools I've never even heard of. Degree feels useless."},
+      {"role": "assistant", "content": "College gave theory but no practical skills and companies want tools you've never heard of - degree feels completely useless now. That gap between what you learned and what's needed is huge. What field are you in and what tools are they asking for?"}
+    ],
+    "metadata": {
+      "language": "english",
+      "tone": "friendly_peer",
+      "intent": "fear_of_future",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_future_061",
+    "messages": [
+      {"role": "user", "content": "Main commerce student hoon aur CA nahi karna chahta but parents pressure de rahe hain. Agar nahi kiya toh future mein regret hoga unka aur kiya toh main unhappy rahunga trapped feel hota hai."},
+      {"role": "assistant", "content": "CA nahi karna but parents pressure kar rahe - na karo toh unka regret aur kar lo toh tumhari unhappiness. Dono taraf se trapped lag raha hai. Tum actually karna kya chahte ho agar CA nahi?"}
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "tone": "supportive_elder_sibling",
+      "intent": "fear_of_future",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_future_062",
+    "messages": [
+      {"role": "user", "content": "I keep seeing news about company frauds, sudden shutdowns, mass layoffs. Even if I get a job, how do I know it's secure? Nothing feels stable anymore."},
+      {"role": "assistant", "content": "News full of frauds, shutdowns, layoffs - even getting a job doesn't mean security anymore. Nothing feels stable at all. That constant uncertainty must be exhausting. What kind of companies are you looking at mostly?"}
+    ],
+    "metadata": {
+      "language": "english",
+      "tone": "friendly_peer",
+      "intent": "fear_of_future",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_future_063",
+    "messages": [
+      {"role": "user", "content": "Yaar meri communication skills kamzor hain English mein fluent nahi hoon. Interviews mein isi wajah se reject ho jata hoon. Improve karne ki koshish kar raha but time nahi hai placement chal rahi."},
+      {"role": "assistant", "content": "Communication weak hai English fluent nahi aur interviews mein reject ho ja raha - improve karna hai but placement chal rahi time nahi mil raha. Yeh catch-22 hai yaar. Kya specific problem aati hai English mein - vocabulary ya confidence ya grammar?"}
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "tone": "friendly_peer",
+      "intent": "fear_of_future",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_future_064",
+    "messages": [
+      {"role": "user", "content": "mujhe anxiety attacks aate hain kabhi kabhi serious interviews ya presentations se pehle physically ill ho jata hoon yeh problem future career mein badi issue banegi"},
+      {"role": "assistant", "content": "anxiety attacks aate hain interviews ya presentations se pehle physically ill ho jate ho - yeh pattern future career mein badi problem banegi lagta hai. bohot scary hai yeh. kab se yeh ho raha hai aur kisi doctor se baat ki hai iske baare mein?"}
+    ],
+    "metadata": {
+      "language": "hindi",
+      "tone": "supportive_elder_sibling",
+      "intent": "fear_of_future",
+      "severity": 8,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_future_065",
+    "messages": [
+      {"role": "user", "content": "Everyone's building personal brands on social media. I'm too scared to put myself out there. What if people judge me or I fail publicly? But not doing it means missing opportunities."},
+      {"role": "assistant", "content": "Everyone building brands online but you're too scared of judgment or public failure - not doing it means missing opportunities though. Stuck between fear and necessity. What's the scariest part about putting yourself out there?"}
+    ],
+    "metadata": {
+      "language": "english",
+      "tone": "friendly_peer",
+      "intent": "fear_of_future",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_future_066",
+    "messages": [
+      {"role": "user", "content": "Main tier 2 city se hoon opportunities yaha kam hain metro jaana padega. Akele rehna hoga pehli baar ghar se door anxiety ho rahi hai manage kar paunga ki nahi."},
+      {"role": "assistant", "content": "Tier 2 se ho opportunities kam hain metro jana padega akele rehna hoga pehli baar - ghar se door manage kar paoge ya nahi woh anxiety hai. Pehli baar akele rehne ka darr real hai yaar. Metro mein koi jaante ho koi friends ya relatives?"}
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "tone": "supportive_elder_sibling",
+      "intent": "fear_of_future",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_future_067",
+    "messages": [
+      {"role": "user", "content": "I have a chronic illness that flares up unpredictably. How do I commit to a full-time job when I don't know if I'll be functional tomorrow? Employers won't understand or accommodate."},
+      {"role": "assistant", "content": "Chronic illness flares up randomly and you don't know if you'll be functional tomorrow - how do you commit to full-time work. Employers won't understand or accommodate that. This uncertainty about your own body is really hard. What's the illness and how often do flare-ups happen?"}
+    ],
+    "metadata": {
+      "language": "english",
+      "tone": "supportive_elder_sibling",
+      "intent": "fear_of_future",
+      "severity": 8,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_future_068",
+    "messages": [
+      {"role": "user", "content": "Yaar mere parents ki health kharab rehti hai unka khayal rakhna padega. Full time office job kar paunga ki nahi doubt hai. Work from home milna mushkil hai freshers ko."},
+      {"role": "assistant", "content": "Parents ki health kharab rehti unka khayal rakhna hai aur full time office kar paoge doubt hai - work from home freshers ko milta nahi. Dono responsibilities ka jugaad kaise hoga yeh tension hai. Kitna serious hai unki health situation abhi?"}
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "tone": "supportive_elder_sibling",
+      "intent": "fear_of_future",
+      "severity": 8,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_future_069",
+    "messages": [
+      {"role": "user", "content": "sab apne field mein specialized ho rahe certifications le rahe main generalist hoon kisi cheez mein expert nahi market mein value nahi hai aise logo ki"},
+      {"role": "assistant", "content": "sab specialized ban rahe certifications le rahe aur tu generalist hai kisi mein expert nahi - market mein aise logo ki value nahi lagti. specialist vs generalist ka pressure hai. generalist hone mein kya cheezein aati hain tumhe thodi bahut?"}
+    ],
+    "metadata": {
+      "language": "hindi",
+      "tone": "friendly_peer",
+      "intent": "fear_of_future",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_future_070",
+    "messages": [
+      {"role": "user", "content": "My family's in debt because of my education. Every day without a job adds to that burden. The pressure to get placed immediately is crushing me."},
+      {"role": "assistant", "content": "Family in debt for your education and every jobless day adds more burden - pressure to get placed immediately is crushing. That weight must be constant. How much time do you have before the pressure becomes unbearable?"}
+    ],
+    "metadata": {
+      "language": "english",
+      "tone": "supportive_elder_sibling",
+      "intent": "fear_of_future",
+      "severity": 9,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_future_071",
+    "messages": [
+      {"role": "user", "content": "Main creative field mein jaana chahta hoon but stable nahi hai income. Parents engineer banna chahte safe option hai. Passion follow karun ya practical sochun samajh nahi aa raha."},
+      {"role": "assistant", "content": "Creative field mein jana hai but income unstable - parents engineer banana chahte safe option. Passion vs practical ka faisla nahi ho pa raha. Dono beech mein phas gaye ho. Creative field mein exactly kya karna chahte ho?"}
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "tone": "friendly_peer",
+      "intent": "fear_of_future",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_future_072",
+    "messages": [
+      {"role": "user", "content": "I see people younger than me achieving more. A 21-year-old just became CEO of their startup. I'm 24 and unemployed. Feels like I've already lost the race."},
+      {"role": "assistant", "content": "Twenty-one-year-old CEO and you're twenty-four unemployed - race already lost it feels like. Age comparison with younger achievers stings differently. When did you start feeling like you were behind?"}
+    ],
+    "metadata": {
+      "language": "english",
+      "tone": "friendly_peer",
+      "intent": "fear_of_future",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_future_073",
+    "messages": [
+      {"role": "user", "content": "Yaar aptitude tests mein hamesha fail ho jata hoon logical reasoning weak hai. Bahut practice karta hoon but improve nahi ho raha. Bina clear kiye interviews tak nahi pahunch sakta."},
+      {"role": "assistant", "content": "Aptitude tests mein fail ho jata logical reasoning weak aur practice se bhi improve nahi ho raha - interviews tak pahunchna hi mushkil. Yeh barrier heavy hai yaar. Kitne time se practice kar rahe aur kaunse type ke questions mein zyada atakte ho?"}
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "tone": "friendly_peer",
+      "intent": "fear_of_future",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_future_074",
+    "messages": [
+      {"role": "user", "content": "mere ghar mein pehla graduate main hoon parents ko expectations bohot hain pressure hai ki family ka naam roshan karna hai agar fail hua toh sab disappoint honge"},
+      {"role": "assistant", "content": "pehla graduate ho ghar mein aur parents ki expectations sky high - family ka naam roshan karna hai aur fail hue toh sabko disappoint karoge. representative ban gaye ho poore family ke. yeh weight kitna constant feel hota hai?"}
+    ],
+    "metadata": {
+      "language": "hindi",
+      "tone": "supportive_elder_sibling",
+      "intent": "fear_of_future",
+      "severity": 8,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_future_075",
+    "messages": [
+      {"role": "user", "content": "Industry standards keep changing. By the time I learn something, it's already outdated. Feel like I'm always one step behind and can never catch up."},
+      {"role": "assistant", "content": "Learn something and it's outdated already - always one step behind never catching up. That treadmill feeling is exhausting. What industry are you trying to break into that's changing this fast?"}
+    ],
+    "metadata": {
+      "language": "english",
+      "tone": "friendly_peer",
+      "intent": "fear_of_future",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_future_076",
+    "messages": [
+      {"role": "user", "content": "Main financially weak family se hoon unpaid internships nahi kar sakta. Rich kids can afford to work for free and gain experience. System is rigged against us."},
+      {"role": "assistant", "content": "Financially weak family hai unpaid internships afford nahi kar sakte - rich kids work for free gain experience. System rigged lag raha tumhare against. Yeh inequality real hai yaar. Paid opportunities dhoondh rahe ho ya koi aur jugaad soch rahe?"}
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "tone": "supportive_elder_sibling",
+      "intent": "fear_of_future",
+      "severity": 8,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_future_077",
+    "messages": [
+      {"role": "user", "content": "I got scammed by a fake job posting. Lost money and got no job. Now I'm scared to apply anywhere. What if it happens again? Trust is completely broken."},
+      {"role": "assistant", "content": "Got scammed by fake posting lost money got nothing - now scared to apply anywhere in case it happens again. Trust completely broken. That betrayal makes every opportunity look suspicious now. How much did you lose and how long ago was this?"}
+    ],
+    "metadata": {
+      "language": "english",
+      "tone": "supportive_elder_sibling",
+      "intent": "fear_of_future",
+      "severity": 8,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_future_078",
+    "messages": [
+      {"role": "user", "content": "Yaar coaching institute ne promise kiya tha 100% placement. Paise bhi bahut liye. Ab koi help nahi kar rahe fraud lagta hai but kuch kar nahi sakta."},
+      {"role": "assistant", "content": "Coaching ne 100% placement promise kiya paise liye aur ab koi help nahi - fraud lagta but kuch kar nahi sakte. Cheated feel ho raha hai aur helpless bhi. Kitne paise liye the aur kitne students hai tumhare batch mein jo same situation mein?"}
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "tone": "friendly_peer",
+      "intent": "fear_of_future",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_future_079",
+    "messages": [
+      {"role": "user", "content": "online interviews mein background noise ya internet issues hote hain professional setup nahi hai ghar pe interviewer judge karta hai poor lagta hoon"},
+      {"role": "assistant", "content": "online interviews mein noise ya internet problem aate aur professional setup nahi ghar pe - interviewer judge karta poor lagte ho. presentation ki kami tumhe weak dikha rahi. kya koi library ya coworking space use kar sakte interview ke time?"}
+    ],
+    "metadata": {
+      "language": "hindi",
+      "tone": "friendly_peer",
+      "intent": "fear_of_future",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_future_080",
+    "messages": [
+      {"role": "user", "content": "My mental health is deteriorating from this constant stress. Can't sleep, can't eat properly. But I can't afford therapy. Stuck in this downward spiral."},
+      {"role": "assistant", "content": "Constant stress destroying your mental health - sleep gone, eating messed up. Can't afford therapy so stuck in downward spiral. That's really serious. Have you looked into any free counseling services or campus resources at all?"}
+    ],
+    "metadata": {
+      "language": "english",
+      "tone": "supportive_elder_sibling",
+      "intent": "fear_of_future",
+      "severity": 9,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_future_081",
+    "messages": [
+      {"role": "user", "content": "Main reservation ke against hoon but sc/st quota ki wajah se mujhe job nahi mili. Meritocracy dead hai. Qualified hoke bhi reject hona unfair hai."},
+      {"role": "assistant", "content": "Qualified hoke bhi reject hua reservation ki wajah se lagta hai - meritocracy dead aur unfair feel ho raha. Yeh frustration bohot raw hai. Aur kaha kaha apply kiya hai ya sirf ek jagah tha yeh?"}
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "tone": "friendly_peer",
+      "intent": "fear_of_future",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_future_082",
+    "messages": [
+      {"role": "user", "content": "Everyone says follow your passion but passion doesn't guarantee income. I like art but can't make a living from it. Practical field mein interest nahi hai. Doomed either way."},
+      {"role": "assistant", "content": "Passion is art but can't make money from it - practical fields have no interest. Doomed either way you choose. Stuck between starving artist and miserable professional. Have you tried looking at creative roles in companies or just pure art?"}
+    ],
+    "metadata": {
+      "language": "english",
+      "tone": "friendly_peer",
+      "intent": "fear_of_future",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_future_083",
+    "messages": [
+      {"role": "user", "content": "Yaar mera resume ek page se zyada nahi ban raha koi experience nahi hai projects bhi basic hain. Interviews mein kya bataunga achievements hi nahi hain."},
+      {"role": "assistant", "content": "Resume barely ek page hai koi experience nahi projects basic - interviews mein batane ko kuch nahi achievements zero. Empty handed feel ho raha bilkul. College mein kuch clubs ya activities thi jo daal sakte ya woh bhi nahi?"}
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "tone": "friendly_peer",
+      "intent": "fear_of_future",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_future_084",
+    "messages": [
+      {"role": "user", "content": "startup join kiya tha but 3 mahine mein band ho gaya salary bhi nahi mili ab resume pe gap explain karna padega aur vishwas khatam ho gaya"},
+      {"role": "assistant", "content": "startup join kiya band ho gaya salary bhi nahi mili - resume pe gap hai aur vishwas khatam. ek baar dhoka khane se sab companies suspicious lagti hongi. gap kitne mahine ka ban gaya aur kya koi documents hain uss job ke?"}
+    ],
+    "metadata": {
+      "language": "hindi",
+      "tone": "supportive_elder_sibling",
+      "intent": "fear_of_future",
+      "severity": 8,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_future_085",
+    "messages": [
+      {"role": "user", "content": "I'm a woman in tech and constantly worry about workplace harassment and being taken seriously. Already feel like I have to prove myself twice as much. Exhausting before even starting."},
+      {"role": "assistant", "content": "Woman in tech worrying about harassment and not being taken seriously - proving yourself twice as much already feels necessary. Exhausting before you even begin. Have you talked to other women in the field about their experiences?"}
+    ],
+    "metadata": {
+      "language": "english",
+      "tone": "supportive_elder_sibling",
+      "intent": "fear_of_future",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_future_086",
+    "messages": [
+      {"role": "user", "content": "Main small town se hoon English accent different hai. Mock interviews mein log haste hain. Communication se zyada accent pe judge hote hain log insecure feel hota hai."},
+      {"role": "assistant", "content": "Small town se ho accent different aur mock interviews mein log haste - communication se zyada accent pe judge hote log. Insecure feel hota hai yaar. Yeh discrimination real hai. Kya actual company interviews mein bhi face kiya yeh ya abhi mock mein hi?"}
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "tone": "supportive_elder_sibling",
+      "intent": "fear_of_future",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_future_087",
+    "messages": [
+      {"role": "user", "content": "Parents want me to take over family business but I want corporate job. If I refuse, I'm ungrateful. If I agree, I'm sacrificing my dreams. No way to win."},
+      {"role": "assistant", "content": "Take family business and sacrifice your dreams or refuse and be ungrateful - no way to win this. Trapped between duty and desire. What kind of business is it and why don't you want to do it?"}
+    ],
+    "metadata": {
+      "language": "english",
+      "tone": "friendly_peer",
+      "intent": "fear_of_future",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  },
