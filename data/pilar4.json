@@ -10908,4 +10908,205 @@ ency show hoti hai jo embarrassing hai. Tu adult hai but treated nahi ja raha wa
     }
   }
 ]
-
+[
+  {
+    "id": "ehsaas_p4_4589",
+    "messages": [
+      {
+        "role": "user",
+        "content": "My sister announced she's adopting a child as a single parent. I'm so proud of her courage but also worried sick about how hard this will be for her alone. Want to support her dream but terrified she's underestimating the challenge. Admiration and fear both strong."
+      },
+      {
+        "role": "assistant",
+        "content": "I really hear you on this. There's something so beautiful about her decision - choosing to become a parent on her own terms, opening her heart and home to a child who needs love. That courage absolutely deserves your admiration. And at the same time, you know her, you love her, and you can see all the challenges ahead - the sleepless nights, the financial strain, doing it all without a partner. That fear comes from caring so deeply about her wellbeing. Both the pride in her strength and the worry about her struggle make complete sense. They're both love showing up in different ways."
+      }
+    ],
+    "metadata": {
+      "language": "english",
+      "intent": "mixed_emotions",
+      "conversation_stage": "initial",
+      "severity": 6,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4590",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Mera promotion ho gaya but ab mujhe un logo ko manage karna padega jo pehle mere dost the. Happy hoon career growth se but uncomfortable bhi kyunki dynamics badal jayegi. Success aur friendship dono risk mein. Confusing hai."
+      },
+      {
+        "role": "assistant",
+        "content": "Arre yaar, yeh toh classic dilemma hai. Ek taraf promotion - recognition, growth, paisa - sab kuch jo tumne deserve kiya. Happy hona bilkul natural hai. Par dusri taraf wo dosti jo office mein bani thi, ab wo power dynamics aa gaye beech mein. Jo pehle coffee pe complaints karte the saath mein, ab tum unke manager ho. Uncomfortable feel hona makes total sense kyunki dono cheezein chahiye thi - success bhi aur friendship bhi. Par kabhi kabhi life mein dono ek saath nahi reh sakte easily. Confusing hai, yaar, par dono feelings valid hain."
+      }
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "intent": "mixed_emotions",
+      "conversation_stage": "initial",
+      "severity": 5,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4591",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Ghar ka purana naukar jo tis varsh se kaam kar raha tha, retire ho gaya. Rahat hai ki ab naye tarike se kaam hoga modern. Par dukh bhi kyunki wo parivaar ka hissa jaisa tha. Unki vidai pe khushi aur shok dono."
+      },
+      {
+        "role": "assistant",
+        "content": "Mere dost, tis varsh ka sath - wo sirf naukar nahi, parivaar ka ang ban gaya tha. Unki vidai pe shok hona bilkul swabhavik hai. Unhone tumhara bachpan dekha, ghar ki har khushi gam mein shamil rahe. Par saath hi rahat bhi hai ki ab naye vyakti aayenge jo modern tarike samajhte, alag soch rakhte. Dono bhavnayen sach hain - unka jaana ek yug ka ant hai aur naye ka prarambh bhi. Khushi aur shok ek saath rehte jab lambe samay ki cheezein badalti hain."
+      }
+    ],
+    "metadata": {
+      "language": "hindi",
+      "intent": "mixed_emotions",
+      "conversation_stage": "initial",
+      "severity": 5,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4592",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Got into my dream graduate program but it means massive student loans. Excited about the opportunity but terrified about the debt I'm taking on. Everyone's congratulating me but I'm having panic attacks about the financial burden. Achievement feels tainted by fear."
+      },
+      {
+        "role": "assistant",
+        "content": "That's such a heavy mix to carry. This program is what you've worked toward, what you've dreamed about - getting in is a genuine achievement and the excitement about what you'll learn, who you'll become, that's all real and valid. But those loan numbers, the years of payments ahead, the financial weight you're taking on - that terror is equally real. Everyone sees the achievement and wants to celebrate, but you're the one who'll live with the debt. The excitement about your future and the panic about the cost - both deserve space. This is a huge decision with real consequences on both sides."
+      }
+    ],
+    "metadata": {
+      "language": "english",
+      "intent": "mixed_emotions",
+      "conversation_stage": "initial",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4593",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Mere ex ne naya partner dhundh liya. Main move on kar chuka hoon apni life mein, khush hoon. But jab unki photos dekhta hoon social media pe, thoda weird feel hota. Happy hoon apne liye but uncomfortable bhi. Mixed feelings aa rahi."
+      },
+      {
+        "role": "assistant",
+        "content": "Yaar bilkul samajh sakta hoon. Tum genuinely move on kar chuke ho, apni life mein khush ho - wo progress real hai aur celebrate karne layak. Par phir bhi jab unko kisi aur ke saath dekhte ho, wo strange feeling aana - wo bhi natural hai. Past connection tha, memories thi, ek time pe wo tumhara tha - toh thoda uncomfortable hona makes sense. Happy hona apni life ke liye aur weird feel karna unki nai life dekhke - dono ek saath ho sakte hain. Move on karna doesn't mean sab feelings disappear ho jayen instantly."
+      }
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "intent": "mixed_emotions",
+      "conversation_stage": "initial",
+      "severity": 5,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4594",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Finally sold my late father's car that was sitting unused. Got good money which I needed badly. But signing those papers felt like erasing the last physical piece of him. Relief about the money but grief about letting go. Both hitting hard."
+      },
+      {
+        "role": "assistant",
+        "content": "Oh, that must have been such a painful moment. That money - you needed it, it's practical, it helps you move forward in real tangible ways. The relief of having those funds, of not maintaining something unused, that makes complete sense. But that car wasn't just metal and wheels - it was him driving you to school, road trips, the smell of his cologne still faint in the seats maybe. Signing it away, watching it drive off with someone else - that's erasing a touchstone to his physical presence in your life. The practical relief and the emotional grief can both be true. You did what you needed to do AND you're allowed to mourn what it meant."
+      }
+    ],
+    "metadata": {
+      "language": "english",
+      "intent": "mixed_emotions",
+      "conversation_stage": "initial",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4595",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Friend ka divorce finally complete ho gaya. Relieved hoon uske liye ki toxic marriage se bahar aayi. But sad bhi kyunki ek time hum double dates pe jaate the, dreams the couples ke. Uski freedom aur shared memories ka loss dono feel ho raha."
+      },
+      {
+        "role": "assistant",
+        "content": "Arre yaar, yeh toh emotional hai. Ek taraf relief ki finally wo toxic relationship se free hui - no more fights, no more suffering, wo peace mili usko. Uske liye genuinely khushi honi chahiye. Par dusri taraf wo memories - double dates, couple plans, future sapne jo sab couples ke the - wo sab badal gaya ab. Uski freedom celebrate karna aur saath hi un shared moments ka loss feel karna - dono valid hain. Friendship evolve hui, circumstances badli, aur dono feelings ek saath aa sakti."
+      }
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "intent": "mixed_emotions",
+      "conversation_stage": "initial",
+      "severity": 6,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4596",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Meri maa ne apna lamba baal katwa liye cancer treatment ke baad jab wapas uge the. Kehti thi ki ab aasaan hai maintain karna. Prasann hoon unki swatantrata dekh kar par ro bhi aaya kyunki unke lamba baal unki pehchan the. Unki khushi aur mera nostalgia dono."
+      },
+      {
+        "role": "assistant",
+        "content": "Mere dost, tumhari maa ka nirnay unki swatantrata hai - treatment ke baad, jo bhi aasan lage unko, wo karne ka haq hai unka. Prasann hona unki khushi dekh kar natural hai. Par saath hi tumhara rona bhi samajh sakta hoon - unke lambe baal bachpan se tumne dekhe, wo unki pehchan ka hissa the, har tyohar pe sajate the. Unka katna ek yug ka ant jaisa lagta. Unki khushi tumhari khushi hai aur unke baalon ka jaana tumhari smritiyon ka ek ang khona. Dono bhavnayen pyar ki alag alag abhivyakti hain."
+      }
+    ],
+    "metadata": {
+      "language": "hindi",
+      "intent": "mixed_emotions",
+      "conversation_stage": "initial",
+      "severity": 5,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4597",
+    "messages": [
+      {
+        "role": "user",
+        "content": "My younger brother just got engaged. I'm genuinely happy for him finding love. But I'm 5 years older, single, and family's already started the 'when will you settle' comments. His joy is my reminder of my own loneliness. Celebrating him while hurting for myself."
+      },
+      {
+        "role": "assistant",
+        "content": "That's really tough to sit with. Your happiness for him is genuine - he found someone, he's in love, he's starting this new chapter. That joy for your brother is real and it shows how much you care about him. But at the same time, his engagement becomes a mirror reflecting your own situation back at you, and those family comments just twist the knife deeper. You're celebrating his win while it highlights what feels like your loss. Both the genuine happiness for him and the hurt for yourself deserve acknowledgment. You're allowed to feel both without guilt."
+      }
+    ],
+    "metadata": {
+      "language": "english",
+      "intent": "mixed_emotions",
+      "conversation_stage": "initial",
+      "severity": 6,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4598",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Company layoffs mein mera department safe raha but close colleagues ko jaana pada. Grateful hoon naukri bachi but survivor's guilt maar rahi. Unki job gayi aur main yahan baitha. Relief aur guilt equally strong hain."
+      },
+      {
+        "role": "assistant",
+        "content": "Yaar, survivor's guilt toh bohot real hai. Ek taraf grateful hona ki tumhari naukri bachi, bills pay hote rahenge, stability hai - wo relief genuine aur valid hai. Par dusri taraf tumhare colleagues jo saath kaam karte the, wo chale gaye jabki tum bach gaye - wo guilt bhi equally heavy hai. 'Main kyun bach gaya aur wo kyun nahi' - yeh question haunt karta. Relief apni security ke liye aur guilt unke loss ke liye - dono feelings ek saath hona natural hai jab kisi aur ki tragedy tumhari safety ban jaye."
+      }
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "intent": "mixed_emotions",
+      "conversation_stage": "initial",
+      "severity": 6,
+      "escalation_needed": false
+    }
+  }
+]
