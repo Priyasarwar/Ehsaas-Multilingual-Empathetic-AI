@@ -3254,7 +3254,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "supportive_elder_sibling",
-      "intent": "performance_pressure",
+      "intent": "burnout",
       "severity": 7,
       "escalation_needed": false
     }
@@ -3274,7 +3274,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "supportive_elder_sibling",
-      "intent": "performance_pressure",
+      "intent": "academic_stress",
       "severity": 7,
       "escalation_needed": false
     }
@@ -3334,7 +3334,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "supportive_elder_sibling",
-      "intent": "performance_pressure",
+      "intent": "academic_stress",
       "severity": 7,
       "escalation_needed": false
     }
@@ -3394,7 +3394,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "supportive_elder_sibling",
-      "intent": "performance_pressure",
+      "intent": "academic_stress",
       "severity": 7,
       "escalation_needed": false
     }
@@ -3434,7 +3434,7 @@
     "metadata": {
       "language": "hindi",
       "tone": "friendly_peer",
-      "intent": "performance_pressure",
+      "intent": "academic_stress",
       "severity": 7,
       "escalation_needed": false
     }
@@ -3462,7 +3462,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "supportive_elder_sibling",
-      "intent": "performance_pressure",
+      "intent": "academic_stress",
       "severity": 7,
       "escalation_needed": false
     }
@@ -3482,7 +3482,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "supportive_elder_sibling",
-      "intent": "expectation_burden",
+      "intent": "family_pressure",
       "severity": 6,
       "escalation_needed": false
     }
@@ -3550,7 +3550,7 @@
     "metadata": {
       "language": "english",
       "tone": "friendly_peer",
-      "intent": "expectation_burden",
+      "intent": "family_pressure",
       "severity": 7,
       "escalation_needed": false
     }
@@ -3570,7 +3570,7 @@
     "metadata": {
       "language": "english",
       "tone": "supportive_elder_sibling",
-      "intent": "performance_pressure",
+      "intent": "burnout",
       "severity": 6,
       "escalation_needed": false
     }
@@ -3638,7 +3638,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "supportive_elder_sibling",
-      "intent": "expectation_burden",
+      "intent": "family_pressure",
       "severity": 7,
       "escalation_needed": false
     }
@@ -3658,7 +3658,7 @@
     "metadata": {
       "language": "english",
       "tone": "friendly_peer",
-      "intent": "performance_pressure",
+      "intent": "academic_stress",
       "severity": 8,
       "escalation_needed": false
     }
@@ -3718,7 +3718,7 @@
     "metadata": {
       "language": "english",
       "tone": "supportive_elder_sibling",
-      "intent": "expectation_burden",
+      "intent": "family_pressure",
       "severity": 7,
       "escalation_needed": false
     }
@@ -3818,7 +3818,7 @@
     "metadata": {
       "language": "english",
       "tone": "supportive_elder_sibling",
-      "intent": "expectation_burden",
+      "intent": "family_pressure",
       "severity": 8,
       "escalation_needed": false
     }
@@ -3858,7 +3858,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "friendly_peer",
-      "intent": "performance_pressure",
+      "intent": "academic_stress",
       "severity": 6,
       "escalation_needed": false
     }
@@ -3878,7 +3878,7 @@
     "metadata": {
       "language": "english",
       "tone": "friendly_peer",
-      "intent": "existential_drift",
+      "intent": "fear_of_future",
       "severity": 6,
       "escalation_needed": false
     }
@@ -3918,7 +3918,7 @@
     "metadata": {
       "language": "hindi",
       "tone": "friendly_peer",
-      "intent": "existential_drift",
+      "intent": "fear_of_future",
       "severity": 6,
       "escalation_needed": false
     }
@@ -3958,7 +3958,7 @@
     "metadata": {
       "language": "english",
       "tone": "friendly_peer",
-      "intent": "performance_pressure",
+      "intent": "academic_stress",
       "severity": 7,
       "escalation_needed": false
     }
@@ -3978,7 +3978,7 @@
     "metadata": {
       "language": "english",
       "tone": "friendly_peer",
-      "intent": "existential_drift",
+      "intent": "fear_of_future",
       "severity": 7,
       "escalation_needed": false
     }
@@ -4058,7 +4058,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "friendly_peer",
-      "intent": "expectation_burden",
+      "intent": "family_pressure",
       "severity": 6,
       "escalation_needed": false
     }
@@ -4106,7 +4106,7 @@
     "metadata": {
       "language": "hindi",
       "tone": "friendly_peer",
-      "intent": "performance_pressure",
+      "intent": "academic_stress",
       "severity": 6,
       "escalation_needed": false
     }
@@ -4146,7 +4146,7 @@
     "metadata": {
       "language": "english",
       "tone": "friendly_peer",
-      "intent": "existential_drift",
+      "intent": "fear_of_future",
       "severity": 7,
       "escalation_needed": false
     }
@@ -4166,7 +4166,7 @@
     "metadata": {
       "language": "english",
       "tone": "supportive_elder_sibling",
-      "intent": "expectation_burden",
+      "intent": "family_pressure",
       "severity": 8,
       "escalation_needed": false
     }
@@ -4186,7 +4186,7 @@
     "metadata": {
       "language": "hindi",
       "tone": "friendly_peer",
-      "intent": "performance_pressure",
+      "intent": "academic_stress",
       "severity": 7,
       "escalation_needed": false
     }
@@ -4226,7 +4226,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "friendly_peer",
-      "intent": "performance_pressure",
+      "intent": "academic_stress",
       "severity": 6,
       "escalation_needed": false
     }
@@ -4246,7 +4246,7 @@
     "metadata": {
       "language": "english",
       "tone": "supportive_elder_sibling",
-      "intent": "existential_drift",
+      "intent": "fear_of_future",
       "severity": 7,
       "escalation_needed": false
     }
@@ -4286,7 +4286,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "supportive_elder_sibling",
-      "intent": "expectation_burden",
+      "intent": "family_pressure",
       "severity": 8,
       "escalation_needed": false
     }
@@ -4366,7 +4366,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "friendly_peer",
-      "intent": "expectation_burden",
+      "intent": "family_pressure",
       "severity": 7,
       "escalation_needed": false
     }
@@ -4386,7 +4386,7 @@
     "metadata": {
       "language": "english",
       "tone": "supportive_elder_sibling",
-      "intent": "existential_drift",
+      "intent": "fear_of_future",
       "severity": 8,
       "escalation_needed": false
     }
@@ -4446,7 +4446,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "friendly_peer",
-      "intent": "performance_pressure",
+      "intent": "academic_stress",
       "severity": 6,
       "escalation_needed": false
     }
@@ -4506,7 +4506,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "friendly_peer",
-      "intent": "performance_pressure",
+      "intent": "academic_stress",
       "severity": 6,
       "escalation_needed": false
     }
@@ -4546,7 +4546,7 @@
     "metadata": {
       "language": "english",
       "tone": "crisis_protector",
-      "intent": "expectation_burden",
+      "intent": "family_pressure",
       "severity": 10,
       "escalation_needed": true
     }
@@ -4566,7 +4566,7 @@
     "metadata": {
       "language": "hindi",
       "tone": "supportive_elder_sibling",
-      "intent": "existential_drift",
+      "intent": "fear_of_future",
       "severity": 7,
       "escalation_needed": false
     }
@@ -4606,7 +4606,7 @@
     "metadata": {
       "language": "english",
       "tone": "friendly_peer",
-      "intent": "expectation_burden",
+      "intent": "family_pressure",
       "severity": 8,
       "escalation_needed": false
     }
@@ -4626,7 +4626,7 @@
     "metadata": {
       "language": "english",
       "tone": "supportive_elder_sibling",
-      "intent": "existential_drift",
+      "intent": "fear_of_future",
       "severity": 7,
       "escalation_needed": false
     }
@@ -4694,7 +4694,7 @@
     "metadata": {
       "language": "english",
       "tone": "supportive_elder_sibling",
-      "intent": "expectation_burden",
+      "intent": "family_pressure",
       "severity": 9,
       "escalation_needed": false
     }
@@ -4734,7 +4734,7 @@
     "metadata": {
       "language": "english",
       "tone": "supportive_elder_sibling",
-      "intent": "existential_drift",
+      "intent": "fear_of_future",
       "severity": 7,
       "escalation_needed": false
     }
@@ -4774,7 +4774,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "supportive_elder_sibling",
-      "intent": "expectation_burden",
+      "intent": "family_pressure",
       "severity": 8,
       "escalation_needed": false
     }
@@ -4794,7 +4794,7 @@
     "metadata": {
       "language": "english",
       "tone": "friendly_peer",
-      "intent": "performance_pressure",
+      "intent": "academic_stress",
       "severity": 7,
       "escalation_needed": false
     }
@@ -4814,7 +4814,7 @@
     "metadata": {
       "language": "english",
       "tone": "supportive_elder_sibling",
-      "intent": "existential_drift",
+      "intent": "fear_of_future",
       "severity": 7,
       "escalation_needed": false
     }
@@ -4834,7 +4834,7 @@
     "metadata": {
       "language": "hindi",
       "tone": "friendly_peer",
-      "intent": "performance_pressure",
+      "intent": "academic_stress",
       "severity": 7,
       "escalation_needed": false
     }
@@ -4874,7 +4874,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "friendly_peer",
-      "intent": "expectation_burden",
+      "intent": "family_pressure",
       "severity": 7,
       "escalation_needed": false
     }
@@ -4914,7 +4914,7 @@
     "metadata": {
       "language": "hindi",
       "tone": "crisis_protector",
-      "intent": "existential_drift",
+      "intent": "fear_of_future",
       "severity": 9,
       "escalation_needed": true
     }
@@ -4934,7 +4934,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "friendly_peer",
-      "intent": "performance_pressure",
+      "intent": "academic_stress",
       "severity": 6,
       "escalation_needed": false
     }
@@ -4994,7 +4994,7 @@
     "metadata": {
       "language": "english",
       "tone": "supportive_elder_sibling",
-      "intent": "performance_pressure",
+      "intent": "academic_stress",
       "severity": 7,
       "escalation_needed": false
     }
@@ -5014,7 +5014,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "supportive_elder_sibling",
-      "intent": "expectation_burden",
+      "intent": "family_pressure",
       "severity": 7,
       "escalation_needed": false
     }
@@ -5034,7 +5034,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "supportive_elder_sibling",
-      "intent": "expectation_burden",
+      "intent": "family_pressure",
       "severity": 7,
       "escalation_needed": false
     }
@@ -5074,7 +5074,7 @@
     "metadata": {
       "language": "english",
       "tone": "supportive_elder_sibling",
-      "intent": "existential_drift",
+      "intent": "fear_of_future",
       "severity": 8,
       "escalation_needed": false
     }
@@ -5094,7 +5094,7 @@
     "metadata": {
       "language": "hindi",
       "tone": "friendly_peer",
-      "intent": "performance_pressure",
+      "intent": "academic_stress",
       "severity": 7,
       "escalation_needed": false
     }
@@ -5134,7 +5134,7 @@
     "metadata": {
       "language": "english",
       "tone": "friendly_peer",
-      "intent": "expectation_burden",
+      "intent": "family_pressure",
       "severity": 7,
       "escalation_needed": false
     }
@@ -5154,7 +5154,7 @@
     "metadata": {
       "language": "hindi",
       "tone": "supportive_elder_sibling",
-      "intent": "expectation_burden",
+      "intent": "family_pressure",
       "severity": 7,
       "escalation_needed": false
     }
@@ -5174,7 +5174,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "supportive_elder_sibling",
-      "intent": "expectation_burden",
+      "intent": "family_pressure",
       "severity": 7,
       "escalation_needed": false
     }
@@ -5214,7 +5214,7 @@
     "metadata": {
       "language": "english",
       "tone": "supportive_elder_sibling",
-      "intent": "existential_drift",
+      "intent": "fear_of_future",
       "severity": 7,
       "escalation_needed": false
     }
@@ -5254,7 +5254,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "friendly_peer",
-      "intent": "performance_pressure",
+      "intent": "academic_stress",
       "severity": 6,
       "escalation_needed": false
     }
@@ -5274,7 +5274,7 @@
     "metadata": {
       "language": "english",
       "tone": "supportive_elder_sibling",
-      "intent": "expectation_burden",
+      "intent": "family_pressure",
       "severity": 9,
       "escalation_needed": false
     }
@@ -5302,7 +5302,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "friendly_peer",
-      "intent": "performance_pressure",
+      "intent": "academic_stress",
       "severity": 7,
       "escalation_needed": false
     }
@@ -5362,7 +5362,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "supportive_elder_sibling",
-      "intent": "performance_pressure",
+      "intent": "burnout",
       "severity": 6,
       "escalation_needed": false
     }
@@ -5410,7 +5410,7 @@
     "metadata": {
       "language": "english",
       "tone": "supportive_elder_sibling",
-      "intent": "performance_pressure",
+      "intent": "academic_stress",
       "severity": 8,
       "escalation_needed": false
     }
@@ -5470,7 +5470,7 @@
     "metadata": {
       "language": "english",
       "tone": "supportive_elder_sibling",
-      "intent": "expectation_burden",
+      "intent": "family_pressure",
       "severity": 8,
       "escalation_needed": false
     }
@@ -5490,7 +5490,7 @@
     "metadata": {
       "language": "english",
       "tone": "supportive_elder_sibling",
-      "intent": "existential_drift",
+      "intent": "fear_of_future",
       "severity": 8,
       "escalation_needed": false
     }
@@ -5510,7 +5510,7 @@
     "metadata": {
       "language": "hindi",
       "tone": "friendly_peer",
-      "intent": "performance_pressure",
+      "intent": "academic_stress",
       "severity": 6,
       "escalation_needed": false
     }
@@ -5550,7 +5550,7 @@
     "metadata": {
       "language": "english",
       "tone": "friendly_peer",
-      "intent": "expectation_burden",
+      "intent": "family_pressure",
       "severity": 8,
       "escalation_needed": false
     }
@@ -5578,7 +5578,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "supportive_elder_sibling",
-      "intent": "performance_pressure",
+      "intent": "academic_stress",
       "severity": 7,
       "escalation_needed": false
     }
@@ -5598,7 +5598,7 @@
     "metadata": {
       "language": "english",
       "tone": "supportive_elder_sibling",
-      "intent": "performance_pressure",
+      "intent": "academic_stress",
       "severity": 7,
       "escalation_needed": false
     }
@@ -5686,7 +5686,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "supportive_elder_sibling",
-      "intent": "expectation_burden",
+      "intent": "family_pressure",
       "severity": 7,
       "escalation_needed": false
     }
@@ -5706,7 +5706,7 @@
     "metadata": {
       "language": "english",
       "tone": "friendly_peer",
-      "intent": "existential_drift",
+      "intent": "fear_of_future",
       "severity": 8,
       "escalation_needed": false
     }
@@ -5746,7 +5746,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "supportive_elder_sibling",
-      "intent": "expectation_burden",
+      "intent": "family_pressure",
       "severity": 7,
       "escalation_needed": false
     }
@@ -5774,7 +5774,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "supportive_elder_sibling",
-      "intent": "expectation_burden",
+      "intent": "family_pressure",
       "severity": 7,
       "escalation_needed": false
     }
@@ -5794,7 +5794,7 @@
     "metadata": {
       "language": "english",
       "tone": "supportive_elder_sibling",
-      "intent": "expectation_burden",
+      "intent": "family_pressure",
       "severity": 6,
       "escalation_needed": false
     }
@@ -5854,7 +5854,7 @@
     "metadata": {
       "language": "english",
       "tone": "supportive_elder_sibling",
-      "intent": "performance_pressure",
+      "intent": "academic_stress",
       "severity": 7,
       "escalation_needed": false
     }
@@ -5902,7 +5902,7 @@
     "metadata": {
       "language": "english",
       "tone": "supportive_elder_sibling",
-      "intent": "existential_drift",
+      "intent": "fear_of_future",
       "severity": 8,
       "escalation_needed": false
     }
@@ -5922,7 +5922,7 @@
     "metadata": {
       "language": "hindi",
       "tone": "friendly_peer",
-      "intent": "performance_pressure",
+      "intent": "academic_stress",
       "severity": 7,
       "escalation_needed": false
     }
@@ -5942,7 +5942,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "supportive_elder_sibling",
-      "intent": "expectation_burden",
+      "intent": "family_pressure",
       "severity": 8,
       "escalation_needed": false
     }
@@ -5962,7 +5962,7 @@
     "metadata": {
       "language": "english",
       "tone": "friendly_peer",
-      "intent": "performance_pressure",
+      "intent": "academic_stress",
       "severity": 7,
       "escalation_needed": false
     }
@@ -5990,7 +5990,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "supportive_elder_sibling",
-      "intent": "performance_pressure",
+      "intent": "academic_stress",
       "severity": 7,
       "escalation_needed": false
     }
@@ -6010,7 +6010,7 @@
     "metadata": {
       "language": "hindi",
       "tone": "friendly_peer",
-      "intent": "performance_pressure",
+      "intent": "academic_stress",
       "severity": 7,
       "escalation_needed": false
     }
@@ -6090,7 +6090,7 @@
     "metadata": {
       "language": "english",
       "tone": "friendly_peer",
-      "intent": "existential_drift",
+      "intent": "fear_of_future",
       "severity": 7,
       "escalation_needed": false
     }
@@ -6118,7 +6118,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "supportive_elder_sibling",
-      "intent": "performance_pressure",
+      "intent": "academic_stress",
       "severity": 8,
       "escalation_needed": false
     }
@@ -6138,7 +6138,7 @@
     "metadata": {
       "language": "english",
       "tone": "supportive_elder_sibling",
-      "intent": "expectation_burden",
+      "intent": "family_pressure",
       "severity": 8,
       "escalation_needed": false
     }
@@ -6198,7 +6198,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "friendly_peer",
-      "intent": "performance_pressure",
+      "intent": "academic_stress",
       "severity": 6,
       "escalation_needed": false
     }
@@ -6218,7 +6218,7 @@
     "metadata": {
       "language": "english",
       "tone": "supportive_elder_sibling",
-      "intent": "existential_drift",
+      "intent": "fear_of_future",
       "severity": 7,
       "escalation_needed": false
     }
@@ -6278,7 +6278,7 @@
     "metadata": {
       "language": "english",
       "tone": "supportive_elder_sibling",
-      "intent": "expectation_burden",
+      "intent": "family_pressure",
       "severity": 8,
       "escalation_needed": false
     }
@@ -6358,7 +6358,7 @@
     "metadata": {
       "language": "english",
       "tone": "friendly_peer",
-      "intent": "performance_pressure",
+      "intent": "academic_stress",
       "severity": 6,
       "escalation_needed": false
     }
@@ -6378,7 +6378,7 @@
     "metadata": {
       "language": "english",
       "tone": "supportive_elder_sibling",
-      "intent": "expectation_burden",
+      "intent": "family_pressure",
       "severity": 7,
       "escalation_needed": false
     }
@@ -6466,7 +6466,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "supportive_elder_sibling",
-      "intent": "performance_pressure",
+      "intent": "academic_stress",
       "severity": 8,
       "escalation_needed": false
     }
@@ -6506,7 +6506,7 @@
     "metadata": {
       "language": "hindi",
       "tone": "friendly_peer",
-      "intent": "expectation_burden",
+      "intent": "family_pressure",
       "severity": 7,
       "escalation_needed": false
     }
@@ -6526,7 +6526,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "friendly_peer",
-      "intent": "performance_pressure",
+      "intent": "academic_stress",
       "severity": 6,
       "escalation_needed": false
     }
@@ -6566,7 +6566,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "supportive_elder_sibling",
-      "intent": "expectation_burden",
+      "intent": "family_pressure",
       "severity": 9,
       "escalation_needed": false
     }
@@ -6586,7 +6586,7 @@
     "metadata": {
       "language": "english",
       "tone": "friendly_peer",
-      "intent": "existential_drift",
+      "intent": "fear_of_future",
       "severity": 7,
       "escalation_needed": false
     }
@@ -6626,7 +6626,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "supportive_elder_sibling",
-      "intent": "expectation_burden",
+      "intent": "family_pressure",
       "severity": 8,
       "escalation_needed": false
     }
@@ -6674,7 +6674,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "supportive_elder_sibling",
-      "intent": "performance_pressure",
+      "intent": "academic_stress",
       "severity": 8,
       "escalation_needed": false
     }
@@ -6754,7 +6754,7 @@
     "metadata": {
       "language": "english",
       "tone": "supportive_elder_sibling",
-      "intent": "performance_pressure",
+      "intent": "academic_stress",
       "severity": 8,
       "escalation_needed": false
     }
@@ -6774,7 +6774,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "supportive_elder_sibling",
-      "intent": "performance_pressure",
+      "intent": "academic_stress",
       "severity": 7,
       "escalation_needed": false
     }
@@ -6882,7 +6882,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "supportive_elder_sibling",
-      "intent": "performance_pressure",
+      "intent": "academic_stress",
       "severity": 7,
       "escalation_needed": false
     }
@@ -6902,7 +6902,7 @@
     "metadata": {
       "language": "english",
       "tone": "supportive_elder_sibling",
-      "intent": "expectation_burden",
+      "intent": "family_pressure",
       "severity": 7,
       "escalation_needed": false
     }
@@ -6942,7 +6942,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "supportive_elder_sibling",
-      "intent": "performance_pressure",
+      "intent": "academic_stress",
       "severity": 7,
       "escalation_needed": false
     }
@@ -6962,7 +6962,7 @@
     "metadata": {
       "language": "english",
       "tone": "friendly_peer",
-      "intent": "performance_pressure",
+      "intent": "academic_stress",
       "severity": 5,
       "escalation_needed": false
     }
@@ -6982,7 +6982,7 @@
     "metadata": {
       "language": "english",
       "tone": "friendly_peer",
-      "intent": "performance_pressure",
+      "intent": "academic_stress",
       "severity": 7,
       "escalation_needed": false
     }
@@ -7002,7 +7002,7 @@
     "metadata": {
       "language": "hindi",
       "tone": "supportive_elder_sibling",
-      "intent": "performance_pressure",
+      "intent": "academic_stress",
       "severity": 7,
       "escalation_needed": false
     }
@@ -7022,7 +7022,7 @@
     "metadata": {
       "language": "english",
       "tone": "friendly_peer",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 8,
       "escalation_needed": false
     }
@@ -7042,7 +7042,7 @@
     "metadata": {
       "language": "hindi",
       "tone": "supportive_elder_sibling",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 7,
       "escalation_needed": false
     }
@@ -7062,7 +7062,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "supportive_elder_sibling",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 9,
       "escalation_needed": false
     }
@@ -7082,7 +7082,7 @@
     "metadata": {
       "language": "hindi",
       "tone": "supportive_elder_sibling",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 8,
       "escalation_needed": false
     }
@@ -7110,7 +7110,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "supportive_elder_sibling",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 8,
       "escalation_needed": false
     }
@@ -7130,7 +7130,7 @@
     "metadata": {
       "language": "english",
       "tone": "friendly_peer",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 7,
       "escalation_needed": false
     }
@@ -7150,7 +7150,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "friendly_peer",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 7,
       "escalation_needed": false
     }
@@ -7170,7 +7170,7 @@
     "metadata": {
       "language": "english",
       "tone": "supportive_elder_sibling",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 7,
       "escalation_needed": false
     }
@@ -7190,7 +7190,7 @@
     "metadata": {
       "language": "hindi",
       "tone": "supportive_elder_sibling",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 8,
       "escalation_needed": false
     }
@@ -7218,7 +7218,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "supportive_elder_sibling",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 8,
       "escalation_needed": false
     }
@@ -7238,7 +7238,7 @@
     "metadata": {
       "language": "hindi",
       "tone": "supportive_elder_sibling",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 8,
       "escalation_needed": false
     }
@@ -7258,7 +7258,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "supportive_elder_sibling",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 9,
       "escalation_needed": false
     }
@@ -7278,7 +7278,7 @@
     "metadata": {
       "language": "english",
       "tone": "supportive_elder_sibling",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 8,
       "escalation_needed": false
     }
@@ -7298,7 +7298,7 @@
     "metadata": {
       "language": "hindi",
       "tone": "friendly_peer",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 7,
       "escalation_needed": false
     }
@@ -7326,7 +7326,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "supportive_elder_sibling",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 9,
       "escalation_needed": false
     }
@@ -7346,7 +7346,7 @@
     "metadata": {
       "language": "english",
       "tone": "supportive_elder_sibling",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 8,
       "escalation_needed": false
     }
@@ -7366,7 +7366,7 @@
     "metadata": {
       "language": "hindi",
       "tone": "supportive_elder_sibling",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 8,
       "escalation_needed": false
     }
@@ -7386,7 +7386,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "friendly_peer",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 7,
       "escalation_needed": false
     }
@@ -7406,7 +7406,7 @@
     "metadata": {
       "language": "hindi",
       "tone": "friendly_peer",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 7,
       "escalation_needed": false
     }
@@ -7434,7 +7434,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "supportive_elder_sibling",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 8,
       "escalation_needed": false
     }
@@ -7454,7 +7454,7 @@
     "metadata": {
       "language": "english",
       "tone": "supportive_elder_sibling",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 9,
       "escalation_needed": false
     }
@@ -7474,7 +7474,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "friendly_peer",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 8,
       "escalation_needed": false
     }
@@ -7494,7 +7494,7 @@
     "metadata": {
       "language": "english",
       "tone": "supportive_elder_sibling",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 8,
       "escalation_needed": false
     }
@@ -7514,7 +7514,7 @@
     "metadata": {
       "language": "hindi",
       "tone": "friendly_peer",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 7,
       "escalation_needed": false
     }
@@ -7534,7 +7534,7 @@
     "metadata": {
       "language": "english",
       "tone": "supportive_elder_sibling",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 8,
       "escalation_needed": false
     }
@@ -7554,7 +7554,7 @@
     "metadata": {
       "language": "hindi",
       "tone": "supportive_elder_sibling",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 9,
       "escalation_needed": false
     }
@@ -7574,7 +7574,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "supportive_elder_sibling",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 9,
       "escalation_needed": false
     }
@@ -7594,7 +7594,7 @@
     "metadata": {
       "language": "english",
       "tone": "supportive_elder_sibling",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 8,
       "escalation_needed": false
     }
@@ -7614,7 +7614,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "friendly_peer",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 7,
       "escalation_needed": false
     }
@@ -7634,7 +7634,7 @@
     "metadata": {
       "language": "english",
       "tone": "supportive_elder_sibling",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 8,
       "escalation_needed": false
     }
@@ -7654,7 +7654,7 @@
     "metadata": {
       "language": "hindi",
       "tone": "supportive_elder_sibling",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 9,
       "escalation_needed": false
     }
@@ -7674,7 +7674,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "supportive_elder_sibling",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 8,
       "escalation_needed": false
     }
@@ -7694,7 +7694,7 @@
     "metadata": {
       "language": "english",
       "tone": "friendly_peer",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 8,
       "escalation_needed": false
     }
@@ -7714,7 +7714,7 @@
     "metadata": {
       "language": "hindi",
       "tone": "supportive_elder_sibling",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 7,
       "escalation_needed": false
     }
@@ -7734,7 +7734,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "supportive_elder_sibling",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 9,
       "escalation_needed": false
     }
@@ -7754,7 +7754,7 @@
     "metadata": {
       "language": "hindi",
       "tone": "supportive_elder_sibling",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 8,
       "escalation_needed": false
     }
@@ -7782,7 +7782,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "supportive_elder_sibling",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 8,
       "escalation_needed": false
     }
@@ -7802,7 +7802,7 @@
     "metadata": {
       "language": "english",
       "tone": "friendly_peer",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 7,
       "escalation_needed": false
     }
@@ -7822,7 +7822,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "friendly_peer",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 7,
       "escalation_needed": false
     }
@@ -7842,7 +7842,7 @@
     "metadata": {
       "language": "english",
       "tone": "supportive_elder_sibling",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 7,
       "escalation_needed": false
     }
@@ -7862,7 +7862,7 @@
     "metadata": {
       "language": "hindi",
       "tone": "supportive_elder_sibling",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 8,
       "escalation_needed": false
     }
@@ -7890,7 +7890,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "supportive_elder_sibling",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 8,
       "escalation_needed": false
     }
@@ -7910,7 +7910,7 @@
     "metadata": {
       "language": "english",
       "tone": "friendly_peer",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 7,
       "escalation_needed": false
     }
@@ -7930,7 +7930,7 @@
     "metadata": {
       "language": "hindi",
       "tone": "supportive_elder_sibling",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 8,
       "escalation_needed": false
     }
@@ -7950,7 +7950,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "supportive_elder_sibling",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 9,
       "escalation_needed": false
     }
@@ -7970,7 +7970,7 @@
     "metadata": {
       "language": "english",
       "tone": "supportive_elder_sibling",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 8,
       "escalation_needed": false
     }
@@ -7990,7 +7990,7 @@
     "metadata": {
       "language": "hindi",
       "tone": "friendly_peer",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 7,
       "escalation_needed": false
     }
@@ -8018,7 +8018,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "supportive_elder_sibling",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 9,
       "escalation_needed": false
     }
@@ -8038,7 +8038,7 @@
     "metadata": {
       "language": "english",
       "tone": "supportive_elder_sibling",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 8,
       "escalation_needed": false
     }
@@ -8058,7 +8058,7 @@
     "metadata": {
       "language": "hindi",
       "tone": "supportive_elder_sibling",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 8,
       "escalation_needed": false
     }
@@ -8078,7 +8078,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "friendly_peer",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 7,
       "escalation_needed": false
     }
@@ -8098,7 +8098,7 @@
     "metadata": {
       "language": "english",
       "tone": "supportive_elder_sibling",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 8,
       "escalation_needed": false
     }
@@ -8118,7 +8118,7 @@
     "metadata": {
       "language": "hindi",
       "tone": "supportive_elder_sibling",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 9,
       "escalation_needed": false
     }
@@ -8138,7 +8138,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "supportive_elder_sibling",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 9,
       "escalation_needed": false
     }
@@ -8158,7 +8158,7 @@
     "metadata": {
       "language": "english",
       "tone": "supportive_elder_sibling",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 8,
       "escalation_needed": false
     }
@@ -8178,7 +8178,7 @@
     "metadata": {
       "language": "hindi",
       "tone": "friendly_peer",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 7,
       "escalation_needed": false
     }
@@ -8206,7 +8206,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "supportive_elder_sibling",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 7,
       "escalation_needed": false
     }
@@ -8226,7 +8226,7 @@
     "metadata": {
       "language": "english",
       "tone": "supportive_elder_sibling",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 8,
       "escalation_needed": false
     }
@@ -8246,7 +8246,7 @@
     "metadata": {
       "language": "hindi",
       "tone": "supportive_elder_sibling",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 9,
       "escalation_needed": false
     }
@@ -8266,7 +8266,7 @@
     "metadata": {
       "language": "english",
       "tone": "supportive_elder_sibling",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 8,
       "escalation_needed": false
     }
@@ -8286,7 +8286,7 @@
     "metadata": {
       "language": "hindi",
       "tone": "friendly_peer",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 8,
       "escalation_needed": false
     }
@@ -8306,7 +8306,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "friendly_peer",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 7,
       "escalation_needed": false
     }
@@ -8326,7 +8326,7 @@
     "metadata": {
       "language": "english",
       "tone": "supportive_elder_sibling",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 9,
       "escalation_needed": false
     }
@@ -8346,7 +8346,7 @@
     "metadata": {
       "language": "hindi",
       "tone": "supportive_elder_sibling",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 9,
       "escalation_needed": false
     }
@@ -8374,7 +8374,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "supportive_elder_sibling",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 8,
       "escalation_needed": false
     }
@@ -8394,7 +8394,7 @@
     "metadata": {
       "language": "english",
       "tone": "friendly_peer",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 7,
       "escalation_needed": false
     }
@@ -8414,7 +8414,7 @@
     "metadata": {
       "language": "hindi",
       "tone": "supportive_elder_sibling",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 8,
       "escalation_needed": false
     }
@@ -8434,7 +8434,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "friendly_peer",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 7,
       "escalation_needed": false
     }
@@ -8454,7 +8454,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "friendly_peer",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 8,
       "escalation_needed": false
     }
@@ -8474,7 +8474,7 @@
     "metadata": {
       "language": "english",
       "tone": "supportive_elder_sibling",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 9,
       "escalation_needed": false
     }
@@ -8494,7 +8494,7 @@
     "metadata": {
       "language": "hindi",
       "tone": "supportive_elder_sibling",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 8,
       "escalation_needed": false
     }
@@ -8522,7 +8522,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "supportive_elder_sibling",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 9,
       "escalation_needed": false
     }
@@ -8542,7 +8542,7 @@
     "metadata": {
       "language": "english",
       "tone": "supportive_elder_sibling",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 9,
       "escalation_needed": false
     }
@@ -8562,7 +8562,7 @@
     "metadata": {
       "language": "hindi",
       "tone": "friendly_peer",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 8,
       "escalation_needed": false
     }
@@ -8582,7 +8582,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "friendly_peer",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 7,
       "escalation_needed": false
     }
@@ -8602,7 +8602,7 @@
     "metadata": {
       "language": "english",
       "tone": "supportive_elder_sibling",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 7,
       "escalation_needed": false
     }
@@ -8622,7 +8622,7 @@
     "metadata": {
       "language": "hindi",
       "tone": "supportive_elder_sibling",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 7,
       "escalation_needed": false
     }
@@ -8650,7 +8650,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "supportive_elder_sibling",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 9,
       "escalation_needed": false
     }
@@ -8670,7 +8670,7 @@
     "metadata": {
       "language": "english",
       "tone": "supportive_elder_sibling",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 9,
       "escalation_needed": false
     }
@@ -8690,7 +8690,7 @@
     "metadata": {
       "language": "hindi",
       "tone": "friendly_peer",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 7,
       "escalation_needed": false
     }
@@ -8710,7 +8710,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "friendly_peer",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 8,
       "escalation_needed": false
     }
@@ -8730,7 +8730,7 @@
     "metadata": {
       "language": "english",
       "tone": "supportive_elder_sibling",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 8,
       "escalation_needed": false
     }
@@ -8750,7 +8750,7 @@
     "metadata": {
       "language": "hindi",
       "tone": "friendly_peer",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 7,
       "escalation_needed": false
     }
@@ -8778,7 +8778,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "supportive_elder_sibling",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 8,
       "escalation_needed": false
     }
@@ -8798,7 +8798,7 @@
     "metadata": {
       "language": "english",
       "tone": "friendly_peer",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 7,
       "escalation_needed": false
     }
@@ -8818,7 +8818,7 @@
     "metadata": {
       "language": "hindi",
       "tone": "friendly_peer",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 6,
       "escalation_needed": false
     }
@@ -8838,7 +8838,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "supportive_elder_sibling",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 8,
       "escalation_needed": false
     }
@@ -8858,7 +8858,7 @@
     "metadata": {
       "language": "english",
       "tone": "supportive_elder_sibling",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 9,
       "escalation_needed": false
     }
@@ -8878,7 +8878,7 @@
     "metadata": {
       "language": "hindi",
       "tone": "supportive_elder_sibling",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 8,
       "escalation_needed": false
     }
@@ -8906,7 +8906,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "crisis_protector",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 10,
       "escalation_needed": true
     }
@@ -8926,7 +8926,7 @@
     "metadata": {
       "language": "english",
       "tone": "supportive_elder_sibling",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 7,
       "escalation_needed": false
     }
@@ -8946,7 +8946,7 @@
     "metadata": {
       "language": "hindi",
       "tone": "supportive_elder_sibling",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 8,
       "escalation_needed": false
     }
@@ -8966,7 +8966,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "friendly_peer",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 7,
       "escalation_needed": false
     }
@@ -8986,7 +8986,7 @@
     "metadata": {
       "language": "english",
       "tone": "supportive_elder_sibling",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 9,
       "escalation_needed": false
     }
@@ -9006,7 +9006,7 @@
     "metadata": {
       "language": "hindi",
       "tone": "friendly_peer",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 7,
       "escalation_needed": false
     }
@@ -9034,7 +9034,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "supportive_elder_sibling",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 7,
       "escalation_needed": false
     }
@@ -9054,7 +9054,7 @@
     "metadata": {
       "language": "english",
       "tone": "supportive_elder_sibling",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 8,
       "escalation_needed": false
     }
@@ -9074,7 +9074,7 @@
     "metadata": {
       "language": "hindi",
       "tone": "friendly_peer",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 7,
       "escalation_needed": false
     }
@@ -9094,7 +9094,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "friendly_peer",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 8,
       "escalation_needed": false
     }
@@ -9114,7 +9114,7 @@
     "metadata": {
       "language": "english",
       "tone": "supportive_elder_sibling",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 8,
       "escalation_needed": false
     }
@@ -9134,7 +9134,7 @@
     "metadata": {
       "language": "hindi",
       "tone": "supportive_elder_sibling",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 7,
       "escalation_needed": false
     }
@@ -9154,7 +9154,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "friendly_peer",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 7,
       "escalation_needed": false
     }
@@ -9174,7 +9174,7 @@
     "metadata": {
       "language": "english",
       "tone": "supportive_elder_sibling",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 9,
       "escalation_needed": false
     }
@@ -9194,7 +9194,7 @@
     "metadata": {
       "language": "hindi",
       "tone": "friendly_peer",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 7,
       "escalation_needed": false
     }
@@ -9222,7 +9222,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "crisis_protector",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 9,
       "escalation_needed": true
     }
@@ -9242,7 +9242,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "friendly_peer",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 7,
       "escalation_needed": false
     }
@@ -9262,7 +9262,7 @@
     "metadata": {
       "language": "english",
       "tone": "supportive_elder_sibling",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 9,
       "escalation_needed": false
     }
@@ -9282,7 +9282,7 @@
     "metadata": {
       "language": "hindi",
       "tone": "friendly_peer",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 7,
       "escalation_needed": false
     }
@@ -9302,7 +9302,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "friendly_peer",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 7,
       "escalation_needed": false
     }
@@ -9322,7 +9322,7 @@
     "metadata": {
       "language": "english",
       "tone": "supportive_elder_sibling",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 9,
       "escalation_needed": false
     }
@@ -9342,7 +9342,7 @@
     "metadata": {
       "language": "hindi",
       "tone": "friendly_peer",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 7,
       "escalation_needed": false
     }
@@ -9370,7 +9370,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "supportive_elder_sibling",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 9,
       "escalation_needed": false
     }
@@ -9390,7 +9390,7 @@
     "metadata": {
       "language": "english",
       "tone": "supportive_elder_sibling",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 8,
       "escalation_needed": false
     }
@@ -9410,7 +9410,7 @@
     "metadata": {
       "language": "hindi",
       "tone": "friendly_peer",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 7,
       "escalation_needed": false
     }
@@ -9430,7 +9430,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "friendly_peer",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 7,
       "escalation_needed": false
     }
@@ -9450,7 +9450,7 @@
     "metadata": {
       "language": "english",
       "tone": "friendly_peer",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 7,
       "escalation_needed": false
     }
@@ -9470,7 +9470,7 @@
     "metadata": {
       "language": "hindi",
       "tone": "supportive_elder_sibling",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 9,
       "escalation_needed": false
     }
@@ -9490,7 +9490,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "friendly_peer",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 6,
       "escalation_needed": false
     }
@@ -9510,7 +9510,7 @@
     "metadata": {
       "language": "english",
       "tone": "friendly_peer",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 8,
       "escalation_needed": false
     }
@@ -9530,7 +9530,7 @@
     "metadata": {
       "language": "hindi",
       "tone": "friendly_peer",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 7,
       "escalation_needed": false
     }
@@ -9558,7 +9558,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "friendly_peer",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 7,
       "escalation_needed": false
     }
@@ -9578,7 +9578,7 @@
     "metadata": {
       "language": "english",
       "tone": "supportive_elder_sibling",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 9,
       "escalation_needed": false
     }
@@ -9598,7 +9598,7 @@
     "metadata": {
       "language": "hindi",
       "tone": "supportive_elder_sibling",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 9,
       "escalation_needed": false
     }
@@ -9618,7 +9618,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "supportive_elder_sibling",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 8,
       "escalation_needed": false
     }
@@ -9638,7 +9638,7 @@
     "metadata": {
       "language": "english",
       "tone": "supportive_elder_sibling",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 8,
       "escalation_needed": false
     }
@@ -9658,7 +9658,7 @@
     "metadata": {
       "language": "hindi",
       "tone": "friendly_peer",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 7,
       "escalation_needed": false
     }
@@ -9686,7 +9686,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "friendly_peer",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 7,
       "escalation_needed": false
     }
@@ -9706,7 +9706,7 @@
     "metadata": {
       "language": "english",
       "tone": "supportive_elder_sibling",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 9,
       "escalation_needed": false
     }
@@ -9726,7 +9726,7 @@
     "metadata": {
       "language": "hindi",
       "tone": "supportive_elder_sibling",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 8,
       "escalation_needed": false
     }
@@ -9746,7 +9746,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "supportive_elder_sibling",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 8,
       "escalation_needed": false
     }
@@ -9766,7 +9766,7 @@
     "metadata": {
       "language": "english",
       "tone": "friendly_peer",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 6,
       "escalation_needed": false
     }
@@ -9786,7 +9786,7 @@
     "metadata": {
       "language": "hindi",
       "tone": "friendly_peer",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 7,
       "escalation_needed": false
     }
@@ -9814,7 +9814,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "crisis_protector",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 9,
       "escalation_needed": false
     }
@@ -9834,7 +9834,7 @@
     "metadata": {
       "language": "english",
       "tone": "supportive_elder_sibling",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 7,
       "escalation_needed": false
     }
@@ -9854,7 +9854,7 @@
     "metadata": {
       "language": "hindi",
       "tone": "friendly_peer",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 7,
       "escalation_needed": false
     }
@@ -9874,7 +9874,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "supportive_elder_sibling",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 9,
       "escalation_needed": false
     }
@@ -9894,7 +9894,7 @@
     "metadata": {
       "language": "english",
       "tone": "friendly_peer",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 7,
       "escalation_needed": false
     }
@@ -9914,7 +9914,7 @@
     "metadata": {
       "language": "hindi",
       "tone": "friendly_peer",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 6,
       "escalation_needed": false
     }
@@ -9942,7 +9942,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "friendly_peer",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 7,
       "escalation_needed": false
     }
@@ -9962,7 +9962,7 @@
     "metadata": {
       "language": "english",
       "tone": "supportive_elder_sibling",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 7,
       "escalation_needed": false
     }
@@ -9982,7 +9982,7 @@
     "metadata": {
       "language": "hindi",
       "tone": "supportive_elder_sibling",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 9,
       "escalation_needed": false
     }
@@ -10002,7 +10002,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "friendly_peer",
-      "intent": "parental_expectations",
+      "intent": "family_pressure",
       "severity": 6,
       "escalation_needed": false
     }
@@ -10030,7 +10030,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "friendly_peer",
-      "intent": "job_rejection",
+      "intent": "career_confusion",
       "severity": 7,
       "escalation_needed": false
     }
@@ -10058,7 +10058,7 @@
     "metadata": {
       "language": "english",
       "tone": "supportive_elder_sibling",
-      "intent": "job_rejection",
+      "intent": "career_confusion",
       "severity": 8,
       "escalation_needed": false
     }
@@ -10086,7 +10086,7 @@
     "metadata": {
       "language": "hindi",
       "tone": "friendly_peer",
-      "intent": "job_rejection",
+      "intent": "career_confusion",
       "severity": 7,
       "escalation_needed": false
     }
@@ -10114,7 +10114,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "supportive_elder_sibling",
-      "intent": "job_rejection",
+      "intent": "career_confusion",
       "severity": 9,
       "escalation_needed": false
     }
@@ -10142,7 +10142,7 @@
     "metadata": {
       "language": "english",
       "tone": "friendly_peer",
-      "intent": "job_rejection",
+      "intent": "career_confusion",
       "severity": 7,
       "escalation_needed": false
     }
@@ -10170,7 +10170,7 @@
     "metadata": {
       "language": "hindi",
       "tone": "supportive_elder_sibling",
-      "intent": "job_rejection",
+      "intent": "career_confusion",
       "severity": 9,
       "escalation_needed": false
     }
@@ -10198,7 +10198,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "friendly_peer",
-      "intent": "job_rejection",
+      "intent": "career_confusion",
       "severity": 7,
       "escalation_needed": false
     }
@@ -10226,7 +10226,7 @@
     "metadata": {
       "language": "english",
       "tone": "supportive_elder_sibling",
-      "intent": "job_rejection",
+      "intent": "career_confusion",
       "severity": 8,
       "escalation_needed": false
     }
@@ -10254,7 +10254,7 @@
     "metadata": {
       "language": "hindi",
       "tone": "supportive_elder_sibling",
-      "intent": "job_rejection",
+      "intent": "career_confusion",
       "severity": 8,
       "escalation_needed": false
     }
@@ -10282,7 +10282,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "friendly_peer",
-      "intent": "job_rejection",
+      "intent": "career_confusion",
       "severity": 7,
       "escalation_needed": false
     }
@@ -10310,7 +10310,7 @@
     "metadata": {
       "language": "english",
       "tone": "supportive_elder_sibling",
-      "intent": "job_rejection",
+      "intent": "career_confusion",
       "severity": 7,
       "escalation_needed": false
     }
@@ -10338,7 +10338,7 @@
     "metadata": {
       "language": "hindi",
       "tone": "supportive_elder_sibling",
-      "intent": "job_rejection",
+      "intent": "career_confusion",
       "severity": 8,
       "escalation_needed": false
     }
@@ -10366,7 +10366,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "friendly_peer",
-      "intent": "job_rejection",
+      "intent": "career_confusion",
       "severity": 7,
       "escalation_needed": false
     }
@@ -10394,7 +10394,7 @@
     "metadata": {
       "language": "english",
       "tone": "supportive_elder_sibling",
-      "intent": "job_rejection",
+      "intent": "career_confusion",
       "severity": 8,
       "escalation_needed": false
     }
@@ -10422,7 +10422,7 @@
     "metadata": {
       "language": "hindi",
       "tone": "supportive_elder_sibling",
-      "intent": "job_rejection",
+      "intent": "career_confusion",
       "severity": 7,
       "escalation_needed": false
     }
@@ -10450,7 +10450,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "friendly_peer",
-      "intent": "job_rejection",
+      "intent": "career_confusion",
       "severity": 7,
       "escalation_needed": false
     }
@@ -10478,7 +10478,7 @@
     "metadata": {
       "language": "english",
       "tone": "supportive_elder_sibling",
-      "intent": "job_rejection",
+      "intent": "career_confusion",
       "severity": 8,
       "escalation_needed": false
     }
@@ -10506,7 +10506,7 @@
     "metadata": {
       "language": "hindi",
       "tone": "supportive_elder_sibling",
-      "intent": "job_rejection",
+      "intent": "career_confusion",
       "severity": 7,
       "escalation_needed": false
     }
@@ -10534,7 +10534,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "supportive_elder_sibling",
-      "intent": "job_rejection",
+      "intent": "career_confusion",
       "severity": 8,
       "escalation_needed": false
     }
@@ -10562,7 +10562,7 @@
     "metadata": {
       "language": "english",
       "tone": "supportive_elder_sibling",
-      "intent": "job_rejection",
+      "intent": "career_confusion",
       "severity": 9,
       "escalation_needed": false
     }
@@ -10590,7 +10590,7 @@
     "metadata": {
       "language": "hindi",
       "tone": "supportive_elder_sibling",
-      "intent": "job_rejection",
+      "intent": "career_confusion",
       "severity": 9,
       "escalation_needed": false
     }
@@ -10618,7 +10618,7 @@
     "metadata": {
       "language": "hinglish",
       "tone": "friendly_peer",
-      "intent": "job_rejection",
+      "intent": "career_confusion",
       "severity": 6,
       "escalation_needed": false
     }
@@ -10646,7 +10646,7 @@
     "metadata": {
       "language": "english",
       "tone": "supportive_elder_sibling",
-      "intent": "job_rejection",
+      "intent": "career_confusion",
       "severity": 8,
       "escalation_needed": false
     }
@@ -10674,7 +10674,7 @@
     "metadata": {
       "language": "hindi",
       "tone": "friendly_peer",
-      "intent": "job_rejection",
+      "intent": "career_confusion",
       "severity": 7,
       "escalation_needed": false
     }
@@ -25193,14 +25193,6 @@
       {
         "role": "assistant",
         "content": "Damn yaar... parents bhi drop out bol rahe kyunki financial crisis hai. Sapne degree complete karne ke sab crumbling. Medical issue ki wajah se future hi slip kar raha haath se."
-      },
-      {
-        "role": "user",
-        "content": "Roz sochta hoon kya galti ki maine. Bimar hona mere control mein thodi tha. Ab punishment mil rahi jaise meri galti ho."
-      },
-      {
-        "role": "assistant",
-        "content": "Yaar... bimar hona tumhari galti nahi thi bilkul. Par system tumhe punish kar raha jaise tumne choose kiya ho sick hona. Wo injustice, wo self-blame - sab mil ke crush kar raha. You didn't deserve this."
       }
     ],
     "metadata": {
@@ -25229,14 +25221,6 @@
       {
         "role": "assistant",
         "content": "Damn... that one moment created so much trauma you can't even enter the building. Anxiety attacks just thinking about it. Now bunking is making things worse but what else can you do when that space feels hostile."
-      },
-      {
-        "role": "user",
-        "content": "Feel trapped. Don't go means more failure. Go means reliving that humiliation daily. Either way I'm losing."
-      },
-      {
-        "role": "assistant",
-        "content": "Man... that impossible choice where both paths hurt. Stay away and fail, or go back and suffer that shame again. No winning option when one person's cruelty destroyed your safe space completely. You're stuck in this nightmare loop."
       }
     ],
     "metadata": {
@@ -25265,14 +25249,6 @@
       {
         "role": "assistant",
         "content": "Damn yaar... teen mahine ek meal pe survive karna aur library mein gir gaye weakness se. Body literally giving up hai par padhai ka pressure continues. Wo physical suffering that nobody sees behind attendance and grades."
-      },
-      {
-        "role": "user",
-        "content": "Sharam aati hai batane mein kisi ko. Sochenge galat family se hoon. Teachers ko lagta lazy hoon jab actually bhook se energy nahi bachti."
-      },
-      {
-        "role": "assistant",
-        "content": "Yaar... shame stops you from asking help and teachers misread malnutrition as laziness. Starving while trying to study but judged for being weak. That dignity versus survival fight - you shouldn't have to choose between education and basic food. This is beyond heavy."
       }
     ],
     "metadata": {
@@ -25301,14 +25277,6 @@
       {
         "role": "assistant",
         "content": "Man... everyone moved on but you're living in the same room where he struggled. That constant reminder, wo presence of his absence. Counselor didn't help aur now you're alone with these dark thoughts and same pressures that took him."
-      },
-      {
-        "role": "user",
-        "content": "Raat ko uski cheezein dekhta hoon. Sochta hoon kya feel ho raha hoga usko last moment. Sometimes think it's easier to just... stop."
-      },
-      {
-        "role": "assistant",
-        "content": "Bro, I'm really worried about you... those thoughts about stopping, that's serious. You're in pain and need help right now. Please call Tele-MANAS 14416 ya kisi trusted person ko batao. His loss doesn't mean you have to follow. You matter yaar, your life matters. Don't face this alone."
       }
     ],
     "metadata": {
@@ -25337,14 +25305,6 @@
       {
         "role": "assistant",
         "content": "Damn... two months of seeing your assaulter act normal while you're having panic attacks. Failed exams but the real reason stays hidden. That double torture of trauma and silence, both destroying you from inside."
-      },
-      {
-        "role": "user",
-        "content": "Sometimes think of just leaving college. But that means he wins. Either way I'm destroyed. Don't know how to survive this."
-      },
-      {
-        "role": "assistant",
-        "content": "Bro... staying hurts, leaving hurts - both options feel like losing. You're in survival mode carrying unbearable weight alone. This is serious assault - please reach out to someone safe, police, women's helpline. You deserve justice and healing. What happened to you wasn't your fault."
       }
     ],
     "metadata": {
@@ -25373,14 +25333,6 @@
       {
         "role": "assistant",
         "content": "Damn yaar... class continue ki normal jaise tumhe dehumanize nahi kiya abhi. Classmates bhi silent witnesses - complicity through silence. Tumhe nikalna pada crying rokne ke liye apni hi class se."
-      },
-      {
-        "role": "user",
-        "content": "Ab us class jaane ka mann nahi karta. Par compulsory hai. Har baar jaata hoon toh lagta inferior hoon. Uske words ab head mein loop pe chalte."
-      },
-      {
-        "role": "assistant",
-        "content": "Yaar... compulsory class hai toh jana padega but har baar wo inferiority, wo dehumanization relive hota. His words loop mein chale because authority figure ne validate kar diya discrimination ko. You deserve better than this hostile environment. That's pure ableism."
       }
     ],
     "metadata": {
@@ -25409,14 +25361,6 @@
       {
         "role": "assistant",
         "content": "Bro... threat of worse violence hanging over you, body healing, mind traumatized. How can anyone study in fight-or-flight mode constantly. Fear of next beating is paralyzing any focus you might have. This is domestic violence."
-      },
-      {
-        "role": "user",
-        "content": "Can't report. He's my father. Where will I go. Need to pass somehow but brain won't cooperate when in survival mode. Feels hopeless."
-      },
-      {
-        "role": "assistant",
-        "content": "Man... trapped because he's family and you have nowhere else. Brain in survival mode can't do academics - that's biology, not weakness. You're living in active danger while expected to excel. This needs intervention - helpline, trusted adult, police. Your safety matters more than passing."
       }
     ],
     "metadata": {
@@ -25445,14 +25389,6 @@
       {
         "role": "assistant",
         "content": "Damn yaar... escalating from casual to creepy aur ignore karne pe class mein retaliation. Using marks aur classroom power to punish for not responding to harassment. Wo trapped feeling when saying no has academic consequences."
-      },
-      {
-        "role": "user",
-        "content": "Screenshots save kar rakhe hain par kisiko dikhaun toh believe karenge? Ek student ka word vs established teacher. System protect karega usko."
-      },
-      {
-        "role": "assistant",
-        "content": "Yaar... proof hai screenshots mein par belief ka issue kyunki power imbalance. System teachers ko protect karta students ko nahi. But harassment committee, written complaint, anonymous reporting - options exist. This is serious misconduct, you have evidence. Don't suffer silence mein."
       }
     ],
     "metadata": {
@@ -25481,14 +25417,6 @@
       {
         "role": "assistant",
         "content": "Damn... surgery planned months ahead but three days notice for exam change. Rules don't allow flexibility even for medical emergencies in family. That bureaucratic cruelty when human circumstances don't matter to system."
-      },
-      {
-        "role": "user",
-        "content": "Mom saying go to exam, she'll be fine. But what if something goes wrong and I'm not there. Either way guilt will destroy me."
-      },
-      {
-        "role": "assistant",
-        "content": "Yaar... mom prioritizing your exam but you can't shake the what-ifs. Miss exam and feel guilty about wasted opportunity. Attend exam and live with guilt if anything happens to her. Both choices carry unbearable emotional cost. System forcing you to choose is cruel."
       }
     ],
     "metadata": {
@@ -25517,14 +25445,6 @@
       {
         "role": "assistant",
         "content": "Damn yaar... char mahine of carrying guilt, blame from his parents, aur grief. College moved on but tumhara trauma fresh hai daily. Wo survivor's guilt aur PTSD dono - nobody addressing how you witnessed your friend die."
-      },
-      {
-        "role": "user",
-        "content": "Neend mein bhi uski awaaz sunai deti. Last words yaad aate. Exam mein pen pakadta hoon toh haath kaampte kyunki usne mera haath pakda tha last time."
-      },
-      {
-        "role": "assistant",
-        "content": "Man... dreams haunted by his voice, physical triggers during exams. His last touch on your hand now makes pen-holding traumatic. That deep psychological wound bleeding into every academic moment. You need trauma support yaar - free counseling options, college health center. This pain is too heavy to carry alone."
       }
     ],
     "metadata": {
@@ -25553,14 +25473,6 @@
       {
         "role": "assistant",
         "content": "Damn... openly said your skin color determines your worth, suggested manual labor instead of education. Dehumanizing racism from authority figure normalized by laughing classmates. That alienation when entire room signals you don't belong in academic spaces."
-      },
-      {
-        "role": "user",
-        "content": "Can't concentrate in any class now. Always thinking people judging my appearance. Started skipping college. Dreams of this career feel impossible now."
-      },
-      {
-        "role": "assistant",
-        "content": "Yaar... that one racist attack shattered your sense of belonging completely. Every class feels like judgment, skipping to avoid that pain, career dreams fading. Racism destroyed your confidence and access to education simultaneously. You deserved to be protected, not attacked. That teacher's bigotry stole your safe space."
       }
     ],
     "metadata": {
@@ -25589,14 +25501,6 @@
       {
         "role": "assistant",
         "content": "Damn yaar... akela caregiver role kar rahe mentally ill parent ka aur papa ignore kar rahe. Raat bhar episode handle kiya, neend nahi, aur phir exam. Hall mein blank hona natural hai jab survival mode mein ho. Academic performance expected hai jab home mein chaos."
-      },
-      {
-        "role": "user",
-        "content": "Teachers ko bataya toh bole excuses mat banao. Mummy ki illness proof nahi kar sakta easily. Lagta sab jhoot samajhte. Akela feel hota."
-      },
-      {
-        "role": "assistant",
-        "content": "Yaar... invisible caregiving burden nobody believes. Mummy ki mental illness prove karna mushkil, teachers dismiss as excuse. Carrying family crisis alone while maintaining student facade. That isolation when your reality is dismissed as lies. You're carrying way too much alone - this needs outside support."
       }
     ],
     "metadata": {
@@ -25625,14 +25529,6 @@
       {
         "role": "assistant",
         "content": "Damn... repeated failure in one subject suggests something specific blocking you, not lack of trying. But family sees lack of effort, stopped even asking. That abandonment when you need support most. The trying hard invisibly while being labeled lazy."
-      },
-      {
-        "role": "user",
-        "content": "Sometimes think everyone right. Maybe I am just stupid. Three attempts should have been enough. Feel like giving up everything now."
-      },
-      {
-        "role": "assistant",
-        "content": "Bro... family's judgment becoming your inner voice. Three attempts mean you kept trying despite failing, that's resilience not stupidity. But when everyone gives up on you, giving up on yourself feels inevitable. That internalized failure narrative is breaking you. You're not stupid - something else is going on that needs different approach."
       }
     ],
     "metadata": {
@@ -25661,14 +25557,6 @@
       {
         "role": "assistant",
         "content": "Damn... documented proof but committee compromised by his connections. Previous complainant was rusticated as warning to others. System designed to protect predator not victims. Wo institutional betrayal when supposed safety mechanisms are weaponized against survivors."
-      },
-      {
-        "role": "user",
-        "content": "Degree almost complete hai. Agar fight kari toh sab khatam. Silent rahi toh guilt. Har option mein main haari. Don't know how to survive this."
-      },
-      {
-        "role": "assistant",
-        "content": "Yaar... degree close hai toh silence seems strategic but guilt eats inside. Fight means risking everything you worked for. Both choices traumatic - endure abuse quietly or risk retaliation. This isn't your burden to solve alone. External complaint, police, lawyer - options outside corrupt system exist. What he did is criminal, you have proof. You deserve justice and safety."
       }
     ],
     "metadata": {
@@ -28777,14 +28665,6 @@
       {
         "role": "assistant",
         "content": "Dekh mere dost, organic mein ek reaction yaad hone pe doosra bhool jaata hai - ye cramming ka trap hai. Aaj raat ek kaam karo sirf - reactions ko groups mein dekho, jaise substitution reactions ek group, elimination dusra. Ek group pe focus karo baaki chhod do. Poori reactions nahi, sirf ek ek group."
-      },
-      {
-        "role": "user",
-        "content": "Yaar main bahut tired hoon. Ek hafte se raat bhar jaag raha hoon padh ke. Ankhen bhi dard kar rahi hain. Lagta hai kal kuch nahi aayega paper mein. Board exam hai isliye itna zyada matter karta hai."
-      },
-      {
-        "role": "assistant",
-        "content": "Yaar ruk ek second. Ek hafte se raat bhar jaag rahe ho - dimag itna thaka hua hai ki absorb hi nahi kar raha, isliye kuch nahi ghus raha. Ankhen bhi dard kar rahi hain - body resign kar raha hai padhai se. Aaj raat bilkul mat padho. Seriously. Neend lo. Thaka hua dimag kal exam mein aur barbaad karega. Ek raat ki neend se 70 percent better feel karoge kal subah - trust karo mujhe."
       }
     ],
     "metadata": {
@@ -28813,14 +28693,6 @@
       {
         "role": "assistant",
         "content": "Okay that makes complete sense now. You gave up the relationship for the exam and then lost the relationship anyway. That feels pointless, I get it. The pain is real and it is messing with your head during study time. But listen - these are two separate things. The breakup hurts and that grief is valid. But two years of preparation is still inside your brain. It did not disappear."
-      },
-      {
-        "role": "user",
-        "content": "Sometimes I think what was even the point of all this. I sacrificed everything for this exam and now I cannot even focus. Feels like nothing in my life is going right anymore."
-      },
-      {
-        "role": "assistant",
-        "content": "Listen. That feeling when everything you sacrificed does not feel worth it anymore - that is painful in a deep way. But right now you are looking at your whole life through the lens of this breakup and exam stress combined. That is a very dark place to judge everything from. One week left. You put in two years. That effort is real. Finish what you started. After the exam, deal with the rest of life properly with a clear head. You are not in a place to give up on two years right now."
       }
     ],
     "metadata": {
@@ -28849,14 +28721,6 @@
       {
         "role": "assistant",
         "content": "Dekh mere dost, data hai tumhare paas - wo pehle se hai. Results interpret karna mushkil lag raha hai kyunki shayad akele soch rahe ho. Professor unavailable hai toh ek kaam karo - apne department mein koi aur senior student ya lecturer hoga jo briefly dekh sake data. Fresh eyes se pattern dikta hai jo khud nahi dikhta. Do hafte mein time hai - aaj hi pucho kisi ko."
-      },
-      {
-        "role": "user",
-        "content": "Yaar sach batoon toh main bahut overwhelmed hoon overall. Dissertation ke alawa bhi bahut kuch hai - parents health bhi kharab hai aur paise bhi tight hain. Sab kuch ek saath aa raha hai. Lagta hai handle nahi kar pa raha."
-      },
-      {
-        "role": "assistant",
-        "content": "Yaar ruk. Dissertation, parents ki health, paise - sab ek saath. Ye poora weight feel ho raha hai na - jaise har taraf se dabab aa raha hai. Akela handle karna impossible hai itna sab. Par ek baat suno - abhi sirf ek cheez pe focus karo. Sirf dissertation ke results section. Baaki dono problems real hain par wo abhi solve nahi hongi ek dam. Aaj ek senior se baat karo data ke baare mein - sirf ek step. Poori duniya ek step se solve nahi hogi par ek step lo aaj."
       }
     ],
     "metadata": {
@@ -28885,14 +28749,6 @@
       {
         "role": "assistant",
         "content": "Okay so three days on cost accounting and errors keep creeping in during long problems. That is not about understanding - you get the concept but somewhere midway the calculation slips. That is a very specific issue. Do not spend another full day on it. Try this - solve one problem, mark exactly where the error happens. Usually it is the same step every time. Fix that one step and the rest will flow."
-      },
-      {
-        "role": "user",
-        "content": "I know the strategy part. But honestly I am losing hope about even trying a third time. Everyone in my family expected me to be a lawyer. My parents spent so much. At this point I am starting to think I am just not meant for this."
-      },
-      {
-        "role": "assistant",
-        "content": "Listen. You cleared your first attempt - that already proves you can do this. Everyone else struggling quietly does not mean they find it easy, they just do not say it out loud. Your brain handled numbers before. Right now you are frustrated and it is making you believe the worst about yourself. Ten days is real time. Do not throw away what you already built. Sit down with five problems tonight, just five. Watch where the error lands each time. You will see the pattern."
       }
     ],
     "metadata": {
@@ -28921,14 +28777,6 @@
       {
         "role": "assistant",
         "content": "Dekh mere dost, class 11 basics pata hai - matlab foundation thodi hai already. Coach ne ek problem bola hai - class 12 material. Hopeless nahi hai yaar - 3 mahine mein ek subject cover ho sakta hai agar focused ho. Par coach ke words dimag mein ghuse hain. Ek kaam karo - aaj class 12 Biology ka ek chapter dekho sirf overview ke liye. See how it feels. Teen mahine mein actually possible hai."
-      },
-      {
-        "role": "user",
-        "content": "Yaar bahut pressure hai. Parents ne poori savings lagaye hain coaching mein. Agar nahi nikla toh unke paise waste honge. Har raat so nahi pa raha sooch ke ki unhe kaise jawab dunga agar fail hua."
-      },
-      {
-        "role": "assistant",
-        "content": "Yaar sun... parents ki savings aur agar fail hua toh kya jawab dunga - ye weight bahut heavy hai. Har raat nahi so pa raha wo bata raha hai ki andar se kitna pressure hai. Par dekh - parents ne savings lagaye because unhe believe hai tumhare andar. Wo tumhe failure nahi dekh rahe, unhe tumhara effort dikha raha hai. Teen mahine hai - poora hai. Aaj raat ye sochna band karo ki fail huga toh kya hoga. Sirf kal ka plan banao - ek chapter, ek topic. Baaki baad mein."
       }
     ],
     "metadata": {
@@ -28957,14 +28805,6 @@
       {
         "role": "assistant",
         "content": "Dekh mere dost, coding strong hai - wo sabse bada differentiator hai placements mein. Verbal aur logical mein slow hona toh most students ka same struggle hai. Poora paper khatam nahi hoga shayad time mein - par coding section mein maximum marks lena possible hai. Strategy ye banao - coding pehle karo, phir jo time bacha usme verbal attempt karo. Strong section pe focus karo."
-      },
-      {
-        "role": "user",
-        "content": "Yaar par 15 seats ke liye 200 mein se survive karna mushkil hai. Sab log bahut prepared lagte hain. Mujhe lagta hai main top 15 mein nahi aauga. Phir bhi koshish karna chahta hoon lekin confidence nahi hai."
-      },
-      {
-        "role": "assistant",
-        "content": "Yaar sun - 200 mein se 15 - numbers scary hain, I know. Par har student wahi sochega ki mujhe nahi milega. Iska matlab sab 200 students feel kar rahe hain same pressure. Tumhara coding strong hai - that is real advantage hai yaar. Confidence abhi zero hai par ek din ek din karo. Kal subah ek coding problem solve karo - aisa lagega ki tum ready ho. 200 mein ek aisa bhi hona kaafi hai jo genuinely strong hai usme."
       }
     ],
     "metadata": {
@@ -28993,14 +28833,6 @@
       {
         "role": "assistant",
         "content": "Dekh yaar, teen parikshan diye ho aur 2 wale mein sach mein kaam kiya tumhara - matlab sharir ne 2 baar khud ko sambhala hai. Wo saboot hai ki tum sambhal sakte ho. Darr asli hai par sharir ka jawab bhi kaafi haad tak kabu mein hai - teen mein se 2 wale mein kaam kiya. Agar ek baar phir darr aaya toh waisi hi karo - ek minute ankhen band karo, gahari saans lo, phir shuru karo. Ye kaam kiya tha na pichle baar mein?"
-      },
-      {
-        "role": "user",
-        "content": "Haan kaam kiya tha. Par yaar agar kisi din wo poori tarah control nahi raha toh? Main akela hoon wahan. Koi nahi hai jo mujhe sambhale. Dar itna hai ki raat ko neend nahi aa rahi."
-      },
-      {
-        "role": "assistant",
-        "content": "Yaar ruk - akela mehsoos ho raha hai ye darr mein, neend nahi aa rahi. Ye sirf pariksha ka darr nahi hai yaar - ye andar se itna bhaari hai ki sharir neend bhi nahi de raha. Ek saal se ye chal raha hai. Doctor se baat karna zaroori hai iske baare mein - ye chinta hai jo theek ho sakti hai. Pariksha tak ke liye bhi aur poori zindagi mein bhi. Tum akele nahi ho isme - madad maangna sabse bada himmat ka kadam hai."
       }
     ],
     "metadata": {
@@ -29029,14 +28861,6 @@
       {
         "role": "assistant",
         "content": "Okay so both times the exact same pattern - reading too deeply and losing time on the last section. This is not about ability, it is a time management trap. You are too thorough - and in normal life that is actually a strength. But in this test it costs you. Next attempt strategy needs to be simple - cap yourself at 90 seconds per passage max. Get the gist, not every detail. You can fix this."
-      },
-      {
-        "role": "user",
-        "content": "I know the strategy part. But honestly I am losing hope about even trying a third time. Everyone in my family expected me to be a lawyer. My parents spent so much. At this point I am starting to think I am just not meant for this."
-      },
-      {
-        "role": "assistant",
-        "content": "Listen. You are not not meant for this. You cleared your entire undergrad perfectly - that tells me exactly how capable you are. Two failures on one specific pattern in one test is not a verdict on who you are. Your family pressure is real and painful - that weight of their expectations. But you know exactly what went wrong both times. You have the clearest picture any test taker in that room could have. Third attempt is not desperation - it is the smartest move you can make."
       }
     ],
     "metadata": {
@@ -29065,14 +28889,6 @@
       {
         "role": "assistant",
         "content": "Dekh mere dost, counselor se milna bahut brave step tha - that is real progress hai yaar. Depression mein semester waste hona tumhari galti nahi thi. Ab ek ek cheez dekho - 4 subjects mein kaunsa sabse easy hai? Jisme thoda bhi kuch pata ho, chahe 10 percent ho. Ussi se shuru karo aaj raat - sirf wahi ek subject. Fail ho sake hain baaki toh let them fail. Ek subject bachane ki koshish karo."
-      },
-      {
-        "role": "user",
-        "content": "Yaar... actually sab fail hone se zyada mujhe ye dar hai ki professors ko pata chalega ki main depression mein tha. College mein pagal type label lag jaayega. Pehle se bhi log alag se dekh rahe hain jab counselor ke paas jaata hoon."
-      },
-      {
-        "role": "assistant",
-        "content": "Yaar ye bahut important baat hai jo tum bol rahe ho. Counselor ke paas jaana aur log alag se dekhte hain - wo stigma real hai aur painful hai. Par sun - tum sabse zyada vulnerable situation mein strong step le chuke ho. Depression mein the, help li - that is strength hai. Log label denge toh do - apni health zyada important hai. Kal exam dena mat chhodna - chahe score kuch bhi aaye. Dena. Kyunki tum wapas aayen ho - that matters most."
       }
     ],
     "metadata": {
@@ -29101,14 +28917,6 @@
       {
         "role": "assistant",
         "content": "Dekh mere dost, rest of proposal solid hai - matlab 3 saal ki mehnat mein majority kaam achha hai. Sirf do cheezein hai - literature review aur hypothesis justification. Ek mahine mein dobara likhna mushkil lagta hai par impossible nahi hai. Aaj raat ek kaam karo - apna current literature review dekho aur note karo ki kya missing hai. Gaps pata ho jaayenge toh direction clear ho jaayega."
-      },
-      {
-        "role": "user",
-        "content": "Yaar main bahut thaka hua hoon. 3 saal ek sapne ke liye diye hain. Kabhi kabhi lagta hai ki PhD meri taraf se nahi hai. Har jagah se rejection aisa feel hota hai - supervisor bhi, reviewers bhi, har koi."
-      },
-      {
-        "role": "assistant",
-        "content": "Yaar sun mujhe... 3 saal ki mehnat, har jagah se rejection feel, exhaustion - ye sab real hai. PhD ka path aise hi hota hai - lagta hai har koi tumhe rok raha hai. Par ek baat notice karo - tumhare supervisor ne rest of proposal ko solid bola. Wo tumhe dismiss nahi kar rahe - improve kar rahe hain. Har koi PhD mein aise hi fix karta hai. Ye weakness nahi hai - ye process hai. Thak rahe ho - that is okay. Par girav mat karo yaar. Teen saal diye ho - ek mahina aur dena."
       }
     ],
     "metadata": {
@@ -29137,14 +28945,6 @@
       {
         "role": "assistant",
         "content": "Dekh mere dost, Chemistry aur Physics thodi theek hain - matlab 2 sections mein base hai already. Biology 180 ka hai aur abhi 40-50 aa rahe - matlab 130 marks ka gap hai sirf ek subject mein. Ek mahina hai - Biology pe targeted focus karo. Daily 4 ghante sirf Biology. Baaki subjects maintenance mode pe rakh do. Gap fill ho sakta hai yaar."
-      },
-      {
-        "role": "user",
-        "content": "Yaar par ek mahina mein 130 marks improve karna... kitna realistic hai? Har din dekh raha hoon ki time kam ho raha hai aur main wahi pe khada hoon. Parents ne 3 saal invest kiye hain. Agar nahi hua toh unka sapna bhi khatam."
-      },
-      {
-        "role": "assistant",
-        "content": "Yaar sun... 130 marks ek mahine mein - aggressive target hai par impossible nahi. Biology mein improvement sabse fast hoti hai kyunki factual subject hai - ratta maar ke bhi kaam ho jaata hai. Par abhi jo chal raha hai wo darr hai - time kam hone ka, parents ke sapne ka. Wo darr tumhe freeze kar raha hai. Aaj se ek kaam karo - sirf aaj ka dekho. Aaj 10 marks improve karne ka plan banao Biology mein. Kal dobara 10. Ek mahina mein 300 marks ban sakte hain cumulatively. Believe karo - abhi bhi possible hai."
       }
     ],
     "metadata": {
@@ -29173,14 +28973,6 @@
       {
         "role": "assistant",
         "content": "Okay so you prepared but it feels rehearsed - that is actually common when stakes are this high. You are overthinking every word because you know how much it matters. Here is what you do tonight - forget the rehearsed answers. Instead write down three genuine reasons why grad school matters to you personally. Not what sounds good, what is actually true for you. Tomorrow speak from those three points. Authenticity beats polish every time in scholarship interviews."
-      },
-      {
-        "role": "user",
-        "content": "What if my genuine reasons are not impressive enough? What if they want someone with a bigger story or more achievements? I feel like I am just average compared to other candidates."
-      },
-      {
-        "role": "assistant",
-        "content": "Listen. Scholarship committees do not fund resumes, they fund people. Your genuine reasons are your story - and your story is enough because it is real. Average does not exist when you are talking about your own life and your own reasons for wanting this. They will meet ten candidates tomorrow who all sound the same because they all prepared the perfect answers. You show up and tell them the truth about why this matters to you - that stands out more than any achievement list. You deserve to be in that room tomorrow."
       }
     ],
     "metadata": {
@@ -29209,14 +29001,6 @@
       {
         "role": "assistant",
         "content": "Dekh mere dost, scores kam hain aur samajh nahi aata - ye struggle real hai. Par teacher ka kaam hai help karna, discourage karna nahi. Wo galat hai ye bolne mein ki tum clear nahi kar paoge - wo tumhare future ki prediction nahi kar sakta. Abhi jo feel ho raha hai wo teacher ke words ka effect hai. Scores improve ho sakte hain agar right guidance mile. Different teacher se help lo - coaching ya online resources. Ek insaan ki negativity tumhara future decide nahi kar sakti."
-      },
-      {
-        "role": "user",
-        "content": "Yaar par agar exam mein sach mein fail ho gaya toh wo sahi prove ho jaayega na. Sab bolenge dekha teacher ne pehle hi bata diya tha. Sharam aa jayegi bahut zyada."
-      },
-      {
-        "role": "assistant",
-        "content": "Yaar ruk. Agar fail hua toh teacher sahi prove hoga - ye darr tumhe control kar raha hai. Par dekh - agar tum try bhi nahi karoge kyunki darr hai toh wo guaranteed failure hai. Try karo aur fail ho bhi gaye toh at least tumne koshish ki. Teacher galat tha ya sahi - wo matter nahi karta. Tum apne liye kar rahe ho, teacher ko prove karne ke liye nahi. Sharam ki baat nahi hai try karna aur haar jaana - sharam ki baat hai try hi nahi karna. Aur honestly, engineering entrance clear karne wale bahut log hain jinhe teachers ne discourage kiya tha. Tum bhi ho sakte ho unme se."
       }
     ],
     "metadata": {
@@ -29245,14 +29029,6 @@
       {
         "role": "assistant",
         "content": "Okay two weeks and essay format is new territory for you. Panic makes sense but here is the thing - you prepared MCQ content so you know the material already. Essays just need a different delivery method. Start simple tonight - pick one topic you studied for MCQs. Write three paragraphs on it - intro, main point, conclusion. Do not overthink. Just write like you are explaining it to a friend. Practice that structure on five topics this week. You have the knowledge, just need the format practice."
-      },
-      {
-        "role": "user",
-        "content": "What if two weeks is not enough to learn essay writing properly? I have spent months on MCQ practice and now all that feels wasted. Should I even attempt the exam or withdraw?"
-      },
-      {
-        "role": "assistant",
-        "content": "Listen. Months on MCQ practice is not wasted - you learned the content deeply. That content is what essays test too, just differently. Withdrawing means guaranteed nothing. Attempting means you have a chance even if your essays are not perfect. Two weeks is tight but you can get functional at essay structure - not perfect, functional. Write one practice essay every day for ten days. By exam day you will have written ten essays. That is more practice than most students do. The university messed up by changing format but you still have options here. Take the shot."
       }
     ],
     "metadata": {
@@ -29281,14 +29057,6 @@
       {
         "role": "assistant",
         "content": "Dekh mere dost, stutter nervous hone pe aata hai - wo medical condition nahi hai usually, situational hai. 3 din mein completely fix nahi hoga par manage kar sakte ho. Ek kaam karo - questions ke answers record karo phone pe aur sun lo. Apni awaaz sun ke comfortable ho jaoge. Real interview mein agar stutter aaye toh ruk jao 2 second, breathe, phir continue karo. Interviewer samjhega - nervousness dekhte hain wo log daily. Unprofessional nahi hai nervousness."
-      },
-      {
-        "role": "user",
-        "content": "Yaar par agar real interview mein bhi same hua toh job nahi milegi. Ye mera last year hai college ka - placement miss ho gaya toh kya karunga? Parents ne itna invest kiya hai engineering mein."
-      },
-      {
-        "role": "assistant",
-        "content": "Yaar ye pressure - placement nahi mila toh kya hoga, parents ka investment - ye sab ek saath aa raha hai dimag mein aur nervousness aur badha raha hai. Par ek baat suno - stutter ke baath bhi bahut log job paate hain. Interview mein content matter karta hai, delivery se zyada. Teen din practice karo answers ki - content solid rakho. Agar stutter bhi aaya real mein toh content strong hoga toh compensate ho jaayega. Aur honestly, ek company reject karegi toh dusri milegi. Last year hai par last chance nahi hai life mein. Pressure kam karo apne upar - best dena hai bas."
       }
     ],
     "metadata": {
@@ -29317,14 +29085,6 @@
       {
         "role": "assistant",
         "content": "Dekh mere dost, jealousy human emotion hai - wo feel karna normal hai jab koi aage nikal jaata hai. Guilty feel karna bhi samajh aata hai kyunki tum achhe dost ho aur chahte ho ki khush raho uske liye. Par avoid karna friendship ko kharab kar dega. Ek kaam karo - usse honestly bolo ki tum struggle kar rahe ho apne results se aur thoda space chahiye process karne ke liye. Real friend samjhega. Apni pain acknowledge karo - suppress mat karo."
-      },
-      {
-        "role": "user",
-        "content": "Yaar agar maine bola toh wo samjhega ki main jealous hoon. Aur sach mein hoon bhi. Kabhi kabhi lagta hai ki uski success meri failure ko aur bada dikha rahi hai. Kaise handle karu ye feeling?"
-      },
-      {
-        "role": "assistant",
-        "content": "Yaar ye jo feel ho raha hai - uski success tumhare failure ko magnify kar rahi hai - ye comparison ka trap hai. Tumhari journey alag hai uski journey se. Wo aage gaya iska matlab ye nahi ki tum permanently peeche reh gaye. Ek exam hai ye - life nahi. Jealousy acknowledge karo but usme mat raho. Use karo motivation ke liye - agar wo kar sakta hai toh tum bhi kar sakte ho next attempt mein. Aur friendship bachani hai toh honest conversation zaroori hai - bolo ki struggle ho raha hai emotionally. Real friendship survive karegi honesty se."
       }
     ],
     "metadata": {
@@ -29353,14 +29113,6 @@
       {
         "role": "assistant",
         "content": "Dekh yaar, library band hai aur dost ke ghar bhi disturbance. Ghar mein hi manage karna padega toh ek kaam karo - earphones laga ke white noise ya instrumental music chala lo. Dhol ka shor block ho jaayega thoda. Aur agar ho sake toh subah jaldi uth jao jab shor kam hoga - 4-5 baje. 3-4 ghante shanti se mil jaayenge tab. Environment perfect nahi hai par kuch jugaad se kaam ho sakta hai."
-      },
-      {
-        "role": "user",
-        "content": "Yaar par itne din se yahi problem hai. Har din koi na koi cheez ho jaati hai ghar mein. Kabhi kisi ki tabiyat kharab, kabhi mehman aa jaate hain, kabhi yeh shaadi ka shor. Lagta hai mere paas kabhi proper study environment nahi hoga. Aise kaise exam clear karunga?"
-      },
-      {
-        "role": "assistant",
-        "content": "Yaar ye frustration bilkul sahi hai - proper environment nahi milna demotivating hai. Par dekh ek baat - jo students perfect environment mein padhte hain unka alag struggle hai, jo tum jaise circumstances mein padhte ho unka alag. Tum zyada resilient ho rahe ho yaar - difficult conditions mein mehnat kar rahe ho. Exam pass karne wale har student ko perfect environment nahi mila - bahut logo ne jugaad se kiya hai. Subah wale 3-4 ghante use karo maximum - wo tumhara golden samay ho sakta hai. Environment control nahi hai tumhare haath mein par effort hai. Wo dena."
       }
     ],
     "metadata": {
@@ -29389,14 +29141,6 @@
       {
         "role": "assistant",
         "content": "Okay so parallel parking is the trigger and it is performance anxiety specifically - you can do it alone but the observation freezes you. This is actually very common in driving tests. Here is what you try for attempt five - practice parallel parking with someone sitting in the passenger seat watching you silently. Get used to being observed. Do it ten times with someone watching. Your brain needs to learn that observation does not equal danger. Also talk out loud during the maneuver - say what you are doing step by step. Talking keeps your brain engaged and prevents the freeze."
-      },
-      {
-        "role": "user",
-        "content": "What if I fail again? My employer said this is the last chance they are giving me. If I do not get the license by next month I lose my job. Four failures already feel like proof I just cannot do this."
-      },
-      {
-        "role": "assistant",
-        "content": "Listen carefully. Four failures are not proof you cannot do this - they are proof you freeze under observation during one specific task. That is a very fixable problem. You drive fine otherwise. Your employer gave you one more month because they believe you can do it. Practice with observation starting tomorrow. Every day for two weeks. By the time you take attempt five your brain will be used to being watched. And even if worst case you fail again, there are jobs that do not require driving. But right now focus on what you can control - the practice. You have a clear path forward."
       }
     ],
     "metadata": {
@@ -29425,14 +29169,6 @@
       {
         "role": "assistant",
         "content": "Dekh mere dost, scratch se poora dobara banana impossible hai - par presentation structure tumhare dimag mein hai na. Ek kaam karo - slides mat banao detailed. Bullet points wali basic slides bana lo raat bhar mein - sirf outline. Presentation mein verbal explanation pe focus karo strong. Professor ko bata do honestly ki technical issue hua tha - proof dikhao repair wale ka. 40 percent marks hain but attempt toh karna hi hoga. Basic slides se bhi partial marks mil sakte hain."
-      },
-      {
-        "role": "user",
-        "content": "Yaar par agar professor ne nahi maana aur zero de diya toh? 40 percent zero matlab poora semester fail. Ek stupid mistake - backup nahi banaya - aur poora semester barbaad. Khud pe bahut gussa aa raha hai."
-      },
-      {
-        "role": "assistant",
-        "content": "Yaar khud pe gussa aa raha hai - I understand. Backup nahi banane ka regret heavy hai. Par abhi gusse se kuch nahi hoga - abhi action lena hai. Professor ko kal honestly situation explain karna, proof dikhana, aur jo bhi basic slides bana sakte ho wo leke jaana. Agar professor reasonable hai toh extension de sakta hai ya alternate arrangement. Zero guaranteed nahi hai. Aur semester fail bhi guaranteed nahi hai - attempt karne se better chance hai than giving up. Aaj raat basic outline bana lo aur kal confidently present karo. Mistake hui par usse seekhna hai, usme doobna nahi."
       }
     ],
     "metadata": {
@@ -29461,14 +29197,6 @@
       {
         "role": "assistant",
         "content": "Dekh mere dost, library slot nahi mila par ek kaam karo - directly college administration ko email karo emergency case ke liye slot request karo. Technical issue hai tumhare ghar pe - genuine reason hai. Aur backup plan rakhna - dost ke ghar se distraction ke saath bhi better hai than unreliable connection se. Family ko bolo exam important hai aur 2-3 ghante silence chahiye. Most families samajh jaate hain. Double backup rakho - library request + dost ka ghar ready."
-      },
-      {
-        "role": "user",
-        "content": "Yaar agar exam mein phir bhi disconnect ho gaya toh college wale mujhe zero denge. Backup nahi hai - ek hi attempt milta hai online mein. Darr lag raha hai bahut ki technical issue ki wajah se poora semester waste ho jaayega."
-      },
-      {
-        "role": "assistant",
-        "content": "Yaar ye darr valid hai - technical issue apni galti nahi hai par consequence tumhe bhugtan pada. Par ek baat suno - agar exam mein disconnect hua toh immediately screenshot lo error message ka aur college ko report karo same time pe. Evidence rakhna zaroori hai. Most colleges have contingency policy for technical failures - re-attempt ya alternate arrangement. Zero automatically nahi dete documented technical issues pe. Aaj hi college policy padh lo online exam ke liye - procedure pata hoga ki disconnect hone pe kya karna hai. Prepared rehna emotionally aur procedurally dono tarah se."
       }
     ],
     "metadata": {
@@ -29497,14 +29225,6 @@
       {
         "role": "assistant",
         "content": "Dekh mere dost, subject teacher specific hai requirement mein - matlab alternatives limited hain. Par ek kaam karo - scholarship committee ko directly email karo situation explain karte hue. Batao ki teacher ne refuse kiya aur kya alternate arrangement possible hai. Sometimes committees allow HOD letter ya department head ka letter. Rule rigid lagte hain par exceptions hote hain genuine cases mein. Try karne mein kya jaata hai."
-      },
-      {
-        "role": "user",
-        "content": "Yaar par agar committee ne bhi nahi suna toh? College afford karna impossible hai bina scholarship ke. Parents ke paas paise nahi hain. Lagta hai poora plan hi fail ho gaya. Kya karunga ab?"
-      },
-      {
-        "role": "assistant",
-        "content": "Yaar sun... ek teacher ka no aur financial impossibility - ye dono milke bahut heavy hai. Par ruk. Committee ko try karna first step hai - abhi kuch decide nahi hua hai. Agar wo bhi nahi suna toh student loans hain, part-time work options hain, aur bahut colleges mein internal financial aid bhi hota hai jo scholarship se alag hai. Ek rejection se sab khatam nahi hota. Teacher galat tha tumhe deserving nahi bolne mein - college jaane ke aur raaste bhi hain. Haar mat maano abhi se."
       }
     ],
     "metadata": {
@@ -29533,14 +29253,6 @@
       {
         "role": "assistant",
         "content": "Okay so switching medication is not viable for this exam because adjustment period is too long. For these 5 days here is what you can try - take half dose of current medication and see if drowsiness reduces while still managing some anxiety. Not ideal but might balance both issues temporarily. Also practice breathing exercises daily - 4-7-8 breathing technique helps panic without medication. After this exam work with therapist on long-term medication solution."
-      },
-      {
-        "role": "user",
-        "content": "What if half dose does not work and I still have a panic attack during the exam? Or what if I am still drowsy and cannot think clearly? Either way I fail and then what?"
-      },
-      {
-        "role": "assistant",
-        "content": "Listen carefully. You are catastrophizing both outcomes right now because anxiety is speaking. Half dose might work - you will not know until you try it during a practice test at home first. Do that tomorrow. Time yourself. See what happens. Worst case - you have a panic attack or drowsiness during exam - that does not define your entire future. One exam is not your whole life. You have been dealing with severe anxiety and still showing up to take exams. That takes real strength. Try the half dose tomorrow. Work with what you learn. You are doing everything you can."
       }
     ],
     "metadata": {
@@ -29569,14 +29281,6 @@
       {
         "role": "assistant",
         "content": "Dekh mere dost, roommate bol raha hai safe hai par risk real hai - expulsion matlab poora degree gone. Ek exam pass karne ke liye itna bada risk lena worth it nahi hai yaar. Pressure hai pass hone ka par cheating se pass hona temporary solution hai - agle exam mein phir same problem aayega. Honest attempt karo is baar. Fail bhi ho gaye toh supplementary milta hai - par caught cheating mein koi second chance nahi milta."
-      },
-      {
-        "role": "user",
-        "content": "Yaar par honest attempt se fail hone ka darr hai. Roommate results dekh raha hai - sab ko achhe marks mil rahe hain cheating se. Main struggle karke fail ho jaaunga toh regret hoga ki mauka tha aur nahi liya."
-      },
-      {
-        "role": "assistant",
-        "content": "Yaar sun mujhe carefully. Cheating se pass hoke regret nahi hoga? Har raat sochna padega ki tumhare marks fake hain? Aur agar kabhi caught hue future mein toh wo guilt aur shame? Ye mauka nahi hai yaar - ye trap hai. Struggle karke fail hona bhi better hai than cheating karke live karna us darr mein ki koi pata chal jaayega. Apne conscience se nahi jeet sakte. Honest attempt do - baaki outcomes secondary hain apni integrity se."
       }
     ],
     "metadata": {
@@ -29605,14 +29309,6 @@
       {
         "role": "assistant",
         "content": "Okay so you peaked at perfect timing and faculty strike threw everything off. Maintaining peak performance for another month does feel impossible when you are already burnt out. Here is what you do - take a complete break for one week. No studying at all. Let your brain reset. Then gentle review for two weeks - not intense, just maintenance. Final week before new exam date go intense again. You do not need to peak twice, just maintain and re-peak once."
-      },
-      {
-        "role": "user",
-        "content": "Taking a week off feels risky. What if I forget everything? What if that one week makes the difference between passing and failing? Cannot afford to waste time."
-      },
-      {
-        "role": "assistant",
-        "content": "Listen. Three months of preparation does not evaporate in one week. Your brain needs rest or you will burn out completely before the new exam date. One week off is not wasting time - it is strategic recovery that will actually improve your performance. Athletes rest before competitions for a reason. Your brain is the same. Burnt out brain retains nothing. Rested brain performs at peak levels. Trust the three months of work you already did. One week off will help you, not hurt you. Rest is part of preparation, not a break from it."
       }
     ],
     "metadata": {
@@ -29641,14 +29337,6 @@
       {
         "role": "assistant",
         "content": "Dekh mere dost, friend ICU mein aur tum exam hall mein - concentrate kaise karte us situation mein. Fail hona natural hai jab emotionally itna heavy situation ho. Par ek kaam karo - college ko medical emergency certificate submit karo friend ka. Compassionate grounds pe re-exam ya special consideration mil sakta hai genuine emergencies mein. Proof hai tumhare paas - hospital records, admission date. College ko batao situation."
-      },
-      {
-        "role": "user",
-        "content": "Yaar par kya college sunegi? Friend mera family nahi hai technically - blood relation nahi hai. Rules mein shayad immediate family emergency hi count hota hai. Aur mujhe lagta hai main weak dikh raha hoon agar excuse dunga."
-      },
-      {
-        "role": "assistant",
-        "content": "Yaar ruk. Weak nahi dikh rahe ho - human dikh rahe ho. Best friend serious accident mein tha aur tum exam dene gaye - wo already bahut strength hai. Blood relation rule strict lag sakta hai par colleges have discretion for exceptional cases. Apply karo compassionate grounds ke liye - worst case no bolenge, best case re-exam milega. Aur excuse nahi hai ye - genuine emergency thi. Apne liye stand lena weak nahi hai - necessary hai."
       }
     ],
     "metadata": {
@@ -29677,14 +29365,6 @@
       {
         "role": "assistant",
         "content": "Dekh mere dost, pichle do saal predictions accurate the toh trust karna logical tha. Teacher ki bhi galti hai agar pattern change ko track nahi kiya. Par ab jo hua so hua - exam ho chuka hai. Agar fail hue toh next attempt mein poora syllabus cover karna instead of predictions pe depend karna. Teacher ki advice lo par apna base broad rakho. Shortcut sometimes backfire karta hai."
-      },
-      {
-        "role": "user",
-        "content": "Yaar mujhe bahut gussa aa raha hai teacher pe. Unhone guarantee diya tha ki ye questions pakka aayenge. Maine baaki topics bilkul nahi padhe. Ab lagta hai unki wajah se mera saal waste ho gaya. Kaise trust karu next time?"
-      },
-      {
-        "role": "assistant",
-        "content": "Yaar gussa justified hai - trust toda gaya aur consequences tumhe face karne pad rahe hain. Par ek baat samjho - teacher ne bhi genuinely believe kiya hoga apne prediction pe past success ke basis pe. Galti intentional nahi thi shayad. Trust next time conditional rakho - teacher ki advice suno par apna backup plan rakho. Kabhi bhi 100 percent depend mat karo kisi ek source pe - chahe kitna bhi reliable lage. Lesson seekha hai - next attempt mein use karo."
       }
     ],
     "metadata": {
@@ -29713,14 +29393,6 @@
       {
         "role": "assistant",
         "content": "Dekh mere dost, pehle bhi hua aur kuch nahi hua - wo hopelessness samajh aati hai. Par exam hall mein discrimination legally wrong hai. Written complaint do examination board ko specifically - gender discrimination examination process mein impact karta hai. Special consideration ya re-exam demand kar sakte ho. Document karo date, time, security guard ka naam. Proof ke saath complaint zyada weight rakhti hai."
-      },
-      {
-        "role": "user",
-        "content": "Yaar mujhe darr hai ki complaint karke aur zyada target ban jaunga. College mein pehle se hi bahut log transphobic hain. Agar complaint ki toh harassment aur badh sakti hai. Safe feel nahi hota."
-      },
-      {
-        "role": "assistant",
-        "content": "Yaar ye darr completely valid hai - retaliation ka fear real hai jab already unsafe environment hai. Par dekh - tum already target ban rahe ho bina complaint kiye. Silent rehne se safety nahi milti. Complaint anonymously bhi kar sakte ho initially - ombudsman ya student welfare office ko. Aur honestly, agar college repeatedly discriminate kar raha hai toh external bodies hain - UGC grievance cell, NCM. Tumhe safe feel karna chahiye campus pe. Ye basic right hai."
       }
     ],
     "metadata": {
@@ -29749,14 +29421,6 @@
       {
         "role": "assistant",
         "content": "Dekh yaar, 2 ghante baad realization hui par abhi bhi action le sakte ho. Kal subah exam controller office jaao aur written application 2 - apna sahi roll number aur galat roll number donon mention karo. Sheet manually trace kar sakte hain records mein. Bahut students ko ye samasya hoti hai - correction mechanism hai usually. Jaldi karo - jitna jaldi report karoge utna better mauka hai sheet recover karne ka."
-      },
-      {
-        "role": "user",
-        "content": "Yaar par agar sheet recover nahi hui toh? Mera poora semester ka exam ek stupid mistake ki wajah se zero ho jayega. Itni mehnat ki thi padhne mein aur ab ye ho gaya. Bahut regret ho raha hai."
-      },
-      {
-        "role": "assistant",
-        "content": "Yaar regret hona natural hai - ek galti ne itna bada risk create kiya. Par abhi rona samay nahi hai - action lena hai. Kal morning pehle office pahuncho, written application 2, follow-up karo roz. Sheet recovery sambhav hai agar jaldi action lo. Aur worst case agar sheet nahi mili toh exam controller se re-exam request kar sakte ho administrative error grounds pe - tumhari galti thi par genuine mistake thi. Haar mat maano - apne liye lado."
       }
     ],
     "metadata": {
@@ -29785,14 +29449,6 @@
       {
         "role": "assistant",
         "content": "Okay so reporting meant facing bullying and that is a real safety concern. You chose self-preservation which is valid. But guilt is eating at you now. Here is the thing - you are not responsible for his choice to cheat. You did not help him actively. He took advantage of your position. The guilt you feel shows you have integrity but you are not complicit. You protected yourself from bullies. That is survival, not wrongdoing."
-      },
-      {
-        "role": "user",
-        "content": "But what if he gets better marks than me because he cheated off my answers? That feels so unfair. Should I still report it now anonymously or just let it go?"
-      },
-      {
-        "role": "assistant",
-        "content": "That unfairness is real and it does hurt. If you want to report anonymously now you can - some exam boards allow post-exam reports. But know that anonymous reports are harder to prove without evidence. If reporting puts you at risk of retaliation, protecting yourself is priority. His cheating will catch up to him eventually - people who cheat repeatedly get caught. You focus on your own work and your own safety. Your integrity is intact even if you choose not to report. Sometimes survival matters more than justice."
       }
     ],
     "metadata": {
@@ -29821,14 +29477,6 @@
       {
         "role": "assistant",
         "content": "Dekh mere dost, 5 baje bus leke 8 baje pahunchna risky hai traffic ki wajah se. Ek option try karo - exam center ke paas koi raat rukne ki jagah dhundo - hostel, paying guest, ya kisi relative ke ghar. Ek din pehle pahunch jao wahan. Cost thodi aayegi par exam miss karne se better hai. Ya phir carpool groups dekho online - kaafi students share ride karte hain exam ke liye."
-      },
-      {
-        "role": "user",
-        "content": "Yaar raat rukne ka paisa bhi tight hai. Aur carpool mein trust nahi hai - pata nahi wo log time pe niklenge ya nahi. Lagta hai ek baar phir late ho jaunga aur andar nahi jane denge. Hopeless feel ho raha hai."
-      },
-      {
-        "role": "assistant",
-        "content": "Yaar financial constraint real hai aur trust issue bhi valid hai carpool mein. Par hopeless mat ho - ek ek option explore karo. College ko email karo ki transport issue hai aur kya alternate exam center mil sakta hai paas mein - kabhi kabhi emergency cases mein change karte hain. Aur exam controller ko pichli baar ki situation bhi mention karo. Agar koi solution nahi mila toh 4 baje niklo ek din pehle wali bus se - raat bhar station pe baitho center ke paas agar zaroorat pade. Extreme lagta hai par exam miss karne se better hai. Koi na koi raasta niklega."
       }
     ],
     "metadata": {
@@ -29857,14 +29505,6 @@
       {
         "role": "assistant",
         "content": "Dekh mere dost, 70 percent cover karna strong preparation hai - tumne solid kaam kiya hai. Bhai 90 percent pe hai toh wo uski journey hai, tumhari nahi. Parents comparison kar rahe hain par tumhara progress real hai. Aaj se comparison ignore karo mentally - focus karo apne baaki 30 percent pe. Tumhari race khud se hai bhai se nahi. Apna best nikalo baaki ke time mein."
-      },
-      {
-        "role": "user",
-        "content": "Yaar par agar exam mein bhai mujhse zyada marks laye toh parents aur zyada compare karenge. Pehle se hi feel hota hai ki main second choice hoon unke liye. Kabhi kabhi soochta hoon ki kyu try kar raha hoon."
-      },
-      {
-        "role": "assistant",
-        "content": "Yaar ruk. Second choice feel hona bahut dard deta hai - I get it. Par ek baat suno - tum apne liye try kar rahe ho parents ko impress karne ke liye nahi. 70 percent cover kiya hai tumne - wo tumhari mehnat hai, tumhara achievement hai. Agar bhai zyada marks laye future mein bhi toh wo tumhari value kam nahi karta. Tum enough ho bhai ke results se independent. Exam do apne liye - validation ke liye nahi. Tu deserve karta hai respect chahe marks kuch bhi ho."
       }
     ],
     "metadata": {
@@ -29893,14 +29533,6 @@
       {
         "role": "assistant",
         "content": "Okay so evaluation cost is blocking access to accommodations - that financial barrier is real and unfair. Check if your college has free student counseling services that do educational assessments. Some universities offer this at no cost. Also contact disability rights organizations - they sometimes fund evaluations for students who cannot afford them. NGOs focused on learning disabilities might help. Document your struggles now - keep notes on how long reading takes you versus peers."
-      },
-      {
-        "role": "user",
-        "content": "Even if I get diagnosis eventually, this exam is next week. No time for accommodations approval process. I will fail again and my scholarship depends on passing. Feels hopeless honestly."
-      },
-      {
-        "role": "assistant",
-        "content": "Listen. Next week is too tight for formal accommodations - you are right about that. But hopeless is not accurate. Contact exam coordinator directly tomorrow morning - explain your situation, mention dyslexia, ask if emergency provisional accommodations are possible even without paperwork. Worst case they say no but some institutions allow provisional extensions pending documentation. And scholarship - most have appeals processes for students with documented disabilities. This one exam is not your final chance. Keep fighting for proper accommodations for future. You deserve fair testing conditions."
       }
     ],
     "metadata": {
@@ -29929,14 +29561,6 @@
       {
         "role": "assistant",
         "content": "Dekh mere dost, library waitlist pe ho - confirm nahi hai par chance hai. Uske saath saath ek backup plan banao cyber cafe ke liye. Ek corner seat book karo advance mein jahan distraction kam ho. Headphones leke jao noise cancel karne ke liye. Cafe owner ko bata do pehle ki exam hai aur disturbance nahi chahiye. Most cafe owners cooperative hote hain students ke saath. Privacy complete nahi milegi par manage ho sakta hai thoda."
-      },
-      {
-        "role": "user",
-        "content": "Yaar par agar library mein slot nahi mila aur cyber cafe mein koi technical issue aa gaya toh? Internet speed slow ho gaya ya system hang ho gaya exam ke beech? Sab risk lag raha hai. Ghar mein wifi hota toh itni tension nahi hoti."
-      },
-      {
-        "role": "assistant",
-        "content": "Yaar ye sab risk real hain - wifi nahi hone ki wajah se extra burden hai tumhare upar jo unfair hai. Par ek kaam karo - cyber cafe visit karo ek baar exam se pehle aur test karo internet speed. Speed test run karo multiple times. Owner se pucho peak hours mein kaisa rehta hai connection. Agar unstable hai toh doosra cafe try karo. Aur exam ke din early pahuncho - 30 minute pehle. System test karo properly. Risks minimize kar sakte ho planning se. Tum control nahi kar sakte ghar pe wifi nahi hona par precautions le sakte ho."
       }
     ],
     "metadata": {
@@ -29965,14 +29589,6 @@
       {
         "role": "assistant",
         "content": "Okay so past help creates obligation feeling - that makes sense. But teaching entire syllabus one day before is impossible and hurts both of you. Here is what you do - set a hard boundary tonight. Tell him you appreciate his semester help but you both need focused solo study time now. Offer to share your notes or summary sheets instead of live teaching. He can use those. You need to prioritize your own readiness. Helping is good but sacrificing your exam for his is not fair to yourself."
-      },
-      {
-        "role": "user",
-        "content": "What if he gets angry or feels betrayed? We live together and things will be awkward. Maybe I should just help him tonight and sacrifice my sleep to study later."
-      },
-      {
-        "role": "assistant",
-        "content": "Listen carefully. Sacrificing your sleep means sacrificing your exam performance. Exhausted brain fails exams. Your roommate will survive without live tutoring tonight - he has your notes option. If he gets angry about you protecting your own exam prep, that says more about him than you. Real friends understand boundaries especially before major exams. You can be kind and firm at same time. Say no tonight. Study for yourself. Awkwardness for one night is better than exam failure. You matter as much as he does."
       }
     ],
     "metadata": {
@@ -30001,14 +29617,6 @@
       {
         "role": "assistant",
         "content": "Dekh mere dost, 60 attempt kiye jo confirm the - wo strategy safe thi negative marking mein. 40 blank chhodna cautious approach tha. Regret natural hai par soch - agar wo 40 guess karke zyada galat ho jaate toh aur marks kat jaate. Tumne calculated risk li. Abhi result aane tak wait karo - 60 sahi answers se bhi passing ho sakta hai depending on cutoff. Agla exam hai toh strategy adjust kar lena - thoda risk lena seekhna padega."
-      },
-      {
-        "role": "user",
-        "content": "Yaar par sab log bol rahe hain ki unhone 85-90 attempt kiye. Main sirf 60 pe ruka. Competition mein toh main bahut peeche hoon. Agar fail hua toh saal waste ho jaayega. Khud pe bahut gussa aa raha hai."
-      },
-      {
-        "role": "assistant",
-        "content": "Yaar sun... sab 85-90 attempt kar rahe matlab sab zyada risk le rahe the. Unme se kitne sahi honge pata nahi. Tum 60 safe attempt kiye - quality over quantity approach tha. Khud pe gussa aa raha hai par strategy tumhari apni thi jo logical thi us moment mein. Fail bhi ho gaye toh lesson seekha - next time thoda aggression badhana. Par abhi guilt mein mat baitho. Result aane de - 60 questions achhe se solve kiye hain toh chance hai. Apni choice pe khade raho."
       }
     ],
     "metadata": {
@@ -30037,14 +29645,6 @@
       {
         "role": "assistant",
         "content": "Dekh mere dost, dono choices mein pain hai - ye sach hai. Funeral attend karna emotional closure dega but exam prep disturb hoga. Skip karna guilt dega but preparation time milega. Ek option dekho - funeral ke liye subah jao 2-3 ghante, last goodbye bolo grandmother ko, phir wapas aao aur shaam ko thoda padh lo. Complete attendance nahi hogi par presence toh hogi. Exam genuine reason hai - family eventually samjhegi."
-      },
-      {
-        "role": "user",
-        "content": "Yaar par family mein kuch log already bol rahe hain ki main selfish hoon exam ko priority de raha hoon. Grandmother ne bahut pyaar kiya tha mujhe. Unke liye itna bhi nahi kar sakta feel ho raha hai. Sahi decision kya hai samajh nahi aa raha."
-      },
-      {
-        "role": "assistant",
-        "content": "Yaar... selfish nahi ho tum. Grandmother chahti thi tumhara achha future - exam ussi future ka part hai. Unke liye sab chhod ke funeral mein rehna pyaar dikhata hai par apna future sacrifice karna bhi unhe khushi nahi deti. Sahi decision wo hai jo tumhe peace de - 2-3 ghante funeral attend karo presence ke liye, goodbye bolo unhe, phir focus karo exam pe jo grandmother chahti thi tum pass karo. Family naraz hogi thode time ke liye par eventually samjhenge. Tum unhe yaad rakh rahe ho dil mein - wo sabse important hai."
       }
     ],
     "metadata": {
@@ -30073,14 +29673,6 @@
       {
         "role": "assistant",
         "content": "Dekh yaar, ye karshik paristhiti hai. Exam board ka rule sahi hai - chicken pox failne wali bimari hai aur doosre students ko khatre mein daal dena galat hoga. Medical certificate ke saath exam controller ko emergency appeal karo - special arrangement maango isolated room mein ya alternate date. Bahut boards aise cases mein exception dete hain genuine medical emergency ke liye. Abhi directly contact karo unhe certificate attach karke."
-      },
-      {
-        "role": "user",
-        "content": "Yaar par agar unhone exception nahi diya toh? Poora saal barbaad ho jaayega ek bimari ki wajah se jo meri galti nahi thi. Parents ne itna kharcha kiya hai fees pe. Aise hi waste ho jaayega sab kuch."
-      },
-      {
-        "role": "assistant",
-        "content": "Yaar poora saal waste hone ka darr asli hai par pehle appeal toh karo. Chicken pox tumhari galti nahi hai - medical emergency hai legitimate. Exception nahi mila toh supplementary exam ka option hota hai medical cases mein - wo bhi koshish karo. Parents ka paisa waste nahi hoga kyunki tum genuinely beemar ho, laziness nahi hai. College ko batao properly medical documents ke saath. Agar isolated arrangement mile toh mask laga ke de sakte ho maintaining distance. Hal niklega - pehle official channel koshish karo ghabrane se pehle."
       }
     ],
     "metadata": {
@@ -30109,14 +29701,6 @@
       {
         "role": "assistant",
         "content": "Dekh mere dost, request karne mein kya jaata hai - try karo personal emergency cite karke without details. Reject ho gaya toh plan B banao - exam hall mein different section mein baitho if possible. Jaldi pahuncho center pe aur seat change maango invigilator se. Exam ke time focus sirf paper pe rakho - ex ko dekhna avoid karo consciously. Deep breathing practice kar lo pehle se agar anxiety aaye toh manage karne ke liye."
-      },
-      {
-        "role": "user",
-        "content": "Yaar par agar center change nahi hua aur exam hall mein mil gaya face to face toh? Breakup ke baad pehli baar dekhna hoga. Poori taiyaari kharab ho jaayegi us moment mein. Kal ke liye itna darr lag raha hai."
-      },
-      {
-        "role": "assistant",
-        "content": "Yaar ye darr samajh aata hai - pehli baar dekhna painful hoga. Par ek baat suno - exam hall mein sab apne paper pe focused honge including tumhara ex. 3 ghante ka exam hai jisme interaction ki zaroorat nahi hai bilkul. Dekh liya toh dekh liya - acknowledge karo mentally aur paper pe wapas aao. Tumhari preparation strong hai wo ex ke presence se change nahi ho jaati. Kal subah confidence ke saath jaao - exam tumhara hai, ex ka nahi. Tum deserve karte ho achha perform karna regardless of who else is there."
       }
     ],
     "metadata": {
@@ -31181,14 +30765,6 @@
       {
         "role": "assistant",
         "content": "Yaar do mahine se reading aur audiobooks dono mein focus zero. Wo frustrating hoga bahut. Par dekh, ye tumhari reading passion khatam nahi hui - tumhara brain processing capacity khatam ho gaya hai burnout se. Books absorb karne ke liye energy chahiye jo abhi nahi hai. Library membership waste nahi ho raha - tum temporarily pause pe ho."
-      },
-      {
-        "role": "user",
-        "content": "Par yaar reading mera escape tha life se. Ab wo bhi nahi raha toh kahan jaun mentally? Lagta hai sab kuch chhin gaya. Identity ka hissa tha wo."
-      },
-      {
-        "role": "assistant",
-        "content": "Yaar sun mujhe carefully. Reading tumhara escape tha aur wo temporarily blocked feel ho raha - us loss ko feel karna valid hai completely. Identity ka hissa tha - wo pain real hai. Par ye permanent nahi hai, I promise. Tumhara reader wala part kayam hai andar, sirf abhi access nahi kar pa rahe. Jab brain recover karega, books wapas tumhare liye khulenge naturally. Abhi koi naya escape dhoondhne ki zaroorat nahi - abhi sirf survive karo bina escape ke. Sometimes we need to sit with discomfort without running. Tumhari identity reader se zyada hai - ye phase tumhe wo dikhayega. Rest lo guilt-free. Books wait kar sakti hain tumhare liye."
       }
     ],
     "metadata": {
@@ -31217,14 +30793,6 @@
       {
         "role": "assistant",
         "content": "Yeah people getting upset when you are burnt out adds guilt on top of exhaustion. Opening the app causing anxiety - that is your nervous system saying it cannot handle more input right now. Messages feeling like homework is exactly what burnout does to social connection. You have not changed permanently and you do care - you are just maxed out."
-      },
-      {
-        "role": "user",
-        "content": "Should I send a mass message explaining? Or will that make it worse? I feel bad but also cannot bring myself to reply individually to everyone."
-      },
-      {
-        "role": "assistant",
-        "content": "Listen, you do not owe anyone an explanation but if the guilt is eating you then yes send a simple mass message. Keep it short - something like needing space right now, nothing personal, will reconnect when able. Do not over-explain or apologize excessively. Real friends will understand. People who get mad at you for protecting your mental health are not your responsibility. Individual replies are too much when you are this drained. Mass message or even just letting it be - both are valid choices. Your energy matters more than their expectations. Social obligations can pause. You are not being rude, you are surviving."
       }
     ],
     "metadata": {
@@ -31253,14 +30821,6 @@
       {
         "role": "assistant",
         "content": "Yaar teen hafte ghar mein aur darkness comfortable lag rahi - wo isolation burnout mein naturally ho jaata hai. Bahar ki duniya overwhelming lagti hai toh andar retreat karte hain. Doston ke plans refuse karna guilt deta hoga par tumhe wo space chahiye. Darkness mein comfort natural hai jab overstimulated ho."
-      },
-      {
-        "role": "user",
-        "content": "Par kya ye unhealthy nahi hai? Vitamin D deficiency hogi, aur zyada depressed ho jaunga shayad. Par bahar jaane ki energy nahi hai bilkul."
-      },
-      {
-        "role": "assistant",
-        "content": "Yaar valid concern hai - vitamin D aur isolation health pe impact karte hain long term. Par abhi forcing yourself bahar jaane se zyada harm hoga. Ek kaam karo - curtains 10 minute ke liye kholo subah, window ke paas baitho. Bahar jaana zaroori nahi, sirf thodi natural light. Vitamin D supplement le lo agar possible ho. Aur ye phase permanent nahi hai - jab energy wapas aayegi naturally bahar jaane ka mann karega. Abhi jo comfortable feel ho raha hai andar darkness mein, wo tumhare system ka tareeka hai recover karne ka. Respect karo use while taking small steps for basic health. Bahar jaane ka guilt chhod do - healing linear nahi hoti. Jab ready hoge tab jayoge."
       }
     ],
     "metadata": {
@@ -31289,14 +30849,6 @@
       {
         "role": "assistant",
         "content": "Yaar hafte bhar se hygiene minimal - gross nahi hai ye, exhaustion hai. 5 minute bhi mountain lagta jab energy zero ho. Burnout basic tasks ko bhi impossible bana deta. Dry shampoo smart solution hai actually - tum cope kar rahe ho available energy ke saath."
-      },
-      {
-        "role": "user",
-        "content": "Par aise kitne din chalega? Office jaana padta hai aur log notice karenge agar hygiene kharab rahi. Mujhe khud se disgust ho raha hai thoda."
-      },
-      {
-        "role": "assistant",
-        "content": "Yaar office jaana hai aur social pressure bhi - wo concern real hai. Aur khud se disgust feel karna dard deta hai. Par ek baat sun - tum disgust ke layak nahi ho, tum exhausted ho. Bahut farak hai. Office ke liye minimum karo - wet wipes full body ke liye, deodorant, teeth definitely brush karo bas. Full shower optional hai jab energy ho. Weekend pe bhi agar energy nahi toh skip karo guilt-free. Aur ye phase temporary hai - jaise jaise burnout kam hoga, hygiene naturally improve hoga. Abhi survival mode pe ho. Standards kam rakho apne pe. Self-disgust ko challenge karo - tum best kar rahe ho jo kar sakte ho abhi. Wo enough hai."
       }
     ],
     "metadata": {
@@ -31325,14 +30877,6 @@
       {
         "role": "assistant",
         "content": "Past month of declining performance - brain fog making you slower and forgetful. Comparing to your past self hurts when you know you were capable before. That is burnout affecting cognitive function directly. Not incompetence, just exhaustion manifesting as poor performance."
-      },
-      {
-        "role": "user",
-        "content": "But what do I do? I cannot afford to lose this job. Should I tell my boss I am burnt out or will that make it worse? Need this income desperately."
-      },
-      {
-        "role": "assistant",
-        "content": "Okay so financial pressure makes this scarier - job loss is not an option. Telling boss about burnout is risky, depends on your workplace culture. If they are understanding, disclosing might get you accommodations or reduced load temporarily. If they are not, it could be used against you. You know your boss better than I do. Alternative - focus on small wins to show improvement while secretly reducing your standards for yourself. Prioritize only critical tasks, let non-essential things slide. Use calendar reminders obsessively for everything. Take any sick days you have to rest properly. And honestly, if this job is burning you out this badly, start quietly looking for something less demanding even if it pays less. Your health is worth more than any paycheck, even when money is tight. Losing yourself completely will cost more than losing this job eventually."
       }
     ],
     "metadata": {
@@ -31361,14 +30905,6 @@
       {
         "role": "assistant",
         "content": "Yaar do hafte se full disconnect - notifications se anxiety aur calls demands lagte. Peace mil raha par guilt bhi hai emergencies ka. Ye conflict natural hai. Tumne apne liye boundary banayi jo zaroori thi. Peace > accessibility jab burnt out ho."
-      },
-      {
-        "role": "user",
-        "content": "Par kya main selfish hoon? Agar kisi ko actually emergency mein madad chahiye thi aur maine phone nahi uthaya? Ye sochke darr lagta hai."
-      },
-      {
-        "role": "assistant",
-        "content": "Yaar selfish nahi ho tum - self-preserving ho. Aur sun, real emergencies mein log ek hi call pe nahi rukte, multiple ways try karte hain. Tumhara phone silent hone se kisi ki emergency solve nahi ho jaati usually - doosre log bhi hote hain. Aur honestly, jab tum khud emergency mode mein survive kar rahe ho apni life mein, toh doosron ki responsibility tumhare shoulders pe nahi aani chahiye. Wo guilt - 'what if someone needs me' - wo conditioning hai jo burnt out logon ko rest nahi lene deti. True emergency aaye toh log tumhe dhoondh lenge multiple ways se. Baaki sab wait kar sakta hai. Tumhari peace priority hai abhi. Phone silent rakhna self-care hai, selfishness nahi. Aur agar ye darr bahut hai toh ek compromise - roz ek baar sham ko check kar lo messages, emergency hai koi toh respond karo. Baaki din silent. Wo boundary bhi valid hai."
       }
     ],
     "metadata": {
@@ -31397,14 +30933,6 @@
       {
         "role": "assistant",
         "content": "Yaar partner ko samajh nahi aa raha aur wo priority wala argument use kar raha - wo painful hai jab tum genuinely struggle kar rahe ho. Effort relationship mein chahiye wo sahi hai par burnout mein wo capacity hi nahi bachti. Tumhari care real hai par expression ki energy nahi hai abhi."
-      },
-      {
-        "role": "user",
-        "content": "Kya karun? Relationship kharab nahi hone dena chahta par apne aap ko bhi force nahi kar sakta. Breakup ka darr bhi hai agar aisa chalta raha."
-      },
-      {
-        "role": "assistant",
-        "content": "Yaar ye bahut tough spot hai - relationship save karni hai par khud bhi bachana hai. Dekh, ek honest conversation chahiye partner ke saath. Explain karo clearly ki ye temporary phase hai burnout ka, permanent change nahi. Batao specifically what you need - maybe less frequent dates, more quiet time together instead of active plans, understanding when you zone out. Agar partner genuinely care karta hai toh adjust karega. Agar nahi kar sakta toh honestly, wo relationship tumhare liye sustainable nahi hai long term. Burnout test karta hai relationships - jo support de sake wo stay karte, jo nahi de sakte wo leave karte. Dono outcomes painful hain par tumhe apni recovery priority pe rakhni hogi. Breakup darr valid hai par apne aap ko completely sacrifice karke relationship banana bhi sustainable nahi. Communicate honestly, request specific accommodations, aur phir partner ki choice hai. Tum apna kaam kar rahe ho survive karke."
       }
     ],
     "metadata": {
@@ -31433,14 +30961,6 @@
       {
         "role": "assistant",
         "content": "Yaar ek hafte se bed-bound aur shareer dard bhi ho raha. Couch tak bhi nahi ja pa rahe - trapped mehsoos karna sahi hai jab movement bhi effort lagta. Ye extreme thakaan hai jo physical mobility ko bhi affect kar raha. Bed se chipke rehna survival response hai jab shakti bilkul zero ho."
-      },
-      {
-        "role": "user",
-        "content": "Kya main kabhi normal ho paunga? Aise lagta hai hamesha aisa hi rahunga. Uthne ki himmat nahi hai aur ye future bahut scary lagta hai."
-      },
-      {
-        "role": "assistant",
-        "content": "Yaar ye feeling - hamesha aisa hi rahunga - wo burnout ka sabse andhera hissa hai jab aasha bhi khatam ho jaata. Par sun mujhe bahut dhyan se. Ye temporary hai, waada karta hoon, chahe abhi permanent lage. Tumhara shareer complete shutdown mode mein hai kyunki wo bahut samay se overworked tha. Abhi wo force kar raha hai tumhe vishram lene pe. Himmat ki zaroorat nahi hai uthne ki - sweekar ki zaroorat hai ki abhi bed mein rehna thik hai. Kabhi normal hoge? Haan, bilkul. Par wo normal wapas aane ke liye tumhe abhi ye phase fully sweekar karna padega bina fight kiye. Shareer dard ke liye thodi stretching bed pe hi karo - legs upar karo, arms ghoomao. Couch jaana goal mat banao abhi. Bed mein hi theek rehna goal hai. Jab thoda shakti aaye natural taur pe tab gati karna. Bhavisya darawana hai par focus abhi sirf aaj pe rakho. Aaj bed mein rehna anumati hai. Kal ka kal dekhenge."
       }
     ],
     "metadata": {
@@ -31469,14 +30989,6 @@
       {
         "role": "assistant",
         "content": "Weeks of planning and failing and self-hatred cycle. That is brutal. Writing lists and setting alarms shows you care and want to function. But executive function is completely shot from burnout. The gap between intention and capability is causing that self-hatred."
-      },
-      {
-        "role": "user",
-        "content": "So what do I do? Stop making plans entirely? That feels like giving up. But this cycle is destroying me mentally each day."
-      },
-      {
-        "role": "assistant",
-        "content": "Yeah this cycle is torture - plan, fail, hate yourself, repeat. Here is what you do - stop making plans completely for two weeks. No to-do lists, no alarms, no productivity goals. Zero. That is not giving up, that is breaking a harmful pattern. Your brain cannot handle the pressure of promises to yourself right now. Every failed plan adds more shame and makes burnout worse. Instead, do whatever you can in the moment without pre-planning. Brush teeth when you feel like it, not because you scheduled it. Eat when hungry, not on a meal plan. This removes the failure component completely. After two weeks of this pressure-free existence, you might naturally start doing small things without forcing. Or you might need more time. Either is fine. Productivity will return but only after you stop demanding it from yourself. The self-hatred is the real enemy here, not the lack of productivity. Kill the cycle by removing expectations entirely."
       }
     ],
     "metadata": {
@@ -31505,14 +31017,6 @@
       {
         "role": "assistant",
         "content": "Yaar late fees lag rahe aur financial apps kholne se anxiety. Numbers overwhelming lagte - wo burnout mein common hai jab decision-making capacity low ho. Money ignore karna short term mein peace deta par long term problem badhata. Par tumhari avoidance valid response hai overwhelm se."
-      },
-      {
-        "role": "user",
-        "content": "Toh kya solution hai? Ignore karta rahunga toh debt badhega. Par handle karne ki capacity nahi hai. Stuck hoon completely."
-      },
-      {
-        "role": "assistant",
-        "content": "Yaar ye stuck feeling real hai - ignore karoge toh debt badhe, face karoge toh overwhelm ho. Par ek middle path hai. Ek kaam karo - kisi trusted friend ya family member se help maango specifically finances manage karne mein temporarily. Unhe access do bills ko pay karne ke liye - tum sirf approve karo, wo execute karein. Ya phir financial advisor se baat karo jo simple plan bana de autopay ke liye sab kuch. Tumhe daily numbers dekhne ki zaroorat nahi, bas system set ho jaaye. Aur honestly, agar kuch bills late ho bhi jaate hain temporarily, wo okay hai. Late fees lagenge par tumhara mental health usse zyada important hai. Debt recover ho sakta, tumhara collapse nahi ho sakta. Agar bilkul kisi se help nahi le sakte toh bare minimum karo - most critical bill pay karo mahine mein ek baar, baaki slide hone do temporarily. Ye survival mode hai, perfection nahi chahiye. Jab energy wapas aaye tab proper manage karoge."
       }
     ],
     "metadata": {
@@ -31541,14 +31045,6 @@
       {
         "role": "assistant",
         "content": "Yaar kuch mahino se dates yaad nahi aur Facebook reminders bhi ignore - wo painful hai jab log special feel karna chahte hain tumse. Par dekh, birthdays yaad rakhna cognitive load hai jo burnout mein sabse pehle jaata hai. Dimag mein kuch stick nahi ho raha matlab retention capacity khatam hai. Facebook reminders ignore karna bhi energy conservation hai unconsciously."
-      },
-      {
-        "role": "user",
-        "content": "Par relationships kharab ho rahi hain isse. Best friend ka birthday miss kiya last week - abhi tak gussa hai. Bolti hai main care nahi karta. Par main care karta hoon, sirf remember nahi kar pata."
-      },
-      {
-        "role": "assistant",
-        "content": "Yaar best friend gussa hai aur tumhe care nahi karta bol raha - wo accusation dard deta hai jab truth ye hai ki tum care karte ho par capacity nahi hai. Relationships genuinely impact ho rahi hain missed dates se. Par ek solution hai practical - phone mein calendar alerts set karo 2 din pehle har important date ke liye. Automatic reminder jo tum ignore nahi kar sakte. Ya phir kisi close friend ko batao ki tumhe remind kare - network banana padega external memory ka. Aur honestly, real friends eventually samjhenge ki ye tumhari memory failure hai, not lack of care. Jo nahi samjhenge unke saath relationship anyway conditional thi. Care tumhare dil mein hai - wo enough hai. Systems bana lo yaad rakhne ke liye externally. Burnout se memory wapas aayegi par tab tak automation se kaam chalao. Best friend ko honestly bolo situation aur maafi maango genuinely - agar wo tumhe jaanta hai toh eventually samjhega."
       }
     ],
     "metadata": {
@@ -31577,14 +31073,6 @@
       {
         "role": "assistant",
         "content": "Month of trying different content and nothing grabbing you - scrolling for an hour then giving up. That restlessness during passive entertainment is classic burnout. Your brain cannot settle into receptive mode anymore. Constantly scrolling shows you are searching for engagement but too exhausted to actually engage when you find something."
-      },
-      {
-        "role": "user",
-        "content": "So what am I supposed to do with my free time if I cannot even watch TV? Just stare at walls? That feels depressing."
-      },
-      {
-        "role": "assistant",
-        "content": "Yeah the what do I do with free time question hits hard when your main escape is gone. Staring at walls does feel depressing but honestly - sometimes that is exactly what burnt out brains need. Unstimulated time where you are not consuming anything. No shows, no scrolling, no input. Just existing quietly. It feels wrong because we are taught free time needs entertainment but your nervous system is begging for true rest, not distraction. Try sitting with boredom deliberately for even ten minutes. No phone, no screen. Just sitting. It will be uncomfortable initially but that discomfort is your addiction to stimulation showing itself. After a while your brain might naturally generate thoughts or creativity that has been suppressed by constant input. Or you might just zone out peacefully. Both are healing. Entertainment will work again eventually but only after you give your brain the unstimulated rest it desperately needs right now."
       }
     ],
     "metadata": {
@@ -31613,14 +31101,6 @@
       {
         "role": "assistant",
         "content": "Yaar teen hafte se grocery shopping impossible - list ke saath bhi confuse ho rahe aur lights sounds overstimulating lag rahe. Ye sensory overload + decision fatigue ka combination hai burnout mein. Supermarket deliberately overwhelming jagah hai - choices, colors, sounds. Tumhara nervous system already maxed out hai toh wo environment handle nahi kar pata."
-      },
-      {
-        "role": "user",
-        "content": "Toh kaise manage karun? Khana toh chahiye hi. Online ordering mehnga padta hai har baar. Par physical jaana impossible lagta hai."
-      },
-      {
-        "role": "assistant",
-        "content": "Yaar khana zaroori hai par supermarket impossible - ye practical problem hai jo solve karni padegi. Dekh, kuch options hain. Ek - online ordering ka budget bana lo aur accept karo ki mental health ke liye wo extra cost worth hai temporarily. Recovery investment samjho. Do - agar offline hi jaana hai toh off-peak hours jaao jab kam crowd ho - subah jaldi ya late night. Teen - repeat purchase option use karo online - same items har hafte automatically without choosing. Chaar - kisi friend ya family ko ek baar saath le jao jo decisions le sake tumhare liye while you just push the cart. Aur honestly, agar kuch din takeout pe survive karna pade toh wo bhi okay hai temporarily. Nutrition important hai par perfect grocery shopping se zyada important tumhara mental bandwidth bachana hai. Shortcuts le lo guilt-free. Ye survival mode hai - efficiency nahi chahiye, bas functioning chahiye."
       }
     ],
     "metadata": {
@@ -31649,14 +31129,6 @@
       {
         "role": "assistant",
         "content": "Past few months this guilt intensified - weekends used to be safe but now even five minutes triggers it. Checking time constantly during rest means you are monitoring yourself like a productivity machine instead of a human being. That is burnout amplifying your internalized productivity culture to toxic levels."
-      },
-      {
-        "role": "user",
-        "content": "How do I turn it off? The guilt voice is so loud I cannot ignore it. Even when I try to rest my heart races from anxiety about wasting time."
-      },
-      {
-        "role": "assistant",
-        "content": "Turning off that voice is not quick or easy - it is deeply programmed. But here is what you can try. When the guilt voice starts, acknowledge it out loud - say literally 'I hear you guilt, I know you think I should be productive right now.' Then respond to it - 'But rest IS productive. Rest is what allows future productivity. Rest is not wasting time, it is investing in my capacity.' Have this dialogue externally if needed. The guilt will not disappear immediately but you start creating distance from it by treating it as a voice you can talk back to instead of absolute truth. Also reframe what counts as productive - resting when exhausted is productive. Lying still when anxious is productive. Doing nothing when overstimulated is productive. Productivity is not just output, it is also maintenance and repair. Your body resting is literally productive cellular repair happening. Give yourself permission to redefine productivity to include rest. The heart racing will calm down as you practice this repeatedly over weeks. Be patient with yourself."
       }
     ],
     "metadata": {
@@ -31685,14 +31157,6 @@
       {
         "role": "assistant",
         "content": "Yaar do mahine mein gradually sab collapse ho gaya - exercise phir breakfast phir basic grooming bhi minimal. Late hone ka darr hai isliye shortcuts - par ye shortcuts actually tumhe aur zyada exhausted bana rahe hain long term. Morning routine structure deta hai aur energy deta, skip karne se din bhar depleted feel hota."
-      },
-      {
-        "role": "user",
-        "content": "Par morning mein time hi nahi hai yaar. Neend se uthta hoon last minute pe. Alarm bajta rehta par snooze karta rehta hoon kyunki thakaan nahi jaati."
-      },
-      {
-        "role": "assistant",
-        "content": "Yaar morning time nahi kyunki neend se late uthte ho aur snooze karte rehte - wo thakaan chronic hai jo sleep se fix nahi ho rahi. Vicious cycle ban gaya - raat ko late sote, subah exhausted uthte, routine skip karte, din bhar depleted, phir raat ko phir late. Isko todna padega. Ek kaam karo - alarm 10 minute pehle set karo aur snooze button door rakh do literally. Uthne ke baad seedha bathroom jaao without thinking. Aur morning routine simplify karo - grand workout ka plan mat rakho, bas 5 minute stretch karo. Breakfast bhi simple - banana ya cereal, elaborate mat banao. Ye minimalist routine maintain karna zyada sustainable hai than zero routine. Aur raat 10 baje sone ki koshish karo forcefully ek hafte ke liye - sleep debt clear karne ke liye. Morning time banana hai toh night routine fix karni padegi pehle."
       }
     ],
     "metadata": {
@@ -31721,14 +31185,6 @@
       {
         "role": "assistant",
         "content": "Yaar kuch mahino se compliments deflect karte ho aur disprove karne lagte - nahi simple tha luck tha. Ye tumhara self-worth burnout mein itna gir gaya hai ki genuine appreciation bhi fake lagti hai. Jab khud pe trust nahi hota toh doosron ke positive feedback pe bhi trust nahi hota. Defense mechanism ban gaya deflecting."
-      },
-      {
-        "role": "user",
-        "content": "Haan exactly. Andar se lagta hai agar accept kar liya compliment toh expectation badh jayegi aur main deliver nahi kar paunga. Isliye better hai hi nahi accept karna. Safe rehta hoon."
-      },
-      {
-        "role": "assistant",
-        "content": "Yaar wah - ye insight important hai. Compliment accept karne se expectation badhne ka darr hai aur deliver na kar paane ka darr. Toh deflect karna protection hai future failure se. Par ye strategy backfire kar raha - compliments reject karke tum apni existing achievements bhi invalidate kar rahe ho. Aur log eventually compliment dena band kar denge agar tum hamesha dismiss karoge. Ek kaam karo - next compliment aaye toh sirf 'thank you' bolo. Sirf itna. Explanation mat do, justification mat do, deflection mat karo. Bas 'thank you' aur quiet raho. Uncomfortable lagega initially par practice karo. Tumhe sach mein accept karne ki zaroorat nahi andar se - sirf social grace maintain karo 'thank you' bolke. Eventually jaise burnout kam hoga, compliments pe trust wapas aane lagega naturally. Abhi fake it till you make it approach lo. Aur expectation badhe toh boundaries bol sakne ki practice karo - compliment accept karna commitment nahi hai future performance ki."
       }
     ],
     "metadata": {
@@ -31757,14 +31213,6 @@
       {
         "role": "assistant",
         "content": "Yaar mahine bhar se har sound distracting aur irritating - office ghar dono jagah peace nahi. Ye auditory hypersensitivity burnout mein common hai jab nervous system overloaded ho. Normal sounds bhi threat ki tarah process hote hain overstimulated brain mein. Headache bhi wo overstimulation ka physical symptom hai."
-      },
-      {
-        "role": "user",
-        "content": "Kya solution hai? Noise-cancelling headphones pehnu poora din? Par wo bhi uncomfortable hai. Chup jagah dhoondhna impossible hai city mein. Kaise manage karun?"
-      },
-      {
-        "role": "assistant",
-        "content": "Yaar city mein complete silence impossible hai aur headphones uncomfortable - ye practical challenge hai. Par kuch strategies try karo. Ek - noise-cancelling headphones uncomfortable hain toh foam earplugs try karo jo cheaper aur lighter hain. Office mein pehno jab focus chahiye. Do - white noise ya brown noise apps use karo jo background noise ko mask kar dete hain without complete silence - sometimes gentle consistent sound better hota than jarring intermittent sounds. Teen - agar possible ho toh office mein quieter corner ya cabin request karo temporarily due to concentration issues. Chaar - ghar pe ek designated quiet zone banao - ek room ya corner jahan jaake 30 minute isolation le sako evening mein. Aur honestly, ye sensitivity temporary hai - jaise jaise burnout kam hoga, sound tolerance wapas badhega. Abhi tumhara nervous system defensive mode mein hai. Protection lo environment se jaha possible ho, aur jaha nahi ho waha acceptance practice karo. Irritation acknowledge karo par usmein na phasho - 'yes this is loud, yes I am irritated, and I will survive this' repeat karo mentally."
       }
     ],
     "metadata": {
@@ -31793,14 +31241,6 @@
       {
         "role": "assistant",
         "content": "Three months of constant illness cycle - doctor saying rest more but responsibilities not allowing it. Your body is literally forcing you to stop through illness because you will not stop voluntarily. Burnout tanks immune system severely. Stress hormones suppress immunity making you vulnerable to every infection around."
-      },
-      {
-        "role": "user",
-        "content": "So I am making myself sick by not resting? That sounds backwards. If I rest I fall behind more. Then more stress. How do I break this?"
-      },
-      {
-        "role": "assistant",
-        "content": "Yeah it does sound backwards but it is exactly what is happening. Not resting creates stress which tanks immunity which causes illness which forces rest anyway. You are resting either way - either voluntarily and controlled, or involuntarily through sickness. The involuntary way takes longer and makes you fall further behind than planned rest would. Break the cycle by taking three full rest days right now before you get sick again. Complete rest - no work, no responsibilities, just sleep and gentle recovery. Prevention is faster than cure. Your body is screaming for a break and will keep forcing illness until you listen. Those responsibilities will still be there after rest but you will handle them better when not constantly sick. Missing three days of work voluntarily is better than missing two weeks in pieces due to repeated illness. Your immune system needs deep rest to rebuild. Give it that now before next infection hits."
       }
     ],
     "metadata": {
@@ -31829,14 +31269,6 @@
       {
         "role": "assistant",
         "content": "Yaar mahino se unused aur har baar dekhke apraadh hoti - paisa lagaya aur use nahi ho raha. Par ye sunk cost fallacy hai. Jo paisa invest hua wo pehle se gone hai - use nahi karne se wo wapas nahi aayega. Apraadh tumhe hobby karne pe force nahi kar sakta jab shakti zero hai. Tumne hobbies isliye li thi ki joy mile, ab joy nahi milta toh forcing karne se purpose hi defeat ho jaata."
-      },
-      {
-        "role": "user",
-        "content": "Toh kya karun? Sell kar dun sab? Ya rakhe rahun hoping ki kabhi wapas mann karega? Dono options mein guilt hai."
-      },
-      {
-        "role": "assistant",
-        "content": "Yaar dono options mein apraadh mehsoos ho raha - sell karo toh haar maanna lagega, rakho toh waste lagega. Ek kaam karo - ek box mein sab hobbies ka saman band karke almirah mein rakh lo jahan dikhta nahi roz. Jab shakti wapas aayegi naturally toh box khol lena. Agar 6 mahine baad bhi touch nahi kiya toh tab sell karne ka decision lena. Abhi decision forcing mat karo. Aur sach mein, wo paisa waste nahi hua - us samay pe tumne investment kiya apni well-being mein jo valid tha. Circumstances change ho gaye ab. Hobbies wapas ayengi jab burnout recover hoga. Tab tak neutral position lo - na force karo use karne ki, na apraadh karo na use karne ki. Saman safe rakho aur bhool jao temporarily. Permission hai pause lene ki bina commitment ke."
       }
     ],
     "metadata": {
@@ -31865,14 +31297,6 @@
       {
         "role": "assistant",
         "content": "Yaar photos delete karne ka mann ho raha kyunki comparison dard de raha - pehle ka happy self versus ab ka empty self. Wo contrast painful hai definitely. Par ye feeling - wo main aur hoon - temporarily sahi lag sakta par permanent nahi hai. Burnout ne tumhe temporarily us self se disconnect kar diya par wo self kayam hai andar abhi bhi, sirf access nahi ho pa raha."
-      },
-      {
-        "role": "user",
-        "content": "Par kitni der tak? Lagta hai permanently badal gaya hoon. Wo wali khushi wapas aa bhi sakti hai kya? Ya main hamesha aisa hi rahunga ab?"
-      },
-      {
-        "role": "assistant",
-        "content": "Yaar ye darr - hamesha aisa hi rahunga - wo burnout ka sabse scary part hai jab hope disappear ho jaata ki recovery possible hai. Par mujhe sun very clearly. Tum permanently nahi badle ho. Burnout temporary state hai, permanent personality change nahi. Wo khushi wapas aa sakti hai aur aayegi - par gradually, not suddenly. Jaise burnout gradually aaya tha waisa hi recovery bhi gradual hogi. Photos delete mat karo - wo evidence hai ki tum khush ho sakte the matlab ho sakte ho phir se. Abhi comparison painful hai toh mat dekho unhe. Box mein band kar do. Par delete mat karo kyunki future mein jab recover karoge tab wo photos reminder honge ki tumne kitna survive kiya. Recovery possible hai, main promise karta hoon. Par uske liye tumhe abhi apne current state ko accept karna padega bina fight kiye. Wo pehle wala self wapas aane ke liye tumhe abhi is wale self ko rest dena hoga fully. Forcing nahi, flowing. Time lagega par hoga zaroor."
       }
     ],
     "metadata": {
@@ -31901,14 +31325,6 @@
       {
         "role": "assistant",
         "content": "Yaar kuch hafte se internal silence aur thoughts nahi aa rahe - wo numbing effect hai burnout ka. Pehle constant mental chatter thi jo exhausting thi, ab brain ne wo completely band kar diya recovery ke liye. Decision-making affected ho raha kyunki internal processing offline hai. Ye defense mechanism hai overload se bachne ka."
-      },
-      {
-        "role": "user",
-        "content": "Par yaar ye silence permanent toh nahi hai na? Lagta hai main apne aap se hi disconnect ho gaya hoon. Kaun hoon main ye bhi pata nahi chal raha ab. Identity loss feel ho raha hai."
-      },
-      {
-        "role": "assistant",
-        "content": "Yaar identity loss feel karna - kaun hoon main ye pata nahi chalna - wo burnout ka deepest existential crisis hai. Par sun carefully. Ye silence temporary hai, permanent nahi. Tumhara brain itna overwhelmed ho gaya tha constant processing se ki usne emergency shutdown kar diya internal dialogue ka. Recovery mein ye wapas aayega naturally. Journal likhne ki forcing mat karo abhi - wo bhi pressure hai. Instead, agar kuch feel karo toh ek line likh lo, bina elaborate karne ki expectation ke. Ya phir mat likho bhi. Silence ko accept karo without fighting it. Apne aap se reconnection hoga par gradually, jab tumhara nervous system safe feel karega. Abhi jo tum ho - blank, silent, disconnected - wo bhi tum ho, ek phase mein. Identity permanent nahi hai, fluid hai. Ye phase bhi tumhara part hai. Accept karo use bina darr ke. Thoughts wapas aayenge jab brain ready hoga."
       }
     ],
     "metadata": {
@@ -31937,14 +31353,6 @@
       {
         "role": "assistant",
         "content": "Past few weeks of covering mirrors and not recognizing yourself - that stranger in the mirror feeling. Seeing tired, older, sad face and feeling shame about it. Burnout changes how you see yourself physically. The exhaustion shows on your face and you interpret that as failure instead of what it really is - evidence you need rest."
-      },
-      {
-        "role": "user",
-        "content": "But I look terrible. How can I accept this version of myself? People must notice too. Feel embarrassed going outside. Want to hide from everyone including myself."
-      },
-      {
-        "role": "assistant",
-        "content": "Yeah you feel you look terrible and that embarrassment about being seen. But here is the truth - you look tired because you ARE tired. That is not terrible, that is honest. Your face is showing what your body is experiencing. Fighting your reflection or hiding from it will not change the exhaustion. What will change it is accepting where you are right now and giving yourself the rest you clearly need. People might notice you look tired - so what? That is not shameful. Being exhausted is not a moral failure. Stop avoiding mirrors out of disgust and start seeing them neutrally - yes I look tired, because I am burnt out, and that is okay. Your appearance will improve when your energy improves but only if you stop hating yourself for looking exactly how someone in burnout looks. Compassion for that tired face, not disgust. That face is doing its best to keep you alive right now."
       }
     ],
     "metadata": {
@@ -31973,14 +31381,6 @@
       {
         "role": "assistant",
         "content": "Yaar mahino se ye cycle - excitement se start, energy crash, guilt, phir naya start. Classic burnout pattern hai where initial enthusiasm temporary spike hai par sustained effort impossible hai. Dopamine hit milta hai new thing start karne se par follow-through ke liye jo stamina chahiye wo nahi hai abhi. Unfinished projects remind karte rehte tumhe failure ka."
-      },
-      {
-        "role": "user",
-        "content": "Haan exactly. Aur ab toh naya start karne se bhi darr lagta hai kyunki pata hai complete nahi karunga. Par bina kuch start kiye bhi bura lagta hai. Stuck hoon completely is loop mein."
-      },
-      {
-        "role": "assistant",
-        "content": "Yaar ye loop - start karne se darr kyunki complete nahi hoga, but start nahi karne se bhi guilt - paralyzing hai completely. Ek kaam karo - moratorium lo naye projects pe. Kuch naya start mat karo deliberately next month bhar. Zero new beginnings allowed. Aur jo unfinished pada hai, usko accept karo ki wo unfinished hi rahega temporarily. Box mein band kar do out of sight. Guilt ko directly address karo - write down list of unfinished things aur consciously decide 'I am putting these on hold, not abandoning.' Permission le lo khud se pause karne ki. Naye ideas aayenge toh note kar lo sirf, execute mat karo. Tumhe completion practice ki zaroorat hai starting practice ki nahi. Par abhi kuch complete karne ki capacity nahi toh force mat karo. Accept karo ki abhi tum maintenance mode pe ho, creation mode pe nahi. Creation wapas aayegi jab energy sustainable ho jayegi. Tab tak exist karo bina produce karne ke pressure ke."
       }
     ],
     "metadata": {
@@ -32009,14 +31409,6 @@
       {
         "role": "assistant",
         "content": "Yaar do mahine se ringtone trigger ban gaya - heart rate sweating anxiety. Wo physiological response real hai, psychological nahi sirf. Calls demand immediate response jo tumhara brain abhi handle nahi kar sakta. Messages mein bhi kya reply du wo decision fatigue create kar raha. Social communication complete burden ban gaya."
-      },
-      {
-        "role": "user",
-        "content": "Toh kya karun? Completely disconnect ho jau sabse? Par isolation bhi toh healthy nahi hai. Kaise balance karun communication aur self-protection?"
-      },
-      {
-        "role": "assistant",
-        "content": "Yaar complete disconnection versus forced communication - dono extremes harmful hain. Balance aise banao. Ek - phone permanently silent mode pe rakho aur ringtone off karo completely jo trigger hai. Visual notification dekh ke decide karo kab respond karna. Do - voicemail message set karo clearly stating you prefer texts over calls temporarily. Teen - templated responses banao common situations ke liye - 'thanks for message, bit overwhelmed, will respond soon' jaise. Copy paste kar do jab energy nahi ho elaborately likhne ki. Chaar - specific time slots decide karo din mein jab communication handle karoge - subah 10 minute aur shaam 10 minute. Baaki time protected hai. Isolation nahi hai ye, boundary hai. Tum still connected ho apne terms pe instead of reactively responding. Log adjust karenge agar genuinely care karte hain. Jo adjust nahi kar sakte unka relationship anyway conditional tha. Protect karo apne aap ko guilt-free."
       }
     ],
     "metadata": {
@@ -32045,14 +31437,6 @@
       {
         "role": "assistant",
         "content": "Couple months of time vanishing and living in fog. Looking up to find hours gone with no memory of them. That is dissociation from present moment - your brain protecting you from overwhelm by disconnecting from immediate experience. Time disappears because you are not actually present in it consciously. Operating on autopilot while consciousness retreats somewhere safer."
-      },
-      {
-        "role": "user",
-        "content": "That sounds scary. Am I losing my mind? Will I ever feel present again or is this permanent? Cannot live like ghost forever."
-      },
-      {
-        "role": "assistant",
-        "content": "No you are not losing your mind and yes you will feel present again. This is temporary protective dissociation, not permanent disconnection from reality. Your mind went somewhere else because being fully present was too painful or overwhelming. It will come back when your nervous system feels safe enough to be present again. To help that process - ground yourself deliberately multiple times daily. Set hourly alarms. When alarm rings, stop and notice five things you can see, four you can touch, three you can hear. This pulls you back into present moment repeatedly. Do not judge the fog, just practice returning from it gently. Keep simple journal of just date and one sentence about your day - even if you cannot remember details, write 'today existed.' Over time presence will return naturally as burnout lessens. You are not a ghost, you are a consciousness taking shelter. That shelter is temporary."
       }
     ],
     "metadata": {
@@ -32081,14 +31465,6 @@
       {
         "role": "assistant",
         "content": "Yaar email typo jaise chhoti cheez aur pure din tak incompetent feel karna - proportion completely lost hai between mistake aur reaction. Normal failure tolerance zero ho gaya burnout mein. Har chhoti galti catastrophe lagti hai kyunki already fragile state mein ho. Reserve energy nahi hai bounce back karne ki."
-      },
-      {
-        "role": "user",
-        "content": "Toh kaise handle karun failures ko? Galtiyan toh hoti rahengi. Par har baar itna breakdown nahi ho sakta. Kaise resilience wapas laun?"
-      },
-      {
-        "role": "assistant",
-        "content": "Yaar resilience wapas laana overnight nahi hoga - wo slowly rebuild hoti hai rest aur recovery se. Par immediate help ke liye ye karo. Jab failure ho toh perspective exercise karo - ask yourself 'will this matter in one week? one month? one year?' Email typo one week mein matter nahi karega. Scale check karo - 1 to 10 mein kitna serious hai actually. Typo maybe 2 hai, tum usse 10 treat kar rahe. Aur self-compassion practice karo forcefully - jab blame karne lage khud ko, deliberately bol lo 'I made a human mistake, I am burnt out and doing my best.' Out loud bolo agar zaroorat ho. Resilience wapas aayegi jab baseline energy level improve hogi. Abhi tumhare paas buffer nahi hai failures absorb karne ka. Treat yourself like fragile glass temporarily - carefully, gently, protectively. Jab recover karoge tab toughness wapas aayegi naturally. Abhi softness aur forgiveness practice karo deliberately har chhoti failure pe."
       }
     ],
     "metadata": {
