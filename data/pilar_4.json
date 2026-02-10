@@ -9,12 +9,20 @@
       {
         "role": "assistant",
         "content": "Sunke laga ki tu dono feelings ko ek saath face kar rahi hai - uski khushi bhi aur apna dar bhi. Aur tu selfish nahi hai yaar, yeh toh bilkul natural hai. Jab koi close person life mein bada change lata hai toh humein bhi apni jagah hil jaati hai. Tujhe sabse zyada kaunsi baat miss hone ki tension hai?"
+      },
+      {
+        "role": "user",
+        "content": "Haan exactly. I don't know which feeling to listen to. One part says one thing, other part says something else."
+      },
+      {
+        "role": "assistant",
+        "content": "Dono feelings ko ek saath hold karna is really confusing. You don't have to pick one right now yaar. What feels more unsettling - the conflict itself ya not having clarity?"
       }
     ],
     "metadata": {
       "language": "hinglish",
       "intent": "mixed_emotions",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 5,
       "escalation_needed": false
     }
@@ -105,12 +113,20 @@
       {
         "role": "assistant",
         "content": "So you're feeling both excited about the opportunity and terrified of failing at it. That's actually super common yaar - imposter syndrome kehte hain isko. They selected you for a reason, but I get that right now the fear is louder than the excitement. Is this the first big opportunity jahan pe yeh feeling aa rahi hai?"
+      },
+      {
+        "role": "user",
+        "content": "Haan exactly. I don't know which feeling to listen to. One part says one thing, other part says something else."
+      },
+      {
+        "role": "assistant",
+        "content": "Dono feelings ko ek saath hold karna is really confusing. You don't have to pick one right now yaar. What feels more unsettling - the conflict itself ya not having clarity?"
       }
     ],
     "metadata": {
       "language": "english",
       "intent": "mixed_emotions",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 4,
       "escalation_needed": false
     }
@@ -221,12 +237,20 @@
       {
         "role": "assistant",
         "content": "Dono feelings ek saath hona makes complete sense yaar - you genuinely care about her but you're also hurting. Seeing her move on quickly while you're still processing is painful. There's nothing pathetic about taking your own time to heal. How long has it been since the breakup?"
+      },
+      {
+        "role": "user",
+        "content": "Haan exactly. I don't know which feeling to listen to. One part says one thing, other part says something else."
+      },
+      {
+        "role": "assistant",
+        "content": "Dono feelings ko ek saath hold karna is really confusing. You don't have to pick one right now yaar. What feels more unsettling - the conflict itself ya not having clarity?"
       }
     ],
     "metadata": {
       "language": "english",
       "intent": "mixed_emotions",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 5,
       "escalation_needed": false
     }
@@ -289,12 +313,20 @@
       {
         "role": "assistant",
         "content": "Yeh mood ka up and down hona aur clarity na hona bohot disorienting lag sakta hai. Raat ko overthinking shuru ho jati hai aur everything feels bigger and scarier. Kab se yeh pattern notice kar raha hai tu? Koi trigger hai jo tujhe pata ho jiske baad low feel hota hai?"
+      },
+      {
+        "role": "user",
+        "content": "Exactly. I wish I could just know clearly what I want. Yeh confusion bahut frustrating hai."
+      },
+      {
+        "role": "assistant",
+        "content": "Clarity ki wish toh natural hai but sometimes we have to sit with uncertainty for a while. It's uncomfortable. Kis cheez ke baare mein sabse zyada confusion hai?"
       }
     ],
     "metadata": {
       "language": "hindi",
       "intent": "confused_feelings",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 5,
       "escalation_needed": false
     }
@@ -337,12 +369,20 @@
       {
         "role": "assistant",
         "content": "Haan yaar 'love yourself' sunne mein toh easy lagta hai but actually do kaise kare yeh koi nahi batata. It does sound vague and frustrating jab you're actually struggling. Agar main tujhse puchun ki ek small cheez jo tujhe achha lagti hai about yourself or jo tu enjoy karta hai, toh kya bolega?"
+      },
+      {
+        "role": "user",
+        "content": "And this isn't even the first time. I'm just tired of having to defend everything I do."
+      },
+      {
+        "role": "assistant",
+        "content": "That constant need to justify yourself must be draining. When it's a pattern, it's not about you overreacting - it's a real problem. Is there anyone who actually gets it?"
       }
     ],
     "metadata": {
       "language": "english",
       "intent": "venting",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 4,
       "escalation_needed": false
     }
@@ -453,12 +493,20 @@
       {
         "role": "assistant",
         "content": "Itne saare rejections ek saath face karna has made you feel like giving up completely makes sense. Universe ki baat kar raha hai but actually it sounds like you're exhausted from trying and getting hurt repeatedly. Yeh hopelessness bohot heavy hai. In sab cheezon mein, kaunsi rejection sabse zyada impact kar gayi?"
+      },
+      {
+        "role": "user",
+        "content": "And this isn't even the first time. I'm just tired of having to defend everything I do."
+      },
+      {
+        "role": "assistant",
+        "content": "That constant need to justify yourself must be draining. When it's a pattern, it's not about you overreacting - it's a real problem. Is there anyone who actually gets it?"
       }
     ],
     "metadata": {
       "language": "english",
       "intent": "venting",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 8,
       "escalation_needed": true
     }
@@ -501,12 +549,20 @@
       {
         "role": "assistant",
         "content": "Self-sabotage ka pattern notice kar liya tune which is actually a big first step. But understanding 'why' is frustrating you. Sometimes hum unconsciously good things ko sabotage karte hain kyunki success ya happiness unfamiliar lagti hai ya fear hota hai ki lose kar denge. Jab opportunity ya good thing aati hai, us moment mein kya feel hota hai tujhe?"
+      },
+      {
+        "role": "user",
+        "content": "Right. I just wish I knew for sure. This uncertainty is killing me."
+      },
+      {
+        "role": "assistant",
+        "content": "Wanting certainty makes complete sense, but sometimes clarity takes time. Sitting with that discomfort is hard. What specifically feels most uncertain?"
       }
     ],
     "metadata": {
       "language": "english",
       "intent": "confused_feelings",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 6,
       "escalation_needed": false
     }
@@ -617,12 +673,20 @@
       {
         "role": "assistant",
         "content": "That's a really difficult position yaar - you tried communicating and got shut down, so you withdrew, and now that's also a problem. It's like you're being punished both ways. This creates a no-win dynamic. Jab tujhe 'too sensitive' bola jata hai, how does that land with you? Aur kya yeh pattern hai ya specific topics pe zyada hota hai?"
+      },
+      {
+        "role": "user",
+        "content": "And this isn't even the first time. I'm just tired of having to defend everything I do."
+      },
+      {
+        "role": "assistant",
+        "content": "That constant need to justify yourself must be draining. When it's a pattern, it's not about you overreacting - it's a real problem. Is there anyone who actually gets it?"
       }
     ],
     "metadata": {
       "language": "english",
       "intent": "venting",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 6,
       "escalation_needed": false
     }
@@ -637,12 +701,20 @@
       {
         "role": "assistant",
         "content": "Yaar emptiness feel karna aur life mein sab kuch hona - yeh dono ek saath ho sakte hain aur tu ungrateful nahi hai. Sometimes we have everything on paper but still feel disconnected ya unfulfilled. That's a valid human experience. Yeh emptiness specifically kab zyada feel hoti hai? Koi particular moment ya time of day?"
+      },
+      {
+        "role": "user",
+        "content": "Exactly. I wish I could just know clearly what I want. Yeh confusion bahut frustrating hai."
+      },
+      {
+        "role": "assistant",
+        "content": "Clarity ki wish toh natural hai but sometimes we have to sit with uncertainty for a while. It's uncomfortable. Kis cheez ke baare mein sabse zyada confusion hai?"
       }
     ],
     "metadata": {
       "language": "hinglish",
       "intent": "confused_feelings",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 5,
       "escalation_needed": false
     }
@@ -685,12 +757,20 @@
       {
         "role": "assistant",
         "content": "Apne space mein uncomfortable feel karna really affects your mental peace yaar. Tu considerate banne ki try kar raha hai but tera own wellbeing suffer ho raha hai. Nicely bola but kaam nahi hua, aur ab confrontation ka darr hai ki relationship kharab ho jayegi. Yeh OCD trigger specifically kaise manifest hota hai? Matlab kitna distressing hai day to day basis pe?"
+      },
+      {
+        "role": "user",
+        "content": "Haan aur yeh sirf ek example hai. Har baar kuch na kuch hota hai. I'm tired of explaining myself."
+      },
+      {
+        "role": "assistant",
+        "content": "Lagta hai pattern ban gaya hai aur tu thak gayi hai constantly justify karte hue. That's exhausting yaar. Koi hai jo actually sunta hai without judging?"
       }
     ],
     "metadata": {
       "language": "hindi",
       "intent": "venting",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 5,
       "escalation_needed": false
     }
@@ -829,12 +909,20 @@
       {
         "role": "assistant",
         "content": "Noticing these patterns is actually self-awareness yaar, even if it's scary. The fear of repeating generational patterns is real. But recognizing them means you're already different because you're conscious of it. Your mom ke patterns specifically kaunse hain jo tujhe sabse zyada concern kar rahe hain?"
+      },
+      {
+        "role": "user",
+        "content": "Exactly. I wish I could just know clearly what I want. Yeh confusion bahut frustrating hai."
+      },
+      {
+        "role": "assistant",
+        "content": "Clarity ki wish toh natural hai but sometimes we have to sit with uncertainty for a while. It's uncomfortable. Kis cheez ke baare mein sabse zyada confusion hai?"
       }
     ],
     "metadata": {
       "language": "english",
       "intent": "confused_feelings",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 6,
       "escalation_needed": false
     }
@@ -877,12 +965,20 @@
       {
         "role": "assistant",
         "content": "Constant anger jo easily trigger hoti hai aur guilt cycle - yeh bohot exhausting aur confusing hota hai. Tu hurt kar raha hai logon ko unintentionally and then feeling bad about it but can't control it. Sometimes anger is a secondary emotion jo underlying hurt, frustration ya helplessness ko mask karti hai. Jab yeh anger episodes hote hain, underlying feeling kya hoti hai if you really tune in?"
+      },
+      {
+        "role": "user",
+        "content": "Right. I just wish I knew for sure. This uncertainty is killing me."
+      },
+      {
+        "role": "assistant",
+        "content": "Wanting certainty makes complete sense, but sometimes clarity takes time. Sitting with that discomfort is hard. What specifically feels most uncertain?"
       }
     ],
     "metadata": {
       "language": "english",
       "intent": "confused_feelings",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 6,
       "escalation_needed": false
     }
@@ -973,12 +1069,20 @@
       {
         "role": "assistant",
         "content": "What happened to you was not okay and reporting it took immense courage yaar. The fact that people are treating YOU differently instead of supporting you is completely wrong and unfair. Tu victim hai but victim-blaming ka face kar rahi hai. This secondary trauma from people's reactions can be as damaging as the original incident. You absolutely did the right thing by reporting. Kya college ne koi action liya? Aur tujhe abhi safe feel ho raha hai campus pe?"
+      },
+      {
+        "role": "user",
+        "content": "And this isn't even the first time. I'm just tired of having to defend everything I do."
+      },
+      {
+        "role": "assistant",
+        "content": "That constant need to justify yourself must be draining. When it's a pattern, it's not about you overreacting - it's a real problem. Is there anyone who actually gets it?"
       }
     ],
     "metadata": {
       "language": "english",
       "intent": "venting",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 8,
       "escalation_needed": true
     }
@@ -1021,12 +1125,20 @@
       {
         "role": "assistant",
         "content": "External success hai but internal fulfillment nahi - yeh existential crisis type feeling hai yaar. The treadmill of achievement jo kabhi end nahi hoti. Tu question kar raha hai purpose aur meaning. Yeh actually deep self-reflection hai which many people avoid. Jab tu peeche dekhta hai, toh kya yeh goals genuinely tere the ya external expectations thi?"
+      },
+      {
+        "role": "user",
+        "content": "Exactly. I wish I could just know clearly what I want. Yeh confusion bahut frustrating hai."
+      },
+      {
+        "role": "assistant",
+        "content": "Clarity ki wish toh natural hai but sometimes we have to sit with uncertainty for a while. It's uncomfortable. Kis cheez ke baare mein sabse zyada confusion hai?"
       }
     ],
     "metadata": {
       "language": "english",
       "intent": "confused_feelings",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 5,
       "escalation_needed": false
     }
@@ -1069,12 +1181,20 @@
       {
         "role": "assistant",
         "content": "What you're describing goes beyond normal dieting yaar - these are concerning signs of disordered eating. Period stopping (amenorrhea) and feeling weak physically are serious health red flags. Your body is telling you something is wrong. The obsessive calorie counting and guilt around food, plus excessive exercise as punishment - these patterns need professional attention. How long has your period been absent aur kya kisi doctor ko dikhaya hai?"
+      },
+      {
+        "role": "user",
+        "content": "Right. I just wish I knew for sure. This uncertainty is killing me."
+      },
+      {
+        "role": "assistant",
+        "content": "Wanting certainty makes complete sense, but sometimes clarity takes time. Sitting with that discomfort is hard. What specifically feels most uncertain?"
       }
     ],
     "metadata": {
       "language": "english",
       "intent": "confused_feelings",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 8,
       "escalation_needed": true
     }
@@ -1117,12 +1237,20 @@
       {
         "role": "assistant",
         "content": "Being the eldest aur designated emotional pillar is exhausting yaar. You're carrying everyone's weight but tere own support ka koi source nahi hai. This 'strong one' role feels like a trap - if you break, you fear everything collapses. But you're human too and you need support. Agar tu honestly think karein, toh tujhe kaunsi feeling sabse zyada suppress karni padti hai to maintain this image?"
+      },
+      {
+        "role": "user",
+        "content": "And this isn't even the first time. I'm just tired of having to defend everything I do."
+      },
+      {
+        "role": "assistant",
+        "content": "That constant need to justify yourself must be draining. When it's a pattern, it's not about you overreacting - it's a real problem. Is there anyone who actually gets it?"
       }
     ],
     "metadata": {
       "language": "english",
       "intent": "venting",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 6,
       "escalation_needed": false
     }
@@ -1165,12 +1293,20 @@
       {
         "role": "assistant",
         "content": "That's not weird yaar, it shows you're empathetic. But survivor's guilt type feeling hai yeh - like you don't have permission to be happy when someone you care about is struggling. Your happiness doesn't diminish her pain aur her pain doesn't mean you can't have joy. Both can coexist. Kya tumne kabhi usse openly baat ki hai about this or are you just suppressing your good news?"
+      },
+      {
+        "role": "user",
+        "content": "Yeah exactly. I can't figure out which feeling is the real one. It's like I'm at war with myself."
+      },
+      {
+        "role": "assistant",
+        "content": "That internal conflict is exhausting. You're not overthinking this - when feelings contradict each other, it's genuinely hard to know what's true. What feels most uncomfortable about sitting with both?"
       }
     ],
     "metadata": {
       "language": "english",
       "intent": "mixed_emotions",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 4,
       "escalation_needed": false
     }
@@ -1185,12 +1321,20 @@
       {
         "role": "assistant",
         "content": "Getting in was your hard work yaar, not luck. But I hear you - that fear of being exposed as 'not good enough' when you're finally where you wanted to be. It's like you achieved the goal but now the pressure feels even heavier. What specifically makes you feel others will be smarter?"
+      },
+      {
+        "role": "user",
+        "content": "Yeah exactly. I can't figure out which feeling is the real one. It's like I'm at war with myself."
+      },
+      {
+        "role": "assistant",
+        "content": "That internal conflict is exhausting. You're not overthinking this - when feelings contradict each other, it's genuinely hard to know what's true. What feels most uncomfortable about sitting with both?"
       }
     ],
     "metadata": {
       "language": "english",
       "intent": "mixed_emotions",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 5,
       "escalation_needed": false
     }
@@ -1233,12 +1377,20 @@
       {
         "role": "assistant",
         "content": "Lag raha hai tu bohot lambe time se yeh perfect image maintain kar raha hai aur ab exhausting ho gaya hai. Sabke liye strong hona, sorted dikhna - but andar se empty aur disconnected feel karna. Yeh mask itna heavy ho gaya hai ki real 'tu' kho gaya hai beech mein. Kab se yeh feeling hai ki tu acting kar raha hai apni hi life mein?"
+      },
+      {
+        "role": "user",
+        "content": "Haan aur yeh sirf ek example hai. Har baar kuch na kuch hota hai. I'm tired of explaining myself."
+      },
+      {
+        "role": "assistant",
+        "content": "Lagta hai pattern ban gaya hai aur tu thak gayi hai constantly justify karte hue. That's exhausting yaar. Koi hai jo actually sunta hai without judging?"
       }
     ],
     "metadata": {
       "language": "hindi",
       "intent": "venting",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 6,
       "escalation_needed": false
     }
@@ -1301,12 +1453,20 @@
       {
         "role": "assistant",
         "content": "You're not a terrible person yaar. Feeling both proud AND jealous of someone close to you is actually super human and normal. You can genuinely want good things for her while also feeling left behind in comparison. Both emotions can exist together. Which part feels heavier right now - the love or the jealousy?"
+      },
+      {
+        "role": "user",
+        "content": "Yeah exactly. I can't figure out which feeling is the real one. It's like I'm at war with myself."
+      },
+      {
+        "role": "assistant",
+        "content": "That internal conflict is exhausting. You're not overthinking this - when feelings contradict each other, it's genuinely hard to know what's true. What feels most uncomfortable about sitting with both?"
       }
     ],
     "metadata": {
       "language": "english",
       "intent": "mixed_emotions",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 4,
       "escalation_needed": false
     }
@@ -1493,12 +1653,20 @@
       {
         "role": "assistant",
         "content": "Attraction to someone in a position of authority is more common than you think yaar, but it definitely creates guilt and confusion especially when you know there are boundaries. The fact that you're aware it's complicated shows self-awareness. These feelings feel overwhelming right now. Have you been acting on these feelings in any way or are they just internal thoughts?"
+      },
+      {
+        "role": "user",
+        "content": "Exactly. I wish I could just know clearly what I want. Yeh confusion bahut frustrating hai."
+      },
+      {
+        "role": "assistant",
+        "content": "Clarity ki wish toh natural hai but sometimes we have to sit with uncertainty for a while. It's uncomfortable. Kis cheez ke baare mein sabse zyada confusion hai?"
       }
     ],
     "metadata": {
       "language": "english",
       "intent": "confused_feelings",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 5,
       "escalation_needed": false
     }
@@ -1561,12 +1729,20 @@
       {
         "role": "assistant",
         "content": "You're in a painful position yaar - carrying guilt that's eating you up, but afraid of the consequences of honesty. Self-hatred is strong right now. The weight of the secret versus the fear of loss. Both paths feel like losing. This guilt is showing you know you violated trust. What made you cheat? Was it a moment of weakness or is there something deeper going on in the relationship?"
+      },
+      {
+        "role": "user",
+        "content": "Yeah exactly. I can't figure out which feeling is the real one. It's like I'm at war with myself."
+      },
+      {
+        "role": "assistant",
+        "content": "That internal conflict is exhausting. You're not overthinking this - when feelings contradict each other, it's genuinely hard to know what's true. What feels most uncomfortable about sitting with both?"
       }
     ],
     "metadata": {
       "language": "english",
       "intent": "mixed_emotions",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 6,
       "escalation_needed": false
     }
@@ -1609,12 +1785,20 @@
       {
         "role": "assistant",
         "content": "Long distance relationships need extra effort aur tu already tired feel kar raha hai. Love hai but loneliness bhi hai, aur questioning if the sacrifice is worth it. Guilt aa rahi hai for even considering break up kyunki feelings still exist. Both thoughts can be true yaar - loving someone AND questioning the situation. Yeh hardness recently badhi hai ya shuru se difficult tha?"
+      },
+      {
+        "role": "user",
+        "content": "Exactly. I wish I could just know clearly what I want. Yeh confusion bahut frustrating hai."
+      },
+      {
+        "role": "assistant",
+        "content": "Clarity ki wish toh natural hai but sometimes we have to sit with uncertainty for a while. It's uncomfortable. Kis cheez ke baare mein sabse zyada confusion hai?"
       }
     ],
     "metadata": {
       "language": "english",
       "intent": "confused_feelings",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 5,
       "escalation_needed": false
     }
@@ -1629,12 +1813,20 @@
       {
         "role": "assistant",
         "content": "Daily usse dekhna aur yeh jaante hue ki woh available nahi hai - yeh sach mein difficult situation hai yaar. Move on karna chahta hai but environment allow nahi kar raha. Feelings refresh ho jati hain har baar. Yeh 'torture' word use kar raha hai which shows kitna painful hai. Kya tu coaching change kar sakta hai practically ya koi aur solution hai distance create karne ka?"
+      },
+      {
+        "role": "user",
+        "content": "Haan aur yeh sirf ek example hai. Har baar kuch na kuch hota hai. I'm tired of explaining myself."
+      },
+      {
+        "role": "assistant",
+        "content": "Lagta hai pattern ban gaya hai aur tu thak gayi hai constantly justify karte hue. That's exhausting yaar. Koi hai jo actually sunta hai without judging?"
       }
     ],
     "metadata": {
       "language": "hindi",
       "intent": "venting",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 5,
       "escalation_needed": false
     }
@@ -1725,12 +1917,20 @@
       {
         "role": "assistant",
         "content": "Self-sabotage pattern notice kar liya hai tu which is important awareness yaar. Wanting intimacy but pushing away when it gets close - yeh shows fear of vulnerability. Finding faults might be defense mechanism to justify the distance. This pattern repeating means something deeper is going on. Kya tujhe lagta hai yeh fear kisi past hurt se connected hai ya attachment style ka issue hai?"
+      },
+      {
+        "role": "user",
+        "content": "Right. I just wish I knew for sure. This uncertainty is killing me."
+      },
+      {
+        "role": "assistant",
+        "content": "Wanting certainty makes complete sense, but sometimes clarity takes time. Sitting with that discomfort is hard. What specifically feels most uncertain?"
       }
     ],
     "metadata": {
       "language": "english",
       "intent": "confused_feelings",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 6,
       "escalation_needed": false
     }
@@ -1861,12 +2061,20 @@
       {
         "role": "assistant",
         "content": "So you're feeling both excited about growth and scared of loneliness - that's completely normal yaar. Big opportunities come with big fears. Neither choice is wrong. What would you regret more - trying and struggling, or not trying and always wondering what if?"
+      },
+      {
+        "role": "user",
+        "content": "Yeah exactly. I can't figure out which feeling is the real one. It's like I'm at war with myself."
+      },
+      {
+        "role": "assistant",
+        "content": "That internal conflict is exhausting. You're not overthinking this - when feelings contradict each other, it's genuinely hard to know what's true. What feels most uncomfortable about sitting with both?"
       }
     ],
     "metadata": {
       "language": "english",
       "intent": "mixed_emotions",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 4,
       "escalation_needed": false
     }
@@ -1909,12 +2117,20 @@
       {
         "role": "assistant",
         "content": "That guilt must be eating you up yaar, constantly looking over your shoulder. You're caught between the fear of losing it and the weight of the lie. Practically speaking though - are you actually able to do the work or genuinely struggling?"
+      },
+      {
+        "role": "user",
+        "content": "Haan exactly. I don't know which feeling to listen to. One part says one thing, other part says something else."
+      },
+      {
+        "role": "assistant",
+        "content": "Dono feelings ko ek saath hold karna is really confusing. You don't have to pick one right now yaar. What feels more unsettling - the conflict itself ya not having clarity?"
       }
     ],
     "metadata": {
       "language": "english",
       "intent": "mixed_emotions",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 6,
       "escalation_needed": false
     }
@@ -2053,12 +2269,20 @@
       {
         "role": "assistant",
         "content": "You're not terrible yaar. Feeling relief when someone's pain ends is actually compassion, not cruelty. You're relieved her suffering stopped, not glad she's gone - there's a big difference. Grief isn't just one emotion. Sadness and relief can exist together. Were you close to her?"
+      },
+      {
+        "role": "user",
+        "content": "Yeah exactly. I can't figure out which feeling is the real one. It's like I'm at war with myself."
+      },
+      {
+        "role": "assistant",
+        "content": "That internal conflict is exhausting. You're not overthinking this - when feelings contradict each other, it's genuinely hard to know what's true. What feels most uncomfortable about sitting with both?"
       }
     ],
     "metadata": {
       "language": "english",
       "intent": "mixed_emotions",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 4,
       "escalation_needed": false
     }
@@ -2197,12 +2421,20 @@
       {
         "role": "assistant",
         "content": "Having unwanted feelings doesn't make you disgusting yaar. Feelings aren't always in your control. The fact that you know boundaries and wouldn't act on it shows your character. Guilt is heavy but you're doing the right thing. Can you create some distance from the situation to let feelings fade naturally?"
+      },
+      {
+        "role": "user",
+        "content": "Yeah exactly. I can't figure out which feeling is the real one. It's like I'm at war with myself."
+      },
+      {
+        "role": "assistant",
+        "content": "That internal conflict is exhausting. You're not overthinking this - when feelings contradict each other, it's genuinely hard to know what's true. What feels most uncomfortable about sitting with both?"
       }
     ],
     "metadata": {
       "language": "english",
       "intent": "mixed_emotions",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 6,
       "escalation_needed": false
     }
@@ -2245,12 +2477,20 @@
       {
         "role": "assistant",
         "content": "Multiple rejections after years of prep is devastating yaar. Watching everyone move forward while you're stuck amplifies the pain. Right now you're in shock and future looks blank. You're not a failure - sometimes timing luck and fit matter beyond your control. Have you gotten feedback on why? That might help with next steps."
+      },
+      {
+        "role": "user",
+        "content": "And this isn't even the first time. I'm just tired of having to defend everything I do."
+      },
+      {
+        "role": "assistant",
+        "content": "That constant need to justify yourself must be draining. When it's a pattern, it's not about you overreacting - it's a real problem. Is there anyone who actually gets it?"
       }
     ],
     "metadata": {
       "language": "english",
       "intent": "venting",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 7,
       "escalation_needed": false
     }
@@ -2761,12 +3001,20 @@
       {
         "role": "assistant",
         "content": "Social comparison is brutal yaar especially when everyone's highlight reel is visible 24/7. But 'behind' assumes there's one timeline for everyone, which isn't true. Some people figure things out early, some take time - neither is wrong. Your pace is your pace. The inadequacy you're feeling - is it coming from what you actually want or from what you think you should want by now?"
+      },
+      {
+        "role": "user",
+        "content": "And this isn't even the first time. I'm just tired of having to defend everything I do."
+      },
+      {
+        "role": "assistant",
+        "content": "That constant need to justify yourself must be draining. When it's a pattern, it's not about you overreacting - it's a real problem. Is there anyone who actually gets it?"
       }
     ],
     "metadata": {
       "language": "english",
       "intent": "venting",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 5,
       "escalation_needed": false
     }
@@ -2857,12 +3105,20 @@
       {
         "role": "assistant",
         "content": "Being the designated pillar of the family is so exhausting yaar. You're carrying everyone's weight but your own support system doesn't exist. That fear of 'if I break, everything collapses' keeps you stuck in this role even when you're crumbling. But here's the thing - you're human too and you need support. Agar tu honestly express kare ki tu bhi struggle kar raha, kya family reject karegi ya unhe pata hi nahi hai?"
+      },
+      {
+        "role": "user",
+        "content": "And this isn't even the first time. I'm just tired of having to defend everything I do."
+      },
+      {
+        "role": "assistant",
+        "content": "That constant need to justify yourself must be draining. When it's a pattern, it's not about you overreacting - it's a real problem. Is there anyone who actually gets it?"
       }
     ],
     "metadata": {
       "language": "english",
       "intent": "venting",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 6,
       "escalation_needed": false
     }
@@ -2905,33 +3161,21 @@
       {
         "role": "assistant",
         "content": "That diagnosis validation is bittersweet yaar - relief that there's an explanation but grief for all the suffering that could've been avoided. Anger at people who dismissed you is valid, and mourning your younger self who internalized those labels is part of healing. How are you feeling about treatment and moving forward now that you have answers?"
+      },
+      {
+        "role": "user",
+        "content": "Haan exactly. I don't know which feeling to listen to. One part says one thing, other part says something else."
+      },
+      {
+        "role": "assistant",
+        "content": "Dono feelings ko ek saath hold karna is really confusing. You don't have to pick one right now yaar. What feels more unsettling - the conflict itself ya not having clarity?"
       }
     ],
     "metadata": {
       "language": "english",
       "intent": "mixed_emotions",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 5,
-      "escalation_needed": false
-    }
-  },
-  {
-    "id": "ehsaas_p4_3876",
-    "messages": [
-      {
-        "role": "user",
-        "content": "I feel like I'm living two different lives. The person I am at home with my conservative family and the person I am with my friends are completely different. I'm exhausted from code-switching and hiding parts of myself but coming out isn't safe."
-      },
-      {
-        "role": "assistant",
-        "content": "Living in two worlds and constantly switching masks is absolutely draining yaar. You're protecting yourself by hiding but the cost is losing connection with your authentic self. That exhaustion makes complete sense. What parts of you feel most suffocated at home?"
-      }
-    ],
-    "metadata": {
-      "language": "english",
-      "intent": "overwhelm",
-      "conversation_stage": "initial",
-      "severity": 7,
       "escalation_needed": false
     }
   },
@@ -3029,12 +3273,20 @@
       {
         "role": "assistant",
         "content": "2 saal ki mehnat aur investment kharab hona devastation hai yaar. Investors aur family ko face karna scary lag raha kyunki 'I told you so' sunne ka darr hai. But failure means tu koshish ki, risk liya. Most successful people fail karte hain pehle. Yeh end nahi learning hai. Kya ek proper postmortem kiya startup ka ki exactly kya galat gaya?"
+      },
+      {
+        "role": "user",
+        "content": "Haan aur yeh sirf ek example hai. Har baar kuch na kuch hota hai. I'm tired of explaining myself."
+      },
+      {
+        "role": "assistant",
+        "content": "Lagta hai pattern ban gaya hai aur tu thak gayi hai constantly justify karte hue. That's exhausting yaar. Koi hai jo actually sunta hai without judging?"
       }
     ],
     "metadata": {
       "language": "hinglish",
       "intent": "venting",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 7,
       "escalation_needed": false
     }
@@ -3105,12 +3357,20 @@
       {
         "role": "assistant",
         "content": "Being the 'other' sibling in a family of high achievers is such a specific kind of painful yaar. You're constantly measuring yourself against their success and feeling like you fall short. Family gatherings becoming performance reviews where you're ignored adds salt to the wound. But their path isn't yours - you're on your own timeline. Agar comparison hata dein, what would you actually want for yourself?"
+      },
+      {
+        "role": "user",
+        "content": "And this isn't even the first time. I'm just tired of having to defend everything I do."
+      },
+      {
+        "role": "assistant",
+        "content": "That constant need to justify yourself must be draining. When it's a pattern, it's not about you overreacting - it's a real problem. Is there anyone who actually gets it?"
       }
     ],
     "metadata": {
       "language": "english",
       "intent": "venting",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 6,
       "escalation_needed": false
     }
@@ -3257,12 +3517,20 @@
       {
         "role": "assistant",
         "content": "People projecting their own relationship priorities onto you is so invalidating yaar. Being aromantic is a valid orientation not a problem to fix. You know yourself and what makes you happy - that's what matters. The constant questioning and dismissal must be exhausting. Do you have any community or friends who understand and validate your identity?"
+      },
+      {
+        "role": "user",
+        "content": "And this isn't even the first time. I'm just tired of having to defend everything I do."
+      },
+      {
+        "role": "assistant",
+        "content": "That constant need to justify yourself must be draining. When it's a pattern, it's not about you overreacting - it's a real problem. Is there anyone who actually gets it?"
       }
     ],
     "metadata": {
       "language": "english",
       "intent": "venting",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 4,
       "escalation_needed": false
     }
@@ -3325,12 +3593,20 @@
       {
         "role": "assistant",
         "content": "Mutual breakup hone se feelings automatically equal nahi ho jati yaar. Move on karne ka pace har kisi ka different hota. Uska jaldi move on karna yeh nahi mean karta ki usne kam care kiya - maybe coping mechanism different hai. Tu zyada invested tha ya attachment style different - dono possible hain. Used feel karna shows tu validation seek kar raha uske grief se. Kya closure mila tha properly breakup ke time?"
+      },
+      {
+        "role": "user",
+        "content": "Haan exactly. I don't know which feeling to listen to. One part says one thing, other part says something else."
+      },
+      {
+        "role": "assistant",
+        "content": "Dono feelings ko ek saath hold karna is really confusing. You don't have to pick one right now yaar. What feels more unsettling - the conflict itself ya not having clarity?"
       }
     ],
     "metadata": {
       "language": "hindi",
       "intent": "mixed_emotions",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 5,
       "escalation_needed": false
     }
@@ -3421,12 +3697,20 @@
       {
         "role": "assistant",
         "content": "Your orientation being dismissed and misunderstood is so invalidating yaar. Demisexuality is valid - needing emotional bond before sexual attraction isn't being picky it's how you're wired. Hookup culture dominance makes it harder to find compatible people but they exist. You're not broken, you're just swimming against mainstream current. Have you found any communities or spaces where demisexuality is understood and respected?"
+      },
+      {
+        "role": "user",
+        "content": "And this isn't even the first time. I'm just tired of having to defend everything I do."
+      },
+      {
+        "role": "assistant",
+        "content": "That constant need to justify yourself must be draining. When it's a pattern, it's not about you overreacting - it's a real problem. Is there anyone who actually gets it?"
       }
     ],
     "metadata": {
       "language": "english",
       "intent": "venting",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 4,
       "escalation_needed": false
     }
@@ -3497,12 +3781,20 @@
       {
         "role": "assistant",
         "content": "That's such a heavy realization yaar - finding out your foundation wasn't what you thought. Feeling both angry and sad makes complete sense - they're grieving their marriage and you're grieving your understanding of your family. But their relationship struggling doesn't mean all love is fake. Sometimes people try really hard and it still doesn't work. How are they handling telling you about it?"
+      },
+      {
+        "role": "user",
+        "content": "Haan exactly. I don't know which feeling to listen to. One part says one thing, other part says something else."
+      },
+      {
+        "role": "assistant",
+        "content": "Dono feelings ko ek saath hold karna is really confusing. You don't have to pick one right now yaar. What feels more unsettling - the conflict itself ya not having clarity?"
       }
     ],
     "metadata": {
       "language": "english",
       "intent": "mixed_emotions",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 6,
       "escalation_needed": false
     }
@@ -3573,12 +3865,20 @@
       {
         "role": "assistant",
         "content": "Being the emotional support friend without reciprocity is so draining yaar. You're giving constantly but running on empty yourself. Setting boundaries doesn't make you bad - it makes you human with needs. Real friends will understand, those who get upset were probably taking advantage. Have you tried being vulnerable and actually asking for support to see who shows up?"
+      },
+      {
+        "role": "user",
+        "content": "And this isn't even the first time. I'm just tired of having to defend everything I do."
+      },
+      {
+        "role": "assistant",
+        "content": "That constant need to justify yourself must be draining. When it's a pattern, it's not about you overreacting - it's a real problem. Is there anyone who actually gets it?"
       }
     ],
     "metadata": {
       "language": "english",
       "intent": "venting",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 5,
       "escalation_needed": false
     }
@@ -3697,12 +3997,20 @@
       {
         "role": "assistant",
         "content": "Yaar intellectual theft bohot painful hai especially jab resources nahi hain fight karne ke. Tera creativity aur effort wasted nahi gaye even if credit nahi mili - tu capable hai create karne ka. Betrayal ka dard valid hai but yeh ek experience hai not definition of your worth. Kya tu document kar sakta original creation ko future protection ke liye? Aur mentally iss se move on kaise kar sakta?"
+      },
+      {
+        "role": "user",
+        "content": "Haan aur yeh sirf ek example hai. Har baar kuch na kuch hota hai. I'm tired of explaining myself."
+      },
+      {
+        "role": "assistant",
+        "content": "Lagta hai pattern ban gaya hai aur tu thak gayi hai constantly justify karte hue. That's exhausting yaar. Koi hai jo actually sunta hai without judging?"
       }
     ],
     "metadata": {
       "language": "hindi",
       "intent": "venting",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 6,
       "escalation_needed": false
     }
@@ -3773,12 +4081,20 @@
       {
         "role": "assistant",
         "content": "Yaar caregiver families mein healthy sibling ko emotionally neglect hona bohot common hai aur damaging. Tera resentment valid hai - tu bhi bachcha tha attention aur care deserve karta tha. Bhai bimaar hai doesn't erase your needs. Guilty feel karna conditioning hai but selfish nahi hai apne pain ko acknowledge karna. Kya kabhi parents se honest baat ki tune ki tu bhi affected hua?"
+      },
+      {
+        "role": "user",
+        "content": "Haan aur yeh sirf ek example hai. Har baar kuch na kuch hota hai. I'm tired of explaining myself."
+      },
+      {
+        "role": "assistant",
+        "content": "Lagta hai pattern ban gaya hai aur tu thak gayi hai constantly justify karte hue. That's exhausting yaar. Koi hai jo actually sunta hai without judging?"
       }
     ],
     "metadata": {
       "language": "hindi",
       "intent": "venting",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 6,
       "escalation_needed": false
     }
@@ -4277,12 +4593,20 @@
       {
         "role": "assistant",
         "content": "Startup failure devastation hai yaar especially jab team teri responsibility ho. 3 saal ka investment emotional aur financial dono barbaad lagta. But failure is data, not identity. Investors back out karna tough hai but market realities hoti hain teri personal failure nahi necessarily. Team ko honest baat karni padegi jaldi - delay se situation worse. Kya ek last pivot possible hai ya wind down hi option hai?"
+      },
+      {
+        "role": "user",
+        "content": "Haan aur yeh sirf ek example hai. Har baar kuch na kuch hota hai. I'm tired of explaining myself."
+      },
+      {
+        "role": "assistant",
+        "content": "Lagta hai pattern ban gaya hai aur tu thak gayi hai constantly justify karte hue. That's exhausting yaar. Koi hai jo actually sunta hai without judging?"
       }
     ],
     "metadata": {
       "language": "hinglish",
       "intent": "venting",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 7,
       "escalation_needed": false
     }
@@ -8233,12 +8557,20 @@
       {
         "role": "assistant",
         "content": "Passive aggressive behavior ko identify karna mushkil hota hai yaar kyunki 'mazaak' ke peeche chhup jata. Agar tujhe repeatedly uncomfortable feel ho raha hai toh woh valid hai, overreaction nahi. Accumulating frustration natural response hai jab feelings dismiss hoti repeatedly."
+      },
+      {
+        "role": "user",
+        "content": "Haan aur yeh sirf ek example hai. Har baar kuch na kuch hota hai. I'm tired of explaining myself."
+      },
+      {
+        "role": "assistant",
+        "content": "Lagta hai pattern ban gaya hai aur tu thak gayi hai constantly justify karte hue. That's exhausting yaar. Koi hai jo actually sunta hai without judging?"
       }
     ],
     "metadata": {
       "language": "hindi",
       "intent": "venting",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 5,
       "escalation_needed": false
     }
@@ -8377,12 +8709,20 @@
       {
         "role": "assistant",
         "content": "Khushi aur sadness dono ek saath hona bohot natural hai yaar, especially jab relationships shift ho rahi hain. Close sibling ka married life mein jaana definitely changes dynamics, aur uss change ko grieve karna selfish nahi hai. Happy hona aur miss karna ek saath chal sakta hai."
+      },
+      {
+        "role": "user",
+        "content": "Haan exactly. I don't know which feeling to listen to. One part says one thing, other part says something else."
+      },
+      {
+        "role": "assistant",
+        "content": "Dono feelings ko ek saath hold karna is really confusing. You don't have to pick one right now yaar. What feels more unsettling - the conflict itself ya not having clarity?"
       }
     ],
     "metadata": {
       "language": "hindi",
       "intent": "mixed_emotions",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 4,
       "escalation_needed": false
     }
@@ -8617,12 +8957,20 @@
       {
         "role": "assistant",
         "content": "Grateful aur angry dono feel karna ek saath bohot conflicting hai internally yaar. Financial responsibility early in career definitely limits your freedom compared to friends, aur uss comparison mein resentment natural hai even when you know they supported you. Guilt anger ko aur complicated banata hai."
+      },
+      {
+        "role": "user",
+        "content": "Haan exactly. I don't know which feeling to listen to. One part says one thing, other part says something else."
+      },
+      {
+        "role": "assistant",
+        "content": "Dono feelings ko ek saath hold karna is really confusing. You don't have to pick one right now yaar. What feels more unsettling - the conflict itself ya not having clarity?"
       }
     ],
     "metadata": {
       "language": "hindi",
       "intent": "mixed_emotions",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 5,
       "escalation_needed": false
     }
@@ -8665,12 +9013,20 @@
       {
         "role": "assistant",
         "content": "Pet relationship bohot meaningful hoti hai yaar, aur woh 'just an animal' dismissal probably invalidating feel hoti hai jab tumhare liye genuine connection hai. Friends aur dating impact ho rahi shows kitna central hai tumhare life mein. Judgment ka hurt hona natural hai even jab tum defend karte ho choice."
+      },
+      {
+        "role": "user",
+        "content": "Haan aur yeh sirf ek example hai. Har baar kuch na kuch hota hai. I'm tired of explaining myself."
+      },
+      {
+        "role": "assistant",
+        "content": "Lagta hai pattern ban gaya hai aur tu thak gayi hai constantly justify karte hue. That's exhausting yaar. Koi hai jo actually sunta hai without judging?"
       }
     ],
     "metadata": {
       "language": "hinglish",
       "intent": "venting",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 4,
       "escalation_needed": false
     }
@@ -8713,12 +9069,20 @@
       {
         "role": "assistant",
         "content": "Constant replay aur over-analysis bohot mentally draining hota hai yaar. Har interaction ko dissect karna aur messages perfect karne ki koshish... woh space occupy karta hai jo probably relaxing hona chahiye. Spontaneity ka absence shayad safety mechanism hai overthinking se."
+      },
+      {
+        "role": "user",
+        "content": "Haan aur yeh sirf ek example hai. Har baar kuch na kuch hota hai. I'm tired of explaining myself."
+      },
+      {
+        "role": "assistant",
+        "content": "Lagta hai pattern ban gaya hai aur tu thak gayi hai constantly justify karte hue. That's exhausting yaar. Koi hai jo actually sunta hai without judging?"
       }
     ],
     "metadata": {
       "language": "hindi",
       "intent": "venting",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 5,
       "escalation_needed": false
     }
@@ -8809,12 +9173,20 @@
       {
         "role": "assistant",
         "content": "Peacemaker role emotionally exhausting hota hai yaar, especially jab responsibility feel ho ki group teri wajah se together hai. Sabke conflicts handle karna while tumhara apna stress invisible rahna... woh unappreciated feeling natural hai. Bolne mein difficulty probably fear hai ki agar tum boundary set kiye toh group stability kharab ho jayegi."
+      },
+      {
+        "role": "user",
+        "content": "Haan aur yeh sirf ek example hai. Har baar kuch na kuch hota hai. I'm tired of explaining myself."
+      },
+      {
+        "role": "assistant",
+        "content": "Lagta hai pattern ban gaya hai aur tu thak gayi hai constantly justify karte hue. That's exhausting yaar. Koi hai jo actually sunta hai without judging?"
       }
     ],
     "metadata": {
       "language": "hindi",
       "intent": "venting",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 5,
       "escalation_needed": false
     }
@@ -12637,12 +13009,20 @@
       {
         "role": "assistant",
         "content": "Three years and you got a text? That's cruel. You deserved a real conversation, not a paragraph ending to years of your life together."
+      },
+      {
+        "role": "user",
+        "content": "And this isn't even the first time. I'm just tired of having to defend everything I do."
+      },
+      {
+        "role": "assistant",
+        "content": "That constant need to justify yourself must be draining. When it's a pattern, it's not about you overreacting - it's a real problem. Is there anyone who actually gets it?"
       }
     ],
     "metadata": {
       "language": "english",
       "intent": "venting",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 7,
       "escalation_needed": false
     }
@@ -12657,12 +13037,20 @@
       {
         "role": "assistant",
         "content": "Your bike, your money, but no say in the decision? That disregard for your ownership - even if it's family need, basic respect toh banti hai."
+      },
+      {
+        "role": "user",
+        "content": "And this isn't even the first time. I'm just tired of having to defend everything I do."
+      },
+      {
+        "role": "assistant",
+        "content": "That constant need to justify yourself must be draining. When it's a pattern, it's not about you overreacting - it's a real problem. Is there anyone who actually gets it?"
       }
     ],
     "metadata": {
       "language": "hinglish",
       "intent": "venting",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 6,
       "escalation_needed": false
     }
@@ -12677,12 +13065,20 @@
       {
         "role": "assistant",
         "content": "Ten years and you got sidelined for family politics. That exclusion from her big day - it questions everything about where you actually stand with her."
+      },
+      {
+        "role": "user",
+        "content": "Haan aur yeh sirf ek example hai. Har baar kuch na kuch hota hai. I'm tired of explaining myself."
+      },
+      {
+        "role": "assistant",
+        "content": "Lagta hai pattern ban gaya hai aur tu thak gayi hai constantly justify karte hue. That's exhausting yaar. Koi hai jo actually sunta hai without judging?"
       }
     ],
     "metadata": {
       "language": "hinglish",
       "intent": "venting",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 6,
       "escalation_needed": false
     }
@@ -12697,12 +13093,20 @@
       {
         "role": "assistant",
         "content": "89% is solid work and they can't even acknowledge it before comparing? That 'why not more' when you gave everything - it kills the achievement completely."
+      },
+      {
+        "role": "user",
+        "content": "And this isn't even the first time. I'm just tired of having to defend everything I do."
+      },
+      {
+        "role": "assistant",
+        "content": "That constant need to justify yourself must be draining. When it's a pattern, it's not about you overreacting - it's a real problem. Is there anyone who actually gets it?"
       }
     ],
     "metadata": {
       "language": "english",
       "intent": "venting",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 6,
       "escalation_needed": false
     }
@@ -12717,12 +13121,20 @@
       {
         "role": "assistant",
         "content": "Your space got reorganized without even asking? That's not helping, that's controlling even how you exist in your own room. Basic respect missing hai."
+      },
+      {
+        "role": "user",
+        "content": "Haan aur yeh sirf ek example hai. Har baar kuch na kuch hota hai. I'm tired of explaining myself."
+      },
+      {
+        "role": "assistant",
+        "content": "Lagta hai pattern ban gaya hai aur tu thak gayi hai constantly justify karte hue. That's exhausting yaar. Koi hai jo actually sunta hai without judging?"
       }
     ],
     "metadata": {
       "language": "hinglish",
       "intent": "venting",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 5,
       "escalation_needed": false
     }
@@ -12737,12 +13149,20 @@
       {
         "role": "assistant",
         "content": "Your money going towards his iPhone while he dodges you? That's not forgetting, that's deliberate avoidance. Friendship pe question mark lag gaya."
+      },
+      {
+        "role": "user",
+        "content": "Haan aur yeh sirf ek example hai. Har baar kuch na kuch hota hai. I'm tired of explaining myself."
+      },
+      {
+        "role": "assistant",
+        "content": "Lagta hai pattern ban gaya hai aur tu thak gayi hai constantly justify karte hue. That's exhausting yaar. Koi hai jo actually sunta hai without judging?"
       }
     ],
     "metadata": {
       "language": "hinglish",
       "intent": "venting",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 6,
       "escalation_needed": false
     }
@@ -12757,12 +13177,20 @@
       {
         "role": "assistant",
         "content": "Yaar that constant checking is exhausting. Loyalty prove karte karte khud ka peace chala jaata. Trust nahi toh relationship mein kya bacha?"
+      },
+      {
+        "role": "user",
+        "content": "Haan aur yeh sirf ek example hai. Har baar kuch na kuch hota hai. I'm tired of explaining myself."
+      },
+      {
+        "role": "assistant",
+        "content": "Lagta hai pattern ban gaya hai aur tu thak gayi hai constantly justify karte hue. That's exhausting yaar. Koi hai jo actually sunta hai without judging?"
       }
     ],
     "metadata": {
       "language": "hinglish",
       "intent": "venting",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 6,
       "escalation_needed": false
     }
@@ -12777,12 +13205,20 @@
       {
         "role": "assistant",
         "content": "Two attempts down and everyone wants a plan when you're still processing the failure. That pressure to have answers when you're just trying to breathe - it's heavy."
+      },
+      {
+        "role": "user",
+        "content": "Haan aur yeh sirf ek example hai. Har baar kuch na kuch hota hai. I'm tired of explaining myself."
+      },
+      {
+        "role": "assistant",
+        "content": "Lagta hai pattern ban gaya hai aur tu thak gayi hai constantly justify karte hue. That's exhausting yaar. Koi hai jo actually sunta hai without judging?"
       }
     ],
     "metadata": {
       "language": "english",
       "intent": "venting",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 7,
       "escalation_needed": false
     }
@@ -12797,12 +13233,20 @@
       {
         "role": "assistant",
         "content": "12 ghante daily without extra pay? Yeh exploitation hai yaar. 'Job ka part' bolke normalize kar rahe jo galat hai fundamentally."
+      },
+      {
+        "role": "user",
+        "content": "Haan aur yeh sirf ek example hai. Har baar kuch na kuch hota hai. I'm tired of explaining myself."
+      },
+      {
+        "role": "assistant",
+        "content": "Lagta hai pattern ban gaya hai aur tu thak gayi hai constantly justify karte hue. That's exhausting yaar. Koi hai jo actually sunta hai without judging?"
       }
     ],
     "metadata": {
       "language": "hinglish",
       "intent": "venting",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 6,
       "escalation_needed": false
     }
@@ -12817,12 +13261,20 @@
       {
         "role": "assistant",
         "content": "Privacy invade karke phir tumpe naraz? Woh galat hai yaar. Tumhara vent karna toh right tha, unka spy karna wrong tha."
+      },
+      {
+        "role": "user",
+        "content": "Haan aur yeh sirf ek example hai. Har baar kuch na kuch hota hai. I'm tired of explaining myself."
+      },
+      {
+        "role": "assistant",
+        "content": "Lagta hai pattern ban gaya hai aur tu thak gayi hai constantly justify karte hue. That's exhausting yaar. Koi hai jo actually sunta hai without judging?"
       }
     ],
     "metadata": {
       "language": "hinglish",
       "intent": "venting",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 6,
       "escalation_needed": false
     }
@@ -12837,12 +13289,20 @@
       {
         "role": "assistant",
         "content": "Both moved on together while you're still healing. That double loss plus constant social media reminders - there's no escape from the hurt."
+      },
+      {
+        "role": "user",
+        "content": "And this isn't even the first time. I'm just tired of having to defend everything I do."
+      },
+      {
+        "role": "assistant",
+        "content": "That constant need to justify yourself must be draining. When it's a pattern, it's not about you overreacting - it's a real problem. Is there anyone who actually gets it?"
       }
     ],
     "metadata": {
       "language": "english",
       "intent": "venting",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 7,
       "escalation_needed": false
     }
@@ -12857,12 +13317,20 @@
       {
         "role": "assistant",
         "content": "5k bachna matlab no cushion for anything. That financial trap at this age - planning future toh door, present hi manage nahi ho raha. Bohot heavy hai yeh."
+      },
+      {
+        "role": "user",
+        "content": "Haan aur yeh sirf ek example hai. Har baar kuch na kuch hota hai. I'm tired of explaining myself."
+      },
+      {
+        "role": "assistant",
+        "content": "Lagta hai pattern ban gaya hai aur tu thak gayi hai constantly justify karte hue. That's exhausting yaar. Koi hai jo actually sunta hai without judging?"
       }
     ],
     "metadata": {
       "language": "hinglish",
       "intent": "venting",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 7,
       "escalation_needed": false
     }
@@ -12877,12 +13345,20 @@
       {
         "role": "assistant",
         "content": "Permanent third wheel banna apne hi group mein - that loneliness hits different. Jaane se bhi akela, na jaane se bhi akela feel hota."
+      },
+      {
+        "role": "user",
+        "content": "Haan aur yeh sirf ek example hai. Har baar kuch na kuch hota hai. I'm tired of explaining myself."
+      },
+      {
+        "role": "assistant",
+        "content": "Lagta hai pattern ban gaya hai aur tu thak gayi hai constantly justify karte hue. That's exhausting yaar. Koi hai jo actually sunta hai without judging?"
       }
     ],
     "metadata": {
       "language": "hinglish",
       "intent": "venting",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 5,
       "escalation_needed": false
     }
@@ -12897,12 +13373,20 @@
       {
         "role": "assistant",
         "content": "Family turning every gathering into commentary on your body? That's cruel. Your confidence taking hits from people who should be supporting you - painful."
+      },
+      {
+        "role": "user",
+        "content": "Haan aur yeh sirf ek example hai. Har baar kuch na kuch hota hai. I'm tired of explaining myself."
+      },
+      {
+        "role": "assistant",
+        "content": "Lagta hai pattern ban gaya hai aur tu thak gayi hai constantly justify karte hue. That's exhausting yaar. Koi hai jo actually sunta hai without judging?"
       }
     ],
     "metadata": {
       "language": "english",
       "intent": "venting",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 6,
       "escalation_needed": false
     }
@@ -12917,12 +13401,20 @@
       {
         "role": "assistant",
         "content": "Unka investment dono mein equal nahi hai - that hurts yaar. Priority clear dikhti hai actions mein, even if love equal ho."
+      },
+      {
+        "role": "user",
+        "content": "Haan aur yeh sirf ek example hai. Har baar kuch na kuch hota hai. I'm tired of explaining myself."
+      },
+      {
+        "role": "assistant",
+        "content": "Lagta hai pattern ban gaya hai aur tu thak gayi hai constantly justify karte hue. That's exhausting yaar. Koi hai jo actually sunta hai without judging?"
       }
     ],
     "metadata": {
       "language": "hinglish",
       "intent": "venting",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 6,
       "escalation_needed": false
     }
@@ -12937,12 +13429,20 @@
       {
         "role": "assistant",
         "content": "Treatment jo heal karna chahiye woh afford nahi ho raha consistently. That gap between needing help and accessing it - frustrating and unfair hai."
+      },
+      {
+        "role": "user",
+        "content": "Haan aur yeh sirf ek example hai. Har baar kuch na kuch hota hai. I'm tired of explaining myself."
+      },
+      {
+        "role": "assistant",
+        "content": "Lagta hai pattern ban gaya hai aur tu thak gayi hai constantly justify karte hue. That's exhausting yaar. Koi hai jo actually sunta hai without judging?"
       }
     ],
     "metadata": {
       "language": "hinglish",
       "intent": "venting",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 7,
       "escalation_needed": false
     }
@@ -12957,12 +13457,20 @@
       {
         "role": "assistant",
         "content": "Your achievement poisoned by rumors. That celebration turned into defending your credibility - such a cheap way to steal your moment."
+      },
+      {
+        "role": "user",
+        "content": "And this isn't even the first time. I'm just tired of having to defend everything I do."
+      },
+      {
+        "role": "assistant",
+        "content": "That constant need to justify yourself must be draining. When it's a pattern, it's not about you overreacting - it's a real problem. Is there anyone who actually gets it?"
       }
     ],
     "metadata": {
       "language": "english",
       "intent": "venting",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 6,
       "escalation_needed": false
     }
@@ -12977,12 +13485,20 @@
       {
         "role": "assistant",
         "content": "15 saal se yeh dekh rahe aur ab normal lag raha - that numbness is survival but it's also scary ki pain ko normalize kar liya. You deserve better than this."
+      },
+      {
+        "role": "user",
+        "content": "Haan aur yeh sirf ek example hai. Har baar kuch na kuch hota hai. I'm tired of explaining myself."
+      },
+      {
+        "role": "assistant",
+        "content": "Lagta hai pattern ban gaya hai aur tu thak gayi hai constantly justify karte hue. That's exhausting yaar. Koi hai jo actually sunta hai without judging?"
       }
     ],
     "metadata": {
       "language": "hinglish",
       "intent": "venting",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 9,
       "escalation_needed": true
     }
@@ -12997,12 +13513,20 @@
       {
         "role": "assistant",
         "content": "2 saal aur sab savings gone. Unka 'koi nahi' tumhare financial reality ko address nahi karta. That loss is real and heavy hai."
+      },
+      {
+        "role": "user",
+        "content": "Haan aur yeh sirf ek example hai. Har baar kuch na kuch hota hai. I'm tired of explaining myself."
+      },
+      {
+        "role": "assistant",
+        "content": "Lagta hai pattern ban gaya hai aur tu thak gayi hai constantly justify karte hue. That's exhausting yaar. Koi hai jo actually sunta hai without judging?"
       }
     ],
     "metadata": {
       "language": "hinglish",
       "intent": "venting",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 7,
       "escalation_needed": false
     }
@@ -13017,12 +13541,20 @@
       {
         "role": "assistant",
         "content": "They dismissed your pain as drama. That rejection when you reached out - now you're isolated with something that needed support, not dismissal."
+      },
+      {
+        "role": "user",
+        "content": "Haan aur yeh sirf ek example hai. Har baar kuch na kuch hota hai. I'm tired of explaining myself."
+      },
+      {
+        "role": "assistant",
+        "content": "Lagta hai pattern ban gaya hai aur tu thak gayi hai constantly justify karte hue. That's exhausting yaar. Koi hai jo actually sunta hai without judging?"
       }
     ],
     "metadata": {
       "language": "english",
       "intent": "venting",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 8,
       "escalation_needed": false
     }
@@ -13037,12 +13569,20 @@
       {
         "role": "assistant",
         "content": "Public shaming 200 logon ke saamne? That's cruel yaar, not teaching. Woh embarrassment ka scar long-term rahega. Your fear of going back makes total sense."
+      },
+      {
+        "role": "user",
+        "content": "Haan aur yeh sirf ek example hai. Har baar kuch na kuch hota hai. I'm tired of explaining myself."
+      },
+      {
+        "role": "assistant",
+        "content": "Lagta hai pattern ban gaya hai aur tu thak gayi hai constantly justify karte hue. That's exhausting yaar. Koi hai jo actually sunta hai without judging?"
       }
     ],
     "metadata": {
       "language": "hinglish",
       "intent": "venting",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 7,
       "escalation_needed": false
     }
@@ -13057,12 +13597,20 @@
       {
         "role": "assistant",
         "content": "Stranger ke saath life commit karna 3 mahine mein? Your terror is valid yaar. 'Adjust ho jayega' dismisses the real fear of this huge leap."
+      },
+      {
+        "role": "user",
+        "content": "Haan aur yeh sirf ek example hai. Har baar kuch na kuch hota hai. I'm tired of explaining myself."
+      },
+      {
+        "role": "assistant",
+        "content": "Lagta hai pattern ban gaya hai aur tu thak gayi hai constantly justify karte hue. That's exhausting yaar. Koi hai jo actually sunta hai without judging?"
       }
     ],
     "metadata": {
       "language": "hinglish",
       "intent": "venting",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 7,
       "escalation_needed": false
     }
@@ -13077,12 +13625,20 @@
       {
         "role": "assistant",
         "content": "Emergency funds went to a phone upgrade and now he's dodging you? That betrayal of trust plus financial loss - friendship took a major hit."
+      },
+      {
+        "role": "user",
+        "content": "And this isn't even the first time. I'm just tired of having to defend everything I do."
+      },
+      {
+        "role": "assistant",
+        "content": "That constant need to justify yourself must be draining. When it's a pattern, it's not about you overreacting - it's a real problem. Is there anyone who actually gets it?"
       }
     ],
     "metadata": {
       "language": "english",
       "intent": "venting",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 6,
       "escalation_needed": false
     }
@@ -13097,12 +13653,20 @@
       {
         "role": "assistant",
         "content": "Har din dekh rahe koi jaate - that constant threat is paralyzing. Waiting for your turn while trying to work normally, impossible hai yaar."
+      },
+      {
+        "role": "user",
+        "content": "Haan aur yeh sirf ek example hai. Har baar kuch na kuch hota hai. I'm tired of explaining myself."
+      },
+      {
+        "role": "assistant",
+        "content": "Lagta hai pattern ban gaya hai aur tu thak gayi hai constantly justify karte hue. That's exhausting yaar. Koi hai jo actually sunta hai without judging?"
       }
     ],
     "metadata": {
       "language": "hinglish",
       "intent": "venting",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 7,
       "escalation_needed": false
     }
@@ -13117,12 +13681,20 @@
       {
         "role": "assistant",
         "content": "6 mahine consistent effort aur results nahi dikhe - that's demoralizing yaar. Friends ka quick progress dekh ke aur bura lagta. But genes blame mat lo, bodies respond differently."
+      },
+      {
+        "role": "user",
+        "content": "Haan aur yeh sirf ek example hai. Har baar kuch na kuch hota hai. I'm tired of explaining myself."
+      },
+      {
+        "role": "assistant",
+        "content": "Lagta hai pattern ban gaya hai aur tu thak gayi hai constantly justify karte hue. That's exhausting yaar. Koi hai jo actually sunta hai without judging?"
       }
     ],
     "metadata": {
       "language": "hinglish",
       "intent": "venting",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 5,
       "escalation_needed": false
     }
@@ -13137,12 +13709,20 @@
       {
         "role": "assistant",
         "content": "Their 'concern' is really them treating your relationship status as a medical condition. That constant questioning makes you doubt yourself unnecessarily."
+      },
+      {
+        "role": "user",
+        "content": "Haan aur yeh sirf ek example hai. Har baar kuch na kuch hota hai. I'm tired of explaining myself."
+      },
+      {
+        "role": "assistant",
+        "content": "Lagta hai pattern ban gaya hai aur tu thak gayi hai constantly justify karte hue. That's exhausting yaar. Koi hai jo actually sunta hai without judging?"
       }
     ],
     "metadata": {
       "language": "english",
       "intent": "venting",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 5,
       "escalation_needed": false
     }
@@ -13157,12 +13737,20 @@
       {
         "role": "assistant",
         "content": "Ghost se compete karwa rahi tumse. That constant comparison is destroying your confidence bit by bit. You'll never win against someone she's idealized yaar."
+      },
+      {
+        "role": "user",
+        "content": "Haan aur yeh sirf ek example hai. Har baar kuch na kuch hota hai. I'm tired of explaining myself."
+      },
+      {
+        "role": "assistant",
+        "content": "Lagta hai pattern ban gaya hai aur tu thak gayi hai constantly justify karte hue. That's exhausting yaar. Koi hai jo actually sunta hai without judging?"
       }
     ],
     "metadata": {
       "language": "hinglish",
       "intent": "venting",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 6,
       "escalation_needed": false
     }
@@ -13177,12 +13765,20 @@
       {
         "role": "assistant",
         "content": "Unki divorce but tumhe choose karna pada sides? That's unfair yaar. You love both but they're making you the referee in their fight."
+      },
+      {
+        "role": "user",
+        "content": "Haan aur yeh sirf ek example hai. Har baar kuch na kuch hota hai. I'm tired of explaining myself."
+      },
+      {
+        "role": "assistant",
+        "content": "Lagta hai pattern ban gaya hai aur tu thak gayi hai constantly justify karte hue. That's exhausting yaar. Koi hai jo actually sunta hai without judging?"
       }
     ],
     "metadata": {
       "language": "hinglish",
       "intent": "venting",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 7,
       "escalation_needed": false
     }
@@ -13197,12 +13793,20 @@
       {
         "role": "assistant",
         "content": "Fifteen no's in three months - that rejection is brutal on self-worth. Watching others succeed while you struggle makes it feel personal, but it's not about your value."
+      },
+      {
+        "role": "user",
+        "content": "And this isn't even the first time. I'm just tired of having to defend everything I do."
+      },
+      {
+        "role": "assistant",
+        "content": "That constant need to justify yourself must be draining. When it's a pattern, it's not about you overreacting - it's a real problem. Is there anyone who actually gets it?"
       }
     ],
     "metadata": {
       "language": "english",
       "intent": "venting",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 7,
       "escalation_needed": false
     }
@@ -13217,12 +13821,20 @@
       {
         "role": "assistant",
         "content": "Invisible logon ki approval ke liye apni choices sacrifice karna - that's suffocating yaar. Your life hai but remote control kisi aur ke paas."
+      },
+      {
+        "role": "user",
+        "content": "Haan aur yeh sirf ek example hai. Har baar kuch na kuch hota hai. I'm tired of explaining myself."
+      },
+      {
+        "role": "assistant",
+        "content": "Lagta hai pattern ban gaya hai aur tu thak gayi hai constantly justify karte hue. That's exhausting yaar. Koi hai jo actually sunta hai without judging?"
       }
     ],
     "metadata": {
       "language": "hinglish",
       "intent": "venting",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 6,
       "escalation_needed": false
     }
@@ -13237,12 +13849,20 @@
       {
         "role": "assistant",
         "content": "Tumhara kaam, unka credit. System hi designed hai freeloaders ko protect karne ke liye. Your effort invisible ho gaya 'group work' ke label mein."
+      },
+      {
+        "role": "user",
+        "content": "Haan aur yeh sirf ek example hai. Har baar kuch na kuch hota hai. I'm tired of explaining myself."
+      },
+      {
+        "role": "assistant",
+        "content": "Lagta hai pattern ban gaya hai aur tu thak gayi hai constantly justify karte hue. That's exhausting yaar. Koi hai jo actually sunta hai without judging?"
       }
     ],
     "metadata": {
       "language": "hinglish",
       "intent": "venting",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 5,
       "escalation_needed": false
     }
@@ -13257,12 +13877,20 @@
       {
         "role": "assistant",
         "content": "Knowing what you need but unable to access it because of money - that gap is frustrating and unfair. Healthcare being privilege when it should be right."
+      },
+      {
+        "role": "user",
+        "content": "And this isn't even the first time. I'm just tired of having to defend everything I do."
+      },
+      {
+        "role": "assistant",
+        "content": "That constant need to justify yourself must be draining. When it's a pattern, it's not about you overreacting - it's a real problem. Is there anyone who actually gets it?"
       }
     ],
     "metadata": {
       "language": "english",
       "intent": "venting",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 7,
       "escalation_needed": false
     }
@@ -13277,12 +13905,20 @@
       {
         "role": "assistant",
         "content": "24 pe bhi public mein humiliate karna? That disregard for your dignity neighbors ke saamne - embarrassment ka impact long lasting hota hai yaar."
+      },
+      {
+        "role": "user",
+        "content": "Haan aur yeh sirf ek example hai. Har baar kuch na kuch hota hai. I'm tired of explaining myself."
+      },
+      {
+        "role": "assistant",
+        "content": "Lagta hai pattern ban gaya hai aur tu thak gayi hai constantly justify karte hue. That's exhausting yaar. Koi hai jo actually sunta hai without judging?"
       }
     ],
     "metadata": {
       "language": "hinglish",
       "intent": "venting",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 6,
       "escalation_needed": false
     }
@@ -13297,12 +13933,20 @@
       {
         "role": "assistant",
         "content": "He knew you liked her and still went ahead? That boundary crossing is betrayal yaar. Ab dono cheezon ka loss ek saath - brutal hai."
+      },
+      {
+        "role": "user",
+        "content": "Haan aur yeh sirf ek example hai. Har baar kuch na kuch hota hai. I'm tired of explaining myself."
+      },
+      {
+        "role": "assistant",
+        "content": "Lagta hai pattern ban gaya hai aur tu thak gayi hai constantly justify karte hue. That's exhausting yaar. Koi hai jo actually sunta hai without judging?"
       }
     ],
     "metadata": {
       "language": "hinglish",
       "intent": "venting",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 6,
       "escalation_needed": false
     }
@@ -13317,12 +13961,20 @@
       {
         "role": "assistant",
         "content": "That empty room when you expected people - the hurt is deep. Not even courtesy of canceling, just ghosted. That rejection stings badly."
+      },
+      {
+        "role": "user",
+        "content": "And this isn't even the first time. I'm just tired of having to defend everything I do."
+      },
+      {
+        "role": "assistant",
+        "content": "That constant need to justify yourself must be draining. When it's a pattern, it's not about you overreacting - it's a real problem. Is there anyone who actually gets it?"
       }
     ],
     "metadata": {
       "language": "english",
       "intent": "venting",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 6,
       "escalation_needed": false
     }
@@ -13337,12 +13989,20 @@
       {
         "role": "assistant",
         "content": "His success ne tumhe shadow mein daal diya. Your achievements exist but ignored hain uski chamak mein. That invisibility in your own family hurts."
+      },
+      {
+        "role": "user",
+        "content": "Haan aur yeh sirf ek example hai. Har baar kuch na kuch hota hai. I'm tired of explaining myself."
+      },
+      {
+        "role": "assistant",
+        "content": "Lagta hai pattern ban gaya hai aur tu thak gayi hai constantly justify karte hue. That's exhausting yaar. Koi hai jo actually sunta hai without judging?"
       }
     ],
     "metadata": {
       "language": "hinglish",
       "intent": "venting",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 6,
       "escalation_needed": false
     }
@@ -13357,12 +14017,20 @@
       {
         "role": "assistant",
         "content": "Blocking instead of talking is control move hai. Tumhe powerless bana diya communication ke liye - waiting mein rakhna torture hai yaar."
+      },
+      {
+        "role": "user",
+        "content": "Haan aur yeh sirf ek example hai. Har baar kuch na kuch hota hai. I'm tired of explaining myself."
+      },
+      {
+        "role": "assistant",
+        "content": "Lagta hai pattern ban gaya hai aur tu thak gayi hai constantly justify karte hue. That's exhausting yaar. Koi hai jo actually sunta hai without judging?"
       }
     ],
     "metadata": {
       "language": "hinglish",
       "intent": "venting",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 5,
       "escalation_needed": false
     }
@@ -13377,12 +14045,20 @@
       {
         "role": "assistant",
         "content": "They upended your entire life with one announcement. Impossible choice between job and everything else that matters. That's brutal positioning."
+      },
+      {
+        "role": "user",
+        "content": "And this isn't even the first time. I'm just tired of having to defend everything I do."
+      },
+      {
+        "role": "assistant",
+        "content": "That constant need to justify yourself must be draining. When it's a pattern, it's not about you overreacting - it's a real problem. Is there anyone who actually gets it?"
       }
     ],
     "metadata": {
       "language": "english",
       "intent": "venting",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 7,
       "escalation_needed": false
     }
@@ -13397,12 +14073,20 @@
       {
         "role": "assistant",
         "content": "Snooping karke phir punishment? Double violation hai yeh - privacy breach aur phir control. At your age, this is suffocating yaar."
+      },
+      {
+        "role": "user",
+        "content": "Haan aur yeh sirf ek example hai. Har baar kuch na kuch hota hai. I'm tired of explaining myself."
+      },
+      {
+        "role": "assistant",
+        "content": "Lagta hai pattern ban gaya hai aur tu thak gayi hai constantly justify karte hue. That's exhausting yaar. Koi hai jo actually sunta hai without judging?"
       }
     ],
     "metadata": {
       "language": "hinglish",
       "intent": "venting",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 6,
       "escalation_needed": false
     }
@@ -13417,12 +14101,20 @@
       {
         "role": "assistant",
         "content": "Teen saal pause pe while everyone moves forward - that comparison is heavy yaar. Your investment vs their progress, that gap feels like life passing by."
+      },
+      {
+        "role": "user",
+        "content": "Haan aur yeh sirf ek example hai. Har baar kuch na kuch hota hai. I'm tired of explaining myself."
+      },
+      {
+        "role": "assistant",
+        "content": "Lagta hai pattern ban gaya hai aur tu thak gayi hai constantly justify karte hue. That's exhausting yaar. Koi hai jo actually sunta hai without judging?"
       }
     ],
     "metadata": {
       "language": "hinglish",
       "intent": "venting",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 7,
       "escalation_needed": false
     }
@@ -13437,12 +14129,20 @@
       {
         "role": "assistant",
         "content": "Medical event dismissed as normal nervousness? That minimizing when you couldn't physically function - your struggle deserved concern, not dismissal."
+      },
+      {
+        "role": "user",
+        "content": "Haan aur yeh sirf ek example hai. Har baar kuch na kuch hota hai. I'm tired of explaining myself."
+      },
+      {
+        "role": "assistant",
+        "content": "Lagta hai pattern ban gaya hai aur tu thak gayi hai constantly justify karte hue. That's exhausting yaar. Koi hai jo actually sunta hai without judging?"
       }
     ],
     "metadata": {
       "language": "english",
       "intent": "venting",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 7,
       "escalation_needed": false
     }
@@ -13457,12 +14157,20 @@
       {
         "role": "assistant",
         "content": "Same work, less pay, aur excuse bhi dhang ka nahi. That undervaluing when your performance is solid - disrespect hai yaar, plain and simple."
+      },
+      {
+        "role": "user",
+        "content": "Haan aur yeh sirf ek example hai. Har baar kuch na kuch hota hai. I'm tired of explaining myself."
+      },
+      {
+        "role": "assistant",
+        "content": "Lagta hai pattern ban gaya hai aur tu thak gayi hai constantly justify karte hue. That's exhausting yaar. Koi hai jo actually sunta hai without judging?"
       }
     ],
     "metadata": {
       "language": "hinglish",
       "intent": "venting",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 7,
       "escalation_needed": false
     }
@@ -13477,12 +14185,20 @@
       {
         "role": "assistant",
         "content": "Same fees but unequal treatment? That favoritism when you're paying equally is unfair yaar. Tumhara bhi right hai attention pe."
+      },
+      {
+        "role": "user",
+        "content": "Haan aur yeh sirf ek example hai. Har baar kuch na kuch hota hai. I'm tired of explaining myself."
+      },
+      {
+        "role": "assistant",
+        "content": "Lagta hai pattern ban gaya hai aur tu thak gayi hai constantly justify karte hue. That's exhausting yaar. Koi hai jo actually sunta hai without judging?"
       }
     ],
     "metadata": {
       "language": "hinglish",
       "intent": "venting",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 5,
       "escalation_needed": false
     }
@@ -13497,12 +14213,20 @@
       {
         "role": "assistant",
         "content": "They invaded your private thoughts then punished you for having them? That's backwards. Your diary was your safe space and they destroyed that."
+      },
+      {
+        "role": "user",
+        "content": "And this isn't even the first time. I'm just tired of having to defend everything I do."
+      },
+      {
+        "role": "assistant",
+        "content": "That constant need to justify yourself must be draining. When it's a pattern, it's not about you overreacting - it's a real problem. Is there anyone who actually gets it?"
       }
     ],
     "metadata": {
       "language": "english",
       "intent": "venting",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 6,
       "escalation_needed": false
     }
@@ -13517,12 +14241,20 @@
       {
         "role": "assistant",
         "content": "Merit haar gayi connection se openly. Your hard work invisible ho gaya family ties ke saamne. System rigged hai aur sab chup hain."
+      },
+      {
+        "role": "user",
+        "content": "Haan aur yeh sirf ek example hai. Har baar kuch na kuch hota hai. I'm tired of explaining myself."
+      },
+      {
+        "role": "assistant",
+        "content": "Lagta hai pattern ban gaya hai aur tu thak gayi hai constantly justify karte hue. That's exhausting yaar. Koi hai jo actually sunta hai without judging?"
       }
     ],
     "metadata": {
       "language": "hinglish",
       "intent": "venting",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 7,
       "escalation_needed": false
     }
@@ -13537,32 +14269,20 @@
       {
         "role": "assistant",
         "content": "A medical event and you got dismissed, not supported? That coldness when you were vulnerable - that's harsh and unfair treatment."
+      },
+      {
+        "role": "user",
+        "content": "And this isn't even the first time. I'm just tired of having to defend everything I do."
+      },
+      {
+        "role": "assistant",
+        "content": "That constant need to justify yourself must be draining. When it's a pattern, it's not about you overreacting - it's a real problem. Is there anyone who actually gets it?"
       }
     ],
     "metadata": {
       "language": "english",
       "intent": "venting",
-      "conversation_stage": "initial",
-      "severity": 7,
-      "escalation_needed": false
-    }
-  },
-  {
-    "id": "ehsaas_p4_4293",
-    "messages": [
-      {
-        "role": "user",
-        "content": "Mera promotion junior ko mil gaya jo manager ka bhanja hai. Sab ko pata hai nepotism hai but koi kuch nahi bolta. Main yahan mehnat karta raha."
-      },
-      {
-        "role": "assistant",
-        "content": "Nepotism jeet gayi merit ko, openly. Your hard work became invisible next to that family connection. System itself rigged hai."
-      }
-    ],
-    "metadata": {
-      "language": "hinglish",
-      "intent": "venting",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 7,
       "escalation_needed": false
     }
@@ -13577,12 +14297,20 @@
       {
         "role": "assistant",
         "content": "Your life milestones on their timeline. That constant 'shaadi kab' reduces your whole existence to marriage status. Exhausting to field repeatedly."
+      },
+      {
+        "role": "user",
+        "content": "Haan aur yeh sirf ek example hai. Har baar kuch na kuch hota hai. I'm tired of explaining myself."
+      },
+      {
+        "role": "assistant",
+        "content": "Lagta hai pattern ban gaya hai aur tu thak gayi hai constantly justify karte hue. That's exhausting yaar. Koi hai jo actually sunta hai without judging?"
       }
     ],
     "metadata": {
       "language": "hinglish",
       "intent": "venting",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 5,
       "escalation_needed": false
     }
@@ -13597,12 +14325,20 @@
       {
         "role": "assistant",
         "content": "She's dismissing your boundary as overreaction when she's the one stealing. That 'just food' ignores that it's your money, your planning. Disrespectful."
+      },
+      {
+        "role": "user",
+        "content": "And this isn't even the first time. I'm just tired of having to defend everything I do."
+      },
+      {
+        "role": "assistant",
+        "content": "That constant need to justify yourself must be draining. When it's a pattern, it's not about you overreacting - it's a real problem. Is there anyone who actually gets it?"
       }
     ],
     "metadata": {
       "language": "english",
       "intent": "venting",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 5,
       "escalation_needed": false
     }
@@ -13617,12 +14353,20 @@
       {
         "role": "assistant",
         "content": "Physical violence at 23 for waking up late? That's not discipline, that's abuse regardless of age. Your dignity matters and this isn't okay."
+      },
+      {
+        "role": "user",
+        "content": "Haan aur yeh sirf ek example hai. Har baar kuch na kuch hota hai. I'm tired of explaining myself."
+      },
+      {
+        "role": "assistant",
+        "content": "Lagta hai pattern ban gaya hai aur tu thak gayi hai constantly justify karte hue. That's exhausting yaar. Koi hai jo actually sunta hai without judging?"
       }
     ],
     "metadata": {
       "language": "hinglish",
       "intent": "venting",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 8,
       "escalation_needed": true
     }
@@ -16945,12 +17689,20 @@
       {
         "role": "assistant",
         "content": "Arre yaar, yeh toh bohot heavy hai. Ek taraf scholarship - jo tumne itni mehnat se hasil ki, mummy papa ka proud hona - woh sab real achievement hai. Aur dusri taraf girlfriend ka jaana, uska clear kehna ki nahi kar sakti long distance - woh heartbreak bhi utna hi real. Dreams aur pyaar dono chahiye the na, par dono saath nahi mil paye. Khushi aur dard dono ek saath feel karna bilkul natural hai yaar. Tumhari both feelings valid hain."
+      },
+      {
+        "role": "user",
+        "content": "Haan exactly. I don't know which feeling to listen to. One part says one thing, other part says something else."
+      },
+      {
+        "role": "assistant",
+        "content": "Dono feelings ko ek saath hold karna is really confusing. You don't have to pick one right now yaar. What feels more unsettling - the conflict itself ya not having clarity?"
       }
     ],
     "metadata": {
       "language": "hinglish",
       "intent": "mixed_emotions",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 7,
       "escalation_needed": false
     }
@@ -16965,12 +17717,20 @@
       {
         "role": "assistant",
         "content": "Mere dost, tumhari rahat bilkul samajh sakta hoon. Wo vyakti pitaji ko kai baar dhokha diye, pareshan karte rahe - unka na hona ek bojh ka hat jaना hai tumhare liye. Yeh rahat galat nahi, suraksha ki bhavna hai pitaji ke prati. Par pitaji ka shok bhi sachcha hai - lambe samay ka sath tha unka. Tumhari rahat unke dukh ke saath takrav mein hai, aur dono hi sach hain. Tum apni rahat ko chupate hue unka shok samman de rahe ho - yeh bhi ek tarah ka pyar hai."
+      },
+      {
+        "role": "user",
+        "content": "Haan exactly. I don't know which feeling to listen to. One part says one thing, other part says something else."
+      },
+      {
+        "role": "assistant",
+        "content": "Dono feelings ko ek saath hold karna is really confusing. You don't have to pick one right now yaar. What feels more unsettling - the conflict itself ya not having clarity?"
       }
     ],
     "metadata": {
       "language": "hindi",
       "intent": "mixed_emotions",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 6,
       "escalation_needed": false
     }
@@ -16985,12 +17745,20 @@
       {
         "role": "assistant",
         "content": "That's such a profound mix of feelings. On one hand, this acquisition is validation - all those years of grinding, sacrificing, building something from nothing, and now financial security you've earned. That's huge and worth celebrating. But on the other hand, this was your baby, your identity, your purpose for 6 years. Watching someone else take the reins, make decisions about something you built with your own hands - that grief is so real. The money doesn't fill that void of losing what you created. Both the celebration and the mourning deserve space."
+      },
+      {
+        "role": "user",
+        "content": "Yeah exactly. I can't figure out which feeling is the real one. It's like I'm at war with myself."
+      },
+      {
+        "role": "assistant",
+        "content": "That internal conflict is exhausting. You're not overthinking this - when feelings contradict each other, it's genuinely hard to know what's true. What feels most uncomfortable about sitting with both?"
       }
     ],
     "metadata": {
       "language": "english",
       "intent": "mixed_emotions",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 6,
       "escalation_needed": false
     }
@@ -17005,12 +17773,20 @@
       {
         "role": "assistant",
         "content": "Yaar bilkul samajh sakta hoon. Toxic boss se chhutकारा milna - wo relief toh genuine hai. Team ko finally saans lene ka mauka mila. Par naye boss ke saath woh uncertainty - kya nature hoga, kaise kaam karenge, team ke saath kaisa behave karenge - yeh sab unknown hai aur woh anxiety create karta. Khushi ki ek chapter khatam hua aur darr ki naya chapter kaisa hoga. Dono feelings ek saath hona natural hai jab change aata hai."
+      },
+      {
+        "role": "user",
+        "content": "Haan exactly. I don't know which feeling to listen to. One part says one thing, other part says something else."
+      },
+      {
+        "role": "assistant",
+        "content": "Dono feelings ko ek saath hold karna is really confusing. You don't have to pick one right now yaar. What feels more unsettling - the conflict itself ya not having clarity?"
       }
     ],
     "metadata": {
       "language": "hinglish",
       "intent": "mixed_emotions",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 5,
       "escalation_needed": false
     }
@@ -17025,12 +17801,20 @@
       {
         "role": "assistant",
         "content": "Oh wow, that's a lot to hold at once. Two years of trying, hoping, maybe even grieving every month it didn't happen - and now it finally has. That joy and relief is so deserved. And at the same time, you just stepped into your dream role, something you also worked so hard for, and now you're facing the reality of maternity leave, career impact, timing that feels all wrong. You wanted both of these things desperately and now they're here together in a way that feels conflicting instead of celebratory. That fear about career mixed with excitement about baby - both make complete sense."
+      },
+      {
+        "role": "user",
+        "content": "Yeah exactly. I can't figure out which feeling is the real one. It's like I'm at war with myself."
+      },
+      {
+        "role": "assistant",
+        "content": "That internal conflict is exhausting. You're not overthinking this - when feelings contradict each other, it's genuinely hard to know what's true. What feels most uncomfortable about sitting with both?"
       }
     ],
     "metadata": {
       "language": "english",
       "intent": "mixed_emotions",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 7,
       "escalation_needed": false
     }
@@ -17045,12 +17829,20 @@
       {
         "role": "assistant",
         "content": "Arre yaar, yeh toh bohot complex situation hai. Ek taraf achhi ladki, achhi family - practically sab theek hai aur tumhe bhai ke liye khushi honi chahiye. Par dusri taraf tum jaante ho uska dil kahaan tha, kis se saccha pyar tha, aur wo compromise kar raha apni feelings ko. Celebration mein shamil hona par andar se uski khoyi hui khushi ka dukh feel karna - dono ek saath. Tumhari khushi uske settled hone ki aur sadness uske dil ki awaaz na sun paने ki - both are valid, yaar."
+      },
+      {
+        "role": "user",
+        "content": "Haan exactly. I don't know which feeling to listen to. One part says one thing, other part says something else."
+      },
+      {
+        "role": "assistant",
+        "content": "Dono feelings ko ek saath hold karna is really confusing. You don't have to pick one right now yaar. What feels more unsettling - the conflict itself ya not having clarity?"
       }
     ],
     "metadata": {
       "language": "hinglish",
       "intent": "mixed_emotions",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 6,
       "escalation_needed": false
     }
@@ -17065,12 +17857,20 @@
       {
         "role": "assistant",
         "content": "Mere dost, yeh jo tum mehsoos kar rahe wo har pita ka dil samajh sakta. Dikri ka itना bada avsar milना - videsh mein naukri, uski mehnat ka phal - isme garv hona swabhavik hai. Tumne usko is layak बनाया. Par saath hi wo दूरी, wo physically uपस्थित na होना, tyohar video call pe मनाना - yeh sब akelapan laता. Uski उड़ान tumhari khushi hai aur uska jaना tumhari हानि. Dono bhavनाएं ek saath rehti hain jab bachche बड़े होkar अपना rasta चुनते."
+      },
+      {
+        "role": "user",
+        "content": "Haan exactly. I don't know which feeling to listen to. One part says one thing, other part says something else."
+      },
+      {
+        "role": "assistant",
+        "content": "Dono feelings ko ek saath hold karna is really confusing. You don't have to pick one right now yaar. What feels more unsettling - the conflict itself ya not having clarity?"
       }
     ],
     "metadata": {
       "language": "hindi",
       "intent": "mixed_emotions",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 6,
       "escalation_needed": false
     }
@@ -17085,12 +17885,20 @@
       {
         "role": "assistant",
         "content": "That's such a complicated moment. Fifteen years later, he's done the work, gone to therapy, grown enough to reach out and own what he did - that takes real courage and that growth is genuinely worth acknowledging. But at the same time, that hurt kid inside you who carried those wounds for 15 years, who didn't get an apology when it mattered most - that part has every right to be angry, to want to reject this late apology. The appreciation for his growth and the anger for the timing and the pain - both are completely valid. You don't owe him immediate forgiveness just because he's finally ready to apologize."
+      },
+      {
+        "role": "user",
+        "content": "Haan exactly. I don't know which feeling to listen to. One part says one thing, other part says something else."
+      },
+      {
+        "role": "assistant",
+        "content": "Dono feelings ko ek saath hold karna is really confusing. You don't have to pick one right now yaar. What feels more unsettling - the conflict itself ya not having clarity?"
       }
     ],
     "metadata": {
       "language": "english",
       "intent": "mixed_emotions",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 6,
       "escalation_needed": false
     }
@@ -17105,12 +17913,20 @@
       {
         "role": "assistant",
         "content": "Arre yaar, yeh toh classic dilemma hai. Ek taraf promotion - recognition, growth, paisa - sab kuch jo tumne deserve kiya. Happy hona bilkul natural hai. Par dusri taraf wo dosti jo office mein bani thi, ab wo power dynamics aa gaye beech mein. Jo pehle coffee pe complaints karte the saath mein, ab tum unke manager ho. Uncomfortable feel hona makes total sense kyunki dono cheezein chahiye thi - success bhi aur friendship bhi. Par kabhi kabhi life mein dono ek saath nahi reh sakte easily. Confusing hai, yaar, par dono feelings valid hain."
+      },
+      {
+        "role": "user",
+        "content": "Haan exactly. I don't know which feeling to listen to. One part says one thing, other part says something else."
+      },
+      {
+        "role": "assistant",
+        "content": "Dono feelings ko ek saath hold karna is really confusing. You don't have to pick one right now yaar. What feels more unsettling - the conflict itself ya not having clarity?"
       }
     ],
     "metadata": {
       "language": "hinglish",
       "intent": "mixed_emotions",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 5,
       "escalation_needed": false
     }
@@ -17125,12 +17941,20 @@
       {
         "role": "assistant",
         "content": "Mere dost, tis varsh ka sath - wo sirf naukar nahi, parivaar ka ang ban gaya tha. Unki vidai pe shok hona bilkul swabhavik hai. Unhone tumhara bachpan dekha, ghar ki har khushi gam mein shamil rahe. Par saath hi rahat bhi hai ki ab naye vyakti aayenge jo modern tarike samajhte, alag soch rakhte. Dono bhavnayen sach hain - unka jaana ek yug ka ant hai aur naye ka prarambh bhi. Khushi aur shok ek saath rehte jab lambe samay ki cheezein badalti hain."
+      },
+      {
+        "role": "user",
+        "content": "Haan exactly. I don't know which feeling to listen to. One part says one thing, other part says something else."
+      },
+      {
+        "role": "assistant",
+        "content": "Dono feelings ko ek saath hold karna is really confusing. You don't have to pick one right now yaar. What feels more unsettling - the conflict itself ya not having clarity?"
       }
     ],
     "metadata": {
       "language": "hindi",
       "intent": "mixed_emotions",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 5,
       "escalation_needed": false
     }
@@ -17145,12 +17969,20 @@
       {
         "role": "assistant",
         "content": "That's such a heavy mix to carry. This program is what you've worked toward, what you've dreamed about - getting in is a genuine achievement and the excitement about what you'll learn, who you'll become, that's all real and valid. But those loan numbers, the years of payments ahead, the financial weight you're taking on - that terror is equally real. Everyone sees the achievement and wants to celebrate, but you're the one who'll live with the debt. The excitement about your future and the panic about the cost - both deserve space. This is a huge decision with real consequences on both sides."
+      },
+      {
+        "role": "user",
+        "content": "Haan exactly. I don't know which feeling to listen to. One part says one thing, other part says something else."
+      },
+      {
+        "role": "assistant",
+        "content": "Dono feelings ko ek saath hold karna is really confusing. You don't have to pick one right now yaar. What feels more unsettling - the conflict itself ya not having clarity?"
       }
     ],
     "metadata": {
       "language": "english",
       "intent": "mixed_emotions",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 7,
       "escalation_needed": false
     }
@@ -17165,12 +17997,20 @@
       {
         "role": "assistant",
         "content": "Yaar bilkul samajh sakta hoon. Tum genuinely move on kar chuke ho, apni life mein khush ho - wo progress real hai aur celebrate karne layak. Par phir bhi jab unko kisi aur ke saath dekhte ho, wo strange feeling aana - wo bhi natural hai. Past connection tha, memories thi, ek time pe wo tumhara tha - toh thoda uncomfortable hona makes sense. Happy hona apni life ke liye aur weird feel karna unki nai life dekhke - dono ek saath ho sakte hain. Move on karna doesn't mean sab feelings disappear ho jayen instantly."
+      },
+      {
+        "role": "user",
+        "content": "Haan exactly. I don't know which feeling to listen to. One part says one thing, other part says something else."
+      },
+      {
+        "role": "assistant",
+        "content": "Dono feelings ko ek saath hold karna is really confusing. You don't have to pick one right now yaar. What feels more unsettling - the conflict itself ya not having clarity?"
       }
     ],
     "metadata": {
       "language": "hinglish",
       "intent": "mixed_emotions",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 5,
       "escalation_needed": false
     }
@@ -17185,12 +18025,20 @@
       {
         "role": "assistant",
         "content": "Oh, that must have been such a painful moment. That money - you needed it, it's practical, it helps you move forward in real tangible ways. The relief of having those funds, of not maintaining something unused, that makes complete sense. But that car wasn't just metal and wheels - it was him driving you to school, road trips, the smell of his cologne still faint in the seats maybe. Signing it away, watching it drive off with someone else - that's erasing a touchstone to his physical presence in your life. The practical relief and the emotional grief can both be true. You did what you needed to do AND you're allowed to mourn what it meant."
+      },
+      {
+        "role": "user",
+        "content": "Yeah exactly. I can't figure out which feeling is the real one. It's like I'm at war with myself."
+      },
+      {
+        "role": "assistant",
+        "content": "That internal conflict is exhausting. You're not overthinking this - when feelings contradict each other, it's genuinely hard to know what's true. What feels most uncomfortable about sitting with both?"
       }
     ],
     "metadata": {
       "language": "english",
       "intent": "mixed_emotions",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 7,
       "escalation_needed": false
     }
@@ -17205,12 +18053,20 @@
       {
         "role": "assistant",
         "content": "Arre yaar, yeh toh emotional hai. Ek taraf relief ki finally wo toxic relationship se free hui - no more fights, no more suffering, wo peace mili usko. Uske liye genuinely khushi honi chahiye. Par dusri taraf wo memories - double dates, couple plans, future sapne jo sab couples ke the - wo sab badal gaya ab. Uski freedom celebrate karna aur saath hi un shared moments ka loss feel karna - dono valid hain. Friendship evolve hui, circumstances badli, aur dono feelings ek saath aa sakti."
+      },
+      {
+        "role": "user",
+        "content": "Haan exactly. I don't know which feeling to listen to. One part says one thing, other part says something else."
+      },
+      {
+        "role": "assistant",
+        "content": "Dono feelings ko ek saath hold karna is really confusing. You don't have to pick one right now yaar. What feels more unsettling - the conflict itself ya not having clarity?"
       }
     ],
     "metadata": {
       "language": "hinglish",
       "intent": "mixed_emotions",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 6,
       "escalation_needed": false
     }
@@ -17225,12 +18081,20 @@
       {
         "role": "assistant",
         "content": "Mere dost, tumhari maa ka nirnay unki swatantrata hai - treatment ke baad, jo bhi aasan lage unko, wo karne ka haq hai unka. Prasann hona unki khushi dekh kar natural hai. Par saath hi tumhara rona bhi samajh sakta hoon - unke lambe baal bachpan se tumne dekhe, wo unki pehchan ka hissa the, har tyohar pe sajate the. Unka katna ek yug ka ant jaisa lagta. Unki khushi tumhari khushi hai aur unke baalon ka jaana tumhari smritiyon ka ek ang khona. Dono bhavnayen pyar ki alag alag abhivyakti hain."
+      },
+      {
+        "role": "user",
+        "content": "Haan exactly. I don't know which feeling to listen to. One part says one thing, other part says something else."
+      },
+      {
+        "role": "assistant",
+        "content": "Dono feelings ko ek saath hold karna is really confusing. You don't have to pick one right now yaar. What feels more unsettling - the conflict itself ya not having clarity?"
       }
     ],
     "metadata": {
       "language": "hindi",
       "intent": "mixed_emotions",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 5,
       "escalation_needed": false
     }
@@ -17245,12 +18109,20 @@
       {
         "role": "assistant",
         "content": "That's really tough to sit with. Your happiness for him is genuine - he found someone, he's in love, he's starting this new chapter. That joy for your brother is real and it shows how much you care about him. But at the same time, his engagement becomes a mirror reflecting your own situation back at you, and those family comments just twist the knife deeper. You're celebrating his win while it highlights what feels like your loss. Both the genuine happiness for him and the hurt for yourself deserve acknowledgment. You're allowed to feel both without guilt."
+      },
+      {
+        "role": "user",
+        "content": "Yeah exactly. I can't figure out which feeling is the real one. It's like I'm at war with myself."
+      },
+      {
+        "role": "assistant",
+        "content": "That internal conflict is exhausting. You're not overthinking this - when feelings contradict each other, it's genuinely hard to know what's true. What feels most uncomfortable about sitting with both?"
       }
     ],
     "metadata": {
       "language": "english",
       "intent": "mixed_emotions",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 6,
       "escalation_needed": false
     }
@@ -17265,12 +18137,20 @@
       {
         "role": "assistant",
         "content": "Yaar, yeh toh bohot bhari situation hai. Ek taraf parents ki khushi - unhone itna invest kiya, sacrifice kiya tumhare liye, aur ab IIT coaching mein admission - unke liye yeh dream hai. Unki khushi dekhkar guilt hona natural hai apne sapne ke baare mein sochna. Par dusri taraf tumhara dil art mein hai, engineer banna tumhara passion nahi. Success toh unke definition ki mil rahi par sacrifice tumhara ho raha - apna asli khud ko. Dono feelings - guilt aur apni unfulfilled iccha - bilkul valid hain. This is really heavy to carry alone, yaar."
+      },
+      {
+        "role": "user",
+        "content": "Haan exactly. I don't know which feeling to listen to. One part says one thing, other part says something else."
+      },
+      {
+        "role": "assistant",
+        "content": "Dono feelings ko ek saath hold karna is really confusing. You don't have to pick one right now yaar. What feels more unsettling - the conflict itself ya not having clarity?"
       }
     ],
     "metadata": {
       "language": "hinglish",
       "intent": "mixed_emotions",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 7,
       "escalation_needed": false
     }
@@ -17285,12 +18165,20 @@
       {
         "role": "assistant",
         "content": "Samajh sakta hoon yeh kitna ajeeb mix hai. Ek taraf rahat ki ab woh shor, bhaukna, sadak par gandagi - yeh sab khatam hua. Tumhari shanti lauti. Par dusri taraf padosan ko rote dekhna, unka dard mehsoos karna - wo kutta unka parivaar ka ang tha, akelapan mein sathi. Tumhari rahat tumhari zaroorat hai aur unka shok unka pyar. Dono alag sachchaiyan hain jo ek saath hui. Rahat mehsoos karne mein koi galti nahi, par unke liye sahanubhuti hona bhi tumhari insaniyat hai."
+      },
+      {
+        "role": "user",
+        "content": "Haan exactly. I don't know which feeling to listen to. One part says one thing, other part says something else."
+      },
+      {
+        "role": "assistant",
+        "content": "Dono feelings ko ek saath hold karna is really confusing. You don't have to pick one right now yaar. What feels more unsettling - the conflict itself ya not having clarity?"
       }
     ],
     "metadata": {
       "language": "hindi",
       "intent": "mixed_emotions",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 5,
       "escalation_needed": false
     }
@@ -17305,12 +18193,20 @@
       {
         "role": "assistant",
         "content": "That's such an impossible position to be in. This promotion - regional manager - that's years of hard work paying off, recognition you've earned, a career milestone that validates everything you've sacrificed. That achievement is real and deserves celebration. But your parents are aging, they need you close, and moving away feels like abandoning them when they're most vulnerable. The success pulling you forward and the guilt pulling you back - both are completely understandable. You're not wrong for wanting your career and you're not wrong for feeling terrible about the distance. This is just brutally hard with no easy answer."
+      },
+      {
+        "role": "user",
+        "content": "Yeah exactly. I can't figure out which feeling is the real one. It's like I'm at war with myself."
+      },
+      {
+        "role": "assistant",
+        "content": "That internal conflict is exhausting. You're not overthinking this - when feelings contradict each other, it's genuinely hard to know what's true. What feels most uncomfortable about sitting with both?"
       }
     ],
     "metadata": {
       "language": "english",
       "intent": "mixed_emotions",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 7,
       "escalation_needed": false
     }
@@ -17325,12 +18221,20 @@
       {
         "role": "assistant",
         "content": "Yaar bilkul samajh sakta hoon. Ek taraf gratitude ki finally theek ho gaye - wo relief itna bada hai, celebration karne layak. Par dusri taraf wo anger bhi toh valid hai na - kitni baar kaha hoga apna dhyaan rakho, doctor ki suno, par ignore kiya. Agar pehle sun lete toh yeh sab avoid ho sakta tha. Khushi feel karna aur saath mein frustration - dono ek saath ho sakte. Relief unke behtar hone ki aur gussa unki zid ki. Dono pyar se hi aate, yaar."
+      },
+      {
+        "role": "user",
+        "content": "Haan exactly. I don't know which feeling to listen to. One part says one thing, other part says something else."
+      },
+      {
+        "role": "assistant",
+        "content": "Dono feelings ko ek saath hold karna is really confusing. You don't have to pick one right now yaar. What feels more unsettling - the conflict itself ya not having clarity?"
       }
     ],
     "metadata": {
       "language": "hinglish",
       "intent": "mixed_emotions",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 6,
       "escalation_needed": false
     }
@@ -17345,12 +18249,20 @@
       {
         "role": "assistant",
         "content": "Congratulations - that's a massive achievement. Five years of rejections, of keeping going when it would've been easier to quit, and you did it. That book exists because of your perseverance. The pride you feel is so deserved. And at the exact same time, that terror of exposure, of critics tearing apart something you poured your soul into, of strangers judging your work - that vulnerability is absolutely real. You're standing naked in public essentially, and that's terrifying. The pride in what you've accomplished and the fear of how it'll be received - both make complete sense. Creation requires courage and courage doesn't mean not being afraid."
+      },
+      {
+        "role": "user",
+        "content": "Yeah exactly. I can't figure out which feeling is the real one. It's like I'm at war with myself."
+      },
+      {
+        "role": "assistant",
+        "content": "That internal conflict is exhausting. You're not overthinking this - when feelings contradict each other, it's genuinely hard to know what's true. What feels most uncomfortable about sitting with both?"
       }
     ],
     "metadata": {
       "language": "english",
       "intent": "mixed_emotions",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 6,
       "escalation_needed": false
     }
@@ -17365,12 +18277,20 @@
       {
         "role": "assistant",
         "content": "Arre yaar, naya phone lena - upgrades, speed, features - wo excitement toh real hai. Technology behtar milna achha lagta. Par saath mein wo purana phone - 7 saal tumhare saath raha, har moment capture kiya, har khushi gam dekha. Wo sirf phone nahi, memories ka dibba tha. Nostalgia hona bilkul natural hai. Excitement naye ki aur purane ki yaad - dono ek saath. Technology toh badli par memories hamesha rahengi."
+      },
+      {
+        "role": "user",
+        "content": "Haan exactly. I don't know which feeling to listen to. One part says one thing, other part says something else."
+      },
+      {
+        "role": "assistant",
+        "content": "Dono feelings ko ek saath hold karna is really confusing. You don't have to pick one right now yaar. What feels more unsettling - the conflict itself ya not having clarity?"
       }
     ],
     "metadata": {
       "language": "hinglish",
       "intent": "mixed_emotions",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 4,
       "escalation_needed": false
     }
@@ -17385,12 +18305,20 @@
       {
         "role": "assistant",
         "content": "Mere dost, yeh jo tum mehsoos kar rahe - vyavharik aur bhavnatmak dono staron par - bilkul swabhavik hai. Mata pita ko ab chhota ghar chahiye, maintain karna aasan - yeh tark samajh aata, practical hai. Par wo ghar sirf imaarat nahi tha - tumhara pura bachpan wahan raha, har deewar mein koi kahani, dadaji ki kursi, pehli cycle. Us jagah se judi smritiyan anmol hain. Samajh aur haani dono sach hain. Dimag kehta theek hai, par dil rota hai."
+      },
+      {
+        "role": "user",
+        "content": "Haan exactly. I don't know which feeling to listen to. One part says one thing, other part says something else."
+      },
+      {
+        "role": "assistant",
+        "content": "Dono feelings ko ek saath hold karna is really confusing. You don't have to pick one right now yaar. What feels more unsettling - the conflict itself ya not having clarity?"
       }
     ],
     "metadata": {
       "language": "hindi",
       "intent": "mixed_emotions",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 6,
       "escalation_needed": false
     }
@@ -17405,12 +18333,20 @@
       {
         "role": "assistant",
         "content": "That's such a wild emotional ride. The liberation from that toxic place - no more Sunday night dread, no more degradation, no more sacrificing your mental health daily - that freedom is absolutely real and worth acknowledging. But reality doesn't care about your freedom when bills are due and your bank account is draining. That panic about unemployment, about how you'll survive, about what comes next - that terror is equally valid. You're free from toxicity AND facing financial uncertainty. Both truths exist at once. The relief doesn't pay rent and the panic doesn't mean you should've stayed. It's just brutally complicated."
+      },
+      {
+        "role": "user",
+        "content": "Yeah exactly. I can't figure out which feeling is the real one. It's like I'm at war with myself."
+      },
+      {
+        "role": "assistant",
+        "content": "That internal conflict is exhausting. You're not overthinking this - when feelings contradict each other, it's genuinely hard to know what's true. What feels most uncomfortable about sitting with both?"
       }
     ],
     "metadata": {
       "language": "english",
       "intent": "mixed_emotions",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 7,
       "escalation_needed": false
     }
@@ -17425,12 +18361,20 @@
       {
         "role": "assistant",
         "content": "Arre yaar, yeh toh classic mentor dilemma hai. Ek taraf proud hona chahiye - tumne itna achha train kiya ki better company ne hire kar liya. Tumhari teaching ka result hai yeh. Par dusri taraf practical reality - ab phir se naya intern, phir se sab kuch sikhana, wo time aur mehnat investment. Khushi uski success ki aur inconvenience apne liye - dono feelings ek saath hona makes total sense. Good mentor hona aur apni zarooraton ke baare mein sochna - both are okay, yaar."
+      },
+      {
+        "role": "user",
+        "content": "Haan exactly. I don't know which feeling to listen to. One part says one thing, other part says something else."
+      },
+      {
+        "role": "assistant",
+        "content": "Dono feelings ko ek saath hold karna is really confusing. You don't have to pick one right now yaar. What feels more unsettling - the conflict itself ya not having clarity?"
       }
     ],
     "metadata": {
       "language": "hinglish",
       "intent": "mixed_emotions",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 4,
       "escalation_needed": false
     }
@@ -17445,12 +18389,20 @@
       {
         "role": "assistant",
         "content": "Mere dost, yeh jo tum mehsoos kar rahe - wo bohot imandari aur manaviy hai. Ek taraf sahanubhuti honi chahiye - naukri khona kisi ke liye bhi kathin hai, wo ladka aur uska parivaar kasht mein honge. Par dusri taraf wo thoda satisfaction ki jo hamesha tumse aage tha, ab struggle kar raha - yeh bhi ek sachchi bhavna hai. Sahanubhuti aur swarth khushi - dono insaniyat ke ang hain. Bura vyakti nahi ho tum, sirf imandaar ho apni jatil feelings ke saath."
+      },
+      {
+        "role": "user",
+        "content": "Haan exactly. I don't know which feeling to listen to. One part says one thing, other part says something else."
+      },
+      {
+        "role": "assistant",
+        "content": "Dono feelings ko ek saath hold karna is really confusing. You don't have to pick one right now yaar. What feels more unsettling - the conflict itself ya not having clarity?"
       }
     ],
     "metadata": {
       "language": "hindi",
       "intent": "mixed_emotions",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 5,
       "escalation_needed": false
     }
@@ -17465,12 +18417,20 @@
       {
         "role": "assistant",
         "content": "That's such a complicated situation. There's something about the possibility of closure, of maybe understanding why he did what he did, of seeing him acknowledge the harm - that curiosity is understandable. Growth and healing can be real, and there's a part of you that's open to that possibility. But at the same time, that protective part that remembers the pain, that doesn't want to give him access to hurt you again, that wants to keep that door firmly closed - that's equally valid. The openness to potential healing and the fierce protection of yourself - both are reasonable responses. You don't owe him anything just because he's finally ready to make amends now."
+      },
+      {
+        "role": "user",
+        "content": "Yeah exactly. I can't figure out which feeling is the real one. It's like I'm at war with myself."
+      },
+      {
+        "role": "assistant",
+        "content": "That internal conflict is exhausting. You're not overthinking this - when feelings contradict each other, it's genuinely hard to know what's true. What feels most uncomfortable about sitting with both?"
       }
     ],
     "metadata": {
       "language": "english",
       "intent": "mixed_emotions",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 6,
       "escalation_needed": false
     }
@@ -17485,12 +18445,20 @@
       {
         "role": "assistant",
         "content": "Yaar, reunion ka excitement - purani yaadein, dosti, wo mazedaar din - sab wapas aana, wo nostalgia real hai. Sabko dekhne ki, hansne ki, stories sunne ki - wo khushi genuine hai. Par saath mein wo anxiety bhi toh natural hai na - sab LinkedIn pe successful dikte, aur tum abhi struggle phase mein. Comparison ka dar, judgement ka darr - yeh insecurity bhi valid hai. Nostalgia ke saath insecurity - dono ek saath ho sakte. Past ki khushiyan yaad karna aur present ki apni sthiti se uncomfortable - both feelings deserve space."
+      },
+      {
+        "role": "user",
+        "content": "Haan exactly. I don't know which feeling to listen to. One part says one thing, other part says something else."
+      },
+      {
+        "role": "assistant",
+        "content": "Dono feelings ko ek saath hold karna is really confusing. You don't have to pick one right now yaar. What feels more unsettling - the conflict itself ya not having clarity?"
       }
     ],
     "metadata": {
       "language": "hinglish",
       "intent": "mixed_emotions",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 5,
       "escalation_needed": false
     }
@@ -17505,12 +18473,20 @@
       {
         "role": "assistant",
         "content": "That's such a heavy mix. The relief of clearing that debt, of knowing your parents aren't drowning in medical bills anymore, of fulfilling that responsibility - that feeling of accomplishment is real and meaningful. You did something incredibly difficult and loving. But at the same time, the bitterness about your sacrificed 20s, the years you could've been building your own savings, investing, traveling, living - that loss is real too. Relief at what you accomplished and resentment about what it cost you - both can be true. Love doesn't mean the sacrifice didn't hurt."
+      },
+      {
+        "role": "user",
+        "content": "Yeah exactly. I can't figure out which feeling is the real one. It's like I'm at war with myself."
+      },
+      {
+        "role": "assistant",
+        "content": "That internal conflict is exhausting. You're not overthinking this - when feelings contradict each other, it's genuinely hard to know what's true. What feels most uncomfortable about sitting with both?"
       }
     ],
     "metadata": {
       "language": "english",
       "intent": "mixed_emotions",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 7,
       "escalation_needed": false
     }
@@ -17525,12 +18501,20 @@
       {
         "role": "assistant",
         "content": "Yaar yeh toh bohot delicate hai. Ek taraf dost ka dard dekhna - shaadi cancel hona, publicly humiliation, heartbreak - uske liye sympathy aur support dena bilkul zaroori hai. Wo tumhara dost hai, uska kasht tumhe hurt karta. Par dusri taraf tum jante the ki wo ladki toxic thi, sahi nahi thi uske liye - toh relief mehsoos karna ki kam se kam ab uske saath zindagi barbaad nahi hogi, yeh bhi ek sachchi feeling hai. Sympathy aur secret relief - dono ek saath. You're a good friend AND you can see the bigger picture."
+      },
+      {
+        "role": "user",
+        "content": "Haan exactly. I don't know which feeling to listen to. One part says one thing, other part says something else."
+      },
+      {
+        "role": "assistant",
+        "content": "Dono feelings ko ek saath hold karna is really confusing. You don't have to pick one right now yaar. What feels more unsettling - the conflict itself ya not having clarity?"
       }
     ],
     "metadata": {
       "language": "hinglish",
       "intent": "mixed_emotions",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 6,
       "escalation_needed": false
     }
@@ -17545,12 +18529,20 @@
       {
         "role": "assistant",
         "content": "Samajh sakta hoon yeh ajeeb si feeling. Ek taraf metro - fast, convenient, roz ka ek ghanta bach raha - yeh suvidha asli hai aur zindagi mein farq dalti. Khushi honi chahiye. Par dusri taraf wo purani bus - jo roz ke sathi, chai wala jo tumhara naam janta, wo chhoti chhoti baatcheet - yeh sab kho gaya. Suvidha mili par wo manaviy judav chala gaya. Dono sachchaiyan hain - behtar technology aur khoye relationships. Progress aur nostalgia ek saath chalte."
+      },
+      {
+        "role": "user",
+        "content": "Haan exactly. I don't know which feeling to listen to. One part says one thing, other part says something else."
+      },
+      {
+        "role": "assistant",
+        "content": "Dono feelings ko ek saath hold karna is really confusing. You don't have to pick one right now yaar. What feels more unsettling - the conflict itself ya not having clarity?"
       }
     ],
     "metadata": {
       "language": "hindi",
       "intent": "mixed_emotions",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 4,
       "escalation_needed": false
     }
@@ -17565,12 +18557,20 @@
       {
         "role": "assistant",
         "content": "That's such a parent's paradox. The pride you feel - he's compassionate, brave enough to step outside his comfort zone, wants to make a difference in the world - those qualities you probably worked to instill in him. That's beautiful and worth celebrating. And at the exact same time, the terror of him being far away, in potentially unsafe situations, without you there to protect him - that fear is primal and real. The pride in who he's become and the fear of what could happen - both are love manifesting differently. Both deserve acknowledgment."
+      },
+      {
+        "role": "user",
+        "content": "Yeah exactly. I can't figure out which feeling is the real one. It's like I'm at war with myself."
+      },
+      {
+        "role": "assistant",
+        "content": "That internal conflict is exhausting. You're not overthinking this - when feelings contradict each other, it's genuinely hard to know what's true. What feels most uncomfortable about sitting with both?"
       }
     ],
     "metadata": {
       "language": "english",
       "intent": "mixed_emotions",
-      "conversation_stage": "initial",
+      "conversation_stage": "deepening",
       "severity": 7,
       "escalation_needed": false
     }
@@ -20952,42 +21952,6 @@
       "intent": "confused_feelings",
       "conversation_stage": "deepening",
       "severity": 7,
-      "escalation_needed": false
-    }
-  },
-  {
-    "id": "ehsaas_confused_feelings_24",
-    "messages": [
-      {
-        "role": "user",
-        "content": "Got fired today. Performance issues they said. But I don't feel devastated - I feel excited? Like a weight lifted. Everyone keeps saying 'sorry for your loss' and I'm trying to look sad but internally I'm relieved. Should I be more upset?"
-      },
-      {
-        "role": "assistant",
-        "content": "Why should you be upset if you're not? You hated the job obviously, firing gave you the exit you couldn't give yourself. Relief is valid. But this excitement - is it sustainable or panic mode? Like do you have savings, a plan?"
-      },
-      {
-        "role": "user",
-        "content": "I have 3 months savings. No plan yet but I'm weirdly optimistic? The job was killing me - toxic boss, no growth. Getting fired feels like the universe pushing me to finally do something I actually want. But practically I should be worried right?"
-      },
-      {
-        "role": "assistant",
-        "content": "Yeah practically you should be worried, but optimism is good fuel. Use these 3 months wisely - figure out what you actually want, upskill if needed, network. Don't waste the excitement sitting idle thinking 'I'm free now'. Freedom without direction becomes anxiety in 2 months. What do you actually want to do?"
-      },
-      {
-        "role": "user",
-        "content": "Honestly? No idea. Just know I don't want another corporate job like that one."
-      },
-      {
-        "role": "assistant",
-        "content": "Then spend week 1 figuring that out. Try different things, talk to people in different fields, explore. But set a deadline - by month 2 you should have some direction, by month 3 you should be applying places. Excitement will fade into panic if you don't channel it into action. Use this gift wisely, don't squander it."
-      }
-    ],
-    "metadata": {
-      "language": "english",
-      "intent": "confused_feelings",
-      "conversation_stage": "deepening",
-      "severity": 5,
       "escalation_needed": false
     }
   },
