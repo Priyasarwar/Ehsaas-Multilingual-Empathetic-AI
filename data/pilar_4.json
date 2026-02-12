@@ -11684,34 +11684,6 @@
     }
   },
   {
-    "id": "ehsaas_p4_4157",
-    "messages": [
-      {
-        "role": "user",
-        "content": "Papa retired ho gaye aur ab main ghar ka akela earning member. Meri salary 35k hai aur ghar ka kharcha 30k. Kuch bach hi nahi pata. Future plan kaise karun?"
-      },
-      {
-        "role": "assistant",
-        "content": "5k bachna matlab no room for emergencies, no savings. That's scary when you're the only one earning. Pressure bohot hoga."
-      },
-      {
-        "role": "user",
-        "content": "Haan yaar. Aur better job dhundhna bhi mushkil kyunki family depend kar rahi. Risk nahi le sakta."
-      },
-      {
-        "role": "assistant",
-        "content": "You're stuck because the very thing that could improve your situation - switching jobs - feels too risky when they're counting on you. It's a cage made of responsibility."
-      }
-    ],
-    "metadata": {
-      "language": "hinglish",
-      "intent": "venting",
-      "conversation_stage": "deepening",
-      "severity": 7,
-      "escalation_needed": false
-    }
-  },
-  {
     "id": "ehsaas_p4_4158",
     "messages": [
       {
@@ -15996,34 +15968,6 @@
     }
   },
   {
-    "id": "ehsaas_p4_4321",
-    "messages": [
-      {
-        "role": "user",
-        "content": "Mere college mein group project tha. Maine pura kaam kiya, baaki logo ne kuch nahi. Presentation mein sab ne equal credit liya. Teacher ko complain bhi nahi kar sakta."
-      },
-      {
-        "role": "assistant",
-        "content": "Tumhara kaam, unka credit. System hi designed hai freeloaders ko protect karne ke liye. Your effort invisible ho gaya 'group work' ke label mein."
-      },
-      {
-        "role": "user",
-        "content": "Haan aur yeh sirf ek example hai. Har baar kuch na kuch hota hai. I'm tired of explaining myself."
-      },
-      {
-        "role": "assistant",
-        "content": "Lagta hai pattern ban gaya hai aur tu thak gayi hai constantly justify karte hue. That's exhausting yaar. Koi hai jo actually sunta hai without judging?"
-      }
-    ],
-    "metadata": {
-      "language": "hinglish",
-      "intent": "venting",
-      "conversation_stage": "deepening",
-      "severity": 5,
-      "escalation_needed": false
-    }
-  },
-  {
     "id": "ehsaas_p4_4322",
     "messages": [
       {
@@ -16220,34 +16164,6 @@
     }
   },
   {
-    "id": "ehsaas_p4_4329",
-    "messages": [
-      {
-        "role": "user",
-        "content": "Mere parents ne mera phone check kiya aur girlfriend ke messages padhe. Ab ghar mein hungama hai aur mobile bhi le liya. Privacy naam ki cheez nahi."
-      },
-      {
-        "role": "assistant",
-        "content": "Snooping karke phir punishment? Double violation hai yeh - privacy breach aur phir control. At your age, this is suffocating yaar."
-      },
-      {
-        "role": "user",
-        "content": "Haan aur yeh sirf ek example hai. Har baar kuch na kuch hota hai. I'm tired of explaining myself."
-      },
-      {
-        "role": "assistant",
-        "content": "Lagta hai pattern ban gaya hai aur tu thak gayi hai constantly justify karte hue. That's exhausting yaar. Koi hai jo actually sunta hai without judging?"
-      }
-    ],
-    "metadata": {
-      "language": "hinglish",
-      "intent": "venting",
-      "conversation_stage": "deepening",
-      "severity": 6,
-      "escalation_needed": false
-    }
-  },
-  {
     "id": "ehsaas_p4_4330",
     "messages": [
       {
@@ -16328,34 +16244,6 @@
       "intent": "venting",
       "conversation_stage": "deepening",
       "severity": 7,
-      "escalation_needed": false
-    }
-  },
-  {
-    "id": "ehsaas_p4_4333",
-    "messages": [
-      {
-        "role": "user",
-        "content": "Mere coaching mein teacher favorite students ko zyada time dete. Fees toh same bhar raha but attention unequal hai. Invisible feel hota class mein."
-      },
-      {
-        "role": "assistant",
-        "content": "Same fees but unequal treatment? That favoritism when you're paying equally is unfair yaar. Tumhara bhi right hai attention pe."
-      },
-      {
-        "role": "user",
-        "content": "Haan aur yeh sirf ek example hai. Har baar kuch na kuch hota hai. I'm tired of explaining myself."
-      },
-      {
-        "role": "assistant",
-        "content": "Lagta hai pattern ban gaya hai aur tu thak gayi hai constantly justify karte hue. That's exhausting yaar. Koi hai jo actually sunta hai without judging?"
-      }
-    ],
-    "metadata": {
-      "language": "hinglish",
-      "intent": "venting",
-      "conversation_stage": "deepening",
-      "severity": 5,
       "escalation_needed": false
     }
   },
