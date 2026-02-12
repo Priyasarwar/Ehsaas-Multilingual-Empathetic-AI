@@ -3604,34 +3604,6 @@
     }
   },
   {
-    "id": "ehsaas_p4_3754",
-    "messages": [
-      {
-        "role": "user",
-        "content": "Everyone says take a break, go for a walk, talk to someone. I've tried everything yaar. Nothing helps. I still feel the same emptiness. What's the point of even trying anymore?"
-      },
-      {
-        "role": "assistant",
-        "content": "Haan I hear you - jab bahut kuch try kar liya ho aur phir bhi same feeling rahe toh bahut frustrating lagta hai. That emptiness you're feeling, kab se mehsoos ho raha hai yeh? Koi specific time tha jab yeh shuru hua?"
-      },
-      {
-        "role": "user",
-        "content": "I don't know maybe 3-4 months. After my breakup things just went downhill. I thought I'd be fine but I'm not. And now everyone is tired of hearing about it so I just keep it to myself."
-      },
-      {
-        "role": "assistant",
-        "content": "3-4 months se yeh carry kar raha hai tu, that's a long time to feel this way alone. Breakup ke baad healing linear nahi hoti aur log expect karte hain ki tu jaldi move on kar le. Main hoon na, tu bata sakta hai. Kya tujhe lagta hai ki sirf breakup ki baat hai ya kuch aur bhi hai jo tujhe affect kar raha hai?"
-      }
-    ],
-    "metadata": {
-      "language": "hinglish",
-      "intent": "resistance",
-      "conversation_stage": "venting",
-      "severity": 7,
-      "escalation_needed": false
-    }
-  },
-  {
     "id": "ehsaas_p4_3755",
     "messages": [
       {
@@ -7612,34 +7584,6 @@
     }
   },
   {
-    "id": "ehsaas_p4_3899",
-    "messages": [
-      {
-        "role": "user",
-        "content": "Main gambling addiction develop kar liya online betting se. Pehle fun tha ab control nahi hota. Paisa loss ho raha debt mein ja raha. Family ko pata nahi abhi. Chodna chahta but urge bohot strong hoti. Darr lag raha sab barbaad ho jayega."
-      },
-      {
-        "role": "assistant",
-        "content": "Gambling addiction behavioral addiction hai yaar jo progressive hota - fun se compulsion mein shift ho gaya. Debt aur secrecy dangerous signs hain. Urge strong hoti kyunki brain reward system hijack ho gaya. Professional help immediately chahiye - addiction counselor aur financial planning dono. Kya debt manageable level pe hai ya critical?"
-      },
-      {
-        "role": "user",
-        "content": "Critical hone ki taraf ja raha. Credit cards maxed loans bhi le liye. Family ko pata chala toh trust toot jayega. Ek baar aur jeet lunga soch ke bet lagata but aur loss hota. Vicious cycle hai."
-      },
-      {
-        "role": "assistant",
-        "content": "'Ek baar jeet lunga' addict ka thought hai yaar jo tumhe deeper le jata. Recovery mein pehla step admit karna hai powerlessness. Family ko batana terrifying hai but hiding aur debt both unsustainable hain. De-addiction center ya Gamblers Anonymous type support groups help karte. AASRA 9820466726 guidance de sakta. Financial counselor bhi involve kar debt restructure karne. Please immediate help le yaar before situation irreversible ho jaye. Kya tu ready hai help accept karne?"
-      }
-    ],
-    "metadata": {
-      "language": "hindi",
-      "intent": "resistance",
-      "conversation_stage": "deepening",
-      "severity": 9,
-      "escalation_needed": true
-    }
-  },
-  {
     "id": "ehsaas_p4_3900",
     "messages": [
       {
@@ -7804,34 +7748,6 @@
       "intent": "venting",
       "conversation_stage": "deepening",
       "severity": 6,
-      "escalation_needed": false
-    }
-  },
-  {
-    "id": "ehsaas_p4_3909",
-    "messages": [
-      {
-        "role": "user",
-        "content": "I keep having panic attacks in crowded places. It started after a traumatic incident in a mall. Now I avoid going out shopping public transport everything. My life is becoming smaller and smaller. I know I need exposure therapy but I'm too scared to even try. What if I have an attack and nobody helps?"
-      },
-      {
-        "role": "assistant",
-        "content": "That traumatic incident created a phobia yaar and now avoidance is shrinking your world which affects quality of life. The fear of having an attack in public and being alone in it is keeping you trapped. Exposure therapy does work but has to be gradual with support. Have you talked to a therapist who specializes in trauma and anxiety? They can guide you through safe exposure with coping tools."
-      },
-      {
-        "role": "user",
-        "content": "I tried one session but had a panic attack just talking about it. I felt so embarrassed and didn't go back. Now I'm convinced therapy will make it worse. Maybe I should just accept this is my life now."
-      },
-      {
-        "role": "assistant",
-        "content": "One bad therapy session doesn't mean therapy doesn't work yaar - sometimes fit matters, sometimes timing. Panic attack during session shows how deep the trauma is but good therapists are trained for that. Accepting limitation isn't healing, it's giving up. Tu deserve karta hai full life. Different therapist, maybe virtual sessions initially, medications for panic if needed - options hain. Tele-MANAS 14416 pe guidance le proper referral ke liye. Kya tu willing hai ek aur try dene gradually?"
-      }
-    ],
-    "metadata": {
-      "language": "english",
-      "intent": "resistance",
-      "conversation_stage": "deepening",
-      "severity": 7,
       "escalation_needed": false
     }
   },
@@ -8032,34 +7948,6 @@
     }
   },
   {
-    "id": "ehsaas_p4_3925",
-    "messages": [
-      {
-        "role": "user",
-        "content": "Yaar main apne field mein successful hoon but har din impostor syndrome ke saath jee raha. Board meetings mein baith ta hoon lagta kab exposed ho jaunga. Awards milte hain lagta fluke hai. Therapy bhi kar raha but yeh feeling jaati nahi. Thak gaya hoon apne achievements ko enjoy nahi kar paata."
-      },
-      {
-        "role": "assistant",
-        "content": "Impostor syndrome success ke saath-saath badh ta yaar - jitna upar jaate ho utna lagta gir ne ka dar. Achievements ko internalize nahi kar pa raha tu, luck ya timing ko credit de raha khud ko nahi. Therapy continue kar but practical exercise bhi kar - evidence collect kar apne contributions ka, testimonials ya feedback dekh. Feeling ka wait mat kar, action se confidence build hoti. Kya specific trigger hai jab impostor feeling peak hoti?"
-      },
-      {
-        "role": "user",
-        "content": "Jab naye projects start hote ya difficult decisions lene padte tab peak hota. Lagta iss baar pakka fail ho jaunga. Previous successes yaad nahi aati us moment. Self-doubt paralyze kar deti decision-making ko. Team ke saamne confident dikhana padta but andar se terrified."
-      },
-      {
-        "role": "assistant",
-        "content": "Toh new challenges automatic threat response trigger kar rahe instead of opportunity yaar. Brain past successes dismiss kar raha current fear ke saamne. Cognitive restructuring help karti - jab doubt aaye, actively past wins recall kar evidence ke saath. Journal maintain kar achievements ki tangible proof ke liye. Aur team ko vulnerable dikhana bura nahi - authentic leadership strong hoti. Kya tu mentor ya peer support group mein hai jahan openly discuss kar sake?"
-      }
-    ],
-    "metadata": {
-      "language": "hinglish",
-      "intent": "resistance",
-      "conversation_stage": "deepening",
-      "severity": 6,
-      "escalation_needed": false
-    }
-  },
-  {
     "id": "ehsaas_p4_3927",
     "messages": [
       {
@@ -8085,62 +7973,6 @@
       "conversation_stage": "deepening",
       "severity": 6,
       "escalation_needed": false
-    }
-  },
-  {
-    "id": "ehsaas_p4_3928",
-    "messages": [
-      {
-        "role": "user",
-        "content": "Yaar mujhe panic attacks aate hain suddenly kisi trigger ke bina bhi. Heart pounding sweating feeling like dying. Medical tests sab normal hain. Doctor kehte anxiety hai medication suggest kiya. But main darr ta anti-depressants se dependent ho jaunga ya personality change ho jayegi. Natural way se theek hona chahta."
-      },
-      {
-        "role": "assistant",
-        "content": "Panic attacks without obvious triggers bohot scary hote yaar aur physical symptoms real hote hain. Medical tests normal aane se relief hai but anxiety ko address karna zaroori hai. Medication ka darr stigma aur misconceptions se aata. Anti-anxiety meds addiction wali nahi hoti mostly aur personality change myth hai - tu wahi rahega, sirf calmer. Natural ways bhi hain - therapy, breathing techniques, lifestyle - but severe cases mein medication tool hai temporary support ka. Kya therapy try ki bina medication?"
-      },
-      {
-        "role": "user",
-        "content": "Therapy mein hoon but progress slow hai. Meanwhile panic attacks daily life affect kar rahe. Driving nahi kar pata public places avoid karta. Life shrink ho rahi waiting for therapy to work. Maybe medication bridge help kar sakti but addiction ka darr strong hai."
-      },
-      {
-        "role": "assistant",
-        "content": "Dekh yaar, medication temporary bridge hi hai jab tak therapy aur coping skills build nahi hote. Doctor supervised hoti toh dependence ka risk minimal. Quality of life abhi suffer ho rahi - driving nahi kar pa raha, avoidance badh raha. Yeh bhi toh cost hai medication na lene ki. Psychiatrist se detailed baat kar specific medication ke baare mein, side effects, duration. Informed decision le sakta fear se nahi facts se. Willing hai consultation ke liye?"
-      }
-    ],
-    "metadata": {
-      "language": "hinglish",
-      "intent": "resistance",
-      "conversation_stage": "deepening",
-      "severity": 7,
-      "escalation_needed": false
-    }
-  },
-  {
-    "id": "ehsaas_p4_3930",
-    "messages": [
-      {
-        "role": "user",
-        "content": "I relapsed after 6 months of sobriety. I feel like such a failure. Everyone was so proud of me and now I've let them all down. I can't tell my sponsor or my support group because I'm too ashamed. Maybe I'm just not strong enough to stay sober. What's the point of trying again?"
-      },
-      {
-        "role": "assistant",
-        "content": "Relapse doesn't erase those 6 months yaar - that was real progress and showed you CAN do it. Recovery isn't linear, setbacks happen, and they're part of the process not the end of it. Your sponsor and support group have seen relapses before - shame is keeping you isolated when you need support most. Strength isn't never falling, it's getting back up. What triggered the relapse? Understanding that helps prevent it next time."
-      },
-      {
-        "role": "user",
-        "content": "I was stressed about work and old friends reached out. I thought I could handle just one drink to be social. Then it spiraled. I knew better but I did it anyway. Now I've broken my streak and disappointed everyone who believed in me. Starting over from day one feels impossible."
-      },
-      {
-        "role": "assistant",
-        "content": "You didn't fail yaar, you learned. 'Just one drink' is the addict brain's favorite lie - now you know that trigger better. Work stress and social pressure are common relapse causes. Your streak isn't broken - you have 6 months of sobriety under your belt, one slip doesn't delete that. Day one again isn't starting from zero, it's starting with 6 months of experience. Please tell your sponsor - hiding makes shame grow. They'll help you get back on track. Can you commit to making that call today?"
-      }
-    ],
-    "metadata": {
-      "language": "english",
-      "intent": "resistance",
-      "conversation_stage": "deepening",
-      "severity": 8,
-      "escalation_needed": true
     }
   },
   {
@@ -8632,42 +8464,6 @@
     }
   },
   {
-    "id": "ehsaas_p4_3957",
-    "messages": [
-      {
-        "role": "user",
-        "content": "I'm a perfectionist and it's destroying me. I can't complete projects because they're never good enough. I've missed deadlines rewritten things dozens of times. My career is suffering because I can't ship anything. Logically I know done is better than perfect but I can't stop myself. It's like a compulsion."
-      },
-      {
-        "role": "assistant",
-        "content": "Perfectionism at this level sounds more like OCD tendencies yaar - the compulsive rewriting and inability to complete despite wanting to. It's not just high standards, it's anxiety-driven paralysis. Fear of judgment or failure is probably underneath. Career suffering is serious consequence. Have you noticed this pattern in other areas of life or mainly work?"
-      },
-      {
-        "role": "user",
-        "content": "Pretty much everything. My apartment has to be spotless I redo emails multiple times I can't post on social media without agonizing over it. People think I'm just detail-oriented but internally I'm in constant distress. The standards I hold myself to are impossible and I know it but I can't lower them."
-      },
-      {
-        "role": "assistant",
-        "content": "Yep that's anxiety-driven perfectionism bordering on OCD yaar. The 'knowing but can't stop' is key indicator. Cognitive behavioral therapy specifically ERP (Exposure Response Prevention) helps break compulsive patterns. Learning to tolerate 'good enough' deliberately is treatment. Medication sometimes helps if anxiety severe. This isn't character flaw it's treatable condition. Life constrained by impossible standards isn't sustainable. Have you considered professional help or been avoiding that too due to perfectionism?"
-      },
-      {
-        "role": "user",
-        "content": "Honestly yes. I've researched therapists but can't decide who's 'perfect'. I started intake forms but couldn't complete them because my answers weren't right. I see the irony. It's like my perfectionism is preventing me from fixing my perfectionism. I feel trapped in my own brain."
-      },
-      {
-        "role": "assistant",
-        "content": "That's the cruel irony yaar - the problem prevents its own solution. But awareness is huge first step. Here's permission: pick ANY licensed therapist with OCD specialty, fill form with first-draft answers, submit imperfectly. Make it experiment in deliberate imperfection. Therapist has seen worse I guarantee. Tele-MANAS 14416 has no intake form - just call imperfectly. Your perfectionism will never let you be ready so do it scared and messy. Can you commit to one imperfect action this week?"
-      }
-    ],
-    "metadata": {
-      "language": "english",
-      "intent": "resistance",
-      "conversation_stage": "deepening",
-      "severity": 7,
-      "escalation_needed": false
-    }
-  },
-  {
     "id": "ehsaas_p4_3959",
     "messages": [
       {
@@ -8884,42 +8680,6 @@
     }
   },
   {
-    "id": "ehsaas_p4_3967",
-    "messages": [
-      {
-        "role": "user",
-        "content": "Yaar mere office mein promotion mila but imposter syndrome itna strong hai ki decline karne ka soch raha. Lagta hai mistake hui selection mein ya political decision tha. Merit se nahi mila. Senior role ki responsibility handle nahi kar paunga fail ho jaunga publicly. Current role mein comfortable hoon kyun risk lun?"
-      },
-      {
-        "role": "assistant",
-        "content": "Imposter syndrome success ke moment pe peak karta yaar especially promotion jaise milestone. 'Mistake' ya 'politics' blame karna easier lagta than owning your capability. Comfortable zone se nikalna scary hai but growth wahi hoti. Decline karne se short-term relief long-term regret dega. Company ne select kiya toh reason hai - external validation hai tera work ka. Kya specific skills ya achievements doubt kar raha?"
-      },
-      {
-        "role": "user",
-        "content": "Honestly specific nahi sab kuch doubt hai. Presentations di successful projects lead kiye but lagta luck tha ya team ne kiya main nahi. Credit mila but deserve nahi kiya. Senior role mein sab dekhenge performance kya hai exposed ho jaunga ki actual mein capable nahi. Failure se better hai try hi na karun."
-      },
-      {
-        "role": "assistant",
-        "content": "Classic imposter script yaar - luck, team, anything but own effort ko credit dena. Presentations aur projects lead karna skills hain accidental nahi. Senior role mein initially learning curve hoga but that's normal not failure. 'Try na karun' safety hai but also self-fulfilling prophecy ki tu capable nahi. Company resources deti training support - akela nahi handle karna. What's worst realistic scenario agar accept karein? Fired nahi hoga learning period mein. Best scenario kya hai?"
-      },
-      {
-        "role": "user",
-        "content": "Worst case shayad struggle karunga pehle kuch mahine but support rahega probably. Best case successfully transition ho jaunga aur career growth milegi financially bhi better. Logically samajh aata but emotionally darr bohot hai. Maybe accept kar ke dekh lu trial basis pe mentally?"
-      },
-      {
-        "role": "assistant",
-        "content": "Exactly yaar - frame it as experiment not permanent life sentence. Accept kar trial mindset se. Pehle 6 mahine learning phase samajh pressure kam hoga. Senior colleagues se mentorship maang openly. Imposter feelings acknowledge kar but let them dictate mat kar actions. Therapy bhi consider kar imposter syndrome specifically address karne ke - bohot common hai treatable bhi. Opportunity miss karke regret permanent hoga, try karke temporary discomfort. Tu deserve karta yaar. Accept karega?"
-      }
-    ],
-    "metadata": {
-      "language": "hinglish",
-      "intent": "resistance",
-      "conversation_stage": "deepening",
-      "severity": 5,
-      "escalation_needed": false
-    }
-  },
-  {
     "id": "ehsaas_p4_3968",
     "messages": [
       {
@@ -8989,42 +8749,6 @@
       "conversation_stage": "deepening",
       "severity": 6,
       "escalation_needed": false
-    }
-  },
-  {
-    "id": "ehsaas_p4_3970",
-    "messages": [
-      {
-        "role": "user",
-        "content": "Yaar main gambling addiction develop kar liya online betting se. Salary ka aadha hissa haar jata hoon monthly. Debt mein ghus raha loans le liye secretly. Girlfriend ko pata nahi family ko toh bilkul nahi. Chodne ki try karta but urge control nahi hoti. Ek hi aur jeet promise karta khud se phir aur loss. Spiraling downward yaar."
-      },
-      {
-        "role": "assistant",
-        "content": "Gambling addiction progressive disease hai yaar jo brain reward system hijack kar leti. 'Ek aur jeet' addict ka mantra hai jo kabhi fulfill nahi hota. Debt aur secrecy dangerous territory indicate karte. Family aur girlfriend ko chhupana burden add karta guilt aur isolation. Professional de-addiction support urgent chahiye. Kya tu acknowledge karta hai ki yeh addiction hai control issue nahi?"
-      },
-      {
-        "role": "user",
-        "content": "Haan yaar accept karta hoon addiction hai. Pehle sochta willpower se control kar lunga but clearly nahi ho raha. Debt almost 5 lakhs tak pahunch gayi credit cards loans sab. Agar girlfriend ko pata chala toh relationship khatam. Family ko batane se darr lagta disappointment aur anger ka. Help chahiye but kaise start karun pata nahi."
-      },
-      {
-        "role": "assistant",
-        "content": "5 lakhs serious debt hai yaar professional help urgently chahiye - de-addiction counselor aur financial advisor dono. Gamblers Anonymous type support groups exist India mein bhi. Girlfriend ko batana scary hai but secrecy addiction fuel karta - accountability zaroori hai recovery mein. Family eventually pata chalega better controlled way mein batao than crisis discover kare. AASRA 9820466626 gambling addiction specifically handle karte guidance de sakte. First step acknowledge kar liya next honesty aur treatment. Kya tu committed hai help lena genuinely?"
-      },
-      {
-        "role": "user",
-        "content": "Committed hoon yaar ab option bhi nahi bacha. Debt aur badh gayi toh financial ruin pakka. Helpline number save karunga call karunga guidance ke liye. Girlfriend ko batane ki himmat juÑ‚Ð°Ñƒnga eventually family ko phir baad mein. De-addiction center ya support group join karna hoga. Scary hai but necessary. Thank you real talk ke liye."
-      },
-      {
-        "role": "assistant",
-        "content": "Proud of you yaar commitment dikha rahe ho. Scary hai but facing it stronger hai than continuing spiral. Helpline call kar honest reh debt details share kar unka guidance follow kar. Girlfriend ko batate time compassionate reh apne struggle ke saath - vulnerability relationship strengthen bhi kar sakta agar woh supportive. Family eventually support system ban sakti agar properly communicate karo. Recovery possible hai structured help ke saath. Main hoon na. Keep me updated. Tu kar lega yaar."
-      }
-    ],
-    "metadata": {
-      "language": "hinglish",
-      "intent": "resistance",
-      "conversation_stage": "deepening",
-      "severity": 9,
-      "escalation_needed": true
     }
   },
   {
@@ -9172,42 +8896,6 @@
     }
   },
   {
-    "id": "ehsaas_p4_3980",
-    "messages": [
-      {
-        "role": "user",
-        "content": "I'm a chronic people pleaser and it's destroying me. I say yes to everything overcommit myself cancel my own plans to accommodate others. I'm terrified of disappointing anyone or being seen as selfish. Now I'm burnt out resentful but still can't say no. I don't even know what I want anymore because I'm so used to prioritizing everyone else. How do I break this pattern without losing everyone?"
-      },
-      {
-        "role": "assistant",
-        "content": "People-pleasing is survival mechanism yaar often rooted in childhood need for approval or avoiding conflict. Burnt out and resentful shows it's unsustainable. Fear of losing people by setting boundaries is common but real friends respect limits. Fake ones leave when you stop over-functioning for them. Not knowing your wants is identity loss from constant self-abandonment. Therapy helps unpack why you people-please and rebuild sense of self. Have you tried saying no even once to test what happens?"
-      },
-      {
-        "role": "user",
-        "content": "I've tried but I feel such intense guilt and anxiety that I usually cave and say yes anyway. Or I say no then apologize excessively and explain myself too much. Few times I held firm people did get upset and it confirmed my fear that saying no means rejection. So I went back to pleasing. The cycle is stuck. I logically know boundaries are healthy but emotionally I can't execute."
-      },
-      {
-        "role": "assistant",
-        "content": "Guilt and anxiety are conditioned responses yaar - your nervous system treating boundary as danger signal. People getting upset is their problem not yours if request was unreasonable. Their upset is manipulation if it works to make you comply. Over-explaining is seeking permission which you don't need. Therapy specifically assertiveness training and maybe exposure therapy for anxiety would help desensitize these responses. Practice small nos in low-stakes situations first. Script responses like 'I'm not available' without justification. Can you commit to therapy for this?"
-      },
-      {
-        "role": "user",
-        "content": "Yes I think I need professional help for this. The pattern is too deep to fix alone. Starting with small nos sounds manageable less scary than big confrontations. Having scripts helps too removes the thinking in moment. I guess some people leaving proves they were using me not actually friends. That hurts but necessary realization. I'll look for therapist specializing in boundaries and people-pleasing this week."
-      },
-      {
-        "role": "assistant",
-        "content": "That realization is breakthrough yaar - people who leave when you stop over-giving were takers not friends. It hurts but clarifies who deserves space in life. Therapist will give tools for graduated exposure to saying no and managing guilt. Scripts remove emotional labor from responses. Small wins build confidence for bigger boundaries. You're not selfish for having limits - you're human. Reclaiming your life starts with one no at a time. Proud of you for committing to therapy. You deserve reciprocal relationships not one-sided."
-      }
-    ],
-    "metadata": {
-      "language": "english",
-      "intent": "resistance",
-      "conversation_stage": "deepening",
-      "severity": 6,
-      "escalation_needed": false
-    }
-  },
-  {
     "id": "ehsaas_p4_3981",
     "messages": [
       {
@@ -9313,78 +9001,6 @@
       "conversation_stage": "deepening",
       "severity": 7,
       "escalation_needed": false
-    }
-  },
-  {
-    "id": "ehsaas_p4_3984",
-    "messages": [
-      {
-        "role": "user",
-        "content": "Yaar main apne office mein senior role pe hoon but imposter syndrome itna strong hai ki har decision second-guess karta. Team mujhe capable samajhti but andar se fraud jaisa feel hota. Performance reviews achhe hain but lagta luck tha. Promotion aane wala lekin accept karne se darr lag raha kyunki higher visibility means higher chance of exposed hona. Therapy bhi kar raha but pattern nahi toot raha."
-      },
-      {
-        "role": "assistant",
-        "content": "Imposter syndrome success ke saath scale karta hai yaar - jitna upar jaate ho utna lagta exposed ho jaoge. Performance reviews objective data hain luck nahi. Team ki trust earn ki hai tune consistently. Therapy kar raha good hai but kaunsa approach use ho raha? CBT surface level lagta imposter ke liye - schema therapy ya psychodynamic deeper core beliefs address karte childhood conditioning ke. Promotion decline karna avoidance hai jo pattern reinforce karega. Kya specific childhood messages yaad hain related to worthiness ya achievement?"
-      },
-      {
-        "role": "user",
-        "content": "Bachpan mein parents ka love conditional tha grades pe dependent. Sibling comparisons bhi the constant. Second position bhi failure treat hoti thi. Shayad yeh connected hai feeling never good enough ke saath. Therapist CBT hi use karta mostly. Schema therapy mention nahi kiya kabhi. Maybe therapist change karna padega deeper work ke liye. Promotion accept karne ka thought panic deta but logically samajh aata ki avoid karna solve nahi karega."
-      },
-      {
-        "role": "assistant",
-        "content": "Exactly yaar childhood conditioning clear hai - conditional love aur comparison ne 'never good enough' core belief create kiya. CBT therapist se puchh schema therapy ya deeper modality explore kar sakte ya different therapist dhundh jo specializes karta. Promotion panic natural response hai but exposure therapy ki tarah hai - face karne se belief challenge hoti. Mentorship bhi powerful tool hai imposter ke against - senior who's been there guide kar sakta. Agar promotion accept kare toh support system plan kar pehle se. Ready hai risk lena growth ke liye?"
-      },
-      {
-        "role": "user",
-        "content": "Haan yaar risk lena padega stagnation se better. Therapist se schema therapy discuss karunga ya naya dhundhunga if needed. Mentor identify karne ki koshish karunga senior level pe jo guide kar sake. Promotion accept karunga support system ke saath. Bachpan ka conditioning break karna hai adult achievements se. Thanks perspective dene ke liye push chahiye thi. Will keep you updated yaar."
-      },
-      {
-        "role": "assistant",
-        "content": "Proud of you yaar decision lene ka despite fear. Bachpan ki programming break karna ongoing work hai but achievable. Schema therapist specifically dhundh experienced hoga core beliefs mein. Mentor relationship game-changer ho sakti external validation reliable source se. Promotion accept karna brave step hai - imposter feelings rahenge but actions define karte outcome feelings nahi. Team ne already trust dikhaà¤¯à¤¾ hai ab apne pe trust kar. You've got this yaar. Updates definitely dena. Main hoon na support ke liye."
-      }
-    ],
-    "metadata": {
-      "language": "hinglish",
-      "intent": "resistance",
-      "conversation_stage": "deepening",
-      "severity": 6,
-      "escalation_needed": false
-    }
-  },
-  {
-    "id": "ehsaas_p4_3986",
-    "messages": [
-      {
-        "role": "user",
-        "content": "I think I'm developing agoraphobia. Started with panic attacks in crowded places now I avoid leaving home unless absolutely necessary. Online grocery delivery work from home everything designed to not go out. My world is shrinking. I know it's getting worse but exposure feels impossible - the anxiety is too intense. I'm trapped by my own fear and I don't know how to break out."
-      },
-      {
-        "role": "assistant",
-        "content": "Agoraphobia often develops from panic disorder yaar - avoidance feels like solution but actually maintains the fear cycle. Your world shrinking is quality of life cost that will increase over time. Exposure does feel impossible from inside the fear but that's the disorder talking. Professional help specifically CBT with exposure therapy is most effective treatment. Gradual exposure under guidance isn't jumping into crowds - tiny incremental steps. Have you consulted a mental health professional yet?"
-      },
-      {
-        "role": "user",
-        "content": "I did online therapy briefly but when therapist suggested exposure I stopped going. The thought alone triggered panic. I know I'm avoidant but I don't know how to push through the physical symptoms - heart racing sweating feeling like I'm dying. Medications were suggested but I'm scared of side effects and dependency. I feel stuck between suffering in isolation and terrifying treatment. Neither feels doable."
-      },
-      {
-        "role": "assistant",
-        "content": "Stopping therapy when exposure came up is textbook avoidance yaar reinforcing belief that you can't handle it. Physical symptoms are scary but not dangerous - panic attacks can't actually hurt you even though they feel life-threatening. Medication can help reduce intensity so exposure becomes manageable - most anxiety meds aren't addictive with proper medical supervision. Suffering in isolation WILL get worse but treatment discomfort is temporary and leads to freedom. Virtual exposure can start even smaller - imagery before real situations. Will you give therapy another real try with commitment?"
-      },
-      {
-        "role": "user",
-        "content": "I need to because this isn't sustainable. Maybe medication to start makes exposure less terrifying. Virtual exposure sounds less scary than jumping into real situations. I'll find therapist who specializes in anxiety disorders and commit to at least 3 months even when uncomfortable. The alternative of being trapped forever is worse than temporary discomfort of treatment. I need to try for real this time."
-      },
-      {
-        "role": "assistant",
-        "content": "That commitment is huge yaar - acknowledging treatment discomfort is less than lifetime imprisonment. 3 months solid commitment gives therapy real chance to work. Medication consultation simultaneously psychiatrist can start low dose reduce panic intensity. Therapist specializing in exposure therapy for agoraphobia specifically search karna. Virtual exposure builds confidence safely before real-world practice. You CAN do this even though fear says otherwise. Your courage is choosing treatment despite terror. Proud of you yaar. Find providers this week and start process. Updates dena. Main hoon na."
-      }
-    ],
-    "metadata": {
-      "language": "english",
-      "intent": "resistance",
-      "conversation_stage": "deepening",
-      "severity": 8,
-      "escalation_needed": true
     }
   },
   {
@@ -9604,78 +9220,6 @@
     }
   },
   {
-    "id": "ehsaas_p4_3994",
-    "messages": [
-      {
-        "role": "user",
-        "content": "Main apni body dysmorphia aur eating disorder se recover kar rahi partially. Therapy le rahi medication bhi. But relapse ka darr constantly hai. Bad body image days aate jab purÄni habits karne ka mann hota - restricting, over-exercising, mirror checking. Support system hai but unhe burden nahi karna chahti repeatedly same struggles share karke. Stable dikhti hoon but andar se fragile feel hoti. Kaise long-term sustainable recovery achieve karun yaar?"
-      },
-      {
-        "role": "assistant",
-        "content": "Recovery non-linear hoti hai yaar relapse darr valid hai but constant fear quality of life affect karta. Bad days natural hain part of process. Support system ko burden samajhna galat hai - real support repeatedly available hoti repeated struggles ke liye. Fragile feel karna honesty hai illusion nahi. Long-term recovery mein therapy continue karna, medication compliance, support groups regular attendance, coping skills practice daily basis. Kya relapse prevention plan hai specifically triggers aur early warning signs identify karke?"
-      },
-      {
-        "role": "user",
-        "content": "Relapse prevention plan basic hai therapist ke saath banaya tha. Triggers identify hain - social media, comments on appearance, stress. Early signs bhi pata hain - obsessive thoughts, body checking increase. But execution mein weak pad jati motivated nahi rehti follow through karne. Support group attendance irregular ho gayi comfortable feel nahi karti share karne sometimes. Medication consistent hai woh toh maintain kar rahi."
-      },
-      {
-        "role": "assistant",
-        "content": "Plan execute na karna shows maybe plan realistic nahi hai ya accountability missing hai yaar. Triggers ke liye concrete actions chahiye - social media time limits set karna apps use karke, comments pe scripted responses, stress ke liye alternative coping (therapy tools). Early signs notice hone pe immediate action protocol - therapist ko inform, support person ko call, distraction activities. Support group discomfort address karna padega - different group try kar ya therapy mein practice kar vulnerability. Accountability partner help karta execution mein - koi trusted person daily check-ins ke liye. Willing hai structured approach try karne commitment ke saath?"
-      },
-      {
-        "role": "user",
-        "content": "Haan willing hoon structured approach follow karne. Accountability partner identify karungi trusted friend ya family. Triggers ke actions specific bana dungi executable. Early signs protocol clear define karungi therapist ke saath next session. Different support group explore karungi comfortable fit ke liye. Daily practice karna consistency maintain karne. Recovery journey long hai but tools aur support ke saath manageable. Thank you actionable framework dene ke liye needed direction."
-      },
-      {
-        "role": "assistant",
-        "content": "Perfect yaar structured plan execution improve karega significantly. Accountability partner game-changer hoti consistency ke liye. Therapist session mein protocol revise karna practical banayega. Support group fit matter karti comfort share karne mein. Daily practice non-negotiable habit bana like brushing teeth. Recovery marathon hai sprint nahi - patience aur persistence chahiye. Relapse agar ho toh failure nahi data point hai adjust karne ka. Tu strong hai yaar already progress kar chuki. Main hoon na. Keep going aur celebrate small wins. Updates dena yaar."
-      }
-    ],
-    "metadata": {
-      "language": "hindi",
-      "intent": "resistance",
-      "conversation_stage": "deepening",
-      "severity": 7,
-      "escalation_needed": false
-    }
-  },
-  {
-    "id": "ehsaas_p4_3995",
-    "messages": [
-      {
-        "role": "user",
-        "content": "I'm a functioning alcoholic. I go to work I maintain relationships but I need alcohol daily to feel normal. Started as social drinking now it's dependence. I've tried to quit multiple times but withdrawal anxiety is unbearable. I go back to drinking to feel okay. I know it's destroying my health my liver enzymes are elevated but I can't seem to stop. I feel weak and ashamed."
-      },
-      {
-        "role": "assistant",
-        "content": "Functioning alcoholic is still alcoholic yaar and physical dependence has developed if withdrawal causes severe anxiety. Liver enzyme elevation is serious warning your body is being damaged. You're not weak - addiction is disease that hijacks brain chemistry. Willpower alone doesn't work for physical dependence. Medical detox necessary for safe withdrawal management. Have you consulted doctor about supervised detox or de-addiction program?"
-      },
-      {
-        "role": "user",
-        "content": "No I'm scared of medical detox. Taking time off work would raise questions. My employer doesn't know and I don't want to risk my job. I have good insurance but using it for rehab creates records. I've been managing by just reducing amount which hasn't worked. The withdrawal anxiety is physical - shaking, racing heart, nausea. I need it just to function not even to feel good anymore. I don't know how to break this cycle without everything falling apart."
-      },
-      {
-        "role": "assistant",
-        "content": "Your fears are real but yaar health deteriorating further will cause job loss anyway eventually. Medical leave doesn't require disclosure of reason - can cite health issue generically. Insurance records are confidential HIPAA protected employers can't access. Reducing amount doesn't work with dependence - brain adapted needs full reset. Withdrawal symptoms you describe need medical supervision - unsupervised detox can be dangerous seizures possible. De-addiction centers outpatient options exist work ke saath manage kar sakte. AASRA 9820466626 guide kar sakta options pe. Choice is continue until crisis forces intervention or choose help now controlled way. Kya tu ready hai safety prioritize karne career concerns ke despite?"
-      },
-      {
-        "role": "user",
-        "content": "You're right if I keep going health crisis will definitely affect career worse than planned treatment. I need to prioritize safety. I'll look into outpatient options and call that helpline. Maybe I can do medical leave for couple weeks detox ke liye. Insurance confidentiality reassuring to know. I'm scared but more scared of where this is headed. I need help and I need it professionally. I'll make calls tomorrow start the process. Thanks for being direct I needed reality check."
-      },
-      {
-        "role": "assistant",
-        "content": "Proud of you yaar for making that decision reality check ke baad. Tomorrow call karna crucial - don't let fear delay action. Outpatient options flexible hoti working professionals ke liye. Medical leave 2-3 weeks sufficient hai detox ke liye. Doctor will manage withdrawal medically safe way. De-addiction counseling parallel help karegi long-term sobriety maintain karne. Support groups like AA helpful hain peer support ke liye. Tera health aur life worth fighting for yaar. Call karna promise kar. Main hoon na. Update dena process ka. You're taking your life back."
-      }
-    ],
-    "metadata": {
-      "language": "english",
-      "intent": "resistance",
-      "conversation_stage": "deepening",
-      "severity": 9,
-      "escalation_needed": true
-    }
-  },
-  {
     "id": "ehsaas_p4_3996",
     "messages": [
       {
@@ -9780,42 +9324,6 @@
       "intent": "mixed_emotions",
       "conversation_stage": "deepening",
       "severity": 5,
-      "escalation_needed": false
-    }
-  },
-  {
-    "id": "ehsaas_p4_3999",
-    "messages": [
-      {
-        "role": "user",
-        "content": "I've been lying to my therapist for months. I tell them I'm doing better making progress but actually I'm getting worse. I don't do the homework I don't practice coping skills. I perform wellness in sessions. I don't know why I'm sabotaging my own help. Maybe I don't want to get better? Or I'm scared of change? Therapy is expensive and I'm wasting it. I feel like a fraud."
-      },
-      {
-        "role": "assistant",
-        "content": "Lying to therapist is more common than you think yaar - performance of wellness to avoid deeper work or disappointing them. Self-sabotage in therapy usually means either wrong therapist fit, not ready for change, or deeper resistance to vulnerability. Fear of change is real - even negative familiar feels safer than positive unknown. You're paying for therapy but not using it shows internal conflict. Not wanting to get better vs scared of getting better - big difference. Which resonates more?"
-      },
-      {
-        "role": "user",
-        "content": "Scared of getting better maybe? Like if I heal then what? Who am I without my struggles? They've defined me so long. Also vulnerable work is terrifying - I'd rather keep surface level. My therapist seems nice but maybe I don't trust them enough to be real. Or maybe I just don't believe I can actually change. Feels hopeless so why try. But I keep going to sessions and pretending so clearly part of me wants help."
-      },
-      {
-        "role": "assistant",
-        "content": "Identity wound up in struggles is real thing yaar - healing feels like losing yourself. Vulnerability terror is protective mechanism from past hurts probably. Therapist nice but trust missing - maybe chemistry issue need different therapist. Hopelessness about change is depression talking not truth. Showing up to sessions despite resistance shows part of you hopes for healing. Honesty with therapist about lying is paradoxical but breakthrough - tell them you've been performing, scared to be real. Good therapist won't judge will work with resistance. Can you commit to one honest session?"
-      },
-      {
-        "role": "user",
-        "content": "One honest session as experiment - I can try that. Scary but you're right - showing up means something. Maybe telling them I've been lying is the real work. Worst case they handle it badly and I find new therapist. Best case we actually start real therapy. Fear of losing identity with struggles is huge realization I need to process. Not believing in change is defeating me before trying. Okay I'll have honest conversation next session. Will be terrified but necessary."
-      },
-      {
-        "role": "assistant",
-        "content": "Huge brave commitment yaar. One honest session can shift everything. Telling therapist truth about performing is meta-level work - addressing resistance directly. If they're good therapist they'll appreciate honesty and work with it therapeutically. Identity reconstruction is part of healing journey - you'll discover self beyond struggles. Belief in change grows through small experiences of change. Fear natural hai but courage is action despite fear. Proud of you for committing. Main hoon na. Update me after that honest session. You're worth the real work yaar."
-      }
-    ],
-    "metadata": {
-      "language": "english",
-      "intent": "resistance",
-      "conversation_stage": "deepening",
-      "severity": 7,
       "escalation_needed": false
     }
   },
@@ -10204,42 +9712,6 @@
       "intent": "venting",
       "conversation_stage": "deepening",
       "severity": 6,
-      "escalation_needed": false
-    }
-  },
-  {
-    "id": "ehsaas_p4_4013",
-    "messages": [
-      {
-        "role": "user",
-        "content": "I'm a perfectionist and it's ruining my life. I can't finish projects because they're never good enough. I've rewritten my thesis 20 times still not satisfied. Missing deadlines because I can't submit imperfect work. My advisor is frustrated I'm frustrated but I can't stop. The anxiety of putting out something less than perfect is paralyzing. I know done is better than perfect logically but I can't execute. It's like a compulsion I can't control. Am I just lazy hiding behind perfectionism?"
-      },
-      {
-        "role": "assistant",
-        "content": "You're not lazy yaar - perfectionism is anxiety-driven paralysis not lack of effort. Rewriting 20 times shows excessive effort not laziness. This sounds like OCD-level perfectionism where compulsion to perfect overrides ability to complete. 'Never good enough' is moving goalpost your brain sets. Anxiety of imperfection being paralysing indicates this is clinical level needing treatment. Logically knowing doesn't help because it's not logic problem it's anxiety disorder. Have you considered that this might be OCD requiring specific therapy like ERP?"
-      },
-      {
-        "role": "user",
-        "content": "OCD didn't occur to me I thought that was just about cleaning and counting. But compulsive rewriting fits. My therapist does CBT for anxiety but hasn't addressed perfectionism as OCD. Maybe wrong approach? The paralysis is real - I'd rather not submit than submit imperfect which is obviously self-sabotaging. Advisor deadline is next week I'm panicking but still can't just submit. How do I break this pattern when anxiety controls my actions despite knowing it's destructive?"
-      },
-      {
-        "role": "assistant",
-        "content": "OCD has many forms yaar - perfectionism OCD is about needing things perfect not just contamination fears. CBT helps but ERP specifically for OCD teaches tolerating imperfection deliberately. Your therapist might not recognize OCD presentation - consider OCD specialist evaluation. Next week deadline is forcing function - exposure therapy in real time. Challenge is submit 'good enough' version tolerating massive anxiety temporarily. Anxiety will spike then reduce - that's exposure working. Can you commit to submitting current version by deadline as deliberate imperfection exposure even if anxiety screaming?"
-      },
-      {
-        "role": "user",
-        "content": "That's terrifying but you're right - deadline forces exposure. I'll commit to submitting current version no more revisions. Anxiety will be unbearable I already feel it thinking about it. But pattern has to break somewhere. I'll look for OCD specialist for proper evaluation and treatment. Current therapist well-meaning but approach isn't working clearly. Submitting imperfect work as exposure exercise reframe helps makes it therapeutic not failure. Okay I'll do it. Thanks for reframing and pushing me. I need that external push. Will update after submission."
-      },
-      {
-        "role": "assistant",
-        "content": "Huge commitment yaar - submitting despite terror is exactly exposure therapy works. Anxiety will peak but won't kill you and will reduce after. Reframing as therapeutic exercise removes shame adds purpose. OCD specialist evaluation will clarify if that's diagnosis and proper treatment path. Current therapist meant well but wrong tool for condition. Deadline forcing function sometimes necessary to break pattern. You're not failing by submitting imperfect - you're choosing progress over paralysis which is growth. Main hoon na. Submit karna by deadline no matter what anxiety says. Update me definitely yaar. Proud of you already."
-      }
-    ],
-    "metadata": {
-      "language": "english",
-      "intent": "resistance",
-      "conversation_stage": "deepening",
-      "severity": 7,
       "escalation_needed": false
     }
   },
@@ -10709,42 +10181,6 @@
       "conversation_stage": "deepening",
       "severity": 7,
       "escalation_needed": false
-    }
-  },
-  {
-    "id": "ehsaas_p4_4039",
-    "messages": [
-      {
-        "role": "user",
-        "content": "I think I'm developing agoraphobia. Started with avoiding crowded places now I'm scared to leave my apartment. Panic attacks if I try. Work from home so I can function technically but my world is shrinking dangerously. Haven't seen friends in months. Grocery delivery exists so I don't face the fear. I know avoidance makes it worse but exposure terrifies me - last attempt full panic attack on doorstep. Therapy online which helps but doesn't address the physical avoidance. I'm trapped by my own fear and I don't know how to break free. Medication offered but I'm scared of side effects and dependency. This can't be my life forever but I don't see escape route."
-      },
-      {
-        "role": "assistant",
-        "content": "Agoraphobia develops exactly this way - avoidance feeds fear which increases avoidance in vicious cycle. Your world shrinking dangerously accurate assessment - functioning in limited space isn't actual functioning long-term. Online therapy helps but agoraphobia requires in-person exposure therapy specifically - gradual systematic facing fears with support. Last panic attack at doorstep shows attempted exposure without proper guidance setup for failure. Medication fear understandable but many anti-anxiety meds effective not addictive when properly prescribed - discuss specific options with psychiatrist. Grocery delivery enabling avoidance short-term relief long-term trap. This absolutely doesn't have to be forever but requires facing fear systematically not alone. Have you researched therapists who specialize in agoraphobia with home visit options initially?"
-      },
-      {
-        "role": "user",
-        "content": "I didn't know home visit therapists existed. Online search shows few in my area expensive. Insurance might cover unclear. The thought of stranger in my space also anxiety-inducing but less than going out maybe. Medication conversation with psychiatrist needed I've avoided that too. Friends stopped reaching out after cancellations they probably think I don't care. Family doesn't understand thinks I'm being dramatic just go outside. Loneliness crushing but people require leaving or letting in both terrifying. I'm 28 this shouldn't be my reality. How do I take first step when every option feels impossible?"
-      },
-      {
-        "role": "assistant",
-        "content": "Home visit therapists rare and expensive but teletherapy with agoraphobia specialist who guides exposure remotely possible - they coach you through graduated steps via video. Insurance typically covers mental health check coverage specifics. Medication psychiatrist virtual consult first step - knowledge reduces fear discuss options openly. Friends drifted understandable pattern but true friends return when you explain medical condition not choice. Family lack of understanding frustrating but education possible share resources about agoraphobia. Loneliness motivation can be despite fear - connection need eventually outweighs safety need. Twenty-eight is young plenty of time for recovery with proper treatment. First step smallest possible - schedule psychiatrist virtual appointment this week medication consult. Just one small action breaks paralysis. Ready to schedule that one appointment no exposure required just conversation?"
-      },
-      {
-        "role": "user",
-        "content": "Yes one appointment I can do. Virtual psychiatrist consult this week I'll schedule today. Just talking about medication not committing yet feels manageable. Then maybe teletherapy agoraphobia specialist search insurance list. Small steps not giant leaps that makes sense. Friends I'll message explaining medical condition not disinterest maybe understanding. Family education attempt with resources realistic expectations. Loneliness motivator you're right need connection eventual fear tolerance. Thanks for breaking it down to tiny manageable steps not overwhelming escape plan. One appointment today I can do that. Update after psychiatrist consult. Tiny progress still progress."
-      },
-      {
-        "role": "assistant",
-        "content": "Exactly right - tiny progress absolutely counts as progress. One virtual appointment today is perfect first step requires zero physical exposure just conversation. Medication information reduces fear even if don't start immediately. Teletherapy agoraphobia specialist next logical step after psychiatrist consult. Friends message explaining may surprise you with support medical framing helps. Family education tempered expectations realistic approach. Loneliness powerful motivator use that when fear feels overwhelming. Breaking free happens in smallest increments not dramatic escapes. Schedule that appointment today no delay. Update definitely after psychiatrist talk. You're taking action which breaks the paralysis pattern. Twenty-eight with proper treatment ahead of you means this phase temporary not permanent. Proud of you for committing to first step. Do it today."
-      }
-    ],
-    "metadata": {
-      "language": "english",
-      "intent": "resistance",
-      "conversation_stage": "deepening",
-      "severity": 8,
-      "escalation_needed": true
     }
   },
   {
@@ -11232,34 +10668,6 @@
       "intent": "venting",
       "conversation_stage": "deepening",
       "severity": 5,
-      "escalation_needed": false
-    }
-  },
-  {
-    "id": "ehsaas_p4_4072",
-    "messages": [
-      {
-        "role": "user",
-        "content": "I can't stop stalking my ex on social media. I know it's unhealthy, I know it stops me from moving on, but I compulsively check their profile multiple times a day. Seeing them happy without me hurts but I can't stop looking. It's like picking a scab - painful but I keep doing it. I've tried blocking them but I just unblock to check. I need help breaking this cycle."
-      },
-      {
-        "role": "assistant",
-        "content": "That compulsive checking even when you know it hurts is a really common struggle after breakups. The scab-picking metaphor feels accurate - there's something about the pain that keeps pulling you back even though you know it's not helping. The block-unblock cycle shows how strong the pull is versus the intention to stop."
-      },
-      {
-        "role": "user",
-        "content": "Exactly. And now I'm seeing things I don't want to see. They're hanging out with someone new, posting happy photos, clearly moved on. Meanwhile I'm here stalking their profile at 2am feeling terrible about myself. I know this is pathetic but I can't stop. Every time I check I hope to see them struggling or missing me but they're fine. That hurts more but I keep checking."
-      },
-      {
-        "role": "assistant",
-        "content": "Hoping to see them struggling or missing you makes sense as a way to validate your pain - like if they're fine it means you didn't matter. But then confirming they're fine creates more pain, which creates more need to check. The 2am checking especially sounds like it's when the urge is strongest and hardest to resist."
-      }
-    ],
-    "metadata": {
-      "language": "english",
-      "intent": "resistance",
-      "conversation_stage": "deepening",
-      "severity": 6,
       "escalation_needed": false
     }
   },
