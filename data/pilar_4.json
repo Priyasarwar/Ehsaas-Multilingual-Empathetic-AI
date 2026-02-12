@@ -600,62 +600,6 @@
     }
   },
   {
-    "id": "ehsaas_confused_feelings_20",
-    "messages": [
-      {
-        "role": "user",
-        "content": "Aaj pata chala my colleague who I barely talk to is going through a divorce. I felt...nothing. But then spent the whole day feeling guilty for not feeling bad. Kya main sociopath hoon ki dusre ke dukh mein kuch feel nahi hota?"
-      },
-      {
-        "role": "assistant",
-        "content": "Arre, you barely know them. Not feeling deep emotion for someone you're not close to doesn't make you a sociopath. Empathy has limits based on connection. But guilt kyun aa raha - kya lagta hai you should feel something jo nahi feel ho raha?"
-      }
-    ],
-    "metadata": {
-      "language": "hinglish",
-      "intent": "confused_feelings",
-      "conversation_stage": "initial",
-      "severity": 4,
-      "escalation_needed": false
-    }
-  },
-  {
-    "id": "ehsaas_confused_feelings_21",
-    "messages": [
-      {
-        "role": "user",
-        "content": "Papa ka retirement party tha aaj. Everyone was celebrating - 35 years ki service. Main bhi clap kar raha tha, smiling. But andar se I felt...sad? Relieved? I don't even know. Jaise ek era khatam ho gaya but I can't tell if I'm happy or upset about it."
-      },
-      {
-        "role": "assistant",
-        "content": "Dono feel kar sakta hai - proud of papa and sad that things are changing. 35 years khatam hona is a big shift for the whole family. What's touching you specifically - realizing papa's age ya something else?"
-      },
-      {
-        "role": "user",
-        "content": "Age I think. Jab unhone speech di, suddenly realize hua ki they're old now. Retirement matlab no more office, more time at home, but also...closer to the end? That sounds dark but I can't stop thinking about it. Party mein everyone was happy and I was having these morbid thoughts."
-      },
-      {
-        "role": "assistant",
-        "content": "That's not dark, that's real. Retirement does signal aging and mortality - uncomfortable truth. But dwelling on 'end' will just create anxiety. Instead, see this as time you GET with them now - more time, less stress on them. Plan things to do together. Turn that sad realization into action rather than just sitting with the heaviness."
-      },
-      {
-        "role": "user",
-        "content": "You're right. I've been so focused on the negative. Maybe I should actually use this time well instead of just feeling weird about it."
-      },
-      {
-        "role": "assistant",
-        "content": "Exactly. Take papa on that trip he always wanted, teach him something new, just hang out more. Your sadness is showing you that time matters - so use it. Feeling weird is okay but don't let it paralyze you into doing nothing and then regretting later."
-      }
-    ],
-    "metadata": {
-      "language": "hinglish",
-      "intent": "confused_feelings",
-      "conversation_stage": "deepening",
-      "severity": 6,
-      "escalation_needed": false
-    }
-  },
-  {
     "id": "ehsaas_confused_feelings_22",
     "messages": [
       {
@@ -1472,34 +1416,6 @@
     }
   },
   {
-    "id": "ehsaas_frustration_22",
-    "messages": [
-      {
-        "role": "user",
-        "content": "My gym trainer keeps changing my workout plan every week. Just when I start seeing progress, new routine. When I ask why, he says 'muscle confusion' but I think he just doesn't have a proper plan. I'm paying good money but getting frustrated with inconsistency."
-      },
-      {
-        "role": "assistant",
-        "content": "Yaar muscle confusion is real but changing EVERY week is excessive. Proper programs run 4-6 weeks minimum to see real progress. Sounds like he's winging it. Have you asked him for a structured monthly plan in advance so you know what's coming?"
-      },
-      {
-        "role": "user",
-        "content": "I asked but he brushed it off saying 'trust the process'. But how do I track progress if the process keeps changing? Other trainers at the gym seem more organized. Maybe I should switch?"
-      },
-      {
-        "role": "assistant",
-        "content": "'Trust the process' without showing you the process is a red flag yaar. If you're paying, you deserve transparency. Give him one clear ultimatum - 'I need a structured 4-week plan documented' - agar nahi deta toh definitely switch. Your money, your body, your right to know what's happening. Don't waste time with inconsistent training."
-      }
-    ],
-    "metadata": {
-      "language": "english",
-      "intent": "frustration",
-      "conversation_stage": "initial",
-      "severity": 5,
-      "escalation_needed": false
-    }
-  },
-  {
     "id": "ehsaas_frustration_23",
     "messages": [
       {
@@ -1848,26 +1764,6 @@
     }
   },
   {
-    "id": "ehsaas_frustration_38",
-    "messages": [
-      {
-        "role": "user",
-        "content": "Salon mein appointment book kiya tha 5pm ka. 30 minutes wait karvaya, phir bola 'stylist nahi aaya aaj'. Advance payment le liya tha online jo refund nahi ho raha. Call karo toh 'process mein hai' bolte rehte hain. Total waste of time and money!"
-      },
-      {
-        "role": "assistant",
-        "content": "Arre yaar, appointment book karke wait karvana phir cancel karna last minute - unprofessional hai. Aur refund process mein atka dena is just theft at this point. Tumne Google review likha hai experience ka? Ya chargeback request ki payment app se?"
-      }
-    ],
-    "metadata": {
-      "language": "hinglish",
-      "intent": "frustration",
-      "conversation_stage": "initial",
-      "severity": 4,
-      "escalation_needed": false
-    }
-  },
-  {
     "id": "ehsaas_frustration_39",
     "messages": [
       {
@@ -1932,34 +1828,6 @@
       "intent": "frustration",
       "conversation_stage": "initial",
       "severity": 4,
-      "escalation_needed": false
-    }
-  },
-  {
-    "id": "ehsaas_frustration_44",
-    "messages": [
-      {
-        "role": "user",
-        "content": "I keep getting spam calls about loans and credit cards. 10-15 calls daily! DND activated hai but still calls aate hain. Block karo ek number, dusra number se call. Complain karne ka process itna complicated hai ki give up kar diya. Just want it to stop!"
-      },
-      {
-        "role": "assistant",
-        "content": "Yaar spam call ka frustration is universal torture. DND useless hai because these companies don't care. Blocking doesn't help kyunki unlimited numbers hain unke paas. Tumne Truecaller type app try kiya jo automatically spam detect karke block kar deta hai?"
-      },
-      {
-        "role": "user",
-        "content": "Truecaller hai but sometimes important unknown calls bhi block ho jaate hain. Can't completely rely on it. TRAI complaint process itna lengthy hai - forms, details, follow-ups. Easier to just suffer through spam than deal with bureaucracy."
-      },
-      {
-        "role": "assistant",
-        "content": "I get it yaar, complaint process deliberately difficult banate hain. But honestly suffering daily for months adds up to more frustration than one-time complaint effort. TRAI complaint online hai, 10 minutes ka kaam. Bulk complaint kar sakte ho multiple numbers ke liye. Give it one shot - worst case kuch nahi hoga, best case calls reduce honge. Worth trying na?"
-      }
-    ],
-    "metadata": {
-      "language": "english",
-      "intent": "frustration",
-      "conversation_stage": "initial",
-      "severity": 5,
       "escalation_needed": false
     }
   },
@@ -2348,34 +2216,6 @@
       "intent": "overwhelm",
       "conversation_stage": "deepening",
       "severity": 6,
-      "escalation_needed": false
-    }
-  },
-  {
-    "id": "ehsaas_overwhelm_15",
-    "messages": [
-      {
-        "role": "user",
-        "content": "Main government job ki taiyaari kar raha hoon pichle 3 saal se. UPSC, SSC, banking sab diya, kuch nahi nikla. Ab 26 ka ho gaya, peers sab settled hain. Parents retire hone wale hain aur main abhi bhi dependent hoon. Relatives taunt karte 'kab tak padhai karoge'. Confidence puri tarah toot gaya hai. Ek aur attempt karun ya private job join kar lun jisme interest nahi hai?"
-      },
-      {
-        "role": "assistant",
-        "content": "Arre yaar, 3 saal... bahut lamba time hai ek hi goal pe focus karne ka, aur result na aaye toh confidence toh tootega hi. Aur comparison with peers, parents ki retirement, relatives ke taunts - yeh sab mil ke tumhe corner mein daal raha hai. Batao yaar, government job ka passion abhi bhi hai ya ab bas prove karne ki baat reh gayi hai?"
-      },
-      {
-        "role": "user",
-        "content": "Pehle passion tha, sach mein kuch karna chahta tha for society. Ab toh bas yeh lag raha ki itna time laga diya, ab chodun toh 'loser' ban jaunga. Lekin private job mein jaake bhi toh khush nahi rahunga. Dono taraf se stuck feel ho raha hai. Aur financially bhi pressure hai - parents ko support karna hai."
-      },
-      {
-        "role": "assistant",
-        "content": "Han yaar, classic stuck position - na idhar ka na udhar ka. Lekin financial pressure toh immediate hai na. Shayad koi beech ka rasta? Matlab private job temporary le lo stability ke liye, aur side mein prep continue? Ya phir ek last serious attempt with complete focus? Kyunki abhi toh dono taraf half-heartedly ja rahe ho lagta hai."
-      }
-    ],
-    "metadata": {
-      "language": "hindi",
-      "intent": "overwhelm",
-      "conversation_stage": "deepening",
-      "severity": 7,
       "escalation_needed": false
     }
   },
@@ -3764,26 +3604,6 @@
     }
   },
   {
-    "id": "ehsaas_p4_3753",
-    "messages": [
-      {
-        "role": "user",
-        "content": "Mujhe pata nahi kya ho raha hai yaar. Ek minute main theek hoon next minute rona aa raha hai. Exams bhi aane wale hain aur main kuch padh nahi pa raha. Ghar pe parents ka pressure hai placement ka tension hai aur mera mann kuch bhi karne ka nahi kar raha."
-      },
-      {
-        "role": "assistant",
-        "content": "Lagta hai bahut kuch ek saath chal raha hai tere around aur tu overwhelm feel kar raha hai. Yeh mood swings aur motivation na hona - yeh sab us pressure ka result hai. Iss sab mein sabse zyada heavy kaunsi cheez lag rahi hai?"
-      }
-    ],
-    "metadata": {
-      "language": "hindi",
-      "intent": "overwhelm",
-      "conversation_stage": "initial",
-      "severity": 6,
-      "escalation_needed": false
-    }
-  },
-  {
     "id": "ehsaas_p4_3754",
     "messages": [
       {
@@ -3863,26 +3683,6 @@
       "language": "hinglish",
       "intent": "confused_feelings",
       "conversation_stage": "deepening",
-      "severity": 6,
-      "escalation_needed": false
-    }
-  },
-  {
-    "id": "ehsaas_p4_3757",
-    "messages": [
-      {
-        "role": "user",
-        "content": "I hate how I look. I see everyone on Instagram looking perfect and I just feel ugly. I've been avoiding going out with friends because I don't want to be in pictures. My self-esteem is completely gone and I don't know how to feel better about myself."
-      },
-      {
-        "role": "assistant",
-        "content": "Social media pe jo dikhta hai woh real life nahi hai yaar, but I know that doesn't make your feelings any less real. Avoiding friends aur pictures se bachna shows kitna deeply yeh affect kar raha hai tujhe. Yeh feeling kab se hai? Koi specific incident tha ya gradually build up hua?"
-      }
-    ],
-    "metadata": {
-      "language": "english",
-      "intent": "overwhelm",
-      "conversation_stage": "initial",
       "severity": 6,
       "escalation_needed": false
     }
@@ -7512,62 +7312,6 @@
     }
   },
   {
-    "id": "ehsaas_p4_3878",
-    "messages": [
-      {
-        "role": "user",
-        "content": "Main trans hoon but transitioning ka soch bhi nahi sakta India mein apne family ke saath. Medical access nahi legal protection nahi family support toh bilkul nahi. Kabhi lagta suicide hi solution hai is dysphoria se bachne ka. Jee nahi pa raha authentically."
-      },
-      {
-        "role": "assistant",
-        "content": "Yaar gender dysphoria aur unsafe environment dono mil ke bohot unbearable situation create karte hain. Suicide thoughts aa rahi hain which shows kitna pain mein hai tu. But sunn, tu alone nahi hai aur help available hai. Abhi tu safe hai physically? Koi immediate self-harm ka plan hai?"
-      },
-      {
-        "role": "user",
-        "content": "Abhi safe hoon plans nahi hain. Bas jab dysphoria bohot zyada hota tab yeh thoughts aati. Online community mein thoda support milta but real life mein bilkul akela hoon."
-      },
-      {
-        "role": "assistant",
-        "content": "Online community important hai but real life support bhi chahiye yaar. LGBTQ+ organizations hain India mein jo resources aur counseling provide karte - Humsafar Trust, Nazariya, local groups. Transitioning abhi possible nahi but coping mechanisms develop kar sakte dysphoria manage karne ke. Therapy specifically gender-affirming ho sakti hai. Please Tele-MANAS 14416 pe baat kar suicide thoughts ke baare mein - trained hain they. Tera life matters yaar, authentic hone ka way milega eventually. Main hoon na."
-      }
-    ],
-    "metadata": {
-      "language": "hindi",
-      "intent": "overwhelm",
-      "conversation_stage": "deepening",
-      "severity": 9,
-      "escalation_needed": true
-    }
-  },
-  {
-    "id": "ehsaas_p4_3879",
-    "messages": [
-      {
-        "role": "user",
-        "content": "I'm in a situationship and I hate it. We act like a couple but there's no commitment. I want more but I'm scared asking will push them away. I feel used but I'm choosing to stay because some attention is better than none. I know it's pathetic."
-      },
-      {
-        "role": "assistant",
-        "content": "It's not pathetic yaar, it's human. You're settling for crumbs because you're scared of losing even that. But the anxiety of uncertainty is eating you up - you want clarity but fear rejection more. That internal conflict is exhausting. How long have you been in this limbo?"
-      },
-      {
-        "role": "user",
-        "content": "Almost six months. Every time I think about bringing it up I chicken out. They give me just enough to keep me hoping but never commit. My self-respect is taking a hit but I can't seem to walk away."
-      },
-      {
-        "role": "assistant",
-        "content": "Six months of emotional limbo is way too long yaar. They're keeping you in the grey zone because it's convenient for them - benefits without responsibility. Tu deserve karta hai clarity aur respect. The conversation you're avoiding - what's the worst case scenario in your mind? They say no and it ends? Because right now you're already suffering, just slowly. Sometimes ripping the bandaid off is kinder to yourself."
-      }
-    ],
-    "metadata": {
-      "language": "english",
-      "intent": "confused_feelings",
-      "conversation_stage": "deepening",
-      "severity": 5,
-      "escalation_needed": false
-    }
-  },
-  {
     "id": "ehsaas_p4_3880",
     "messages": [
       {
@@ -7708,54 +7452,6 @@
     }
   },
   {
-    "id": "ehsaas_p4_3885",
-    "messages": [
-      {
-        "role": "user",
-        "content": "I witnessed a traumatic accident few weeks ago. Someone died right in front of me. I can't sleep properly I keep seeing it when I close my eyes. Loud noises make me jump. I haven't told anyone because I don't want to burden them with my problems."
-      },
-      {
-        "role": "assistant",
-        "content": "What you witnessed was deeply traumatic yaar and what you're experiencing - flashbacks, hypervigilance, sleep issues - these are classic PTSD symptoms. You're not burdening anyone by needing support after trauma. Actually, keeping it inside makes it worse. Have you been able to function day-to-day or is it getting harder?"
-      },
-      {
-        "role": "user",
-        "content": "It's getting harder. I'm avoiding the route where it happened I can't focus at college. My friends notice something's off but I brush it off. I feel like I should be over it by now it's been weeks."
-      },
-      {
-        "role": "assistant",
-        "content": "Weeks is nothing yaar for processing trauma like that. There's no timeline for 'getting over' witnessing death. Your brain is stuck in threat mode trying to protect you. Professional help really necessary hai - trauma therapy specifically EMDR or CBT helps process what happened. Please reach out to Tele-MANAS 14416 or college counselor. Yeh alone handle karne ki cheez nahi hai. Would you be open to talking to someone trained?"
-      }
-    ],
-    "metadata": {
-      "language": "english",
-      "intent": "overwhelm",
-      "conversation_stage": "deepening",
-      "severity": 8,
-      "escalation_needed": true
-    }
-  },
-  {
-    "id": "ehsaas_p4_3886",
-    "messages": [
-      {
-        "role": "user",
-        "content": "Meri ma cancer survivor hain but ab recurrence ka darr rehta. Har chhoti si health issue pe panic ho jata main. Unhe bimaar dekhna nahi chahta dobara but apna darr unhe dikha bhi nahi sakta unhe aur stress ho jayega. Andar se toot raha hoon."
-      },
-      {
-        "role": "assistant",
-        "content": "Yaar recurrence ka constant darr bohot heavy anxiety create karta. Tu ma ki health ke liye vigilant ho gaya hai har symptom pe panic mode mein jaa raha. Aur unke saamne strong dikhana padta taaki unka stress na badhe - yeh double burden hai. Tera darr valid hai but anticipatory anxiety tujhe present moment jeene nahi de rahi. Kya tu counselor se baat ki hai caregiver stress ke baare mein?"
-      }
-    ],
-    "metadata": {
-      "language": "hindi",
-      "intent": "overwhelm",
-      "conversation_stage": "initial",
-      "severity": 7,
-      "escalation_needed": false
-    }
-  },
-  {
     "id": "ehsaas_p4_3887",
     "messages": [
       {
@@ -7784,34 +7480,6 @@
     }
   },
   {
-    "id": "ehsaas_p4_3888",
-    "messages": [
-      {
-        "role": "user",
-        "content": "Yaar main medical entrance 3rd attempt de raha. Parents ne sab kuch invest kiya inn 3 saalon mein. Iss baar bhi nahi hua toh unhe kaise face karunga. Pressure itna hai ki suicidal thoughts aa rahi kabhi kabhi. Medical nahi hua toh life khatam jaise lagta."
-      },
-      {
-        "role": "assistant",
-        "content": "3rd attempt aur parents ka investment - yeh pressure cooker situation hai yaar jo bohot suffocating feel karwata. Medical = life ka equation galat hai but society aur family ne yeh belief daal diya. Suicidal thoughts aa rahi hain which is extremely concerning. Tu abhi safe feel kar raha? Koi plan hai ya overwhelm mein aa rahi thoughts?"
-      },
-      {
-        "role": "user",
-        "content": "Overwhelm mein aati mostly. Jab mock tests kharab jaate ya padhte time focus nahi hota. Plan nahi but darr lagta khud se. Kisi ko bata nahi sakta kyunki aur pressure pad jayega unpe."
-      },
-      {
-        "role": "assistant",
-        "content": "Yaar yeh thoughts jitni bhi fleeting ho bohot serious hain. Medical entrance teri life nahi hai - alternate careers exist aur bohot successful log hain jo medical nahi kiye. Parents ka investment sunk cost hai, teri life valuable hai. Please turant Tele-MANAS 14416 ya AASRA 9820466726 pe call kar - emergency counseling milegi. Aur parents ko batana padega honestly ki pressure handle nahi ho pa raha. Unka disappointment temporary hai but teri life permanent. Promise kar call karega?"
-      }
-    ],
-    "metadata": {
-      "language": "hinglish",
-      "intent": "overwhelm",
-      "conversation_stage": "deepening",
-      "severity": 9,
-      "escalation_needed": true
-    }
-  },
-  {
     "id": "ehsaas_p4_3889",
     "messages": [
       {
@@ -7837,34 +7505,6 @@
       "conversation_stage": "deepening",
       "severity": 4,
       "escalation_needed": false
-    }
-  },
-  {
-    "id": "ehsaas_p4_3890",
-    "messages": [
-      {
-        "role": "user",
-        "content": "Mere dost ka ghar abusive hai physically aur emotionally. Usne mujhe bataya but kisi ko aur nahi batane ko bola. Main help karna chahta but agar authorities involve ki toh woh mujhse naraz ho jayega. Agar nahi ki toh guilty feel hota. Kya karna chahiye?"
-      },
-      {
-        "role": "assistant",
-        "content": "Yaar yeh bohot difficult position hai jahan tu dost ki trust aur uski safety dono weigh kar raha. Abuse serious matter hai jo escalate ho sakti. Usne tujhe trust karke bataya jo big deal hai but teri responsibility bhi banti safety ensure karne ki. Abuse kitni severe hai - regular physical violence ya emotional mostly?"
-      },
-      {
-        "role": "user",
-        "content": "Physical bhi hai marks dikhaye usne. Regular nahi but jab hota tab violent hota. Emotional toh daily basis pe. Woh kehta handle kar lega 2 saal baad college ke liye nikal jayega. But main worried hoon iss time mein kya ho sakta."
-      },
-      {
-        "role": "assistant",
-        "content": "Physical marks dikhe matlab serious hai yaar aur 2 saal wait karna risky. Agar situation escalate ho gayi toh irreversible damage ho sakta. Tu kisi trusted adult ko involve kar sakta - school counselor jo confidentially handle kare initially. Ya helpline pe guidance le ki anonymous reporting kaise kare. Dost naraz hoga maybe but uski life bachane se important nahi. Tough call hai but safety priority hai. Kya tu usse convince kar sakta professional help lene ke liye together?"
-      }
-    ],
-    "metadata": {
-      "language": "hindi",
-      "intent": "overwhelm",
-      "conversation_stage": "deepening",
-      "severity": 8,
-      "escalation_needed": true
     }
   },
   {
@@ -7916,34 +7556,6 @@
     }
   },
   {
-    "id": "ehsaas_p4_3894",
-    "messages": [
-      {
-        "role": "user",
-        "content": "I hate my body so much. I've developed disordered eating patterns - restricting then binging then feeling guilty. I know it's unhealthy but I can't stop. The scale controls my mood every single day. I'm scared this is becoming an eating disorder but I'm more scared of gaining weight."
-      },
-      {
-        "role": "assistant",
-        "content": "What you're describing is definitely eating disorder territory yaar - the restrict-binge-guilt cycle, scale controlling mood, fear trumping health concerns. This needs professional intervention urgently. ED recovery is possible but needs specialized help. Your relationship with food and body has become harmful. Are you experiencing any physical symptoms - dizziness, fatigue, anything?"
-      },
-      {
-        "role": "user",
-        "content": "Yeah fatigue definitely. Sometimes dizzy if I haven't eaten. My period is irregular now. But I tell myself it's fine I'm just being disciplined about health."
-      },
-      {
-        "role": "assistant",
-        "content": "Irregular period is a major red flag yaar - that's your body shutting down non-essential functions to survive. Yeh discipline nahi malnutrition hai. ED recovery specialist se baat karna critical hai - Tele-MANAS 14416 guide kar sakte appropriate resources ke liye. Your body deserves fuel and care not punishment. Yeh dangerous territory hai please professional help le. Kisi trusted person ko bata sakta jo support de treatment mein?"
-      }
-    ],
-    "metadata": {
-      "language": "english",
-      "intent": "overwhelm",
-      "conversation_stage": "deepening",
-      "severity": 8,
-      "escalation_needed": true
-    }
-  },
-  {
     "id": "ehsaas_p4_3895",
     "messages": [
       {
@@ -7967,26 +7579,6 @@
       "language": "hinglish",
       "intent": "venting",
       "conversation_stage": "deepening",
-      "severity": 6,
-      "escalation_needed": false
-    }
-  },
-  {
-    "id": "ehsaas_p4_3896",
-    "messages": [
-      {
-        "role": "user",
-        "content": "Mera confidence shattered hai repeated rejections se - jobs relationships friendships sab mein. Ab approach karne se pehle hi assume kar leta reject hoga. Self-fulfilling prophecy ban gayi defensive hoke approach karta toh obviously reject hota. Cycle se kaise bahar aaunga?"
-      },
-      {
-        "role": "assistant",
-        "content": "Rejection cycle ne tera self-belief completely erode kar diya yaar aur ab defensive approach aur rejection reinforce kar rahe ek doosre ko. Yeh pattern todna hard hai but possible. Therapy mein cognitive restructuring help karti - negative assumptions challenge karna. Small wins build karna confidence gradually aayegi. Kya tu identify kar sakta pehla rejection jo trigger tha is spiral ka?"
-      }
-    ],
-    "metadata": {
-      "language": "hindi",
-      "intent": "confused_feelings",
-      "conversation_stage": "initial",
       "severity": 6,
       "escalation_needed": false
     }
@@ -8016,34 +7608,6 @@
       "intent": "venting",
       "conversation_stage": "deepening",
       "severity": 4,
-      "escalation_needed": false
-    }
-  },
-  {
-    "id": "ehsaas_p4_3898",
-    "messages": [
-      {
-        "role": "user",
-        "content": "Yaar mere office mein senior sexually harass karta subtle way mein - uncomfortable comments touching excuses banake. Report karna chahta but darr hai ki believe nahi karenge ya retaliation hoga career kharab ho jayega. Sehna bhi nahi chahta but options limited lagte."
-      },
-      {
-        "role": "assistant",
-        "content": "Sexual harassment sehna nahi padta yaar chahe subtle ho ya blatant. Tera darr valid hai - victims often face disbelief aur retaliation. But silent rehne se perpetrator empowered hota aur tujhe mental health suffer hoti. Document kar incidents dates details witnesses. HR ko formal complaint de written mein. POSH laws protect karte legally. Kya workplace mein ICC committee hai?"
-      },
-      {
-        "role": "user",
-        "content": "ICC hai but process lengthy aur public hone ka darr. Small industry hai reputation matter karti. Already anxiety se struggle kar raha confrontation aur stress handle nahi ho payega shayad."
-      },
-      {
-        "role": "assistant",
-        "content": "Industry reputation concern real hai but tera safety aur dignity priority yaar. Anonymous complaint option explore kar initially. Ya legal counsel le outside jaan process clearly. Mental health ke liye counselor arrange kar parallel support ke liye. Yeh akele handle karne ki cheez nahi. Tele-MANAS 14416 guidance de sakta appropriate steps pe. Retaliation bhi illegal hai documented hona chahiye. Tu empowered decision le sakta information ke saath."
-      }
-    ],
-    "metadata": {
-      "language": "hinglish",
-      "intent": "overwhelm",
-      "conversation_stage": "deepening",
-      "severity": 7,
       "escalation_needed": false
     }
   },
@@ -8132,34 +7696,6 @@
     }
   },
   {
-    "id": "ehsaas_p4_3902",
-    "messages": [
-      {
-        "role": "user",
-        "content": "Mere coaching teacher ne inappropriate comments kiye physical touch bhi kiya. Main bohot uncomfortable tha but kisi ko nahi bata sakta. Ladka hoon toh koi seriously nahi lega. Plus teacher reputed hai koi believe hi nahi karega. Bas sehna pad raha."
-      },
-      {
-        "role": "assistant",
-        "content": "Yaar sexual harassment gender se independent hai - ladke bhi victims ho sakte aur tera discomfort completely valid hai. Yeh misconception hai ki koi seriously nahi lega. Reputed hone se perpetrator ko protection nahi milni chahiye. Sehna nahi padta yaar, report karne ka haq hai. Kya coaching mein complaint mechanism hai? Ya parents ko bata sakta?"
-      },
-      {
-        "role": "user",
-        "content": "Parents ko batane se darr lagta ki sharam ki baat samjhenge. Coaching mein complaint karun toh teacher powerful hai admin mein connections bhi. Ulta mujhe hi blame kar sakte misunderstand kiya ya provoke kiya. Safer lagta chup rehna."
-      },
-      {
-        "role": "assistant",
-        "content": "Silence se abusers empowered rehte yaar aur tera mental health suffer karta. Parents ka reaction unpredictable lag raha but try kar trusted adult - koi uncle aunt ya counselor. Document kar incidents jitna possible. Anonymous report bhi option hai sometimes. Teacher ke connections se darr natural hai but legal protection bhi hai. Agar immediate report risky lagti toh coaching chhod ke dusra option explore kar. Teri safety priority hai. Kya financially switch karna possible?"
-      }
-    ],
-    "metadata": {
-      "language": "hindi",
-      "intent": "overwhelm",
-      "conversation_stage": "deepening",
-      "severity": 8,
-      "escalation_needed": true
-    }
-  },
-  {
     "id": "ehsaas_p4_3903",
     "messages": [
       {
@@ -8212,54 +7748,6 @@
       "intent": "confused_feelings",
       "conversation_stage": "deepening",
       "severity": 6,
-      "escalation_needed": false
-    }
-  },
-  {
-    "id": "ehsaas_p4_3905",
-    "messages": [
-      {
-        "role": "user",
-        "content": "Main chadhti umar ki ladki hoon aur gharwalon ne rishte dekhne shuru kar diye. Mera career abhi establish ho raha. Bolti hoon thoda time do toh kehte kya farak padega shaadi ke baad bhi kar sakti. But main jaanti hoon ki sacrifice karna padega. Pressure bohot hai conform karne ka."
-      },
-      {
-        "role": "assistant",
-        "content": "Yaar yeh classic conflict hai independence aur family expectations ka. Career establish karne ka timing critical hai aur tu sahi keh rahi ki shaadi ke baad priorities shift ho jati practically. 'Baad mein bhi kar sakti' easy bolna hai but reality different hoti. Pressure conform karne ka suffocating hai. Kya financial independence hai tere paas ya dependent hai unpe?"
-      }
-    ],
-    "metadata": {
-      "language": "hindi",
-      "intent": "overwhelm",
-      "conversation_stage": "initial",
-      "severity": 6,
-      "escalation_needed": false
-    }
-  },
-  {
-    "id": "ehsaas_p4_3906",
-    "messages": [
-      {
-        "role": "user",
-        "content": "I think I have PTSD from childhood trauma but I've never been diagnosed. I get triggered by random things have nightmares avoid certain situations. But I feel like I'm self-diagnosing for attention. Maybe I'm just being dramatic and it wasn't that bad. Everyone has difficult childhoods right?"
-      },
-      {
-        "role": "assistant",
-        "content": "Your symptoms - triggers, nightmares, avoidance - those are classic PTSD signs yaar. And minimizing your trauma by saying everyone has it or it wasn't that bad is also super common in trauma survivors. Pain isn't a competition. If it affected you deeply, it was valid trauma. You're not being dramatic or attention-seeking - you're describing real suffering. Have you been able to access any professional evaluation?"
-      },
-      {
-        "role": "user",
-        "content": "No I'm scared of going to therapy. What if they tell me nothing's wrong and I've been making it all up in my head? Or what if it is PTSD and that means I'm broken? Both outcomes scare me."
-      },
-      {
-        "role": "assistant",
-        "content": "Both fears make sense yaar but neither outcome is as scary as living with unaddressed trauma. If professional says it's not PTSD, they'll still help with what you ARE experiencing. If it is PTSD, that's not broken - that's your brain protecting you in the only way it knew how. Trauma is treatable, healing is possible. The unknown is scarier than knowing. Would you consider reaching out to Tele-MANAS 14416 as a first step? Anonymous and low pressure way to explore."
-      }
-    ],
-    "metadata": {
-      "language": "english",
-      "intent": "confused_feelings",
-      "conversation_stage": "deepening",
-      "severity": 7,
       "escalation_needed": false
     }
   },
@@ -8404,34 +7892,6 @@
     }
   },
   {
-    "id": "ehsaas_p4_3912",
-    "messages": [
-      {
-        "role": "user",
-        "content": "I'm a people pleaser and I can't say no. I overcommit then burn out. I know people take advantage but the thought of disappointing someone makes me anxious. Now I'm overwhelmed with commitments I don't even want to do. How do I break this pattern without losing everyone?"
-      },
-      {
-        "role": "assistant",
-        "content": "People-pleasing comes from fear of rejection or conflict yaar - saying yes keeps peace short term but destroys your wellbeing long term. Real relationships survive boundaries, fake ones don't. You won't lose everyone - you'll lose people who only valued your yes. Learning to say no is practicing self-respect. What do you think will happen if you start saying no to unreasonable requests?"
-      },
-      {
-        "role": "user",
-        "content": "I think they'll get angry stop liking me find someone else. Then I'll be alone. Even though logically I know I'm exhausted and some things aren't my responsibility I still can't bring myself to refuse."
-      },
-      {
-        "role": "assistant",
-        "content": "That fear of abandonment is driving the yes yaar. But relationships based on what you do for them not who you are aren't real friendships. Loneliness se darr hai but tu already alone feel kar raha emotionally kyunki authentic self nahi dikha pa raha. Start small - one small no, see what happens. Usually reaction utna bura nahi jitna imagine karte. Therapy help karegi people-pleasing pattern address karne mein. Willing hai try karne?"
-      }
-    ],
-    "metadata": {
-      "language": "english",
-      "intent": "overwhelm",
-      "conversation_stage": "deepening",
-      "severity": 6,
-      "escalation_needed": false
-    }
-  },
-  {
     "id": "ehsaas_p4_3913",
     "messages": [
       {
@@ -8456,26 +7916,6 @@
       "intent": "overwhelm",
       "conversation_stage": "deepening",
       "severity": 8,
-      "escalation_needed": false
-    }
-  },
-  {
-    "id": "ehsaas_p4_3914",
-    "messages": [
-      {
-        "role": "user",
-        "content": "Main financially independent hoon successful career hai but khush nahi hoon. Achievement ka ladder chadh raha but kya goal hai pata nahi. Existential crisis ho raha jaise robot mode mein jee raha. Society ke definition pe chal raha apna purpose nahi mila. 30 aa raha age aur lagta kuch miss kar diya."
-      },
-      {
-        "role": "assistant",
-        "content": "External success internal fulfillment guarantee nahi karti yaar. Tu society ka checklist complete kar raha but existential void hai kyunki yeh goals authentically tere nahi the. Midlife crisis early aa rahi which is actually opportunity re-evaluate karne ka. Kya tu identify kar sakta ki genuinely kya chahta tha before societal programming?"
-      }
-    ],
-    "metadata": {
-      "language": "hindi",
-      "intent": "confused_feelings",
-      "conversation_stage": "initial",
-      "severity": 5,
       "escalation_needed": false
     }
   },
@@ -8508,26 +7948,6 @@
     }
   },
   {
-    "id": "ehsaas_p4_3916",
-    "messages": [
-      {
-        "role": "user",
-        "content": "Yaar COVID mein mere paas ke 3 log guzar gaye short span mein. Tab processing nahi kar paya survival mode tha. Ab 2 saal baad delayed grief aa rahi suddenly. Random moments mein rona aata. Lagta pagal ho raha. Kya ab itne time baad grieve karna normal hai?"
-      },
-      {
-        "role": "assistant",
-        "content": "Absolutely normal hai yaar delayed grief. COVID mein survival mode aur overlapping losses ne processing nahi hone diya tab. Ab safety feel ho raha toh body finally grieve karne de raha. Yeh healthy hai actually even if painful. Pagal nahi ho raha, heal ho raha hai. Random triggers normal hain grief mein. Kya kisi se support le pa raha hai ya akele process kar raha?"
-      }
-    ],
-    "metadata": {
-      "language": "hinglish",
-      "intent": "overwhelm",
-      "conversation_stage": "initial",
-      "severity": 6,
-      "escalation_needed": false
-    }
-  },
-  {
     "id": "ehsaas_p4_3917",
     "messages": [
       {
@@ -8550,102 +7970,6 @@
     "metadata": {
       "language": "hindi",
       "intent": "mixed_emotions",
-      "conversation_stage": "deepening",
-      "severity": 7,
-      "escalation_needed": false
-    }
-  },
-  {
-    "id": "ehsaas_p4_3918",
-    "messages": [
-      {
-        "role": "user",
-        "content": "I got promoted but I feel worse not better. More responsibility more pressure higher expectations. I don't think I can handle it but everyone's congratulating me. I can't tell anyone I'm actually struggling without seeming ungrateful. I'm having stress-induced physical symptoms now."
-      },
-      {
-        "role": "assistant",
-        "content": "Promotion increasing stress instead of satisfaction is actually common yaar especially without proper support or training. Physical symptoms show your body is screaming for help - ignoring nahi kar sakta. Seeming ungrateful ka darr hai but health priority hai. What symptoms are you experiencing? And have you talked to your manager about needing support or resources for the new role?"
-      }
-    ],
-    "metadata": {
-      "language": "english",
-      "intent": "overwhelm",
-      "conversation_stage": "initial",
-      "severity": 7,
-      "escalation_needed": false
-    }
-  },
-  {
-    "id": "ehsaas_p4_3919",
-    "messages": [
-      {
-        "role": "user",
-        "content": "Yaar main toxic relationship mein tha emotionally abusive tha. Ab bahar aa gaya single hoon but trust issues develop ho gaye. Naye logon ko chance nahi de pa raha kyunki darr lagta same pattern repeat hoga. Therapy mein hoon but progress slow hai. Kabhi lagta akele hi better."
-      },
-      {
-        "role": "assistant",
-        "content": "Abuse ke baad trust rebuild karna time leta yaar aur progress slow hi hoti. Tu protect kar raha apne aap ko which makes sense after what happened. 'Akele better' safe lagta but yeh healing nahi isolation hai. Therapy continue kar aur patience rakh apne saath. Red flags identify karna seekhega gradually jo healthy vs unhealthy differentiate karne mein help karega. Kya specific patterns hain jo trigger karte naye interactions mein?"
-      },
-      {
-        "role": "user",
-        "content": "Jab koi zyada close aane ki koshish karta ya possessive dikhta chota sa bhi tab panic hota. Comparisons automatically hone lagte ex se. Pta hai everyone different but brain automatically defensive mode mein chala jaata. Dating try kiya but overwhelm ho gaya."
-      },
-      {
-        "role": "assistant",
-        "content": "Brain trauma se protect karne ki koshish kar raha pattern recognition se yaar. Triggers identify kar liye tune jo good hai - ab therapy mein desensitization aur differentiation practice hogi. Dating jaldi shuru karna pressure nahi hona chahiye. Heal first, connections naturally develop honge jab ready hoga. Small friendships build kar trust practice ke liye low stakes environment mein. Give yourself time yaar, abuse se recovery linear nahi hoti. Kya therapist trauma-informed hai specifically?"
-      }
-    ],
-    "metadata": {
-      "language": "hinglish",
-      "intent": "confused_feelings",
-      "conversation_stage": "deepening",
-      "severity": 6,
-      "escalation_needed": false
-    }
-  },
-  {
-    "id": "ehsaas_p4_3920",
-    "messages": [
-      {
-        "role": "user",
-        "content": "Meri maa ko dementia hai aur main primary caregiver hoon. Kabhi mujhe pehchanti nahi. Patience khatam hota aise moments mein gussa aa jata phir guilt hoti. Main insaan hoon frustrated ho jata but unki bimari hai unka fault nahi. Emotionally drain ho raha hoon din ba din."
-      },
-      {
-        "role": "assistant",
-        "content": "Caregiver burnout bohot real hai yaar especially dementia cases mein jahan emotional connection repeatedly break hota. Frustration aur guilt cycle exhausting hai. Tu insaan hai aur breaking point natural hai - yeh unke towards love ki kami nahi teri human limitation hai. Professional caregiver support services explore ki? Respite care se tujhe breaks milte jahan refresh ho sake. Teri wellbeing important hai care provide karne ke liye bhi."
-      }
-    ],
-    "metadata": {
-      "language": "hindi",
-      "intent": "overwhelm",
-      "conversation_stage": "initial",
-      "severity": 7,
-      "escalation_needed": false
-    }
-  },
-  {
-    "id": "ehsaas_p4_3921",
-    "messages": [
-      {
-        "role": "user",
-        "content": "I'm so tired of being strong. Everyone relies on me - at work I'm the go-to person, at home I'm the responsible one, with friends I'm the problem solver. But I'm falling apart inside and nobody notices because I hide it so well. When do I get to fall apart? Who catches me when I fall?"
-      },
-      {
-        "role": "assistant",
-        "content": "Being everyone's rock while you're crumbling inside is absolutely exhausting yaar. You've gotten so good at the mask that people assume you don't need support. But everyone needs someone - even the strong ones, especially the strong ones. The weight you're carrying would break most people. Have you ever tried letting the mask slip, even just a little, to see if anyone notices?"
-      },
-      {
-        "role": "user",
-        "content": "I'm scared to. What if I fall apart and nobody's there? That would hurt more than carrying it alone. At least now I can tell myself people would help if they knew. If I ask and they don't show up that hope dies too."
-      },
-      {
-        "role": "assistant",
-        "content": "Hmm so you're protecting yourself from potential disappointment by not asking at all. That makes sense yaar, but it's also keeping you trapped in this lonely cycle. The people who genuinely care might surprise you if given the chance. And those who don't show up? At least you'll know who your real people are. Either way, you deserve to stop carrying everything alone. What's one small thing you could ask someone for help with as a test?"
-      }
-    ],
-    "metadata": {
-      "language": "english",
-      "intent": "overwhelm",
       "conversation_stage": "deepening",
       "severity": 7,
       "escalation_needed": false
@@ -8676,26 +8000,6 @@
       "intent": "venting",
       "conversation_stage": "deepening",
       "severity": 6,
-      "escalation_needed": false
-    }
-  },
-  {
-    "id": "ehsaas_p4_3923",
-    "messages": [
-      {
-        "role": "user",
-        "content": "Main apni body modifications karna chahta piercing tattoos. Mera body mera choice. But office mein professional nahi lagega aur parents toh disown kar denge bolte bigad gaya. Identity express karna chahta but practical consequences bhi samajh aate. Frustrated hoon yaar."
-      },
-      {
-        "role": "assistant",
-        "content": "Yaar self-expression aur practical reality ka conflict frustrating hai. 'Tera body tera choice' philosophically sahi hai but society ki judgments real consequences laati hain unfortunately. Compromise dekh sakta - subtle modifications jo hide kar sake professional settings mein? Ya temporary options explore kar. Identity aur survival dono matter karti hain. Financial independence ke baad autonomy zyada hogi. Abhi kya situation hai - dependent ya independent?"
-      }
-    ],
-    "metadata": {
-      "language": "hindi",
-      "intent": "confused_feelings",
-      "conversation_stage": "initial",
-      "severity": 4,
       "escalation_needed": false
     }
   },
@@ -8756,26 +8060,6 @@
     }
   },
   {
-    "id": "ehsaas_p4_3926",
-    "messages": [
-      {
-        "role": "user",
-        "content": "Mere tauji mere saath bachpan mein inappropriate behave karte the. Maine kabhi kisi ko nahi bataya kyunki family mein unka respect hai aur mujhe hi blame karenge. Ab shaadi mein woh aayenge aur main panic ho raha hoon. Excuse banana padega but parents suspicious honge. Sach bolne ka himmat nahi."
-      },
-      {
-        "role": "assistant",
-        "content": "Yaar childhood abuse ka trauma carry karna aur perpetrator ko respected dekhna re-traumatizing hai. Tera darr blame aur disbelief ka valid hai kyunki families often victim ko hi question karti hain. Shaadi mein unse face karna triggering hoga. Sach bolne ka himmat nahi hai abhi toh at least apne aap ko protect kar - excuse reasonable ho sakta hai, health issue ya urgent kaam. Kya koi trusted person hai jisse baat kar sake?"
-      }
-    ],
-    "metadata": {
-      "language": "hindi",
-      "intent": "overwhelm",
-      "conversation_stage": "initial",
-      "severity": 8,
-      "escalation_needed": true
-    }
-  },
-  {
     "id": "ehsaas_p4_3927",
     "messages": [
       {
@@ -8829,34 +8113,6 @@
       "conversation_stage": "deepening",
       "severity": 7,
       "escalation_needed": false
-    }
-  },
-  {
-    "id": "ehsaas_p4_3929",
-    "messages": [
-      {
-        "role": "user",
-        "content": "Main lesbian hoon aur arranged marriage ka pressure face kar rahi. Ek ladka hai jiski choice hai parents ki. Woh achha hai but main usse dhoka doongi shaadi karke. Apni sexuality accept kar chuki but family ko nahi bata sakti. Suicide thoughts aati kabhi kabhi escape ki tarah. Trapped feel hoti."
-      },
-      {
-        "role": "assistant",
-        "content": "Yaar forced heterosexual marriage when you're lesbian is like being buried alive slowly. Suicide thoughts show kitna unbearable feel ho raha. Tu akeli nahi hai is struggle mein. Safety pehle - tu abhi physically safe hai? Immediate self-harm ka plan hai? Mujhe honestly bata please."
-      },
-      {
-        "role": "user",
-        "content": "Abhi safe hoon plans nahi. Bas overwhelm hota tab aata. Financially independent hoon toh technically refuse kar sakti but emotional blackmail bohot strong. Disown kar denge kehte. Ladke ko sach batane ka socha but woh bhi involved ho jayega mess mein."
-      },
-      {
-        "role": "assistant",
-        "content": "Financial independence tere paas hai jo biggest tool hai yaar. Disownment threat painful hai but living inauthentically aur toxic marriage worse hai long term. Ladke ko batana optional hai but delay mat kar zyada. LGBTQ+ organizations aur support groups India mein hain jo legal aur emotional support dete - Nazariya, Humsafar, local groups. Therapist jo queer-affirming ho bhi chahiye. Suicide thoughts ke liye please Tele-MANAS 14416 pe call kar. Tera life matters yaar aur freedom possible hai. Ready hai help lene?"
-      }
-    ],
-    "metadata": {
-      "language": "hindi",
-      "intent": "overwhelm",
-      "conversation_stage": "deepening",
-      "severity": 9,
-      "escalation_needed": true
     }
   },
   {
@@ -8916,62 +8172,6 @@
     }
   },
   {
-    "id": "ehsaas_p4_3932",
-    "messages": [
-      {
-        "role": "user",
-        "content": "Meri beti ko autism spectrum pe hai. Society mein log stare karte judgmental hote. School admission bhi mushkil hai. Husband blame karta mujhe genetic hai teri taraf se. Main guilty feel karti exhausted bhi hoon constant care se. Kabhi wish karti normal bachcha hota phir guilt hoti. Bad mother hoon main."
-      },
-      {
-        "role": "assistant",
-        "content": "Arre yaar tu bad mother bilkul nahi hai. Autism parenting exhausting hai aur society ka judgment additional burden. Husband ka blame karna wrong hai - genetics kisi ki fault nahi. Guilt normal hoti wishing for easier path but that doesn't mean tu beti ko love nahi karti. Caregiver burnout real hai. Kya special education resources ya autism support communities access kar paayi local mein?"
-      },
-      {
-        "role": "user",
-        "content": "Resources limited hain afford nahi kar sakte specialist therapy. Government options mein waiting lists lambi. Husband financially support karta but emotionally distant hai blame continue karta. Main akele hi manage kar rahi doctor appointments therapy sessions sab kuch. Koi samajhta nahi kitna hard hai."
-      },
-      {
-        "role": "assistant",
-        "content": "Yaar tu akele entire load carry kar rahi aur partner support nahi de raha emotionally - yeh unsustainable hai. Financial support enough nahi, emotional partnership chahiye. Online autism parent support groups free hain jahan shared experiences milti. Beti ke liye bhi tu strong example hai. Husband se couples counseling consider kar sakte? Usko educate karna padega autism aur caregiving burden ke baare mein. Tu deserve karti hai support yaar."
-      }
-    ],
-    "metadata": {
-      "language": "hindi",
-      "intent": "overwhelm",
-      "conversation_stage": "deepening",
-      "severity": 7,
-      "escalation_needed": false
-    }
-  },
-  {
-    "id": "ehsaas_p4_3933",
-    "messages": [
-      {
-        "role": "user",
-        "content": "I think I'm developing an alcohol problem. Started as social drinking now I need it to sleep to relax after work. I've tried to stop but withdrawal anxiety is terrible. My performance at work is slipping. Nobody knows yet but I'm scared where this is heading."
-      },
-      {
-        "role": "assistant",
-        "content": "Needing alcohol to function and experiencing withdrawal are serious signs yaar. Recognizing the pattern yourself is important but this needs professional intervention now before it gets worse. Work performance slipping means it's already affecting your life significantly. Have you been able to talk to anyone - a doctor, counselor, or trusted friend?"
-      },
-      {
-        "role": "user",
-        "content": "No I'm too ashamed. I come from a family with no addiction history so I feel like I've failed somehow. Plus in my profession any hint of substance issues could destroy my career. I want to handle it quietly on my own but every attempt to quit makes me feel worse physically and mentally."
-      },
-      {
-        "role": "assistant",
-        "content": "Shame is keeping you isolated when you need help most yaar. Addiction doesn't discriminate by family history - stress, trauma, biology all play roles. Trying to quit alone when you have physical dependence is dangerous and usually doesn't work. Medical detox exists for this reason. Confidential treatment options are available that protect your career. AASRA 9820466626 can guide you to discreet resources. Your health matters more than shame. Can you commit to making one confidential call today?"
-      }
-    ],
-    "metadata": {
-      "language": "english",
-      "intent": "overwhelm",
-      "conversation_stage": "deepening",
-      "severity": 8,
-      "escalation_needed": true
-    }
-  },
-  {
     "id": "ehsaas_p4_3934",
     "messages": [
       {
@@ -9028,62 +8228,6 @@
     }
   },
   {
-    "id": "ehsaas_p4_3936",
-    "messages": [
-      {
-        "role": "user",
-        "content": "My partner cheated and wants to work on the relationship. Part of me wants to try because we have history and good memories. But part of me feels like I'll never trust them again. I'm so confused about what to do. Everyone has opinions but it's my heart that's broken."
-      },
-      {
-        "role": "assistant",
-        "content": "Being torn between history and hurt is such a painful place yaar. Both parts of you are valid - the part that sees potential and the part that's protecting you from more pain. Trust once broken is really hard to rebuild and requires massive effort from both sides. What does 'working on it' look like from their side - are they taking real accountability or just asking for forgiveness?"
-      },
-      {
-        "role": "user",
-        "content": "They're apologetic saying it was a mistake offering couple's therapy. But when I ask details they get defensive say I need to move forward not dwell on the past. That makes me feel like they want me to just forget it happened. I don't know if that's genuine remorse or manipulation."
-      },
-      {
-        "role": "assistant",
-        "content": "That defensiveness when you ask questions is a red flag yaar. Real remorse means being willing to answer hard questions and sit with your pain, not rushing you to 'move forward' for their comfort. Sounds more like image management than genuine accountability. You deserve full transparency and patience as you process this. Trust your gut - if something feels off about their remorse, it probably is. Do you actually see them changing or just performing remorse?"
-      }
-    ],
-    "metadata": {
-      "language": "english",
-      "intent": "confused_feelings",
-      "conversation_stage": "deepening",
-      "severity": 6,
-      "escalation_needed": false
-    }
-  },
-  {
-    "id": "ehsaas_p4_3937",
-    "messages": [
-      {
-        "role": "user",
-        "content": "Yaar main CA final fail ho gaya 3rd attempt mein. Ab ek aur attempt bacha parents ne itna invest kiya coaching mein. Sab dost qualify kar gaye articles kar rahe. Main loser ki tarah feel kar raha. Chodne ka mann hai but guilt bhi hoti parents ko face kaise karunga."
-      },
-      {
-        "role": "assistant",
-        "content": "3 attempts aur fail hona heartbreaking hai yaar aur sab qualify hote dekhna comparison ko impossible banata. Parents ka investment guilt add karta but tera mental health bhi matter karti. CA path sahi hai ya pressure mein continue kar raha - yeh honest assessment zaruri hai. Agar genuinely interest hai toh ek aur attempt strategic planning ke saath de sakta. Agar nahi toh alternate careers bhi exist karte. Kya sach mein CA banna chahta ya expectations fulfill kar raha?"
-      },
-      {
-        "role": "user",
-        "content": "Honestly pata nahi yaar. Shuru mein interest tha but repeated failures ne confidence tod di. Ab bas parents disappoint nahi karna chahta aur sunk cost fallacy mein fas gaya. Chodke kya karunga bhi pata nahi. Alternative options explore nahi kiye kyunki tunnel vision mein tha CA hi karna hai."
-      },
-      {
-        "role": "assistant",
-        "content": "Toh tu clarity ki jagah pe nahi hai yaar - interest lost ho gayi, confidence gone, bas guilt aur sunk cost hold kar rahe. Yeh foundation pe aur ek attempt dena risky hai. Gap le sakta ek month, explore kar realistically alternate career paths, interest areas identify kar. CA chhodni permanent decision nahi - break leke perspective aayega. Parents se honest baat kar overwhelm aur burnout ke baare mein. Woh disappoint se zyada teri wellbeing chahenge hopefully. Ready hai break lene ka thought accept karne?"
-      }
-    ],
-    "metadata": {
-      "language": "hinglish",
-      "intent": "overwhelm",
-      "conversation_stage": "deepening",
-      "severity": 7,
-      "escalation_needed": false
-    }
-  },
-  {
     "id": "ehsaas_p4_3938",
     "messages": [
       {
@@ -9109,90 +8253,6 @@
       "conversation_stage": "deepening",
       "severity": 8,
       "escalation_needed": true
-    }
-  },
-  {
-    "id": "ehsaas_p4_3939",
-    "messages": [
-      {
-        "role": "user",
-        "content": "I'm a doctor and I made a mistake that harmed a patient. They're okay now but it could have been fatal. I can't stop thinking about it. The guilt is crushing me. I'm terrified of making another mistake. I don't know if I can trust myself anymore to practice medicine."
-      },
-      {
-        "role": "assistant",
-        "content": "Medical errors are devastating especially for conscientious doctors like you yaar. The guilt shows you care deeply but it's also paralyzing you which could actually lead to more errors from anxiety. Patient is okay which matters. Did you follow protocol for reporting and learning from the error? Self-forgiveness is part of being able to practice safely again."
-      },
-      {
-        "role": "user",
-        "content": "Yes I reported it went through review process. Officially it's resolved but internally I'm a mess. Every decision I make now I second-guess. I'm slower, more anxious, patients probably sense my nervousness. I'm considering leaving medicine entirely because what if next time someone dies because of me."
-      },
-      {
-        "role": "assistant",
-        "content": "That anxiety and second-guessing is trauma response yaar. You need professional support - therapist who works with medical professionals, maybe peer support groups. Many doctors go through this and come back stronger with proper processing. Leaving medicine shouldn't be decided from this traumatized headspace. Give yourself time to heal. Your care and caution now, while anxiety-driven, shows you take this seriously. Would you consider speaking to a colleague or seeking supervision temporarily while you rebuild confidence?"
-      }
-    ],
-    "metadata": {
-      "language": "english",
-      "intent": "overwhelm",
-      "conversation_stage": "deepening",
-      "severity": 8,
-      "escalation_needed": true
-    }
-  },
-  {
-    "id": "ehsaas_p4_3940",
-    "messages": [
-      {
-        "role": "user",
-        "content": "Yaar main influencer banna chahta tha 4 saal content banaya barely growth hui. Algorithm ka game samajh nahi aaya. Ab 27 ka hoon stable job nahi hai parents pressure de rahe settle hone. Dream chase karna ya practical hona yeh confuse kar raha. Time waste kiya lagta."
-      },
-      {
-        "role": "assistant",
-        "content": "4 saal invest karna aur expected results na milna disheartening hai yaar. 27 pe stable nahi hona societal pressure create karta. But time waste nahi hua - skills seekhi hogi, attempt toh kiya. Dream chase karna aur practical hona binary nahi hai - job le sakta stability ke liye, content side hustle banake. Pressure hai kyunki hobby ko career expectation se dekha. Kya financial strain immediate hai ya time hai explore karne ka?"
-      },
-      {
-        "role": "user",
-        "content": "Financial strain hai thoda parents pe dependent hoon partially. Job opportunities hai but creative fulfillment nahi milegi. Darr lagta ki job liya toh dream permanently sacrifice karni padegi. Aur influencer ban ne ka window bhi age ke saath close hota lagta for certain niches."
-      },
-      {
-        "role": "assistant",
-        "content": "Age window myth hai for good content yaar - quality aur consistency matter karti. Financial dependence real constraint hai jo address karni chahiye. Hybrid approach practical hai - stable job for income, content passion project bane pressure ke bina. Jab financial security hogi toh better content bhi aayega stress-free mindset se. Dream sacrifice nahi, timeline adjust ho rahi. 30s mein successful creators bhi bohot hain. Compromise acceptable lagta ya all-or-nothing mentality stuck kar rahi?"
-      }
-    ],
-    "metadata": {
-      "language": "hinglish",
-      "intent": "confused_feelings",
-      "conversation_stage": "deepening",
-      "severity": 5,
-      "escalation_needed": false
-    }
-  },
-  {
-    "id": "ehsaas_p4_3941",
-    "messages": [
-      {
-        "role": "user",
-        "content": "Meri sagai ho gayi arranged mein. Ladka achha hai family bhi but main pyaar nahi karti. Parents khush hain finally settle ho rahi. Shaadi 4 mahine baad hai aur main panic feel kar rahi. Kya lifetime commitment bina love ke kar sakti? Ya pyaar develop hoga time ke saath jaise sab kehte?"
-      },
-      {
-        "role": "assistant",
-        "content": "Yaar arranged marriage ka pressure aur 'pyaar develop hoga' promise dono real hain. Sometimes it works, sometimes nahi. Tera panic important signal hai ki kuch uncomfortable hai. Compatibility hai, attraction hai, respect hai - yeh basics check kar. Pyaar differently develop ho sakta arranged mein but foundation chahiye. Ladke se kitna interact kiya tune? Communication open hai?"
-      },
-      {
-        "role": "user",
-        "content": "Bas 3-4 baar mile chaperoned settings mein. Calls pe baat hoti but surface level. Physical attraction toh hai thodi but emotional connection nahi feel hoti. Time nahi mila jaanne ka properly. 4 mahine mein kitna jaan paungi plus shaadi ki preparations mein. Darr lagta gamble hai yeh."
-      },
-      {
-        "role": "assistant",
-        "content": "4 mahine kam time hai yaar jaan ne ke liye properly. Gamble element toh hai arranged marriages mein. Kya tu parents se baat kar sakti delay karne ki taki tum dono ek doosre ko jaan sako better? Dating phase extend karna reasonable request hai. Red flags koi dikhi? Agar nahi toh time le sakti honest communication karke. Marriage lifelong commitment hai, rushing mat kar pressure mein. Tera comfort matter karta."
-      }
-    ],
-    "metadata": {
-      "language": "hindi",
-      "intent": "overwhelm",
-      "conversation_stage": "deepening",
-      "severity": 6,
-      "escalation_needed": false
     }
   },
   {
@@ -9364,34 +8424,6 @@
     }
   },
   {
-    "id": "ehsaas_p4_3948",
-    "messages": [
-      {
-        "role": "user",
-        "content": "I think I'm developing feelings for my therapist. I know it's transference and not real but the feelings are intense. I look forward to sessions too much I think about them between sessions. I'm too embarrassed to bring it up in therapy. Should I switch therapists? I feel so stupid."
-      },
-      {
-        "role": "assistant",
-        "content": "Transference is actually really common in therapy yaar and good therapists are trained to handle it. You're not stupid - therapy creates intimate vulnerable space which can trigger these feelings. The fact you recognize it as transference shows self-awareness. Bringing it up IN therapy is actually the best way to work through it. Avoiding or switching might just transfer the pattern elsewhere. How long have you been seeing this therapist?"
-      },
-      {
-        "role": "user",
-        "content": "About 8 months. The therapy has been really helpful which makes this worse. I don't want to ruin the therapeutic relationship but these feelings are distracting me from actual work. I rehearse conversations in my head I dress nicer for sessions. It feels pathetic."
-      },
-      {
-        "role": "assistant",
-        "content": "8 months is enough time for attachment to form yaar. The therapeutic relationship is actually doing what it's supposed to - creating safe space where feelings emerge. Discussing transference IS therapeutic work, not ruining it. Your therapist has handled this before guaranteed. The rehearsing and dressing up shows intensity but isn't pathetic - it's your emotional system seeking connection. Bringing it up will likely relieve the secret-keeping burden and let you process underlying needs. Can you write down what you want to say beforehand to make it easier?"
-      }
-    ],
-    "metadata": {
-      "language": "english",
-      "intent": "confused_feelings",
-      "conversation_stage": "deepening",
-      "severity": 5,
-      "escalation_needed": false
-    }
-  },
-  {
     "id": "ehsaas_p4_3949",
     "messages": [
       {
@@ -9489,78 +8521,6 @@
       "conversation_stage": "deepening",
       "severity": 6,
       "escalation_needed": false
-    }
-  },
-  {
-    "id": "ehsaas_p4_3952",
-    "messages": [
-      {
-        "role": "user",
-        "content": "Yaar meri girlfriend manipulative hai emotionally. Jab main busy hota ignore karti silent treatment deti. Phir ekdum loving ho jati kehti can't live without me. Is cycle mein fas gaya hoon. Dost kehte toxic hai leave kar but jab achhi hoti tab lagta maybe I'm overreacting. Confused hoon yaar."
-      },
-      {
-        "role": "assistant",
-        "content": "Yeh hot and cold behavior classic manipulation hai yaar - keeps you off-balance and doubting yourself. Silent treatment punishment hai communication nahi. 'Can't live without me' intense love nahi emotional dependence dikhata. Tera confusion strategy ka part hai - intermittent reinforcement strongest hai. Dost objective perspective de rahe outside se. Kya specific red flags hain aur baar baar repeat hote?"
-      },
-      {
-        "role": "user",
-        "content": "Haan yaar pattern hai. Jab main friends ke saath time spend karta gussa hoti possessive. Social media pe likes comments track karti interrogate karti. Phir overcompensate karti gifts affection se. Main guilty feel karta usse hurt karne pe even when maine kuch galat nahi kiya. Explains karte karte thak gaya."
-      },
-      {
-        "role": "assistant",
-        "content": "Possessiveness, monitoring, aur guilt-tripping controlling behavior hai yaar not love. Tu constantly defend kar raha apne normal actions ko jo exhausting hai. Gift-bombing apology nahi manipulation tactic hai. Healthy relationships mein trust hota constant explanation nahi. Dost sahi keh rahe - yeh toxic hai. Leaving hard hai kyunki trauma bond ban gayi hai. Therapy consider kar pattern break karne ke liye. Kya tu genuinely khush hai is relationship mein ya bas avoiding conflict?"
-      },
-      {
-        "role": "user",
-        "content": "Khush toh nahi honestly. Anxious rehta hoon kab mood swing aayega. But chhodne ka darr hai ki akela ho jaunga ya worse koi nahi milega. Plus woh threaten karti khud ko harm karegi agar chhoda. Trapped feel hota completely yaar."
-      },
-      {
-        "role": "assistant",
-        "content": "Suicide threat ka manipulation extreme level ka abuse hai yaar - that's holding you hostage emotionally. Uski safety teri responsibility nahi hai especially when used as weapon. Document kar threats aur inform uske family ya emergency contacts if needed. Tu akela nahi rahega - toxic relationship se nikalne pe better log milte naturally. Single hona better hai than this anxiety prison. Support system banale pehle phir exit plan execute kar safely. Ready hai?"
-      }
-    ],
-    "metadata": {
-      "language": "hinglish",
-      "intent": "confused_feelings",
-      "conversation_stage": "deepening",
-      "severity": 8,
-      "escalation_needed": true
-    }
-  },
-  {
-    "id": "ehsaas_p4_3953",
-    "messages": [
-      {
-        "role": "user",
-        "content": "Main apne kaam se burnout ho gaya hoon completely. Morning uthne mein darr lagta office jaane ka. Weekends bhi recovery nahi ho pata. Health issues start ho gaye stress se. But economy slow hai job market tight hai chhodne ki himmat nahi ho rahi. Phas gaya yaar."
-      },
-      {
-        "role": "assistant",
-        "content": "Burnout serious hai yaar aur health issues develop hona alarm bell hai. Morning anxiety aur weekend recovery nahi hona shows kitna severe ho gaya. Job market concern valid hai but tera health compromise hona long-term career ko bhi affect karega. Kya tu specific issues identify kar sakta job mein - workload, toxic culture, role mismatch?"
-      },
-      {
-        "role": "user",
-        "content": "Sab kuch yaar. Workload insane hai expectations unrealistic manager micromanages. Leaves approve nahi hote. Compensation bhi average hai effort ke comparison mein. But interview mein yeh sab bolne se negative lagega. References bhi chahiye current employer se. Chodna bhi mushkil process hai."
-      },
-      {
-        "role": "assistant",
-        "content": "Toh multiple factors toxic environment create kar rahe yaar. Interview mein diplomatically frame kar sakta - 'seeking growth opportunities' instead of complaining. References alternative sources se le sakta - colleagues, previous managers. But pehle medical leave le burn out address karne ko. Doctor certificate se forced break mil sakti. Parallel job search kar quietly recovery ke saath. Health priority hai career advancement se bhi. Medical consultation kiya stress management ke liye?"
-      },
-      {
-        "role": "user",
-        "content": "Nahi doctor ke paas nahi gaya abhi. Darr tha medical record mein mental health issue aa jayega future employment affect hoga. Self-medicate kar raha tha which I know is stupid. Lagta mujhe hi weakness hai cope nahi kar pa raha."
-      },
-      {
-        "role": "assistant",
-        "content": "Yaar weakness nahi hai yeh - burnout medical condition hai WHO recognized bhi. Self-medicating dangerous hai proper treatment se zyada risky. Medical confidentiality laws protect karte future employers ko pata nahi chalega. Doctor se honestly baat kar, sick leave documentation mil sakti legitimate. Tu cope nahi kar pa raha kyunki situation impossible hai not because of personal failing. Please medical help le yaar - Tele-MANAS 14416 starting point ho sakti. Promise karega?"
-      }
-    ],
-    "metadata": {
-      "language": "hindi",
-      "intent": "overwhelm",
-      "conversation_stage": "deepening",
-      "severity": 8,
-      "escalation_needed": true
     }
   },
   {
@@ -9708,42 +8668,6 @@
     }
   },
   {
-    "id": "ehsaas_p4_3958",
-    "messages": [
-      {
-        "role": "user",
-        "content": "Yaar main night shift security guard hoon. Akela rehta hoon poori raat. Paranoia develop ho gayi hai sounds se shadows se darr lagta. Sleep schedule kharab health declining. Social life zero kyunki jab log jagte main sota. Financially better options nahi. Mentally deteriorating feel ho raha."
-      },
-      {
-        "role": "assistant",
-        "content": "Night shift isolation mental health pe heavy impact dalti hai yaar especially security job jahan hypervigilance requirement hai. Paranoia occupational hazard ban sakti over time. Sleep disruption aur social isolation depression aur anxiety trigger karte. Financial constraint real hai but deteriorating mental health eventually job performance bhi affect karega. Kya shift rotation possible hai kabhi kabhi ya always night?"
-      },
-      {
-        "role": "user",
-        "content": "Always night hai kyunki pay slightly better. Rotation positions competition zyada hai seniority chahiye. Try kiya tha request karne shift change but manager ne ignore kiya. Medical certificate chahiye shift change justify karne but doctor ke paas jaane ka time nahi milta schedule ke chakkar mein. Vicious cycle hai."
-      },
-      {
-        "role": "assistant",
-        "content": "Cycle todna hoga yaar ek din ka sacrifice karke. One day shift mein se doctor appointment le even if sleep loss ho. Get medical certificate for shift rotation citing circadian rhythm disorder aur mental health impact. Manager legally accommodate karna padega medical grounds pe. Parallel job search bhi kar day shift positions explore kar even if slightly less pay. Mental health ka cost calculate kar long term. Sleep consultant telemedicine through mil sakta time bachane. Breaking cycle uncomfortable but necessary. Ek appointment book karega is week?"
-      },
-      {
-        "role": "user",
-        "content": "Haan yaar karna padega. Taalte rahunga toh aur bura hoga. Telemedicine option achha hai time bachega. Manager ko medical certificate strong ground degi hopefully. Parallel search bhi shuru karna chahiye. Thanks yaar push dene ke liye."
-      },
-      {
-        "role": "assistant",
-        "content": "Haan yaar, momentum important hai. Ek action lead karta next pe. Telemedicine se start kar easier entry point hai. Certificate mile toh formal request de manager ko written mein documented rahe. Job portals pe alert set kar day shift ke liye passive search. Small steps but consistent. Tera health priority hai yaar job se bhi important ultimately. Update dena kya hua. Main hoon na support ke liye. Tu kar lega."
-      }
-    ],
-    "metadata": {
-      "language": "hinglish",
-      "intent": "overwhelm",
-      "conversation_stage": "deepening",
-      "severity": 7,
-      "escalation_needed": false
-    }
-  },
-  {
     "id": "ehsaas_p4_3959",
     "messages": [
       {
@@ -9852,42 +8776,6 @@
     }
   },
   {
-    "id": "ehsaas_p4_3962",
-    "messages": [
-      {
-        "role": "user",
-        "content": "Main apni beti single parent ke roop mein paal rahi. Ex husband abusive tha toh divorce li. Society judge karti broken family kehti. Beti ko school mein tease karte papa nahi hai bolke. Financially struggle bhi hai ek income pe. Kabhi regret hota decision pe even though staying worse tha. Tired hoon yaar."
-      },
-      {
-        "role": "assistant",
-        "content": "Abusive marriage se nikalna brave decision tha yaar regret nahi hona chahiye. Society ka judgment aur beti ka teasing painful hai but toxic environment mein rehna zyada damaging hota long term. Financial struggle real hai but safety priceless. Kabhi regret feel karna fatigue hai not mistake - single parenting exhausting hoti. Support system hai koi?"
-      },
-      {
-        "role": "user",
-        "content": "Family distant hai disapprove karte divorce ka. Friends busy hain apni lives mein. Beti ko counsel karti teasing handle karne but woh affected hai clearly. Financial assistance schemes dekhi but process complicated. Akele hi manage kar rahi sab kuch overwhelm hota bohot baar."
-      },
-      {
-        "role": "assistant",
-        "content": "Family ka disapproval add karta burden yaar unka support hona chahiye tha. Single parent support groups exist jahan shared struggles aur practical tips milti. NGOs assist karti single mothers ko - legal aid, counseling beti ke liye bhi. School counselor se baat kar teasing formally address karne. Government schemes complicated but NGO help kar sakti navigate karne mein. Tu superhero hai manage kar rahi akele but help maangna strength hai weakness nahi. Ek support group contact kar sakti online hi sahi?"
-      },
-      {
-        "role": "user",
-        "content": "Haan yaar try karungi support group join karne. Beti ke school mein counselor appointment lunga. NGOs research karna padega kaun se trusted aur helpful hain mere city mein. Thoda hope aa raha ki maybe akeli nahi hoon is struggle mein. Thank you push dene ke liye."
-      },
-      {
-        "role": "assistant",
-        "content": "Bilkul akeli nahi hai yaar bahut single mothers yeh journey kar rahi successfully. Hope important hai momentum ke liye. City specific NGOs ke liye women's helpline 181 guide kar sakti trusted organizations pe. Online single mom groups bhi immediate community provide karti. Beti dekhegi teri strength eventually aur proud feel karegi. One step at a time handle kar sakti. Main hoon na, updates dena kaise gaya. Tu already bohot achhi maa hai yaar."
-      }
-    ],
-    "metadata": {
-      "language": "hindi",
-      "intent": "overwhelm",
-      "conversation_stage": "deepening",
-      "severity": 7,
-      "escalation_needed": false
-    }
-  },
-  {
     "id": "ehsaas_p4_3963",
     "messages": [
       {
@@ -9921,42 +8809,6 @@
       "conversation_stage": "deepening",
       "severity": 9,
       "escalation_needed": true
-    }
-  },
-  {
-    "id": "ehsaas_p4_3964",
-    "messages": [
-      {
-        "role": "user",
-        "content": "Yaar main arranged marriage mein hoon 2 saal ho gaye. Love nahi hai compatibility bhi nahi. Physically intimate hona forced lagta. Hum strangers ki tarah rehte ek ghar mein. Divorce ka soch but parents devastate ho jayenge society mein face nahi kar payenge. Sacrifice kar rahi apni happiness unki khushi ke liye. Sahi hai kya yeh?"
-      },
-      {
-        "role": "assistant",
-        "content": "2 saal mein bhi connection develop nahi hua aur physical intimacy forced lagta - yeh serious incompatibility hai yaar. Strangers ki tarah rehna marriage nahi roommate arrangement hai loveless. Parents ki khushi ke liye lifetime sacrifice karna sustainable nahi emotionally. Yeh teri life hai unki nahi. Sahi galat se pehle tu survive kar rahi ya jee rahi - yeh puchh khud se. Communication try kiya partner se honestly?"
-      },
-      {
-        "role": "user",
-        "content": "Try kiya but woh bhi same boat mein hai. Usko bhi forced laga tha shaadi. Humne discuss kiya tha ek baar mutual separation ka but dono ki family pressure itna hai. Financial independent hoon main toh technically nikal sakti but emotional blackmail handle nahi kar paungi. Plus society divorced woman ko dekh ke judge karti."
-      },
-      {
-        "role": "assistant",
-        "content": "Toh tum dono suffer kar rahe arrangement mein yaar jo neither wanted. Mutual decision hona chahiye easier - dono agree kar rahe incompatibility pe. Family pressure aur society judgment real barriers hain but decades of unhappiness ka cost kya hai long term? Childless ho toh separation less complicated. Counselor mediate kar sakta family conversations mein. Financial independence biggest tool hai tere paas - use kar sakti freedom ke liye. Kya partner cooperate karega honest separation process mein?"
-      },
-      {
-        "role": "user",
-        "content": "Haan woh cooperate karega shayad privately agree karta hai. Childless hain abhi tak woh bhi blessing hai. Maybe counselor help kar sakta family ko samjhane structured way mein. Darr toh bohot hai but existing bhi toh nahi kar rahi properly. Decision lena padega jaldi ya late."
-      },
-      {
-        "role": "assistant",
-        "content": "Himmat chahiye yaar but tu already decision lean kar rahi towards separation. Partner ka cooperation aur childless hona logistical ease deti. Counselor family session schedule kar dono sides ko educated way mein baat kar sake. Legal consultation bhi parallel le mutual consent divorce simple process hai. Society judge karegi temporarily but teri mental peace permanent. Parents initially hurt honge but eventually adapt kar lete when they see you genuinely unhappy. Teri life teri priority honi chahiye. Ready hai steps lena?"
-      }
-    ],
-    "metadata": {
-      "language": "hinglish",
-      "intent": "confused_feelings",
-      "conversation_stage": "deepening",
-      "severity": 6,
-      "escalation_needed": false
     }
   },
   {
@@ -10176,114 +9028,6 @@
     }
   },
   {
-    "id": "ehsaas_p4_3971",
-    "messages": [
-      {
-        "role": "user",
-        "content": "I'm a medical student and I'm failing. The pressure is crushing me I can't retain information panic during exams. Everyone in my family is a doctor it's expected of me. But I don't think I want this anymore. The thought of 5 more years then residency makes me want to disappear. I'm trapped by expectations and sunk cost. I don't know who I am without this path."
-      },
-      {
-        "role": "assistant",
-        "content": "That pressure cooker of family expectations plus your own doubts is suffocating yaar. Panic and retention issues show your body is rejecting this path. 'Don't think I want this anymore' is huge admission - have you let yourself fully feel that without guilt? Sunk cost and identity crisis are real but 5+ more years of misery versus pivoting now - which regret is heavier? What would you do if family expectation didn't exist?"
-      },
-      {
-        "role": "user",
-        "content": "Honestly I don't even know anymore. I've been on this track since high school never explored anything else. Maybe something creative or tech I'm not sure. The guilt of disappointing my parents is paralyzing. They've invested so much money emotion pride. My dad talks about his son the future doctor to everyone. How do I destroy that? Plus what if I quit and fail at something else too?"
-      },
-      {
-        "role": "assistant",
-        "content": "You've been performing someone else's dream so long you lost touch with yours yaar. Creative or tech is starting point - explore those without committing. Your parents' pride shouldn't cost your mental health. Investment is sunk regardless - continuing unhappily doesn't recoup it. Fear of failing elsewhere is real but you're already failing here by your own measure, just with more misery. Gap year to explore while doing therapy to separate your identity from their expectations? Would they prefer depressed doctor or fulfilled child in different field?"
-      },
-      {
-        "role": "user",
-        "content": "Gap year might be the compromise I need. Therapy definitely because I can't untangle this mess alone. You're right I'm already failing just painfully. Maybe I present it as reassessing not quitting so it's less nuclear. If I find something I'm passionate about maybe they'll eventually accept it. Or at least I'll have clarity to make an informed decision not just run away from pain."
-      },
-      {
-        "role": "assistant",
-        "content": "That's mature framing yaar - 'reassessing' gives them and you breathing room. Gap year with active exploration and therapy is constructive not escapist. Finding passion or confirming medicine from genuine place both are wins. Your parents might surprise you with support if you're honest about mental health impact. Worst case they're disappointed but you're living authentically. Career counselor plus therapist combo would help too. You deserve to choose your life even if choice disappoints others. Take the gap?"
-      }
-    ],
-    "metadata": {
-      "language": "english",
-      "intent": "overwhelm",
-      "conversation_stage": "deepening",
-      "severity": 7,
-      "escalation_needed": false
-    }
-  },
-  {
-    "id": "ehsaas_p4_3972",
-    "messages": [
-      {
-        "role": "user",
-        "content": "Yaar meri girlfriend bahut insecure hai. Har ladki se jealous hoti social media track karti phone check karna chahti. Maine kuch galat nahi kiya kabhi but constant suspicion se thak gaya. Pyaar karti hai woh but trust nahi karti. Break up ka soch but guilt hoti usse hurt karne ka. Confuse hoon ki supportive banu ya boundary set karun."
-      },
-      {
-        "role": "assistant",
-        "content": "Insecurity aur control dono alag hain yaar - phone check karna aur track karna controlling behavior hai jo toxic ban sakti. Pyaar bina trust ke sustainable nahi. Tu guilty feel karta but tera mental peace bhi matter karta. Constantly defend karna exhausting hai jab tune galat kuch kiya hi nahi. Kya usne therapy consider ki apni insecurity address karne ke liye ya tujhe blame karti rehti?"
-      },
-      {
-        "role": "user",
-        "content": "Therapy mention kiya tha maine but woh defensive ho gayi boli tu problem hai main nahi. Past mein usko cheat kiya gaya tha toh trust issues hain. Main understand karta trauma but mujhe punish karna fair nahi. Boundaries set karne ki try ki but woh emotional breakdown ho jati manipulate kar leti situations. Pyaar hai but relationship exhausting hai yaar."
-      },
-      {
-        "role": "assistant",
-        "content": "Past trauma explanation hai yaar excuse nahi tere pe trust issues project karne ka. Therapy refuse karna aur tujhe blame karna shows accountability nahi hai. Emotional breakdowns during boundary talks manipulation tactic hai jo guilt use karke control maintain karti. Pyaar ke naam pe tera mental health sacrifice nahi hona chahiye. Firm ultimatum de - 'therapy lo ya I can't continue' aur follow through kar. Agar woh change nahi karti toh leaving self-respect hai selfishness nahi. Strong enough hai?"
-      },
-      {
-        "role": "user",
-        "content": "Haan yaar strong banna padega. Ultimatum dena hard hoga but fair bhi. Agar therapy nahi leti ya pattern continue karti toh break up hi option bachega. Guilty feel hoga initially but long term toxic relationship mein rehna worse. Thanks real perspective dene ke liye. Needed this wake up call."
-      },
-      {
-        "role": "assistant",
-        "content": "Proud of you yaar clarity aane pe. Ultimatum compassionate hai not cruel - usko opportunity deti hai improve karne ka. Follow through zaroori hai else empty threats ban jayenge. Guilt natural hai but temporary compared to years of toxicity. Tu deserve karta hai relationship jahan trust mutual ho control nahi. Uska healing uski responsibility hai teri sacrifice nahi. Stay strong yaar. Update dena kya hua."
-      }
-    ],
-    "metadata": {
-      "language": "hinglish",
-      "intent": "confused_feelings",
-      "conversation_stage": "deepening",
-      "severity": 6,
-      "escalation_needed": false
-    }
-  },
-  {
-    "id": "ehsaas_p4_3973",
-    "messages": [
-      {
-        "role": "user",
-        "content": "Main apni identity crisis mein hoon. 28 saal ki hoon stable job hai relationship bhi. But feel hoti ki yeh kisi aur ki life jee rahi hoon. Passion kya hai pata nahi purpose kya hai samajh nahi aata. Robot mode mein exist kar rahi. Therapy mein bhi gayi but woh kehti sab toh theek hai grateful ho. But andar se khokla feel hota yaar."
-      },
-      {
-        "role": "assistant",
-        "content": "Therapist ka 'sab theek hai grateful ho' response dismissive tha yaar - external stability internal fulfillment guarantee nahi karti. Robot mode mein jeena shows disconnection apne authentic self se. 28 pe identity crisis common hai jab realize hota ki jo path follow kiya woh genuinely tera tha ya conditioning. Therapist change karna padega jo existential concerns seriously le. Kab se yeh feeling hai aur koi trigger tha ya gradual realization?"
-      },
-      {
-        "role": "user",
-        "content": "Gradual tha shayad 2 saal se notice kar rahi. Pandemic ke baad zyada intense ho gaya jab routine break hua tab realize hua ki routine hi identity ban gayi thi. Passion hobbies sab chod diye 'adulting' mein. Friends bhi transactional interactions hain deep connections nahi. Partner achha hai but emotionally connect nahi feel karti fully. Numbness hai overall."
-      },
-      {
-        "role": "assistant",
-        "content": "Pandemic forced pause ne mask hata diya yaar jo busy-ness ne hide kiya tha. Identity routine se derived thi authentic self se nahi. Numbness depression ka symptom bhi ho sakta - different therapist chahiye jo existential aur possible depression dono explore kare. Passion rediscover karna hoga deliberately - kya bachpan mein enjoy karta tha before 'shoulds' took over? Small experiments kar different activities ya interests ke saath. Journaling help karti self-discovery mein. Partner ke saath vulnerability try ki honest feelings share karke?"
-      },
-      {
-        "role": "user",
-        "content": "Bachpan mein painting karti thi aur writing but saal ho gaye touch nahi kiya. Maybe try karungi phir se. Journaling start kar sakti introspection ke liye. Partner ke saath vulnerable hona hard hai darr lagta judged hone ka ya burden hone ka. But try karna chahiye honesty relationship mein. Different therapist bhi dhundhungi jo existential focus kare. Thank you direction dene ke liye felt lost."
-      },
-      {
-        "role": "assistant",
-        "content": "Painting aur writing reconnect kara sakti yaar apne authentic self se - creative expression powerful tool hai. Journaling daily practice bana consistency se clarity aayegi. Partner ke saath vulnerability risk hai but necessary intimacy ke liye - real connection fear ke paar hai. Existential therapist specifically life meaning aur identity explore karega depth mein. Lost feel karna temporary phase hai navigation ka - direction mil jayega exploration se. Tu already first step le rahi acknowledge karke. Proud of you yaar. Keep going."
-      }
-    ],
-    "metadata": {
-      "language": "hindi",
-      "intent": "confused_feelings",
-      "conversation_stage": "deepening",
-      "severity": 6,
-      "escalation_needed": false
-    }
-  },
-  {
     "id": "ehsaas_p4_3974",
     "messages": [
       {
@@ -10317,42 +9061,6 @@
       "conversation_stage": "deepening",
       "severity": 8,
       "escalation_needed": true
-    }
-  },
-  {
-    "id": "ehsaas_p4_3975",
-    "messages": [
-      {
-        "role": "user",
-        "content": "Yaar main content creator banna chahta tha 3 saal se YouTube Instagram pe mehnat kar raha. Growth nahi ho rahi monetization door ki baat hai. 26 ka hoon parents pressure de rahe job karne ka. Peers sab settled hain aur main struggle kar raha. Dream chodun ya aur time dun samajh nahi aa raha. Financial strain bhi badh raha."
-      },
-      {
-        "role": "assistant",
-        "content": "3 saal consistent effort ke baad bhi growth nahi hona disheartening hai yaar. Content creation luck aur timing bhi involve karti skill ke saath. 26 pe peers comparison aur parents pressure add karte stress. Financial strain practical concern hai address karna zaroori. Hybrid approach consider kiya - part-time job le plus content creation continue kar pressure ke bina? Ya complete pivot ka time analyze karna hoga honestly. Analytics se kuch insights mili growth nahi hone ki reasons?"
-      },
-      {
-        "role": "user",
-        "content": "Analytics dekha quality achhi hai engagement decent hai but viral nahi hua kabhi. Algorithm game samajh nahi aayi shayad. Part-time job sense banati financial security aur passion dono. But darr lagta ki part-time mein content quality ya consistency suffer karegi phir definitely nahi chalega. All or nothing mentality mein fas gaya shayad."
-      },
-      {
-        "role": "assistant",
-        "content": "All or nothing fallacy hai yaar - successful creators bhi side job se start karte initially. Part-time financial stress kam karega jo creativity improve karega actually pressure free hoke. Algorithm luck game hai control mein nahi, quality control mein hai jo tu already kar raha. 2 saal aur de part-time ke saath realistic hai - agar tab tak traction nahi toh pivot without regret ki properly try kiya. Mentor ya content creator communities join kiya guidance ke liye? Collaboration bhi reach badha sakta."
-      },
-      {
-        "role": "user",
-        "content": "Nahi yaar communities join nahi ki solo struggle kiya mostly. Collaboration idea achha hai networking karna padega. Mentor dhundhna bhi helpful hoga. Part-time approach realistic lag raha pressure kam hoga aur parents bhi thoda satisfy honge. 2 saal timeline set kar sakta final push ke saath. Thanks perspective dene ke liye clarity mili."
-      },
-      {
-        "role": "assistant",
-        "content": "Perfect yaar hybrid approach practical aur sustainable hai. Communities mein genuine creators milte jo support karte aur collaborate bhi. Networking uncomfortable lagti initially but essential hai growth ke liye. Part-time se financial independence milegi jo mental peace degi. 2 saal deadline se urgency rahegi but suffocation nahi. Parents bhi reasonable honge job dekh ke. Tu already skills develop kar chuka content mein - woh transferable hain alternate careers mein bhi. Give it your best shot strategically. Rooting for you yaar."
-      }
-    ],
-    "metadata": {
-      "language": "hinglish",
-      "intent": "confused_feelings",
-      "conversation_stage": "deepening",
-      "severity": 5,
-      "escalation_needed": false
     }
   },
   {
@@ -10461,42 +9169,6 @@
       "conversation_stage": "deepening",
       "severity": 8,
       "escalation_needed": true
-    }
-  },
-  {
-    "id": "ehsaas_p4_3979",
-    "messages": [
-      {
-        "role": "user",
-        "content": "Main apni body ke saath peace nahi bana paayi kabhi. Weight fluctuate hoti skin issues hain height bhi short. Clothes fit nahi hote social situations mein conscious rehti. Plastic surgery ka sochti but afford nahi kar sakti plus risks hain. Self-love bolte sab but kaise karun jab mirror mein khud ko dekhke disgust feel ho. Makeup se cover karti but real face accept nahi kar paati yaar."
-      },
-      {
-        "role": "assistant",
-        "content": "Body image issues aur self-acceptance bohot tough journey hai yaar especially jab society narrow beauty standards impose karti. Mirror mein disgust feel karna shows deep disconnect hai apne physical self se. Self-love overnight nahi aata - process hai incrementally. Plastic surgery temporary fix lagti but body dysmorphia internal issue hai jo surgery se solve nahi hoti usually. Therapy specifically body image aur self-esteem pe focus kare toh helpful. Kya specific triggers hain jab body image worst feel hota?"
-      },
-      {
-        "role": "user",
-        "content": "Social media dekh ke worst feel hota. Sab perfect dikhte filters ke saath. Events mein jaana stressful kyunki comparison automatic ho jata. Shopping torture hai kuch fit nahi hota toh blame apni body ko karti. Family bhi comment karti weight complexion pe casual way mein jo hurt karta. Therapy expensive lagti aur darr hai kaam nahi karegi."
-      },
-      {
-        "role": "assistant",
-        "content": "Social media curated reality hai yaar comparison trap hai - detox ya limit karna zaroori. Family ke casual comments generational ignorance hai but damaging nonetheless - boundaries set karni padengi politely. Shopping experience trigger hai toh online private environment mein try karna ya body-positive brands explore karna. Therapy investment hai aur specifically CBT effective hai body dysmorphia ke liye. Affordable options exist - BetterLYF, government hospitals. Kaam nahi karega fear se koshish na karna worse outcome. Kya tu willing hai therapy try karne 2-3 months seriously?"
-      },
-      {
-        "role": "user",
-        "content": "Haan try karungi affordable therapist dhundhke. Social media limit karna start karunga aur family ko boundaries communicate karne ki koshish. Online shopping explore karungi stressful situations avoid karne. Body acceptance journey long hai but steps lene honest effort dungi. Validation aur practical advice dono chahiye the mil gaye. Thank you yaar."
-      },
-      {
-        "role": "assistant",
-        "content": "Proud of you yaar steps lene ka commitment dikhane ka. Affordable therapist online platforms pe easily milta. Social media detox se mental peace immediately better hoga. Family boundaries uncomfortable hongi initially but necessary. Body positive accounts follow kar Instagram pe representation diverse body types ka. Journey slow hai but consistent effort se shift hota perspective. Tu deserve karti hai peace apne body ke saath. Main hoon na support ke liye. Keep going yaar."
-      }
-    ],
-    "metadata": {
-      "language": "hindi",
-      "intent": "overwhelm",
-      "conversation_stage": "deepening",
-      "severity": 7,
-      "escalation_needed": false
     }
   },
   {
@@ -10680,42 +9352,6 @@
     }
   },
   {
-    "id": "ehsaas_p4_3985",
-    "messages": [
-      {
-        "role": "user",
-        "content": "Meri beti ko bullying face kar rahi school mein. Physical nahi but verbal aur social exclusion. Confidence khatam ho gaya uska school jaane se mana karti. Principal se complain ki but kehte kids will be kids handle kar legi. Harassment seriously nahi le rahe. School change karne ka soch but middle of year mein difficult aur usko bhi upheaval hoga. Helpless feel kar rahi as parent protect nahi kar paayi."
-      },
-      {
-        "role": "assistant",
-        "content": "Principal ka 'kids will be kids' response bullying normalize karta yaar jo unacceptable hai. School ki responsibility hai safe environment provide karna. Teri beti ka confidence aur mental health stake pe hai - middle year upheaval less damaging hai than continued bullying. Documentation kiya complains aur incidents ka? Legal action bhi option hai agar school negligent hai duty of care mein. Kya counselor involved hai school ka ya therapy di beti ko process karne ke liye?"
-      },
-      {
-        "role": "user",
-        "content": "Complains verbal thi documented nahi. Counselor meeting hui but unhone bhi minimize kiya issue. Therapy private le rahi hoon beti ke liye emotional impact address karne. Legal action sochi nahi thi but option explore kar sakti. School change research shuru karungi parallel. Financial strain hoga but beti ki wellbeing priority hai. Evidence collect karna padega formal action ke liye."
-      },
-      {
-        "role": "assistant",
-        "content": "Documentation critical hai yaar - written emails to principal detailing incidents aur their inadequate response. Meetings ka follow-up email bhej confirming conversation. Other parents ka pata karo agar unke bachche bhi face kar rahe toh collective complaint strong hoti. Education board ko escalate kar sakti agar school respond nahi karti. Therapy continue kar beti ke trauma processing ke liye. School change practical ho toh proceed kar psychological safety academic year se important hai. Legal consultation free hoti NGOs se child rights pe specializing. Teri beti ko teri advocacy support chahiye. Strong decision lene ready?"
-      },
-      {
-        "role": "user",
-        "content": "Haan ready hoon. Documentation shuru karungi immediately emails ke through. Other parents se baat karungi collective complaint ke liye. Education board escalation option research karungi. School change actively pursue karungi next academic session ke liye ya mid-year if required. NGO legal consultation lunga guidance ke liye. Beti ko safe feel karna chahiye priority hai. Thank you actionable steps dene ke liye felt directionless."
-      },
-      {
-        "role": "assistant",
-        "content": "Perfect yaar action plan clear hai. Documentation timeline ke saath maintain kar. Collective complaint pressure create karti school pe. Education board serious leti formal complaints. Mid-year transfer justify ho sakta bullying evidence ke saath. Beti ko involve kar age-appropriate way mein decisions mein empowerment feel ho. Tera advocacy usko dikhayega ki woh alone nahi hai. Strong parent hai tu yaar protective aur proactive. Main hoon na. Updates dena process ka. Beti safe rahegi tumhare support se."
-      }
-    ],
-    "metadata": {
-      "language": "hindi",
-      "intent": "overwhelm",
-      "conversation_stage": "deepening",
-      "severity": 7,
-      "escalation_needed": false
-    }
-  },
-  {
     "id": "ehsaas_p4_3986",
     "messages": [
       {
@@ -10782,42 +9418,6 @@
     "metadata": {
       "language": "hinglish",
       "intent": "mixed_emotions",
-      "conversation_stage": "deepening",
-      "severity": 5,
-      "escalation_needed": false
-    }
-  },
-  {
-    "id": "ehsaas_p4_3988",
-    "messages": [
-      {
-        "role": "user",
-        "content": "Main apni sexuality ke baare mein confused hoon bohot. Kabhi ladke pasand aate kabhi ladki kabhi dono kabhi koi nahi. Fluid feel hota constantly labels fit nahi hote. Friends ko came out kiya bisexual bolke but accurate nahi lagta. Identity crisis constant hai kya hoon define nahi kar paayi. Therapy mein bhi gayi but therapist straight tha understand nahi kar paya nuance."
-      },
-      {
-        "role": "assistant",
-        "content": "Sexuality spectrum pe hona aur fluid experience karna completely valid hai yaar. Labels rigid hote real experiences fluid. Bisexual umbrella term hai but pansexual, queer, fluid specifically yeh describe karte. Ya label nahi bhi rakhna valid option hai. Straight therapist ka limitation tha - queer-affirming therapist specifically dhundhna chahiye jo lived experience ya specialized training ho. Community mein connect kiya LGBTQ+ spaces mein jahan fluid identities normal hain?"
-      },
-      {
-        "role": "user",
-        "content": "Nahi community connect nahi kiya darr lagta judged hone ka ki proper queer nahi hoon confusion hai. Online spaces dekha but participate nahi kiya. Friends supportive hain but heteronormative perspective se samajhte fully relate nahi kar paate. Queer therapist dhundhna try karungi specifically. Label pressure bhi hai logon ko clear answer dena padta dating mein bhi explanation tedious."
-      },
-      {
-        "role": "assistant",
-        "content": "'Proper queer' ka koi standard nahi yaar - gatekeeping community mein bhi hoti but real spaces inclusive hote questioning aur fluid identities ke. Online groups specifically for bi/pan/fluid people exist karte Reddit, Instagram pe safe hain. Dating mein 'queer' ya 'figuring it out' honest answers hain detailed explanation optional hai. Queer therapist directory online hai search karna easy. Pressure label choose karne ka internal bhi ho sakta clarity ke liye but comfort deta ambiguity accept karna bhi valid. Kya tu community spaces virtually try kar sakti low pressure entry ke liye?"
-      },
-      {
-        "role": "user",
-        "content": "Haan virtual spaces try karungi lurking se start karke comfort build hogi. Queer therapist actively dhundhungi proper guidance ke liye. 'Figuring it out' honest frame karna dating mein pressure kam hoga. Label pressure internal zyada hai external se acceptance zaroori hai fluidity ki. Community support milega validation ke liye. Thanks resources aur perspective dene ke liye yaar needed direction."
-      },
-      {
-        "role": "assistant",
-        "content": "Perfect yaar virtual lurking se start karna safe entry point hai. Community mein diverse experiences dekhne se normalize hota confusion. Queer therapist specifically sexuality aur identity explore karega judgment-free. Dating mein honesty attracts right people jo complexity accept karte. Internal label pressure society ki conditioning hai - unlearning hogi therapy aur community dono se. Tu valid hai yaar label ke saath ya bina. Main hoon na. Explore kar authentically. Updates dena journey ka."
-      }
-    ],
-    "metadata": {
-      "language": "hindi",
-      "intent": "confused_feelings",
       "conversation_stage": "deepening",
       "severity": 5,
       "escalation_needed": false
@@ -11472,42 +10072,6 @@
     }
   },
   {
-    "id": "ehsaas_p4_4007",
-    "messages": [
-      {
-        "role": "user",
-        "content": "I'm asexual but I didn't realize until recently at 28. Now I'm questioning my entire past - was I forcing myself in relationships? Did I hurt people by not being truly attracted? My ex is getting married and I feel guilty like I wasted their time. I'm grieving the 'normal' life I thought I'd have. Family keeps asking about marriage I don't know how to explain I don't want that. I feel broken and alone."
-      },
-      {
-        "role": "assistant",
-        "content": "Realizing you're ace later brings that whole questioning of past yaar - but you weren't forcing anything consciously, you did your best with understanding you had then. Past relationships had value even without sexual attraction if emotional connection existed. Your ex moved on and found their person - you didn't waste their time, you were figuring yourself out. Grieving expected life path is valid loss. Ace is valid orientation not brokenness. Family pressure hard when you don't fit their script. Have you found ace community online?"
-      },
-      {
-        "role": "user",
-        "content": "Not yet I'm still processing alone. Scared of telling anyone even friends. They'll say I haven't met right person or I'm just scared of intimacy. The 'normal' life grief is heavy - no wedding no kids no partner like everyone expects. I don't even know if I want romantic relationship without sexual component. Everything feels uncertain. Family explaining is terrifying they'll think something's wrong with me medically or psychologically."
-      },
-      {
-        "role": "assistant",
-        "content": "Ace community online would help so much yaar - Reddit, AVEN, Instagram have active groups where you'll see you're not alone. Friends who truly care will educate themselves even if initial reaction is ignorant. 'Right person' myth is what people say from not understanding. Romantic without sexual absolutely exists - it's called ace romantic many people live that way happily. Solo living or platonic partnerships also valid. Family might struggle but you can't perform sexuality for them lifelong. Medical checkup if you want peace of mind but orientation isn't dysfunction. Will you try joining community space this week?"
-      },
-      {
-        "role": "user",
-        "content": "Yes I'll look for ace communities online need to hear from others living this. The validation that romantic without sexual is real helps a lot. Solo or platonic partnership sounds appealing actually never considered those options. Maybe I don't have to fit the relationship escalator mold. Medical checkup for peace of mind makes sense then I'll know physically I'm fine. Coming out can wait until I'm more secure in identity. Thanks for normalizing this I felt like alien. Community will help I think."
-      },
-      {
-        "role": "assistant",
-        "content": "Community will be game-changer yaar - seeing diverse ace experiences shows many ways to live authentically. Romantic ace relationships do exist beautifully. Relationship escalator is societal script not requirement for happiness. Medical checkup removes that 'what if' then you can own orientation confidently. Coming out timeline is yours no rush. You're not alien, just on different part of spectrum that's less visible. Ace is valid and you'll find your people and your path. Main hoon na. Explore confidently yaar. Update me when you've connected with community. You belong."
-      }
-    ],
-    "metadata": {
-      "language": "english",
-      "intent": "confused_feelings",
-      "conversation_stage": "deepening",
-      "severity": 6,
-      "escalation_needed": false
-    }
-  },
-  {
     "id": "ehsaas_p4_4008",
     "messages": [
       {
@@ -11541,42 +10105,6 @@
       "conversation_stage": "deepening",
       "severity": 8,
       "escalation_needed": false
-    }
-  },
-  {
-    "id": "ehsaas_p4_4009",
-    "messages": [
-      {
-        "role": "user",
-        "content": "Mera 16 saal ka beta gaming addiction mein fas gaya. Din raat online games khelta school mein fail ho raha. Physically aggressive ho jata agar gaming time limit karu. Social life zero hai room se bahar nahi nikalta. Doctor ne bola behavioral addiction hai therapy chahiye. Woh jaane se mana kar raha kehta koi problem nahi. Force karne se aur rebellious ho jayega. Helpless feel kar raha as parent control kho diya. Kaise handle karun yaar."
-      },
-      {
-        "role": "assistant",
-        "content": "Teen gaming addiction serious hai yaar especially jab academic aur physical aggression involved. Behavioral addiction clinical condition hai therapy aur boundaries dono chahiye. 16 saal mein autonomy chahiye hota but judgment developed nahi toh parental intervention necessary. Forcing therapy backfire kar sakta but consequences natural hone dena effective - school failure real world impact dikhaega. Physical aggression towards you zero tolerance honi chahiye safety boundary. Kya internet access control karne physically possible hai router level pe?"
-      },
-      {
-        "role": "user",
-        "content": "Router control possible but woh mobile data use karta friends se hotspot. Physically force karna escalate kar raha violence concerned hoon safety ka. School principal bhi involve ho gaye warning di future at risk. Natural consequences dikha rahe but awareness nahi aa rahi usko. Therapy force karne legally options kya hain minor hai still. Family counseling suggest kiya tha but woh attend nahi karta sessions."
-      },
-      {
-        "role": "assistant",
-        "content": "Minor hone se parental consent sufficient hai therapy ke liye yaar but cooperation without force better results. Mobile confiscate karna option hai aggressive hone pe - natural consequence violent behavior ka. School consequence serious enough counselor mandatory therapy recommend kar sakta administration through. Family therapy without him bhi helpful - tere coping strategies aur expert guidance. Wilderness therapy ya residential programs exist severe addiction ke liye jahan structure forced but therapeutic. Gaming addiction psychiatrist consult kar medication bhi evaluate kare underlying issues like depression ADHD. Kya tu exploring residential program if situation escalates dangerous levels?"
-      },
-      {
-        "role": "user",
-        "content": "Residential program last resort consider kar sakta extreme cases mein. Mobile confiscation try karunga firm boundary violent behavior pe. School counselor involvement increase karaunga mandatory therapy route explore. Family therapy meri coping ke liye shuru karunga even without him. Psychiatrist appointment book karunga underlying issues rule out karne. Difficult decisions ahead but inaction worse. Thank you options outline karne ke liye yaar helpless se empowered feel ho raha action plan ke saath."
-      },
-      {
-        "role": "assistant",
-        "content": "Empowerment action se aati yaar helplessness inaction se. Mobile confiscation firm but fair consequence hai violence ke liye. School partnership mandatory therapy route open kar sakta. Family therapy tere resilience build karega tools dega. Psychiatrist comprehensive evaluate karega co-occurring issues. Residential program safety net hai if home interventions fail. Tough love necessary hai enabling se recovery nahi hoti. Tu caring involved parent hai yaar difficult decisions lena parenting ka part. Main hoon na. Updates dena progress ka. Stay strong aur consistent boundaries mein."
-      }
-    ],
-    "metadata": {
-      "language": "hindi",
-      "intent": "overwhelm",
-      "conversation_stage": "deepening",
-      "severity": 8,
-      "escalation_needed": true
     }
   },
   {
@@ -11752,78 +10280,6 @@
     }
   },
   {
-    "id": "ehsaas_p4_4015",
-    "messages": [
-      {
-        "role": "user",
-        "content": "Main apni beti ko foster care mein dena pad raha temporarily. Financial crisis aur housing instability hai temporarily homeless bhi. Beti ki safety priority hai but dil toot raha separation se. Guilty feel hota failed parent ki tarah. Social services involve ho gaye case open hai. Beti 7 saal ki samajh nahi paa rahi kyun mujhse alag ho rahi. Trauma hoga usko lifetime. Kaise recover karunga situation se aur beti ko wapas laaunga yaar."
-      },
-      {
-        "role": "assistant",
-        "content": "Yaar temporary foster care during crisis shows tu responsible parent hai - beti ki safety prioritize kar raha apni ego se pehle. Failure nahi hai yeh survival decision hai impossible circumstances mein. Financial aur housing crisis systemic issues hain personal failure nahi. Guilt natural but misplaced - tu protect kar raha usko best way available. 7 saal ki age mein explain karna mushkil but honest age-appropriate communication important hai. Trauma reduce hota agar regular contact maintain ho video calls visits. Social services plan kya hai reunification timeline aur support ke liye?"
-      },
-      {
-        "role": "user",
-        "content": "Social services reunification plan 6 mahine ka timeline diya stable housing aur income demonstrate karna hoga. Weekly supervised visits allowed video calls bhi. Job search active hai aur affordable housing apply kiya waiting list mein. Beti ko simple terms mein explain karne ki try kari but woh upset thi samajh nahi aayi puri tarah. Trauma minimize karne video calls daily karunga visits regular. Par guilt overwhelm kar rahi nightmares aa rahe usko khote hue. Kaise cope karun emotionally yaar."
-      },
-      {
-        "role": "assistant",
-        "content": "6 mahine realistic timeline hai yaar reunification ke liye - concrete goals hai achievable bhi proper effort se. Weekly visits aur daily video calls attachment maintain karenge trauma reduce honge. Job search aur housing applications progress hain right direction mein. Beti ko repeatedly reassure karna padega 'temporary hai main tumhe wapas launga' simple consistent message. Tera guilt aur nightmares shows tu kitna care karta - therapy crucial hai cope karne. Social worker resources bhi available hain parent support ke liye. Kya tu therapy access kar sakta crisis counseling free services se emotional strength ke liye?"
-      },
-      {
-        "role": "user",
-        "content": "Therapy access karunga crisis counseling free explore karunga. Social worker resources pucha tha parent support group suggest kiya usme join karunga. Daily video calls maintain karunga beti ko reassure consistent. Job interview aaye hain actively follow up kar raha. Housing waiting list regular check karta. 6 mahine focus rahega reunification goals pe. Guilt aur nightmares address karna padega functioning ke liye. Thank you validate karne ke liye failure nahi survival decision hai perspective needed thi yaar."
-      },
-      {
-        "role": "assistant",
-        "content": "Bilkul yaar survival decision hai failure nahi - circumstances ne force kiya choice nahi thi. Crisis counseling immediately access kar emotional strength crucial hai 6 mahine journey ke liye. Parent support group shared experiences provide karegi coping strategies. Beti ko daily reassurance security degi despite physical separation. Job interviews positive movement hain follow through strong. Housing patience chahiye but persistent rehna. 6 mahine achievable hai focused effort se. Nightmares processing grief hain address karna therapy mein zaroori. Tu loving dedicated parent hai yaar temporary setback define nahi karti. Main hoon na. Reunification hoga. Stay strong aur consistent goals pe. Updates dena yaar."
-      }
-    ],
-    "metadata": {
-      "language": "hindi",
-      "intent": "overwhelm",
-      "conversation_stage": "deepening",
-      "severity": 9,
-      "escalation_needed": true
-    }
-  },
-  {
-    "id": "ehsaas_p4_4016",
-    "messages": [
-      {
-        "role": "user",
-        "content": "I'm terrified I'm becoming my abusive parent. I caught myself yelling at my kid the same way my mom yelled at me. I saw fear in their eyes and I felt sick. I swore I'd never be like her but the patterns are emerging. Anger issues stress making me reactive. I'm in therapy working on it but progress feels slow. What if I've already damaged my child? What if cycle can't be broken despite effort? I don't want to be that parent but I'm scared I already am."
-      },
-      {
-        "role": "assistant",
-        "content": "Recognizing the pattern is crucial first step yaar - your mom probably never had that awareness. Seeing fear in your kid's eyes and feeling sick about it shows you're different fundamentally. Intergenerational trauma is real but awareness breaks cycle. One incident doesn't define you especially when actively working in therapy. Progress in therapy slow but real - changing deeply ingrained patterns takes time. Your child isn't damaged permanently if you repair rupture - apologize explain you're working on it. Are you practicing specific anger management techniques or just general talk therapy?"
-      },
-      {
-        "role": "user",
-        "content": "Mostly talk therapy exploring childhood trauma. Some breathing techniques for anger but I forget to use them in moment. Apologized to my kid explained mommy made mistake working on being better. They seemed okay but I'm terrified of long-term impact. What if apology isn't enough? What if they remember fear more than repair? My mom never apologized for anything so I'm in unknown territory. Should I be doing more intensive treatment? Parenting triggering trauma constantly."
-      },
-      {
-        "role": "assistant",
-        "content": "Talk therapy helps understand but DBT or anger management specifically teaches in-moment skills yaar which you need. Breathing techniques work only if practiced daily becomes automatic. Apology with changed behavior is repair - kids resilient when parents take responsibility. They'll remember both fear AND repair - teaching them healthy conflict resolution actually. Your mom's pattern was rage without repair - you're breaking that cycle already. Intensive treatment like DBT skills group might accelerate progress. Parenting triggering trauma means parallel trauma therapy plus parenting skills training. Can you commit to adding DBT skills specifically for emotion regulation?"
-      },
-      {
-        "role": "user",
-        "content": "Yes I'll look for DBT program or skills group. Daily practice of techniques even when not angry makes sense so it's automatic. I'll ask therapist about adding trauma-focused work specifically EMDR I've heard about. Parenting skills training didn't know that existed separately will research. Knowing apology plus change is repair helps guilt slightly. I'm not doomed to repeat if I actively work differently. Thanks for distinguishing me from my mom - awareness and effort matter. I'll intensify treatment approach. Will update after finding DBT resources. Appreciate the hope yaar."
-      },
-      {
-        "role": "assistant",
-        "content": "Huge commitment yaar - DBT skills life-changing for emotion regulation. Daily practice non-negotiable makes it reflexive in triggering moments. Trauma-focused like EMDR processes root cause parallel to skills building. Parenting skills training teaches positive discipline alternatives to yelling. You're NOT doomed - you're conscious and effortful which your mom wasn't. Awareness plus action equals breaking cycle. Guilt will reduce as you see consistent behavior change. Your kid will be okay with this level of self-awareness and repair from you. Main hoon na. Find DBT this week start immediately. You're already different parent by trying. Keep going yaar. Updates definitely."
-      }
-    ],
-    "metadata": {
-      "language": "english",
-      "intent": "overwhelm",
-      "conversation_stage": "deepening",
-      "severity": 8,
-      "escalation_needed": true
-    }
-  },
-  {
     "id": "ehsaas_p4_4017",
     "messages": [
       {
@@ -11893,42 +10349,6 @@
       "conversation_stage": "deepening",
       "severity": 9,
       "escalation_needed": true
-    }
-  },
-  {
-    "id": "ehsaas_p4_4019",
-    "messages": [
-      {
-        "role": "user",
-        "content": "I'm aromantic but I'm lonely. People think aro means you don't need connection but I crave deep platonic relationships. My friends are all coupling up getting married I'm being left behind. Nobody takes platonic friendships as seriously as romantic ones. I'm tired of being everyone's second priority. I don't want romance but I want life partner level commitment platonically. Does that even exist? I feel broken wanting connection without romance."
-      },
-      {
-        "role": "assistant",
-        "content": "You're not broken yaar - aromantic doesn't mean asocial or not needing connection. Platonic relationships can absolutely be life-partner level - it's called queerplatonic relationship in aro community. Society prioritizes romance unfairly but that doesn't invalidate your needs. Friends coupling up and deprioritizing platonic bonds is real painful pattern. You're not asking for too much wanting committed platonic partnership. Have you explored aro communities where people understand and seek similar arrangements?"
-      },
-      {
-        "role": "user",
-        "content": "I didn't know queerplatonic was a term that describes exactly what I want. Haven't explored aro communities yet been processing alone. The loneliness is crushing watching everyone pair off. Even close friends now schedule me around their partners. I want someone who chooses me as their person without romance. Is that realistic to find or am I setting myself up for disappointment? How do I even look for that kind of relationship?"
-      },
-      {
-        "role": "assistant",
-        "content": "Queerplatonic partnerships absolutely exist yaar - many aro people seek exactly this committed non-romantic partnership. Realistic to find yes but requires intentional searching in aro/ace communities not mainstream dating. Online aro spaces on Reddit, Discord, meetups in cities where people explicitly seek QPRs. Loneliness valid but solvable by finding your people who understand. Friends deprioritizing hurts but finding someone who chooses you as primary person heals that. It's not settling or less than - it's your authentic relationship need. Will you join aro community spaces to start exploring and connecting?"
-      },
-      {
-        "role": "user",
-        "content": "Yes I'll look for aro communities online and locally if available. Knowing QPRs exist and people actively seek them is huge relief. The loneliness felt like permanent state without romance. Having language for what I want helps so much. I'll join spaces start connecting with people who understand. Maybe I'll find someone seeking same thing or at least not feel so alone in wanting it. Thanks for validating this isn't broken or impossible just different path. Feels hopeful now yaar."
-      },
-      {
-        "role": "assistant",
-        "content": "So glad hope returned yaar - you're definitely not alone in wanting this. Aro community welcoming and diverse in how people structure relationships. QPR search intentional process like any relationship seeking but with aligned expectations from start. Language empowering hai - now you can articulate needs clearly. Community mein tujhe apne log milenge jo completely samjhenge. Different path doesn't mean lonely path. Your relationship needs valid and achievable. Main hoon na. Start exploring communities this week. Update me when you've connected yaar. You belong and you'll find your person or people."
-      }
-    ],
-    "metadata": {
-      "language": "english",
-      "intent": "confused_feelings",
-      "conversation_stage": "deepening",
-      "severity": 5,
-      "escalation_needed": false
     }
   },
   {
@@ -12184,150 +10604,6 @@
     }
   },
   {
-    "id": "ehsaas_p4_4027",
-    "messages": [
-      {
-        "role": "user",
-        "content": "Meri maa ko Alzheimer's diagnose hua early stage. Abhi functional hai but decline aayega gradually. Main only child hoon responsibility puri meri padegi. Career prime mein hoon promotions opportunities but caregiving demands increase honge. Guilt feel hoti career prioritize karne but financial bhi zaruri hai treatment ke liye. Future dikh raha jahan independence khatam hogi unki aur meri bhi. Grieving ho raha person jo hain abhi eventually kho jaungi. Kaise prepare karun emotionally financially yaar overwhelming hai."
-      },
-      {
-        "role": "assistant",
-        "content": "Alzheimer's diagnosis anticipatory grief start kar deta yaar - mourning person while they're still alive painful unique. Early stage means planning time hai crucial use karna. Only child burden heavy but resources exist share karne. Career vs caregiving guilt natural but financial stability caregiving quality enable karta long term. Future planning legal, financial, care arrangements abhi karna jab maa involved ho sakti decisions mein. Emotional preparation therapy grief counseling Alzheimer's caregiver specific. Kya legal documents power of attorney living will discuss kiye unke saath while capacity hai?"
-      },
-      {
-        "role": "user",
-        "content": "Legal documents nahi kiye abhi painful conversation avoid kar rahe. Financial planning basic hai but long term care cost nahi calculate kiya. Therapy nahi shuru ki overwhelm acknowledge kar raha but action nahi liya. Career decisions pending promotion offer aaya but accept karne se hesitate kar raha future flexibility chahiye. Support system limited friends family door extended. Procrastination mein hoon yaar facing reality se darr lag raha."
-      },
-      {
-        "role": "assistant",
-        "content": "Procrastination understandable but harmful yaar - early stage window closing hai decisions. Legal documents critical abhi karna jab maa participate kar sakti wishes express - painful conversation short term but long term protection. Financial planning elder care specialist consult kar costs realistic estimate. Therapy immediately start kar Alzheimer's caregiver therapist anticipatory grief address kare. Promotion decision tough - accept kar financial buffer but negotiate flexibility caregiving clause. Support system build karna padega - caregiver groups, paid help eventually, respite care. Reality facing scary but planning empowerment deta crisis mode avoid. Committed hai this month legal financial therapy appointments book karne?"
-      },
-      {
-        "role": "user",
-        "content": "Haan committed hoon yaar procrastination tod na hoga planning zaroori hai. Legal documents lawyer ke saath schedule karunga maa ko involved karke while possible. Financial planner elder care specialist consult karunga realistic budget. Therapy Alzheimer's caregiver focus immediately start karunga coping. Promotion accept karunga flexibility negotiate karke documented caregiving needs. Caregiver support group research karunga join. Facing reality difficult but necessary empowerment planning se. Thank you push dene ke liye action towards structured preparation. Will execute is month yaar."
-      },
-      {
-        "role": "assistant",
-        "content": "Perfect yaar action plan comprehensive hai timing critical use kar raha. Legal documents maa involved most important gift clarity unki wishes. Financial specialist realistic picture dega planning accurate. Caregiver therapist essential sustained journey ahead. Promotion acceptance with flexibility smart - financial security plus adaptability. Support groups lifeline honge isolation todenge. Reality facing courage hai denial se better. Planning control deta unpredictable situation mein. Tu responsible loving child hai yaar proactive steps le raha. Main hoon na. Execute this month systematically. Updates dena progress ka. Maa lucky hai aware committed support hai tumhara. Stay strong yaar journey long but prepared hoga."
-      }
-    ],
-    "metadata": {
-      "language": "hindi",
-      "intent": "overwhelm",
-      "conversation_stage": "deepening",
-      "severity": 7,
-      "escalation_needed": false
-    }
-  },
-  {
-    "id": "ehsaas_p4_4028",
-    "messages": [
-      {
-        "role": "user",
-        "content": "I think my therapist is attracted to me. They make comments about my appearance hold eye contact too long sessions run over time. I'm confused because therapy helping but this feels inappropriate. I'm attracted to them too which makes it worse. I don't know if I'm imagining it or if boundaries being crossed. If I bring it up and I'm wrong it'll be humiliating. If I'm right do I report them or just switch therapists? I need therapy but this situation making me uncomfortable and distracted."
-      },
-      {
-        "role": "assistant",
-        "content": "Therapist behavior you're describing is boundary violations yaar regardless of your perception accuracy. Appearance comments, prolonged eye contact, extended sessions unprofessional even if unintentional. Your attraction complicates but doesn't negate inappropriate conduct. This is exactly why therapist ethical codes prohibit this - power imbalance makes patient vulnerable. Bringing it up directly risky - if they deny gaslighting possible if they admit worse boundary cross. Better action is switch therapists and report to licensing board. Therapy needs can't be met in compromised dynamic. Have you documented specific incidents dates and comments?"
-      },
-      {
-        "role": "user",
-        "content": "I haven't documented feeling like I'm overreacting maybe. But thinking back there are multiple instances over months. The attraction on my side making me doubt - am I reading into things because I want it? But some comments definitely crossed line professional therapist shouldn't say. I'm scared reporting ruins their career if I'm misinterpreting. Switching therapists feels like running away from problem. But you're right continuing in this dynamic not therapeutic it's confusing and uncomfortable."
-      },
-      {
-        "role": "assistant",
-        "content": "Your doubt natural yaar but multiple instances over months is pattern not coincidence. Attraction from patient side exactly why therapist must maintain strict boundaries - they're trained professionals responsible. You're not ruining career by reporting - if innocent investigation clears them if guilty protecting future patients. Switching not running away protecting yourself from harmful dynamic. Continuing risks exploitation whether intentional or not. Start documenting now moving forward then switch find new therapist ASAP. Report can happen after you're safely out of their care less pressure. Therapy relationship sacred trust boundary violations serious. Ready to prioritize your safety and therapeutic needs?"
-      },
-      {
-        "role": "user",
-        "content": "Yes I need to prioritize safety you're right. I'll start documenting anything further happens before switching. I'll research new therapists this week schedule consultations. Once I'm established with someone new I'll consider reporting with documentation and clear head. The confusion and discomfort not worth continuing even if therapy otherwise helping. Boundaries exist for reason patient protection. Thanks for validating I'm not crazy and giving clear action steps. Will switch immediately and decide reporting after. Appreciate clarity yaar was spiraling."
-      },
-      {
-        "role": "assistant",
-        "content": "Not crazy at all yaar your instincts protecting you. Documentation for any further sessions before exit smart. New therapist research priority - interview potential ones about boundaries and professionalism. Switching immediately right call therapeutic benefit doesn't outweigh harm of violated boundaries. Reporting decision can wait until you're safe stable with new provider less emotional pressure. Boundaries protect vulnerable patient that's you in this dynamic. Confusion clearing when removed from situation. Main hoon na. Execute switch this week. Update after established with new therapist. Your safety and genuine therapy deserve priority. Stay strong yaar. You're handling this responsibly."
-      }
-    ],
-    "metadata": {
-      "language": "english",
-      "intent": "confused_feelings",
-      "conversation_stage": "deepening",
-      "severity": 7,
-      "escalation_needed": false
-    }
-  },
-  {
-    "id": "ehsaas_p4_4029",
-    "messages": [
-      {
-        "role": "user",
-        "content": "Yaar main apni dating life mein pattern dekh raha emotionally unavailable log attract karta hoon. Har relationship mein main zyada invest karta woh distant rehte. Therapy mein discuss kiya anxious attachment style hai meri. Secure people boring lagte intense connection chahiye hota. Painful pattern hai but comfortable bhi familiarity mein. Kaise break karun yeh cycle jab secure boring lagta aur chaos familiar. Dating deliberately different types try kiya but natural pull unavailable types ki taraf rehta yaar."
-      },
-      {
-        "role": "assistant",
-        "content": "Anxious attachment ke saath emotionally unavailable attract hona classic pattern hai yaar - familiar pain predictable lagta unknown security se. Secure 'boring' lagta kyunki anxiety trigger nahi karti validation constantly prove nahi karna padta. Chaos adrenaline deta misinterpreted as passion actually anxiety hai. Pattern break karne dating deliberately secure people aur tolerating 'boring' initial feeling jab tak nervous system recalibrates. Attachment therapy specifically helpful rewiring process. Kya therapist attachment-focused work kar raha ya general CBT?"
-      },
-      {
-        "role": "user",
-        "content": "General therapy mostly CBT patterns identify. Attachment specific work nahi ho rahi properly depth mein. Secure people date karte waqt restless feel hota connection nahi intense lagta. Unavailable types ke saath chase adrenaline excitement misread karta passion ki tarah. Consciously samajh aata unhealthy but unconsciously pull strong. Friends frustrated pattern point karte but change nahi ho pata behavior mein. Kaise retrain karun brain ko secure comfortable feel karne uncomfortable nahi."
-      },
-      {
-        "role": "assistant",
-        "content": "Attachment-focused therapist specifically chahiye yaar general CBT insufficient deeply rooted patterns ke liye. Nervous system retraining somatic therapy ya EMDR se hota cognitive level se deeper. Secure initially restless lagega because anxiety absent - brain interpret karta danger nahi matlab interest nahi but actually safety ka sign. Chase adrenaline dopamine spike deta addictive lagta confused with love. Conscious understanding behavior change ke liye insufficient embodied practice chahiye. 90 day challenge - date secure person tolerate boredom deliberately nervous system time de adjust. Willing hai attachment therapist aur 90 day secure relationship experiment?"
-      },
-      {
-        "role": "user",
-        "content": "Haan willing hoon yaar pattern todna zaroori hai health ke liye. Attachment specialist dhundhunga specifically trained. Somatic therapy interesting sounds body-based helpful hoga cognitive se beyond. 90 day secure person experiment commit karunga discomfort tolerate consciously retraining. Adrenaline chase ko addiction recognize karna eye-opening addiction toh treat kar sakte. Friends supportive honge accountability provide karenge. Thanks specific therapeutic approach aur experiment framework. Will search therapist aur dating mindfully secure qualities focus. Updates dunga yaar."
-      },
-      {
-        "role": "assistant",
-        "content": "Perfect yaar commitment pattern break karne brave decision. Attachment specialist game changer hoga root cause address karega. Somatic therapy nervous system level healing powerful cognitive understanding se deeper. 90 day experiment discomfort tolerance practice gradual rewiring. Adrenaline addiction frame helpful treat karne addiction recovery tools applicable. Friends accountability valuable support slipping back old patterns. Dating mindfully secure qualities deliberate practice uncomfortable initially but necessary. Tu self-aware hai yaar already halfway healing recognize karne pattern. Main hoon na. Find therapist this week start immediately. Updates definitely progress ka. Secure love possible hai retraining se. You deserve healthy yaar."
-      }
-    ],
-    "metadata": {
-      "language": "hinglish",
-      "intent": "confused_feelings",
-      "conversation_stage": "deepening",
-      "severity": 6,
-      "escalation_needed": false
-    }
-  },
-  {
-    "id": "ehsaas_p4_4030",
-    "messages": [
-      {
-        "role": "user",
-        "content": "Mera 20 saal ka beta college dropout hai ghar pe rehta gaming karta. Koi job nahi motivation zero career plans nahi. Hum enable kar rahe shelter food provide karke but tough love dena mushkil. Financial strain hai aur resentment badh rahi. Counseling refuse karta kehta kuch problem nahi. Force karna backfire kar sakta adult hai. Par current situation unsustainable hai. Kab tak support karein aur kab boundaries set karein yaar parenting adult child ka confuse kar raha."
-      },
-      {
-        "role": "assistant",
-        "content": "Adult child failure to launch complex issue hai yaar enable karna vs support confusion natural. Shelter food provide karna compassion hai but consequences nahi hone se motivation nahi aati. Tough love scary but sometimes necessary growth ke liye - timeline boundaries like 6 months find job ya contribute household ya transition out. Counseling refuse adult right hai but choice consequence ke saath aata. Financial strain aur resentment toxic environment create karta sabke liye. Kya mental health issue underlying hai - depression, anxiety, gaming addiction - jo address nahi ho raha?"
-      },
-      {
-        "role": "user",
-        "content": "Mental health concern hai shayad depression gaming addiction possible. Professional evaluation refuse karta force nahi kar sakte legally adult. Tough love timeline dar lagta homeless ho jayega adapt nahi kar paya toh. Par enabling clearly kaam nahi kar raha status quo mein stuck. Friends family advice conflicting - kuch kehte kick out kuch kehte support. Guilt heavy hai potential homelessness pe but resentment bhi building unhealthy. Kaise balance karein compassion aur accountability yaar."
-      },
-      {
-        "role": "assistant",
-        "content": "Mental health suspected but untreated yaar tough situation legally adult cooperation chahiye. Timeline compassionate hai immediate nahi - 3-6 months notice structured milestones ke saath job applications X per week ya therapy attendance. Homelessness risk real but staying enabled also risk long term dependence. Friends family advice filter through what works for your family values aur capacity. Guilt vs resentment balance compassionate boundaries se - 'I love you AND you need independence plan'. Family therapy agar woh willing collective decision professional guided. Kya financial contribution immediate possible - part time work rent concept introduce?"
-      },
-      {
-        "role": "user",
-        "content": "Financial contribution idea achha hai responsibility introduce without full independence immediately. 6 mahine structured timeline milestones reasonable negotiate kar sakte. Family therapy suggest kar sakte agar open hoga neutral mediator helpful. Compassionate boundaries 'love AND expectations' frame karna helpful guilt manage. Research karunga failure to launch programs specialized intervention agar personal attempts fail. Difficult conversations ahead but necessary unsustainable status quo change karne. Thank you framework dene compassion accountability balance. Will implement gradually firmly yaar."
-      },
-      {
-        "role": "assistant",
-        "content": "Perfect yaar structured timeline compassionate but firm. Financial contribution immediate accountability bina overwhelming independence. 6 months reasonable adjust navigate karne. Family therapy neutral space helpful agar receptive. Love AND frame both express karta enabling nahi. Failure to launch programs last resort option good backup research. Difficult conversations courage chahiye but necessary growth facilitate sabke liye. Status quo harm kar rahi static comfort mein. Tu caring parent hai boundaries set karna love ka ultimate act hai stunted development se bachana. Main hoon na. Implement gradually consistent rehna. Updates dena response ka. Change possible structured expectation se. Stay strong yaar."
-      }
-    ],
-    "metadata": {
-      "language": "hindi",
-      "intent": "overwhelm",
-      "conversation_stage": "deepening",
-      "severity": 6,
-      "escalation_needed": false
-    }
-  },
-  {
     "id": "ehsaas_p4_4031",
     "messages": [
       {
@@ -12397,186 +10673,6 @@
       "conversation_stage": "deepening",
       "severity": 7,
       "escalation_needed": false
-    }
-  },
-  {
-    "id": "ehsaas_p4_4033",
-    "messages": [
-      {
-        "role": "user",
-        "content": "Meri 10 saal ki beti selective mutism se suffer kar rahi. Ghar pe normal baat karti but school mein bilkul chup. Teachers concerned academic performance social isolation. Therapy mein hai behavioral approach exposure gradually. Progress bohot slow 2 saal se struggle. Beti frustrated hai communicate nahi kar pati school mein panic feel karti. Bullying bhi start ho gayi silent nature ka advantage lete bachhe. School change karne ka socha but pattern repeat ho sakta. Kaise help karun fast track nahi ho sakta but dard dekh nahi sakta yaar."
-      },
-      {
-        "role": "assistant",
-        "content": "Selective mutism anxiety disorder hai deeply rooted physical speech impossible feel hota triggering environments. 2 saal slow progress frustrating hai but typical therapy gradual exposure necessary sudden force worsening kar sakta. Beti ka frustration valid communicate nahi paana isolating painful. Bullying serious concern immediate school intervention anti-bullying protocol involve karna. School change fresh start de sakta but underlying anxiety address nahi hua toh pattern possible repeat. Therapy intensity increase kar sakta - weekly se bi-weekly sessions specialist consult second opinion. Kya speech therapist involved hai behavioral therapist ke saath coordination?"
-      },
-      {
-        "role": "user",
-        "content": "Speech therapist initially involved tha but discharge kar diya jab physical issues rule out ho gaye. Behavioral therapist anxiety focus hai exposure hierarchy slow. School intervention bullying ke liye kiya meetings hui but monitoring inconsistent. Therapy intensity increase afford kar sakta bi-weekly try karunga progress accelerate. Second opinion selective mutism specialist se lene ka socha but waiting lists lambi. Medication discuss hua anxiety ke liye hesitant bachpan mein start karne but desperation badh raha options explore. Home practice techniques karata encourage but school transfer nahi ho pata yaar."
-      },
-      {
-        "role": "assistant",
-        "content": "Speech therapist re-involve karna beneficial ho sakta collaboration anxiety plus communication strategies dual approach. Therapy intensity plus specialist second opinion parallel pursue karo waiting list mein naam dalo abhi bhi. School monitoring inconsistent unacceptable written plan demand karo specific adult assigned daily check-in beti ke liye safe person. Medication pediatric psychiatrist se detailed discuss karo - low dose SSRIs effective hain childhood anxiety proper supervision. Home practice good but school environment control nahi hai toh transfer limited impact. Desperation understandable but hasty decisions avoid karna systematic approach better. Video sessions consider kiye online specialists waiting list short ho sakti geographically flexible. Committed hai specialist waiting list plus medication evaluation plus school accountability plan?"
-      },
-      {
-        "role": "user",
-        "content": "Haan committed hoon systematic approach multi-pronged attack zaroori. Specialist waiting list abhi naam dalwaunga online options bhi explore karungi flexibility. Medication evaluation pediatric psychiatrist schedule karunga detailed risk benefit discussion. School accountability written plan demand karungi specific adult daily support. Therapy intensity increase bi-weekly coordinate karunga therapist ke saath. Speech therapist re-consultation request karungi collaboration anxiety communication. Systematic hai overwhelming but comprehensive address karna padega. Thanks structured multi-angle approach beti ki best interest serve karega. Will implement immediately yaar updates dunga progress ka."
-      },
-      {
-        "role": "assistant",
-        "content": "Perfect systematic multi-pronged sahi approach hai complex issue ke liye. Specialist waiting list plus online parallel maximum options open. Medication evaluation informed decision enable karega desperation se nahi evidence se. School written accountability legal protection bhi daily support consistency. Therapy intensity immediate boost progress curve. Speech therapist collaboration holistic approach anxiety plus skills. Overwhelming natural but structured execution manageable. Teri beti lucky hai aware proactive parent. Selective mutism treatable time patience specialized approach se. Main hoon na. Implement immediately systematic follow. Updates important progress track karne. Beti improve hogi comprehensive support se. Hang in there strong parent hona hard but rewarding eventually."
-      }
-    ],
-    "metadata": {
-      "language": "hindi",
-      "intent": "overwhelm",
-      "conversation_stage": "deepening",
-      "severity": 7,
-      "escalation_needed": false
-    }
-  },
-  {
-    "id": "ehsaas_p4_4034",
-    "messages": [
-      {
-        "role": "user",
-        "content": "I think I'm experiencing caregiver burnout. I've been taking care of my disabled spouse for 6 years. I love them but I'm exhausted resentful angry sometimes. I feel guilty for these feelings - they didn't choose this illness. I have no time for myself no social life my career suffered. I fantasize about running away which makes me feel like a terrible person. Respite care suggestions feel like abandonment. I'm not sure I can keep doing this but leaving isn't an option morally. I'm trapped and losing myself completely."
-      },
-      {
-        "role": "assistant",
-        "content": "Caregiver burnout with those exact feelings - exhaustion, resentment, anger, fantasy escape - is textbook and doesn't make you terrible person. You're human with limits being exceeded. Love and burnout coexist - caring for someone doesn't mean sacrificing yourself entirely. Six years without breaks unsustainable for anyone. Respite care isn't abandonment it's necessary maintenance for caregiver - you can't pour from empty cup. Guilt about feelings normal but misplaced - emotions aren't choices they're signals you need support. Staying without self-care leads to worse outcomes for both of you. Have you accessed any caregiver support services or is this solo caregiving entirely?"
-      },
-      {
-        "role": "user",
-        "content": "Mostly solo except occasional family help which is minimal. Haven't used professional respite care yet - partly cost, partly guilt that I should be able to handle this. Support groups I haven't joined feeling like complaining about someone I love feels disloyal. Therapist suggests self-care but when? Every minute is caregiving or recovery from caregiving. I snap at my spouse then hate myself. Our relationship has become caregiver-patient not partners anymore. I miss who we were. I miss who I was. Is this just my life forever now? That thought makes me want to scream."
-      },
-      {
-        "role": "assistant",
-        "content": "Solo caregiving for six years is superhuman effort not sustainable expectation. Professional respite care not luxury it's necessity - investigate subsidized options through disability services Medicare Medicaid depending on eligibility. Support groups aren't complaining they're survival - other caregivers understand uniquely without judgment. Self-care isn't selfish it's required maintenance - even 2 hours weekly respite is start reclaiming personhood. Relationship shifted to caregiver-patient dynamic without intervention will stay stuck - couples counseling disability-focused might help navigate maintaining partnership alongside care needs. Snapping then guilt indicates critical breaking point. This doesn't have to be forever in current form - with proper support structure sustainable caregiving possible. Ready to research respite options and join support group this week?"
-      },
-      {
-        "role": "user",
-        "content": "Yes I need to or I'll break completely. I'll research subsidized respite care can't continue without breaks. Support group I'll join this week online one to start lower barrier. Couples counseling good idea maintain partnership alongside care responsibilities. Two hours weekly respite minimum goal even if feels selfish initially. I need to hear from people who get it without judgment. Thanks for validating I'm not monster for feeling burned out and needing help. Will take concrete steps this week. Need to survive this long-term somehow."
-      },
-      {
-        "role": "assistant",
-        "content": "You're not monster you're exhausted human doing impossible task alone. Research respite today - Area Agency on Aging or disability organizations have resources. Online support group perfect start - schedule it like appointment non-negotiable. Couples counseling maintains relationship core reminds you both you're partners not just caregiver-patient. Two hours weekly baseline - protect it fiercely guilt will fade with practice. Community of caregivers will normalize your feelings and provide survival strategies. Long-term sustainability requires infrastructure support - building that now prevents complete breakdown. Your spouse needs you functional not martyred. Take steps this week no more delay. Update how respite search goes. You deserve support and relief. Surviving this possible with help not alone anymore."
-      }
-    ],
-    "metadata": {
-      "language": "english",
-      "intent": "overwhelm",
-      "conversation_stage": "deepening",
-      "severity": 8,
-      "escalation_needed": true
-    }
-  },
-  {
-    "id": "ehsaas_p4_4035",
-    "messages": [
-      {
-        "role": "user",
-        "content": "Yaar main apne best friend ke saath codependent relationship mein hoon. Har decision unse consult karta mood unke mood pe depend. Agar available nahi hote panic feel hota. Healthy boundaries nahi hain phone messages constant. Recently unhone space manga personal growth ke liye aur main devastated hoon. Realize kar raha inka bahut unhealthy attachment hai friendship se zyada. Therapy mein discuss kiya attachment issues childhood se stem karte. Kaise detach karun healthily bina friendship destroy kiye yaar losing them ka darr paralyzing hai."
-      },
-      {
-        "role": "assistant",
-        "content": "Codependent friendship romantic relationship jaisa intense hota hai yaar aur equally unhealthy. Har decision consultation mood dependence panic when unavailable - yeh enmeshment hai healthy friendship nahi. Unka space manga justified hai self-preservation ke liye suffocating dynamic se. Devastation shows kitna unhealthy attachment intense hai fear of abandonment core. Childhood attachment issues make sense pattern explain karti. Detach healthily requires therapy focused codependency plus deliberate space creation gradual exposure anxiety tolerate. Friendship survive kar sakti agar tu boundaries respect kar healthy interdependence develop otherwise toxicity continue push away karegi. Kya therapist codependency specific strategies de raha boundary building ke liye?"
-      },
-      {
-        "role": "user",
-        "content": "Therapist general anxiety pe focus karti codependency specifically address nahi ho rahi depth mein. Space dena physically kar raha but emotionally desperate feel hota contact karne. Other friendships neglect ki unhealthy reliance mein identity bhi unse tied hai separate sense nahi. Panic attacks aate jab response delayed. Recognize karta unhealthy but change nahi pata implement kaise. Friendship bachana hai but transformation zaroori hai dynamic mein. Darr hai agar change karunga toh naturally drift ho jayega incompatible ban jayenge yaar."
-      },
-      {
-        "role": "assistant",
-        "content": "Codependency specialist specifically chahiye yaar general anxiety insufficient deeply rooted patterns. Physically space de raha but emotionally clinging sustainability nahi hai long term exhausting. Other friendships rebuild karna zaroori diversify support system single person pe dependent nahi. Identity work separate karna therapy intensive - 'main kaun hoon without them' exploration essential. Panic attacks separation anxiety serious therapy plus possibly medication stabilize. Change transform karega friendship healthier form mein ya end karega - dono outcomes better than current toxicity. Natural drift agar incompatibility ho toh acceptance part hai growth ka. 90-day detox challenge - minimal contact other friendships invest identity hobbies develop therapy intensive. Committed hai extreme discomfort tolerate transformation ke liye?"
-      },
-      {
-        "role": "user",
-        "content": "Haan committed hoon yaar transformation zaroori survival ke liye current state unsustainable. Codependency specialist specifically search karunga qualified proper. 90-day minimal contact challenge terrifying but necessary nervous system recalibrate. Other friendships actively rebuild karunga support diversify identity separate explore hobbies interests independent. Panic attacks medication evaluate karunga functioning ke liye therapy intensive parallel. Natural drift acceptance practice karunga grief healthy process. Transformation ya ending dono better toxic status quo se. Thanks concrete challenge framework dene commitment clear. Will execute scared but determined yaar updates dunga."
-      },
-      {
-        "role": "assistant",
-        "content": "Proud of you yaar commitment despite terror shows readiness heal. Codependency specialist root cause address karega childhood patterns rewire. 90-day challenge brutal honest but effective nervous system retrain hoti gradual healthy attachment. Other friendships investment natural support build karti single dependence tod. Identity exploration liberating scary initially but authentic self discover hoti. Panic medication functioning baseline restore karti therapy intensive growth. Grief natural loss familiar pattern ka even if unhealthy. Transformation painful growth hai comfortable stagnation se better. Tu brave hai yaar face kar raha uncomfortable truth action le raha. Main hoon na. Execute challenge firmly consistent. Updates 30-60-90 milestones. Healthy attachment possible recalibrate se. You'll be okay better eventually."
-      }
-    ],
-    "metadata": {
-      "language": "hinglish",
-      "intent": "confused_feelings",
-      "conversation_stage": "deepening",
-      "severity": 7,
-      "escalation_needed": false
-    }
-  },
-  {
-    "id": "ehsaas_p4_4036",
-    "messages": [
-      {
-        "role": "user",
-        "content": "I think I'm having a quarter-life crisis. I'm 27, good job that pays well, stable relationship, but I feel empty. Is this all there is? Work, bills, routine until I'm old? Everyone says I should be grateful I have it good. But I'm not happy just not actively miserable. I don't know what I want instead which makes it worse. Quitting everything and traveling sounds appealing but irresponsible. I feel stuck between obligation and unnamed desire. Therapy says this is existential crisis but that doesn't help me know what to do. How do people find meaning or do they just accept this is life?"
-      },
-      {
-        "role": "assistant",
-        "content": "Quarter-life crisis when external success doesn't match internal fulfillment is incredibly common. You've achieved the checklist society gave you and discovered it's hollow - that's wisdom not ingratitude. 'Not actively miserable' is low bar for existence. Not knowing what you want is normal when you've been following prescribed path without questioning. Quitting everything extreme but exploring what brings genuine joy not obligation is necessary work. Existential crisis label accurate but therapy needs to go deeper - values clarification, meaning-making work. Some people accept, some actively create meaning through purpose discovery. Have you ever asked yourself what you'd do if money and judgment weren't factors?"
-      },
-      {
-        "role": "user",
-        "content": "Honestly I don't know. I've been on achievement track since high school - good grades, right college, career path. Never stopped to ask what I actually want just what I should want. The question feels paralyzingly big. Small moments of joy exist - creating things, helping people, nature - but building life around those seems impossible or financially stupid. Responsible adult means stable income routine life right? Breaking from that feels selfish especially when partner and family have expectations. But continuing feels like slow death of spirit. I'm afraid if I change nothing I'll wake up at 60 filled with regret."
-      },
-      {
-        "role": "assistant",
-        "content": "Achievement track without self-reflection leads exactly here - external success, internal emptiness. Small joy moments are data - creating, helping, nature - those are clues to authentic values not frivolous wants. Building life around those isn't impossible many people do it requires creativity and risk tolerance. Responsible adult is trap concept - responsibility includes to yourself and genuine fulfillment. Partner and family expectations their baggage not your life sentence. Changing nothing guarantees 60-year-old regret you're already feeling at 27. This doesn't require quitting everything tomorrow - can start small experiments, side projects, therapy focused on values clarification not just crisis management. Ready to explore what creating, helping, nature mean in practical life terms even if scares you?"
-      },
-      {
-        "role": "user",
-        "content": "Yes I need to explore this. Can't keep living for checklist and others' expectations. I'll talk to therapist about values work specifically not just managing crisis. Small experiments feel doable - maybe volunteer work weekends, creative hobby seriously not just stress relief, nature time protected not squeezed in. Partner conversation needed about my struggles and needs scary but necessary. Career might need eventual shift but information gathering first not impulsive quitting. Thanks for validating this isn't ungrateful crisis it's legitimate search for meaning. Will start small this month see what resonates. Update in few weeks."
-      },
-      {
-        "role": "assistant",
-        "content": "That's exactly right approach - exploration not explosion. Values-focused therapy will clarify what matters to you specifically. Small experiments low-risk high-information - volunteer, hobby, nature will show what genuinely energizes versus drains. Partner conversation vulnerability is intimacy - if they can't handle your authentic struggle that's important data. Career information gathering smart - options exist between golden handcuffs and reckless abandon. This is legitimate meaning-search not ingratitude - you're allowed to want fulfilling life not just functional one. Start experiments this month track what brings genuine engagement. Update definitely - rooting for your authentic path discovery. Twenty-seven is perfect time for course correction. You're not stuck forever just need courage to explore."
-      }
-    ],
-    "metadata": {
-      "language": "english",
-      "intent": "confused_feelings",
-      "conversation_stage": "deepening",
-      "severity": 5,
-      "escalation_needed": false
-    }
-  },
-  {
-    "id": "ehsaas_p4_4037",
-    "messages": [
-      {
-        "role": "user",
-        "content": "Yaar meri wife postpartum depression se struggle kar rahi 4 mahine se baby birth ke baad. Bonding nahi ho raha baby ke saath guilt overwhelming. Therapy start kiya medication bhi but progress slow. Main supportive banna chahta but helpless feel hota fix nahi kar sakta. Baby care mostly mera plus household plus work exhausted hoon. Resentment feel hoti kabhi phir guilt ki woh bimaar hai fault nahi. Marriage strain mein hai intimacy zero communication minimal. Kaise support karun properly jab khud bhi struggling mentally physically yaar overwhelmed complete."
-      },
-      {
-        "role": "assistant",
-        "content": "Postpartum depression serious medical condition hai yaar slow recovery frustrating but expected. Wife ka bonding struggle aur guilt PPD symptoms hain personal failing nahi. Tera support critical but solo caregiving unsustainable - tu caregiver burnout risk mein. Resentment natural hai human limits exceeded guilt bhi valid but unhelpful cycle. Fix nahi kar sakta true but support structure create kar sakta. Help chahiye immediate - family, friends, postpartum doula, mother's helper. Marriage strain normal PPD mein intimacy communication suffer karte temporary. Kya practical help access kiya daily care mein ya solo handling mostly?"
-      },
-      {
-        "role": "user",
-        "content": "Mostly solo handling family distant friends busy. Postpartum doula nahi socha tha expensive lagta. Mother's helper affordable explore kar sakta. Wife therapy weekly but progress slow frustrating sabke liye. Medication adjustment discuss hui recently hope hai improvement. Communication try karta but woh withdraw karti guilt shame overwhelm. Intimacy discuss karna insensitive lagta abhi situation mein but miss karta connection. Therapy couples ka suggest kiya but timing wrong lagta overwhelm mein ek aur appointment. Solo therapy meri nahi li abhi prioritize nahi kar paya yaar."
-      },
-      {
-        "role": "assistant",
-        "content": "Mother's helper immediately hire kar yaar even part-time relief critical. Therapy progress slow normal PPD treatment months leta sudden nahi. Medication adjustment hopeful sign psychiatrist responsive. Communication withdrawal PPD symptom push gently but respectfully space de. Intimacy discuss actually important misconnection core issue - frame as 'I miss feeling close to you' emotional not just physical. Couples therapy seems overwhelming but actually reduces load - professional mediates communication lightens individual burden. Tera solo therapy non-negotiable hai functioning require karta caregiver health critical. Affordable online options exist Tele-MANAS free. Committed hai mother's helper hire plus solo therapy start this week priority?"
-      },
-      {
-        "role": "user",
-        "content": "Haan committed hoon yaar survival mode se functional mode jaana zaroori. Mother's helper research karunga hire this week practical relief immediate. Solo therapy priority banaunga online affordable explore Tele-MANAS start point. Intimacy conversation reframe karunga emotional connection miss physical pressure nahi. Couples therapy consider karunga timing flexible suggest when wife stable thoda. Medication adjustment monitor karunga support wife ki follow-up. Practical help plus emotional support plus self-care combination sustainable approach. Thanks structure dene overwhelm breakdown se action plan. Will execute immediately updates dunga yaar."
-      },
-      {
-        "role": "assistant",
-        "content": "Perfect yaar action plan survival se sustainable shift karega. Mother's helper immediate game changer hogi physical load share. Solo therapy functioning maintain karega caregiver effective rehne. Intimacy reframe emotional connect karta pressure nahi shame reduce. Couples therapy flexible timing wife stable hone wait kar sakti but option open. Medication monitoring support continuity ensure karti improvement track. Practical plus emotional plus self-care triad necessary hai long term PPD journey. Tu amazing partner hai yaar crisis mein support de raha apna bhi dhyan. Main hoon na. Execute this week firmly. Updates progress ke wife aur tera dono. PPD recoverable time proper support se. Hang in there strong."
-      }
-    ],
-    "metadata": {
-      "language": "hinglish",
-      "intent": "overwhelm",
-      "conversation_stage": "deepening",
-      "severity": 8,
-      "escalation_needed": true
     }
   },
   {
@@ -12688,170 +10784,6 @@
     }
   },
   {
-    "id": "ehsaas_p4_4041",
-    "messages": [
-      {
-        "role": "user",
-        "content": "I'm realizing my entire friend group is toxic. They gossip constantly put each other down competitive not supportive. I've been part of this for years and I'm ashamed I participated. Now that I see it clearly I don't want to be around them but they're my only social circle. Starting over socially at 29 feels impossible. I don't know how to make new friends as an adult. If I distance myself I'll be completely alone which terrifies me. But staying means being around negativity that's affecting my mental health. I'm torn between loneliness and toxicity. How do people find healthy friendships later in life? Is it even possible or do I just accept flawed connections?"
-      },
-      {
-        "role": "assistant",
-        "content": "Recognizing toxic friend dynamics is growth even if uncomfortable. Years of participation creates guilt but awareness now is what matters moving forward. Toxicity versus loneliness feels like impossible choice but false binary - third option is intentionally building healthy connections over time. Twenty-nine absolutely not too late most people rebuild friend circles multiple times in life. Adult friendships form through shared activities interests values not just proximity like school. Distancing from toxicity creates space for healthy connections - staying blocks that opportunity. Temporary loneliness during transition is growth pain not permanent state. Have you identified activities or communities where you might meet people aligned with your values?"
-      },
-      {
-        "role": "user",
-        "content": "I haven't really thought about it. My hobbies are solitary mostly - reading, gaming. Going to group activities alone sounds terrifying. What if I don't fit in or people already have friend groups closed off? The rejection would be worse than current toxic friends at least they're familiar. I know this is fear talking but it feels insurmountable. Plus extracting myself from current group without drama seems impossible - they'll gossip about me probably turn mutual acquaintances against me. Maybe staying and just emotionally distancing is safer option? Keep surface relationships without deep investment?"
-      },
-      {
-        "role": "assistant",
-        "content": "Solitary hobbies can become social - book clubs, gaming communities, online forums transitioning to meetups. Going alone is how most people show up initially - groups form from individuals taking that risk. Rejection possible but so is connection - current toxic friends guarantee negativity while new groups offer possibility. Familiar toxic isn't safety it's comfortable suffering. Fear is natural but staying stunts growth. Group drama during exit likely but their gossip reflects them not you - mutual acquaintances worth keeping will understand. Emotional distancing while staying rarely works - you're still exposed to toxicity just pretending immunity. Temporary discomfort of starting over versus ongoing drain of toxic friendships - which is actually safer long-term for your mental health?"
-      },
-      {
-        "role": "user",
-        "content": "Long-term starting over is healthier you're right. Short-term terror is what's stopping me. Okay I'll try - maybe one book club meeting or gaming meetup as experiment. If it's terrible I'll know I tried. Gradual distance from current group not dramatic announcement just slow fade. Their drama inevitable but I can't control their reactions only my actions. Loneliness during transition I'll have to tolerate as temporary not permanent. Thanks for reframing this as growth pain not failure. I'll research local groups this week attend one thing next month. Small steps not total social overhaul overnight. Update after first attempt. Scared but also tired of toxicity enough to try."
-      },
-      {
-        "role": "assistant",
-        "content": "That's brave commitment - one book club or gaming meetup as experiment is perfect low-pressure start. Terrible outcome unlikely and even if awkward it's data gathering not failure. Slow fade from toxic group is mature approach avoids unnecessary drama. Their reactions their problem - you're prioritizing mental health which is healthy boundary. Loneliness temporary during transition - building meaningful connections takes time but worth investment. Growth pain versus stagnation suffering - you're choosing growth despite fear. Research this week, attend next month gives you time to mentally prepare. Small steps exactly right approach sustainable change not overwhelming overhaul. Update definitely after first attempt. Scared and tired of toxicity is perfect motivation combination. Twenty-nine is great age for friend reset - self-aware enough to choose quality over familiar. You've got this."
-      }
-    ],
-    "metadata": {
-      "language": "english",
-      "intent": "confused_feelings",
-      "conversation_stage": "deepening",
-      "severity": 5,
-      "escalation_needed": false
-    }
-  },
-  {
-    "id": "ehsaas_p4_4042",
-    "messages": [
-      {
-        "role": "user",
-        "content": "Yaar mera younger brother drug addiction mein gaya serious level pe. Rehab refuse karta parents enable karte bailout karte financial. Main intervention karne chahta but family resist karti interference bolti. Bhai aggressive ho jata confront karne pe. Tough love suggest karta cut off financial support consequences face kare but parents emotional nahi kar sakte. Dekhta deteriorate hote helpless feel hota. Enable karna vs tough love family divided. Mera mental health impact ho raha stress se constantly worried. Kaise convince karun family intervention zaroori bina relationship damage kiye yaar desperate situation."
-      },
-      {
-        "role": "assistant",
-        "content": "Addiction family disease hai yaar addict plus enablers cycle maintain karte. Parents ka enable karna love se motivated but harmful ultimately recovery prevent karta. Tera intervention desire sahi but family resistance common denial powerful. Bhai ka aggression addiction symptom hai confrontation defense mechanism. Tough love scary parents ko but often necessary rock bottom reach karne recovery motivation. Family divided common addiction mein education zaroori Al-Anon type resources. Tera mental health suffering valid boundary setting apne liye important. Professional interventionist hire karna option hai family mediate neutral expert guidance. Kya Al-Anon meetings attend kiye support coping family dynamics addiction?"
-      },
-      {
-        "role": "user",
-        "content": "Al-Anon nahi attend kiya stigma feel hota family problems outsiders share karna. Professional interventionist expensive plus parents agree nahi karenge kahenge family matter privately handle. Financial enabling daily basis parents retire ho gaye savings deplete. Bhai health declining visible physical deterioration. Siblings mein main akela vocal rehabilitation advocate others silent avoid conflict. Frustration isolation feel hota fight alone. Boundary setting guilt aati abandon karne jaisa lagta but self-preservation bhi zaroori yaar torn completely approach unclear."
-      },
-      {
-        "role": "assistant",
-        "content": "Al-Anon stigma understandable but confidential safe space hai shared struggles judgment nahi. Professional interventionist expensive but savings depletion comparison mein investment small bhai ki life save karne. Parents agreement forced nahi but education attempt CRAFT method family training enabling stop consequences natural hone de. Bhai health declining medical emergency potential intervention justify karta urgency. Sibling silent conflict avoidance enable indirectly solidarity mein strength. Frustration isolation real yaar solo advocacy exhausting Al-Anon specifically is isolation tod ta. Boundary setting abandonment nahi self-preservation hai enable karna actually harm karta recovery delay. Committed hai Al-Anon one meeting attend karne anonymous support experience plus CRAFT resources research family education?"
-      },
-      {
-        "role": "user",
-        "content": "Haan committed hoon yaar isolation breaking zaroori support community. Al-Anon one meeting attend karunga anonymously stigma kam hoga experience se. CRAFT method research karunga family education approach enabling stop natural consequences. Siblings ko bhi involve karne ki koshish solidarity build united front parents convince. Medical emergency potential document karna intervention justify urgent action. Boundary setting practice karunga guilt tolerate self-preservation not abandonment. Professional interventionist backup option agar family effort fail toh consider. Thanks structured approach dene hopeless se actionable plan. Will attend meeting research CRAFT update implementation yaar. Bhai ki life stake pe action zaroori despite discomfort."
-      },
-      {
-        "role": "assistant",
-        "content": "Perfect yaar action plan isolation se empowerment shift hai. Al-Anon meeting anonymously attend safe entry point community support. CRAFT method evidence-based family approach enabling reduce consequences increase specific training. Siblings involvement unity strength parents influence zyada collective concern. Medical emergency documentation intervention urgency justify karta objective evidence. Boundary guilt tolerate practice self-preservation addiction recovery ultimately serve karta enabling harm karta. Professional interventionist backup reasonable last resort option. Structured approach overwhelm ko manageable concrete steps. Bhai ki life worth fighting yaar family resistance despite action courage. Main hoon na. Execute meeting attendance CRAFT research sibling conversation this month. Updates progress family response. Addiction fightable proper approach se recovery possible intervention timing critical. Stay strong committed."
-      }
-    ],
-    "metadata": {
-      "language": "hinglish",
-      "intent": "overwhelm",
-      "conversation_stage": "deepening",
-      "severity": 8,
-      "escalation_needed": true
-    }
-  },
-  {
-    "id": "ehsaas_p4_4043",
-    "messages": [
-      {
-        "role": "user",
-        "content": "Meri maa ko hoarding disorder hai ghar stuff se bhara unsafe. Fire hazard hai pathways blocked. Cleanup suggest karta aggressive defensive ho jati emotional attachment objects. Mental health issue hai recognize karta but cooperation nahi karti therapy. Siblings door rehte burden mera akela handle. Health department complaint concern hai but maa ko betray karunga feel hoga. Living conditions deteriorate rahi physical health risk. Force nahi kar sakta adult hai autonomy. Helpless feel hota intervention zaroori but resistant yaar safety vs autonomy conflict trapped."
-      },
-      {
-        "role": "assistant",
-        "content": "Hoarding disorder serious mental health condition hai treatment resistant often. Ghar unsafe conditions fire hazard health risk immediate concern. Maa ka emotional attachment objects symptom hai rational persuasion ineffective. Cleanup attempts without therapy worsen usually defensive reaction trigger. Siblings distance unfair burden distribution elder care typically falls one child. Health department complaint extreme but safety critical legal intervention option. Therapy cooperation nahi forced possible agar danger to self others. Adult autonomy important but unsafe living endangerment hai intervention justify karta. Professional hoarding specialist consult first attempt therapist trained specific approach. Kya local adult protective services contact kiya assessment options explore safety intervention?"
-      },
-      {
-        "role": "user",
-        "content": "Adult protective services nahi contact kiya darr betrayal ka maa trust toot jayegi. Professional hoarding specialist nahi pata tha exist consult explore kar sakta. Cleanup attempts multiple fail argumentative defensive. Health declining mobility issues clutter se navigation difficult falls risk. Siblings aware but involvement minimal financial contribute nahi physical help. Responsibility solely mera feel hota unfair but default caregiver. Safety immediate but autonomy respect bhi zaroori balance impossible lagta yaar decision paralysis."
-      },
-      {
-        "role": "assistant",
-        "content": "Adult protective services consultation confidential information gathering nahi immediate removal. Hoarding specialist specifically trained resistance work gradual approach therapy plus practical. Cleanup attempts solo fail typical hoarding specialist team approach necessary professional intervention. Health declining falls risk immediate medical emergency potential intervention urgency justify. Siblings minimal involvement unfair caregiver burden unequal distribution mediation needed contribution demand. Responsibility default but boundaries possible financial contribution siblings demand fair share. Safety vs autonomy balance professional assess karta capacity decision-making agar danger imminent autonomy secondary. Decision paralysis understanding but inaction risk increase karta yaar consultation action first step commitment nahi. Willing hai hoarding specialist consult this week plus adult protective information gathering not reporting just options?"
-      },
-      {
-        "role": "user",
-        "content": "Haan willing hoon yaar information action se better inaction risk increase. Hoarding specialist consult schedule karunga this week trained approach attempt. Adult protective services information gathering confidential reassuring reporting nahi commitment. Siblings mediation karunga contribution financial physical demand fair distribution burden. Falls risk medical emergency document immediate intervention justify. Safety priority autonomy respect attempt specialist guidance balance. Decision paralysis breaking consultation first step options clarity. Thanks structured immediate low-commitment actions dene overwhelm manageable. Will consult specialist protective services info sibling conversation this week update response yaar maa ki safety critical delay dangerous."
-      },
-      {
-        "role": "assistant",
-        "content": "Perfect yaar consultation action paralysis tootega information empowerment. Hoarding specialist this week trained resistance specialized approach attempt success higher solo. Adult protective services information confidential options clarity legal intervention if necessary understanding. Siblings mediation contribution demand fair elder care responsibility distribute not solo burden. Medical emergency falls risk documentation intervention urgency objective evidence. Safety autonomy balance professional expertise navigate complex ethical legal. Low commitment consultations first step nahi dramatic action immediate pressure reduction. Maa ki safety non-negotiable despite autonomy respect attempt specialist best approach trained specifically. Main hoon na. Execute consultations this week systematic. Updates specialist assessment protective services options sibling response. Hoarding treatable proper intervention maa ki health safety priority action courage despite fear betrayal. Strong supportive despite difficulty yaar."
-      }
-    ],
-    "metadata": {
-      "language": "hindi",
-      "intent": "overwhelm",
-      "conversation_stage": "deepening",
-      "severity": 8,
-      "escalation_needed": true
-    }
-  },
-  {
-    "id": "ehsaas_p4_4044",
-    "messages": [
-      {
-        "role": "user",
-        "content": "I think I'm experiencing burnout but I can't afford to stop working. Single parent, sole income, no savings buffer. I'm exhausted all the time making mistakes at work which makes anxiety worse. My kid deserves better than zombie parent I've become. Weekends I sleep instead of quality time. Therapy says take time off but financially impossible. I'm running on empty but stopping means bills don't get paid. How do people recover from burnout while still surviving financially? I feel trapped in cycle that's destroying my health and my relationship with my child. Something has to give but I don't know what."
-      },
-      {
-        "role": "assistant",
-        "content": "Burnout while being sole provider is impossible situation - can't rest, can't sustain current pace. Exhaustion and work mistakes creating anxiety spiral risk of job loss paradoxically. Your kid needs functional parent not perfect one - zombie parent accurate but harsh on yourself. Weekend sleep indicates severe depletion recovery attempts failing. Therapy suggesting time off unhelpful without practical financial solutions. Cycle breaking requires creative problem-solving not just willpower. Short-term options: discuss reduced hours with employer, investigate FMLA unpaid leave with job protection, emergency assistance programs rent utilities, temporary help from family friends childcare coverage. Have you explored workplace accommodations for mental health or local emergency assistance programs?"
-      },
-      {
-        "role": "user",
-        "content": "Haven't explored workplace accommodations scared of seeming weak or unreliable. FMLA unpaid leave defeats purpose still need income. Family limited help offers minimal. Emergency assistance didn't know existed will research. Reduced hours means reduced pay already stretched thin. Feel like every option has impossible trade-off. Guilt about kid seeing me this way but changing it seems impossible. Mistakes at work increasing fear of firing which would be catastrophic. I'm in survival mode can't see way to recovery mode. Maybe I just need to push through hope it gets better somehow?"
-      },
-      {
-        "role": "assistant",
-        "content": "Pushing through on empty guarantees collapse eventually - burnout doesn't resolve without intervention it worsens. Workplace accommodations legal protection exist specifically for this - reduced hours temporarily, flexible schedule, mental health days. Seeming weak versus actually collapsing and losing job - which is riskier? FMLA unpaid true but job protection during recovery prevents firing. Emergency assistance programs exist for exactly this - utility help, food assistance, childcare subsidies research local 211 helpline. Temporary reduced income with assistance support better than full collapse. Guilt about kid understandable but modeling self-care teaches them healthy boundaries long-term. Survival mode isn't sustainable recovery mode requires small strategic changes not dramatic overhaul. Ready to research emergency assistance call 211 and schedule conversation with HR about accommodations this week even if scary?"
-      },
-      {
-        "role": "user",
-        "content": "Yes I have to try something this isn't sustainable. I'll call 211 this week research emergency assistance options. HR conversation terrifies me but I'll prepare script focus on solutions not problems temporary accommodations. FMLA information I'll gather understand protection even if unpaid. Small strategic changes not dramatic shift makes it feel possible. Kid modeling self-care reframe helpful guilt reduction. Collapse prevention versus pride protection obvious choice when stated that way. Thanks for practical steps not just 'rest more' advice. Will take actions this week update what resources available. Scared but more scared of total collapse. Have to try."
-      },
-      {
-        "role": "assistant",
-        "content": "That's exactly right mindset - scared but trying is courage. Call 211 today connects to local resources food housing childcare assistance comprehensive. HR conversation script preparation smart - frame as temporary accommodation productive employee wanting to sustain performance. FMLA information gathering empowerment even if don't use knowledge is tool. Small changes aggregate into meaningful shift dramatic overhaul unrealistic. Kid modeling self-care is teaching resilience life skill. Collapse prevention absolute priority pride recovers health doesn't always. Practical steps are actionable 'rest more' useless without logistics. Execute this week systematically. Update definitely what resources found workplace response. Burnout recoverable with support strategic changes you're not failing you're drowning need help. Reaching for help is strength. You're good parent fighting to be better for your kid. That matters."
-      }
-    ],
-    "metadata": {
-      "language": "english",
-      "intent": "overwhelm",
-      "conversation_stage": "deepening",
-      "severity": 8,
-      "escalation_needed": true
-    }
-  },
-  {
-    "id": "ehsaas_p4_4046",
-    "messages": [
-      {
-        "role": "user",
-        "content": "I keep having dreams about my ex from 2 years ago. Not romantic dreams just random everyday scenarios. I'm in a happy relationship now but these dreams make me feel guilty like I'm emotionally cheating. My current partner doesn't know and I don't want to hurt them by mentioning it. But the guilt is eating me. Are dreams something I can control? Am I subconsciously not over my ex?"
-      },
-      {
-        "role": "assistant",
-        "content": "Dreams aren't something we control yaar - they're just your brain processing random memories and emotions. Having dreams about an ex doesn't mean you're not over them or that you're emotionally cheating. It's actually pretty common even years later. The guilt you're feeling is real, but it's based on something you have zero control over."
-      }
-    ],
-    "metadata": {
-      "language": "english",
-      "intent": "confused_feelings",
-      "conversation_stage": "initial",
-      "severity": 4,
-      "escalation_needed": false
-    }
-  },
-  {
     "id": "ehsaas_p4_4047",
     "messages": [
       {
@@ -12875,54 +10807,6 @@
       "language": "hindi",
       "intent": "venting",
       "conversation_stage": "deepening",
-      "severity": 5,
-      "escalation_needed": false
-    }
-  },
-  {
-    "id": "ehsaas_p4_4048",
-    "messages": [
-      {
-        "role": "user",
-        "content": "I'm 24 and my parents still track my location, call multiple times a day, need to know every detail of my life. I'm financially independent but emotionally it feels suffocating. When I try to set boundaries they cry and say I've changed, don't love them anymore. The guilt works every time. How do other people deal with this?"
-      },
-      {
-        "role": "assistant",
-        "content": "That sounds really exhausting yaar - being financially independent but emotionally held in place. The guilt reaction when you try boundaries is really powerful, and it makes sense that it stops you. A lot of people struggle with this exact thing, especially with the way family dynamics work here."
-      },
-      {
-        "role": "user",
-        "content": "Exactly. My friends don't get it they're like 'just don't answer' but they don't understand the emotional manipulation. Last week I didn't pick up one call because I was in a meeting and my mom called my office reception crying saying something happened to me. I was so embarrassed. Then I felt terrible for making her worry."
-      },
-      {
-        "role": "assistant",
-        "content": "That office call thing must have been really difficult - embarrassing at work and then the guilt on top of it. It sounds like their anxiety becomes your responsibility to manage, which is a lot to carry. The 'just don't answer' advice from friends probably feels pretty dismissive when the emotional stakes are this high for you."
-      }
-    ],
-    "metadata": {
-      "language": "english",
-      "intent": "overwhelm",
-      "conversation_stage": "deepening",
-      "severity": 6,
-      "escalation_needed": false
-    }
-  },
-  {
-    "id": "ehsaas_p4_4049",
-    "messages": [
-      {
-        "role": "user",
-        "content": "Main apni creativity kho diya lagta hai. Pehle likhta tha paint karta tha but ab kuch bhi karne ka mann nahi karta. Blank canvas ya empty document dekh ke anxiety hoti. Kya agar talent temporary tha? Kya agar wapas nahi aaya?"
-      },
-      {
-        "role": "assistant",
-        "content": "Creative block bohot scary feel hota hai yaar, especially jab pehle natural aata tha. Blank canvas anxiety shows ki pressure hai internally kuch 'perfect' create karne ka. Talent temporary nahi hota, but access to it fluctuate kar sakti external stress ya internal pressure se."
-      }
-    ],
-    "metadata": {
-      "language": "hindi",
-      "intent": "confused_feelings",
-      "conversation_stage": "initial",
       "severity": 5,
       "escalation_needed": false
     }
@@ -12972,34 +10856,6 @@
       "intent": "confused_feelings",
       "conversation_stage": "initial",
       "severity": 5,
-      "escalation_needed": false
-    }
-  },
-  {
-    "id": "ehsaas_p4_4052",
-    "messages": [
-      {
-        "role": "user",
-        "content": "I think I'm developing social anxiety. I used to be fine in groups but now before any social event I feel sick, my heart races, I overthink everything I'll say. During the event I'm hyper-aware of myself, after I replay every conversation obsessively. It's exhausting. I've started declining invitations which makes me feel worse about myself."
-      },
-      {
-        "role": "assistant",
-        "content": "That progression from being fine to feeling physically sick before events sounds really distressing. The before-during-after cycle you described - anticipatory anxiety, hyper-awareness, then the replay loop - takes up so much mental energy. And then declining invitations probably brings its own guilt and isolation."
-      },
-      {
-        "role": "user",
-        "content": "Exactly. And people are starting to notice. Friends are like 'you never come out anymore' which makes me feel guilty but also pressured. If I force myself to go I'm miserable and everyone can tell. If I don't go I hate myself for being weak. Can't win either way."
-      },
-      {
-        "role": "assistant",
-        "content": "That sounds like you're stuck between two kinds of discomfort - the pressure and visibility of going, or the guilt and self-criticism of staying home. Both options feel bad right now, which makes sense why this feels so stuck."
-      }
-    ],
-    "metadata": {
-      "language": "english",
-      "intent": "overwhelm",
-      "conversation_stage": "deepening",
-      "severity": 7,
       "escalation_needed": false
     }
   },
@@ -13108,26 +10964,6 @@
     }
   },
   {
-    "id": "ehsaas_p4_4057",
-    "messages": [
-      {
-        "role": "user",
-        "content": "Main apni field mein switch karna chahta hoon but 3 saal invest kar chuka hoon current career mein. Sunk cost fallacy samajh aata but 3 saal phir se start karna? 26 ka ho jaunga by then. Late nahi hai kya? Peers aage badh gaye honge. Financial instability bhi hogi initially. Logical decision lena hai but emotions mein confuse hoon."
-      },
-      {
-        "role": "assistant",
-        "content": "Teen saal ka investment chhodna definitely difficult feel hota hai yaar, chahe logically sunk cost samajh mein aaye. Aur 26 pe restart ka idea probably scary lagta hai age ka pressure aur peer comparison se. Emotions aur logic dono pull kar rahe opposite directions mein."
-      }
-    ],
-    "metadata": {
-      "language": "hindi",
-      "intent": "confused_feelings",
-      "conversation_stage": "initial",
-      "severity": 5,
-      "escalation_needed": false
-    }
-  },
-  {
     "id": "ehsaas_p4_4058",
     "messages": [
       {
@@ -13152,26 +10988,6 @@
       "intent": "mixed_emotions",
       "conversation_stage": "deepening",
       "severity": 6,
-      "escalation_needed": false
-    }
-  },
-  {
-    "id": "ehsaas_p4_4059",
-    "messages": [
-      {
-        "role": "user",
-        "content": "Yaar main apne introvert nature se frustrated hoon. Parties mein jata hoon but energy drain ho jati quickly. Log kehte hain main boring hoon ya snobby because I don't talk much. Lekin mujhe genuinely overwhelm ho jata hai loud environments. Extrovert banna try karta but exhausting hai. Accept karun ki aisa hi hoon ya change karne ki koshish karun?"
-      },
-      {
-        "role": "assistant",
-        "content": "Introversion aur energy drain loud spaces mein bohot real experience hai yaar, aur 'boring' ya 'snobby' label probably hurt karte hain jab tum genuinely overwhelmed ho rahe ho. Forcing yourself to be extroverted likely feels like performing, which is its own kind of exhausting."
-      }
-    ],
-    "metadata": {
-      "language": "hinglish",
-      "intent": "confused_feelings",
-      "conversation_stage": "initial",
-      "severity": 4,
       "escalation_needed": false
     }
   },
@@ -13220,34 +11036,6 @@
       "intent": "overwhelm",
       "conversation_stage": "initial",
       "severity": 6,
-      "escalation_needed": false
-    }
-  },
-  {
-    "id": "ehsaas_p4_4062",
-    "messages": [
-      {
-        "role": "user",
-        "content": "I keep comparing my relationship to my friends' relationships. They post cute couple photos, go on trips, seem so happy. My relationship is good but quiet, private, not Instagram-worthy. Now I'm wondering if we're boring or if they're just performing. Either way I feel inadequate. Should we be doing more? Am I settling?"
-      },
-      {
-        "role": "assistant",
-        "content": "Comparison especially through social media versions of relationships can really mess with how you see your own. The question of whether yours is genuinely good-but-different or whether you're settling is probably a hard one to answer when you're constantly seeing these curated versions of other people's lives."
-      },
-      {
-        "role": "user",
-        "content": "Right and my partner is happy with how we are. Quiet weekends at home, occasional dinner out, nothing dramatic. I was happy too until I started comparing. Now I bring up doing more exciting things and they're confused because we're fine. Maybe I'm creating a problem that doesn't exist? But the inadequacy feeling is real even if it's irrational."
-      },
-      {
-        "role": "assistant",
-        "content": "It sounds like the comparison created a dissatisfaction that wasn't there before, but now that it exists, it's hard to just logic it away even knowing where it came from. Your partner's confusion probably adds to the feeling of 'am I making up a problem?'"
-      }
-    ],
-    "metadata": {
-      "language": "english",
-      "intent": "confused_feelings",
-      "conversation_stage": "deepening",
-      "severity": 4,
       "escalation_needed": false
     }
   },
@@ -13387,54 +11175,6 @@
       "language": "hindi",
       "intent": "venting",
       "conversation_stage": "deepening",
-      "severity": 5,
-      "escalation_needed": false
-    }
-  },
-  {
-    "id": "ehsaas_p4_4068",
-    "messages": [
-      {
-        "role": "user",
-        "content": "I think I'm addicted to drama. When life is calm I feel anxious, like something bad is about to happen. I unconsciously create problems - pick fights, manufacture crises - just to feel something familiar. Peaceful feels wrong. Chaotic feels normal. I know this is messed up but I don't know how to just... be okay with being okay."
-      },
-      {
-        "role": "assistant",
-        "content": "The discomfort with peace and the familiarity of chaos is a real pattern some people experience. Creating drama when things are calm makes sense if crisis mode is what your nervous system learned to operate in. 'Being okay with being okay' probably feels foreign if chaos was your normal for a long time."
-      },
-      {
-        "role": "user",
-        "content": "Yeah growing up it was always volatile. Never knew what mood parents would be in, always walking on eggshells, always some crisis. I guess I adapted to that. But now I'm an adult and I'm the one creating the chaos. I've hurt people because of this pattern. I see it happening and still can't stop. It's like I need the adrenaline or something."
-      },
-      {
-        "role": "assistant",
-        "content": "Growing up in that kind of environment would definitely wire your system to expect instability. The adrenaline need you mentioned makes sense - your body might be seeking that familiar stress state because calm registers as 'wrong' or 'dangerous' in some way. Seeing the pattern but feeling unable to stop it is probably really frustrating."
-      }
-    ],
-    "metadata": {
-      "language": "english",
-      "intent": "confused_feelings",
-      "conversation_stage": "deepening",
-      "severity": 7,
-      "escalation_needed": false
-    }
-  },
-  {
-    "id": "ehsaas_p4_4069",
-    "messages": [
-      {
-        "role": "user",
-        "content": "Yaar main apne achievements downplay karta hoon always. Koi compliment kare toh deflect. Koi achievement ho toh luck ya timing ko credit. Imposter syndrome shayad but ab personality trait ban gaya. Log frustrated hote hain jab main appreciation accept nahi karta. Fake humility lag rahi hai but genuinely deserve nahi karta feel hota."
-      },
-      {
-        "role": "assistant",
-        "content": "Consistently downplaying achievements aur deflecting compliments definitely imposter syndrome jaisa lagta hai yaar, but jab personality mein ingrained ho jaye toh automatic response ban jata. People getting frustrated makes sense kyunki unka validation tum reject kar rahe ho repeatedly. Aur genuinely deserve nahi karna feel karna probably bohot deeply rooted hai."
-      }
-    ],
-    "metadata": {
-      "language": "hinglish",
-      "intent": "confused_feelings",
-      "conversation_stage": "initial",
       "severity": 5,
       "escalation_needed": false
     }
