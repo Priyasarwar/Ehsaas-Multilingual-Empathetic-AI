@@ -9698,8 +9698,7 @@
       "severity": 10,
       "escalation_needed": true
     }
-  }
-  [
+  },
   {
     "id": "ehsaas_p5_5272",
     "messages": [
@@ -9939,9 +9938,7 @@
       "severity": 7,
       "escalation_needed": false
     }
-  }
-]
-  [
+  },
   {
     "id": "ehsaas_p5_5282",
     "messages": [
@@ -10253,9 +10250,7 @@
       "severity": 7,
       "escalation_needed": false
     }
-  }
-]
-  [
+  },
   {
     "id": "ehsaas_p5_5292",
     "messages": [
@@ -10575,9 +10570,7 @@
       "severity": 8,
       "escalation_needed": true
     }
-  }
-]
- [
+  },
   {
     "id": "ehsaas_p5_5302",
     "messages": [
@@ -10921,9 +10914,7 @@
       "severity": 9,
       "escalation_needed": true
     }
-  }
-]
-  [
+  },
   {
     "id": "ehsaas_p5_5312",
     "messages": [
@@ -11219,9 +11210,7 @@
       "severity": 8,
       "escalation_needed": false
     }
-  }
-]
-  [
+  },
   {
     "id": "ehsaas_p5_5322",
     "messages": [
@@ -11533,9 +11522,7 @@
       "severity": 8,
       "escalation_needed": false
     }
-  }
-]
-  [
+  },
   {
     "id": "ehsaas_p5_5332",
     "messages": [
@@ -11831,9 +11818,7 @@
       "severity": 7,
       "escalation_needed": false
     }
-  }
-]
- [
+  },
   {
     "id": "ehsaas_p5_5342",
     "messages": [
@@ -12129,9 +12114,7 @@
       "severity": 8,
       "escalation_needed": true
     }
-  }
-]
-  [
+  },
   {
     "id": "ehsaas_p5_5352",
     "messages": [
@@ -12193,26 +12176,34 @@
     "messages": [
       {
         "role": "user",
-        "content": "Past self-harm scars dekh ke triggered feel hota... urge aata phir start karne ka... recovery mein tha but relapse ka darr constant hai... kaise cope karun triggers se"
+        "content": "Got my first period today and I'm at school... don't know what to do... too embarrassed to ask teacher... stomach cramps are bad and feeling really anxious... can't focus on anything"
       },
       {
         "role": "assistant",
-        "content": "Recovery journey mein triggers normal scars reminder physical. Relapse dar valid bhi common recovery phase. Par scars dekh urge feel karna automatic response conditioning brain ki change sakta aware coping. Scars trigger hote specific times ya random? Recovery kitne time se maintain kiya abhi tak?"
+        "content": "Hey, I know this feels overwhelming right now but you're going to be okay. First things first - do you have access to pads or tampons? School nurse usually has supplies, and you don't need to explain much, just say you need menstrual products. Most teachers are really understanding too if you need to visit the restroom. The cramps and anxiety together can feel intense. Are you feeling dizzy or just uncomfortable?"
       },
       {
         "role": "user",
-        "content": "Random times mostly stress hone pe scars dekh triggered... 6 mahine clean hoon but constant vigilance exhausting... therapy thi band kar di financial issues se"
+        "content": "Just uncomfortable and scared... don't want to leak... my friend noticed I'm acting weird and asked what's wrong but I couldn't tell her... feel so alone even though I know this is normal"
       },
       {
         "role": "assistant",
-        "content": "6 mahine clean huge achievement relapse dar se kamzor mat hone dena. Therapy band financial reasons understandable par support structure zaroori recovery maintain. Free options explore Tele-MANAS 14416 no cost counseling. Scars trigger manage exposure gradually reduce reactivity cover temporarily comfortable ho jab tak. Coping toolkit build diverse strategies writing exercise calling friend. Support group online join recovery journey share karte empathy. Relapse prevention plan specific triggers identified action steps ready. Financial stable hone therapy resume priority list top. Proud 6 months strong continue karega toolkit strong banake? Updates deta reh."
+        "content": "You're not alone in this at all - literally every person who menstruates has been through a first period moment. And your friend asking shows she cares. If you trust her, telling her might actually help - she might have supplies or can cover for you while you sort things out. For right now: tie a sweater or jacket around your waist if you're worried about leaks, go to the nurse or bathroom, and know that this anxiety will calm down once you're sorted. The first time is always the hardest because it's new. And if the cramps get really bad, you can ask for ibuprofen. You're handling this better than you think. Want to text your mom or a trusted adult after school to talk about it? Having someone guide you through the first few cycles really helps."
+      },
+      {
+        "role": "user",
+        "content": "Yeah I'll tell my mom after school... and maybe I'll tell my friend too... she's been through this already... thanks for making me feel less panicked about it"
+      },
+      {
+        "role": "assistant",
+        "content": "That's a solid plan. Your friend will probably be relieved you trusted her, and your mom can help you figure out supplies and pain management. This panic you're feeling is totally normal for the first time, but it does get easier as you learn what works for your body. You've got this. And hey, millions of people go through this every month and survive school days - you will too. Take care of yourself today."
       }
-    },
+    ],
     "metadata": {
-      "language": "hinglish",
-      "tone": "harm_reduction_gentle",
-      "intent": "self_injury_ideation",
-      "severity": 7,
+      "language": "english",
+      "tone": "companion_reassuring",
+      "intent": "panic_attack",
+      "severity": 6,
       "escalation_needed": false
     }
   },
@@ -12369,35 +12360,35 @@
     "messages": [
       {
         "role": "user",
-        "content": "Cut kiya thigh pe raat ko deep gaya accidentally ab bleeding control nahi ho rahi properly bandage nahi hospital jaana explain kaise karun kya bolun"
+        "content": "Papa ne mujhe engineering ke liye force kar rahe hain but main arts lena chahti hoon... kal form fill karna hai final... panic ho raha ki galat decision le lungi... unki expectations vs meri dreams mein phasi hoon"
       },
       {
         "role": "assistant",
-        "content": "Sun immediate hospital jaa. Deep cut bleeding control nahi serious infection risk stitches lag sakte medical urgent. Explain chinta baad initially accident bol privacy chahiye. Safety first priority. Koi saath le jaane hospital ambulance call kar."
+        "content": "Yaar ye classic Indian household dilemma hai aur bohot stressful. Ek din pehle ye panic natural hai kyunki life-changing decision hai. Par bata honestly - tujhe arts mein genuine interest hai ya engineering se dar lag raha isliye escape route lag raha? Kyunki dono different reasons hain."
       },
       {
         "role": "user",
-        "content": "Akela hoon parents office bleeding slow pressure bandage tight kaam chal jayega lagta hospital avoid better"
+        "content": "Genuine interest hai arts mein... writing aur literature mein... engineering mein bilkul interest nahi... but papa kehte secure future nahi hoga arts mein... unka sapna tha engineer bane... guilt feel hota unhe disappoint karungi"
       },
       {
         "role": "assistant",
-        "content": "Nahi risk mat le. Deep cuts medical assess infection sepsis serious. Stitches zarurat proper healing. Ambulance 102 auto hospital. Parents inform honesty agar comfortable initial accident later truth counsel. Medical emergency personal crisis important. Hospital mental health support referral bhi. Please ek ghante medical care. AASRA 9820466726 crisis support immediate call. Promise hospital jayega abhi? Health compromise nahi."
+        "content": "Dekh, unka sapna respect karna alag cheez hai aur apni life unke sapne ke liye sacrifice karna alag. Agar tu passionless engineering karti toh fail bhi ho sakti ho, aur phir regret lifetime rahega ki try nahi kiya. Arts mein successful hone ke examples dikhao unhe - journalists, authors, content creators, teachers - stable careers hain. Compromise try kar - maybe double major, or arts with professional certification. But kal form deadline hai toh immediate baat karni padegi. Sit down with them tonight, calmly explain your passion with a solid plan - not just 'arts lena hai' but 'arts with this career path'. Parents ultimately want you happy and successful. Agar totally rigid hain toh counselor ya trusted relative se baat karwa jo mediate kar sake. Apni life hai yaar, regret mat kar 20 years baad. Ready hai serious conversation ke liye?"
       },
       {
         "role": "user",
-        "content": "Thik auto book hospital try parents call karunga dar judgment samajh gaya important safety"
+        "content": "Haan ready hoon... solid plan banake baat karungi... maybe mama ko bhi involve karungi wo samjha sakti papa ko... agar nahi mane toh bhi main arts hi choose karungi... scary hai but right lagta hai"
       },
       {
         "role": "assistant",
-        "content": "Brave decision. Medical staff trained judgment nahi treatment. Self-harm history honestly mental health connect proper. Auto jaate friend inform support case. Hospital baad psychiatrist urgent therapy self-harm address. AASRA contact ongoing support. Infection sign fever swelling immediately return. Health priority recovery journey important. Updates baad. Strong reh."
+        "content": "That's brave yaar. Mama involving smart move hai - sometimes parents listen better to each other. Aur agar ultimately they don't agree, at least tumne try kiya communicate karne honestly. 18+ ho toh legally tumhara choice hai but family support better hota journey mein. Arts tough field hai but passion aur hard work se manageable. Just remember - respectful but firm raho. Unki concerns address karo practically. Good luck for tonight's conversation. Update dena kya hua. Proud of you for standing up for yourself."
       }
-    },
+    ],
     "metadata": {
-      "language": "roman_hindi",
-      "tone": "crisis_intervention",
-      "intent": "self_injury_active",
-      "severity": 10,
-      "escalation_needed": true
+      "language": "hinglish",
+      "tone": "companion_supportive",
+      "intent": "panic_attack",
+      "severity": 7,
+      "escalation_needed": false
     }
   },
   {
@@ -12435,9 +12426,7 @@
       "severity": 8,
       "escalation_needed": true
     }
-  }
-]
-  [
+  },
   {
     "id": "ehsaas_p5_5362",
     "messages": [
@@ -12725,9 +12714,7 @@
       "severity": 8,
       "escalation_needed": true
     }
-  }
-]
-  [
+  },
   {
     "id": "ehsaas_p5_5372",
     "messages": [
