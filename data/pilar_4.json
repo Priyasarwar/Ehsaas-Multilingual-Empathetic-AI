@@ -19914,8 +19914,7 @@
       "severity": 7,
       "escalation_needed": false
     }
-  }
-[
+  },
   {
     "id": "ehsaas_mixed_001",
     "messages": [
@@ -21535,8 +21534,7 @@
       "severity": 7,
       "escalation_needed": false
     }
-  }
-[
+  },
   {
     "id": "ehsaas_venting_001",
     "messages": [
