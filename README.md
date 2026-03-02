@@ -25,8 +25,8 @@ The core contribution is five emotional pillars:
 Click on any pillar to view the raw JSON data:
 
 * [**pilar_1.json: The Daily Grind**](./data/pilar_1.json) – Academic stress, burnout, and career confusion.
-* [***pilar_2.json: Heart & Social**](./data/pilar_2.json) – Breakup pain, loneliness, and relationship nuances.
-* [***pilar_3.json: The Inner Critic**](./data/pilar_3.json) – Imposter syndrome, self-doubt, and addiction.
+* [**pilar_2.json: Heart & Social**](./data/pilar_2.json) – Breakup pain, loneliness, and relationship nuances.
+* [**pilar_3.json: The Inner Critic**](./data/pilar_3.json) – Imposter syndrome, self-doubt, and addiction.
 * [**pilar_4.json: Deepening & Complexity**](./data/pilar_4.json) – Mixed emotions, venting, and emotional resistance.
 * [**pilar_5.json: Safety & High Stakes**](./data/pilar_5.json) – Panic attacks, crisis ideation, and abuse/bullying.
 
