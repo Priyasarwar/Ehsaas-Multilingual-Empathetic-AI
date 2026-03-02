@@ -33,5 +33,5 @@ Click on any pillar to view the raw JSON data:
 ## Technical Roadmap 
 currently executing the following research pipeline:
 1. **Dataset Synthesis:** Constrained prompting using LLMs to generate culturally authentic, safe, and diverse empathetic dialogues.
-2. **Model Fine-Tuning:** Performing **Supervised Fine-Tuning (SFT)** on **Gemma-2B** using **PEFT/LoRA** to adapt the model to the Ehsaas dataset.
+2. **Model Fine-Tuning:** Performing **Supervised Fine-Tuning (SFT)** on **Gemma-3 4B** using **PEFT/LoRA** to adapt the model to the Ehsaas dataset.
 3. **Dialogue Management:** Deploying via a modular architecture using **Voiceflow** as the dialogue manager to handle state tracking and human-in-the-loop evaluation.
