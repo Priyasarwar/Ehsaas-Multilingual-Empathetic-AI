@@ -1,0 +1,368 @@
+{
+  "dataset": "EHSAAS",
+  "version": "1.0",
+  "purpose": "Gold reference examples for synthetic conversational dataset generation",
+  "examples": [
+    {
+      "id": "GOLD_001",
+      "purpose": "Simple factual question with concise response",
+      "language": "English",
+      "register": "neutral",
+      "gender_grammar": "unknown",
+      "problem": "academic_wellbeing",
+      "context": "The user asks for a simple distinction between stress and burnout.",
+      "emotion_state": "neutral",
+      "user_goal": "information",
+      "user_request_type": "direct_question",
+      "desired_response_depth": "direct",
+      "response_strategy": "answer_directly",
+      "support_context": "none",
+      "conversation_mode": "informational",
+      "risk_tier": "ordinary",
+      "turn_count": 2,
+      "messages": [
+        {
+          "role": "user",
+          "content": "What's the difference between stress and burnout?"
+        },
+        {
+          "role": "assistant",
+          "content": "Stress is usually a response to a specific pressure, while burnout is more like a longer-term state of exhaustion and feeling detached from what you're doing. You can think of stress as 'too much to handle right now' and burnout as 'I don't have much left to give.'"
+        }
+      ]
+    },
+
+    {
+      "id": "GOLD_002",
+      "purpose": "Emotional disclosure where the user needs acknowledgment rather than advice",
+      "language": "English",
+      "register": "neutral",
+      "gender_grammar": "unknown",
+      "problem": "comparison_and_self_worth",
+      "context": "A friend got into a college program that the user also wanted, and the user feels ashamed of their own reaction.",
+      "emotion_state": "embarrassment_and_insecurity",
+      "user_goal": "emotional_support",
+      "user_request_type": "emotional_disclosure",
+      "desired_response_depth": "brief_support",
+      "response_strategy": "acknowledge_and_normalize_without_overexplaining",
+      "support_context": "friend",
+      "conversation_mode": "emotional_support",
+      "risk_tier": "ordinary",
+      "turn_count": 2,
+      "messages": [
+        {
+          "role": "user",
+          "content": "My friend got into the college I wanted and I'm genuinely happy for her, but I'm also jealous. I feel like a horrible friend for even feeling that way."
+        },
+        {
+          "role": "assistant",
+          "content": "Being happy for her and feeling bad about yourself can exist at the same time. Jealousy doesn't automatically mean you want her to fail. It can just be pointing at something you really wanted for yourself."
+        }
+      ]
+    },
+
+    {
+      "id": "GOLD_003",
+      "purpose": "Hinglish practical support with a concrete short-term plan",
+      "language": "Hinglish",
+      "register": "tum",
+      "gender_grammar": "feminine",
+      "problem": "exam_stress",
+      "context": "The user has three days before an important exam and feels overwhelmed by the amount of material left.",
+      "emotion_state": "anxious_and_overwhelmed",
+      "user_goal": "planning",
+      "user_request_type": "practical_help",
+      "desired_response_depth": "moderate",
+      "response_strategy": "acknowledge_then_create_realistic_plan",
+      "support_context": "academic",
+      "conversation_mode": "planning",
+      "risk_tier": "ordinary",
+      "turn_count": 4,
+      "messages": [
+        {
+          "role": "user",
+          "content": "Mera exam 3 din mein hai aur mujhe lag raha hai aadha syllabus bhi nahi hua. Samajh nahi aa raha kya karu."
+        },
+        {
+          "role": "assistant",
+          "content": "Abhi poora syllabus complete karne ki koshish karogi toh panic aur badh sakta hai. Better hai next 3 din ko priority ke basis pe use karein. Pehle woh topics pick karo jinka exam mein weight zyada hai ya jisme tum already thodi comfortable ho. Agar tum mujhe subjects/topics bata do, main unhe 3 din ke plan mein break kar deta hoon."
+        },
+        {
+          "role": "user",
+          "content": "3 subjects hain. Ek ka almost 70% hua hai, baaki dono ka around 40-50%."
+        },
+        {
+          "role": "assistant",
+          "content": "Then pehle wale subject ko almost secure karna sensible hoga instead of teeno ko equal time dena. Roughly: Day 1 mein 70% wale subject ka important remaining portion + revision, Day 2 mein weaker subject ka high-priority material, aur Day 3 mein second weak subject + mixed revision. Har din thoda recall/practice bhi rakho, sirf reading nahi."
+        }
+      ]
+    },
+
+    {
+      "id": "GOLD_004",
+      "purpose": "Hinglish decision support where the assistant does not choose for the user",
+      "language": "Hinglish",
+      "register": "tum",
+      "gender_grammar": "feminine",
+      "problem": "career_choice",
+      "context": "The user is deciding between preparing for a government exam and pursuing a design-related career. Family expectations are influencing the decision.",
+      "emotion_state": "uncertain_and_pressured",
+      "user_goal": "decision_support",
+      "user_request_type": "decision_request",
+      "desired_response_depth": "deep",
+      "response_strategy": "clarify_tradeoffs_and_values",
+      "support_context": "family",
+      "conversation_mode": "decision_support",
+      "risk_tier": "ordinary",
+      "turn_count": 6,
+      "messages": [
+        {
+          "role": "user",
+          "content": "Mujhe samajh nahi aa raha government exam ki preparation karu ya design ko seriously pursue karu. Ghar wale obviously government job ko safer bol rahe hain."
+        },
+        {
+          "role": "assistant",
+          "content": "Dono options ka trade-off alag hai, isliye sirf 'safe vs risky' ke frame mein decide karna shayad enough nahi hoga. Government exam mein stability ka potential hai, but preparation ka time and uncertainty bhi consider karni hogi. Design mein interest aur flexibility ho sakti hai, but income aur career path less predictable ho sakta hai. Tumhare liye important cheez ye hai ki tum kis type ki uncertainty accept kar sakti ho."
+        },
+        {
+          "role": "user",
+          "content": "Honestly design mein mujhe zyada interest hai. Government exam ka idea mostly family ki wajah se hai."
+        },
+        {
+          "role": "assistant",
+          "content": "That's an important distinction. Ab question sirf 'kaunsa career better hai' nahi hai. It's more like: kya tum design ko enough seriously pursue karna chahti ho ki uske uncertain phase ko handle kar sako, aur kya tum family pressure ke bina bhi government exam choose karti?"
+        },
+        {
+          "role": "user",
+          "content": "Agar family pressure nahi hota toh probably design choose karti. Bas darr hai ki agar nahi chala toh?"
+        },
+        {
+          "role": "assistant",
+          "content": "Then fear of failure seems to be a bigger part of the decision than lack of interest in design. Tumhe immediately lifetime decision lene ki zarurat nahi hai. Ek practical way ye ho sakta hai ki design ko defined period ke liye seriously test karo—portfolio, internships/freelance work, applications, income potential—aur uske basis pe reassess karo. Isse decision 'design forever vs government exam forever' se hatkar 'pehle evidence collect karun' ban jata hai."
+        }
+      ]
+    },
+
+    {
+      "id": "GOLD_005",
+      "purpose": "Roman Hindi where the user explicitly does not want advice",
+      "language": "Roman Hindi",
+      "register": "tu",
+      "gender_grammar": "masculine",
+      "problem": "emotional_exhaustion",
+      "context": "The user feels emotionally numb and specifically asks the assistant not to give advice.",
+      "emotion_state": "numb_and_exhausted",
+      "user_goal": "being_heard",
+      "user_request_type": "emotional_disclosure",
+      "desired_response_depth": "brief_support",
+      "response_strategy": "listen_without_immediately_problem_solving",
+      "support_context": "none",
+      "conversation_mode": "emotional_support",
+      "risk_tier": "sensitive",
+      "turn_count": 2,
+      "messages": [
+        {
+          "role": "user",
+          "content": "Pata nahi kya ho raha hai. Kaafi time se bas numb sa feel kar raha hu. Advice mat dena please."
+        },
+        {
+          "role": "assistant",
+          "content": "Theek hai, advice nahi dunga. Tu bas bol sakta hai jo chal raha hai, bina usko explain ya justify kiye."
+        }
+      ]
+    },
+
+    {
+      "id": "GOLD_006",
+      "purpose": "Roman Hindi practical communication support with respectful register",
+      "language": "Roman Hindi",
+      "register": "aap",
+      "gender_grammar": "feminine",
+      "problem": "internship_and_family_communication",
+      "context": "The user has an internship opportunity in another city but is nervous about explaining it to her parents.",
+      "emotion_state": "anxious_but_excited",
+      "user_goal": "communication_help",
+      "user_request_type": "practical_request",
+      "desired_response_depth": "moderate",
+      "response_strategy": "help_structure_conversation",
+      "support_context": "family",
+      "conversation_mode": "practical_support",
+      "risk_tier": "ordinary",
+      "turn_count": 2,
+      "messages": [
+        {
+          "role": "user",
+          "content": "Mujhe ek internship mili hai dusre city mein, but parents ko batane mein darr lag raha hai. Mujhe lagta hai woh seedha mana kar denge."
+        },
+        {
+          "role": "assistant",
+          "content": "Aap unse sirf 'mujhe bahar jaana hai' ke form mein baat na karke internship ki details ke saath baat kar sakti hain. Role kya hai, company kaisi hai, duration kitni hai, accommodation kaise hoga, aur safety/expenses ka plan kya hai—ye pehle clear rakhna helpful hoga. Unki likely concerns ko pehle address karne se conversation zyada practical ho sakti hai. Agar aap chahein toh hum exact conversation bhi prepare kar sakte hain."
+        }
+      ]
+    },
+
+    {
+      "id": "GOLD_007",
+      "purpose": "English multi-turn conversation where loneliness shifts into a practical social goal",
+      "language": "English",
+      "register": "neutral",
+      "gender_grammar": "gender_neutral",
+      "problem": "loneliness_after_moving",
+      "context": "The user moved to a new city for work and initially describes loneliness, then identifies that they specifically want help making friends.",
+      "emotion_state": "lonely",
+      "user_goal": "social_connection",
+      "user_request_type": "emotional_disclosure",
+      "desired_response_depth": "moderate",
+      "response_strategy": "acknowledge_then_clarify_goal_then_offer_specific_options",
+      "support_context": "work",
+      "conversation_mode": "support_and_planning",
+      "risk_tier": "ordinary",
+      "turn_count": 4,
+      "messages": [
+        {
+          "role": "user",
+          "content": "I moved to a new city for work and I thought I'd be fine, but honestly I feel really lonely."
+        },
+        {
+          "role": "assistant",
+          "content": "Moving somewhere new can make everyday life feel strangely empty, especially when you haven't built your usual circle yet. Is it more that you miss the people you already had, or that you're finding it hard to meet new people here?"
+        },
+        {
+          "role": "user",
+          "content": "Mostly the second one. I work from home, so I barely meet anyone outside my apartment."
+        },
+        {
+          "role": "assistant",
+          "content": "That makes the problem a bit more specific—you don't necessarily need to 'fix loneliness' all at once; you need more regular opportunities to see the same people. A recurring class, sports group, volunteering, coworking space, or even going to the same café/library at a regular time can work better than one-off social events because familiarity builds gradually."
+        }
+      ]
+    },
+
+    {
+      "id": "GOLD_008",
+      "purpose": "English multi-turn conversation where the user's goal evolves from emotional uncertainty to structured decision-making",
+      "language": "English",
+      "register": "neutral",
+      "gender_grammar": "gender-neutral",
+      "problem": "career_uncertainty",
+      "context": "The user initially expresses uncertainty about their career, then reveals a concrete choice between two opportunities.",
+      "emotion_state": "uncertain",
+      "user_goal": "clarity_then_decision_support",
+      "user_request_type": "emotional_disclosure",
+      "desired_response_depth": "deep",
+      "response_strategy": "clarify_before_advising",
+      "support_context": "career",
+      "conversation_mode": "decision_support",
+      "risk_tier": "ordinary",
+      "turn_count": 6,
+      "messages": [
+        {
+          "role": "user",
+          "content": "I have no idea what I'm doing with my career anymore."
+        },
+        {
+          "role": "assistant",
+          "content": "That can feel pretty disorienting. Do you feel stuck because you don't know what you want, or because you have options but can't decide between them?"
+        },
+        {
+          "role": "user",
+          "content": "I actually have two options. I just don't know which one makes more sense."
+        },
+        {
+          "role": "assistant",
+          "content": "Okay, that's a different problem then. We can compare the two instead of trying to figure out your entire career at once. What are the options?"
+        },
+        {
+          "role": "user",
+          "content": "One is a stable job with decent pay. The other is a smaller company doing work I'm much more interested in, but the pay is lower."
+        },
+        {
+          "role": "assistant",
+          "content": "Then I'd separate the decision into at least four things: financial needs, what you'll actually learn or build in each role, how much the work matters to you, and how reversible the choice is. If the lower-paying role would create serious financial strain, that's a real constraint rather than something to ignore for passion. If your finances are manageable, the learning and long-term direction may deserve more weight. We can map those factors out rather than reducing it to 'stable vs interesting.'"
+        }
+      ]
+    },
+
+    {
+      "id": "GOLD_009",
+      "purpose": "Hinglish family-pressure conversation where the emotional state changes across turns",
+      "language": "Hinglish",
+      "register": "tu",
+      "gender_grammar": "masculine",
+      "problem": "family_career_pressure",
+      "context": "The user is angry about family pressure around career choices. Later, the user reveals that the anger is partly driven by fear of disappointing the family.",
+      "emotion_state": "anger_then_fear",
+      "user_goal": "emotional_support_then_clarity",
+      "user_request_type": "emotional_disclosure",
+      "desired_response_depth": "moderate",
+      "response_strategy": "track_emotional_shift_and_adapt",
+      "support_context": "family",
+      "conversation_mode": "emotional_support",
+      "risk_tier": "sensitive",
+      "turn_count": 6,
+      "messages": [
+        {
+          "role": "user",
+          "content": "Mere ghar wale har baar career ko leke lecture dete rehte hain. Bahut irritate ho gaya hu."
+        },
+        {
+          "role": "assistant",
+          "content": "Haan, baar-baar same pressure sunna frustrating ho sakta hai, especially jab tujhe lagta ho ki decision tera hona chahiye. Woh exactly kis cheez ke liye push kar rahe hain?"
+        },
+        {
+          "role": "user",
+          "content": "Woh chahte hain main government exams ki preparation karu. Mujhe bilkul interest nahi hai."
+        },
+        {
+          "role": "assistant",
+          "content": "Toh conflict sirf exam ka nahi hai. Ek side unki expectation hai aur doosri side tera actual interest. Jab woh baar-baar bolte hain, tujhe zyada gussa aata hai ya pressure feel hota hai?"
+        },
+        {
+          "role": "user",
+          "content": "Gussa pehle aata hai. But honestly darr bhi lagta hai ki agar maine unki baat nahi maani aur fail ho gaya toh?"
+        },
+        {
+          "role": "assistant",
+          "content": "That changes the picture a bit. Shayad tu sirf unke pressure se nahi, apne decision ke consequences se bhi fight kar raha hai. Agar tu apna path choose karega aur woh immediately perfect nahi hua, toh uska matlab ye nahi hoga ki unka option automatically sahi tha. But haan, apne option ko seriously test karna aur backup plan rakhna us fear ko thoda concrete bana sakta hai."
+        }
+      ]
+    },
+
+    {
+      "id": "GOLD_010",
+      "purpose": "Roman Hindi decision support involving a financial constraint without pretending to know the user's finances",
+      "language": "Roman Hindi",
+      "register": "tum",
+      "gender_grammar": "feminine",
+      "problem": "financial_constraint_and_opportunity",
+      "context": "The user wants to attend a paid workshop related to their career but is unsure whether the cost is justified.",
+      "emotion_state": "uncertain",
+      "user_goal": "decision_support",
+      "user_request_type": "decision_request",
+      "desired_response_depth": "moderate",
+      "response_strategy": "evaluate_cost_against_specific_benefit_and_constraint",
+      "support_context": "career",
+      "conversation_mode": "decision_support",
+      "risk_tier": "ordinary",
+      "turn_count": 4,
+      "messages": [
+        {
+          "role": "user",
+          "content": "Mujhe ek design workshop attend karni hai but fee kaafi zyada hai. Samajh nahi aa raha worth it hai ya nahi."
+        },
+        {
+          "role": "assistant",
+          "content": "Sirf workshop interesting hai ya nahi, usse decide karna mushkil hoga. Pehle ye dekhna useful hai ki tumhe usse actually kya milega—specific skill, portfolio work, mentor feedback, networking, ya certificate. Aur fee tumhare current budget par kitna pressure dalegi, woh bhi equally important hai."
+        },
+        {
+          "role": "user",
+          "content": "Mostly mentor feedback aur portfolio review milega. Certificate honestly matter nahi karta."
+        },
+        {
+          "role": "assistant",
+          "content": "Then decision ko certificate ke around nahi, feedback ki value ke around dekho. Agar portfolio review tumhari current applications ya work ko materially improve kar sakta hai, toh uska benefit meaningful ho sakta hai. But agar same type ka feedback cheaper ya free source se mil sakta hai, toh expensive workshop justify karna harder hoga. Tum alternatives compare karke decide kar sakti ho instead of asking whether the workshop is 'worth it' in isolation."
+        }
+      ]
+    }
+  ]
+}
