@@ -1,37 +1,140 @@
-# Ehsaas: Empathetic Conversational AI for Indian Youth
+# EHSAAS — Multilingual Conversational Support for Indian Youth
 
-**Ehsaas** ('Feelings') is a research-driven project developing a **multilingual (Hinglish/English)** conversational framework tailored for the emotional support of Indian youth (ages 18–25). 
+EHSAAS is a research project exploring culturally adapted, multilingual
+conversational AI for providing practical and emotionally appropriate
+support to Indian youth.
+
+The project focuses on building high-quality conversational data and
+evaluating how conversational AI can respond naturally across different
+emotional states, user goals, languages, and everyday youth situations.
+
+## Project Status
+
+**Current stage:** Dataset design and synthetic data generation
+
+**Target dataset:** ~3,000 high-quality conversations
+
+**Languages:**
+- English
+- Hinglish
+- Roman Hindi
+
+**Conversation lengths:**
+- 2 turns
+- 4 turns
+- 6 turns
+
+The dataset and evaluation pipeline are currently under development.
 
 ---
 
-##  Project Overview
-Most emotional support agents are English-centric and follow Western therapeutic norms. **Ehsaas** bridges this gap by focusing on:
-* **Code-Mixed NLP:** Handling natural Hinglish/Roman Hindi dialogue.
-* **Cultural Grounding:** Addressing specific Indian youth stressors (academic pressure , family expectations).
-* **Responsible AI:** A non-clinical, empathy-first approach that prioritizes listening over diagnosis.
+## Motivation
 
-##  Dataset Contribution
-The core of this project is a curated dataset of **5,000 conversational turns** designed for fine-tuning Large Language Models (LLMs).
-* **Language Mix:** 60% Hinglish (Roman), 30% English, 10% Roman Hindi.
-The core contribution is five emotional pillars:
-1. **The Daily Grind (1,500 entries):** Academic stress and career confusion.
-2. **Heart & Social (1,250 entries):** Relationships and loneliness.
-3. **The Inner Critic (1,000 entries):** Imposter syndrome and self-doubt.
-4. **Deepening & Complexity (750 entries):** Mixed emotions and venting.
-5. **Safety & High Stakes (500 entries):** Crisis detection and escalation
-[View the full Dataset Methodology and Distribution here](./data/DATASET_DETAILS.md)
+Many conversational AI systems can produce fluent responses, but
+fluency alone does not guarantee that a response is appropriate for the
+user's actual situation.
 
-##  Dataset Access
-Click on any pillar to view the raw JSON data:
+EHSAAS focuses on several dimensions of conversational quality:
 
-* [**pilar_1.json: The Daily Grind**](./data/pilar_1.json) – Academic stress, burnout, and career confusion.
-* [**pilar_2.json: Heart & Social**](./data/pilar_2.json) – Breakup pain, loneliness, and relationship nuances.
-* [**pilar_3.json: The Inner Critic**](./data/pilar_3.json) – Imposter syndrome, self-doubt, and addiction.
-* [**pilar_4.json: Deepening & Complexity**](./data/pilar_4.json) – Mixed emotions, venting, and emotional resistance.
-* [**pilar_5.json: Safety & High Stakes**](./data/pilar_5.json) – Panic attacks, crisis ideation, and abuse/bullying.
+- understanding the user's actual goal
+- appropriate emotional responsiveness
+- controlling response depth
+- practical and actionable support when appropriate
+- balanced decision support
+- natural multilingual communication
+- preservation of language register
+- gender-grammar consistency when relevant
+- meaningful multi-turn progression
+- cultural plausibility
+- safety-aware responses
+- conversational diversity
 
-## Technical Roadmap 
-currently executing the following research pipeline:
-1. **Dataset Synthesis:** Constrained prompting using LLMs to generate culturally authentic, safe, and diverse empathetic dialogues.
-2. **Model Fine-Tuning:** Performing **Supervised Fine-Tuning (SFT)** on **Gemma-3 4B** using **PEFT/LoRA** to adapt the model to the Ehsaas dataset.
-3. **Dialogue Management:** Deploying via a modular architecture using **Voiceflow** as the dialogue manager to handle state tracking and human-in-the-loop evaluation.
+The goal is not to create a system that responds to every message with
+the same style of empathy or advice.
+
+Instead, the system should adapt its response to what the user is
+actually trying to accomplish.
+
+---
+
+## Research Questions
+
+The project investigates questions such as:
+
+1. How does explicit response-depth control affect conversational quality?
+
+2. Does modeling the user's goal separately from the conversation topic
+   improve response relevance?
+
+3. How can synthetic conversations maintain meaningful diversity rather
+   than producing repeated templates?
+
+4. How should multilingual conversational data preserve natural
+   differences between English, Hinglish, and Roman Hindi?
+
+5. How can multi-turn synthetic conversations maintain genuine
+   progression rather than repeating the same emotional response?
+
+6. How can practical support and decision support be represented without
+   making the assistant overly directive?
+
+7. How can safety constraints be incorporated into synthetic data
+   generation and evaluation?
+
+---
+
+## Dataset Design
+
+The planned dataset contains approximately 3,000 conversations.
+
+Each conversation is generated using controlled scenario attributes
+rather than relying only on free-form prompting.
+
+Important dimensions include:
+
+| Dimension | Examples |
+|---|---|
+| Language | English, Hinglish, Roman Hindi |
+| Register | neutral, tu, tum, aap |
+| Gender grammar | feminine, masculine, gender-neutral, unknown |
+| Conversation length | 2, 4, 6 turns |
+| User goal | information, emotional support, planning, decision support |
+| Request type | question, disclosure, advice request, practical request |
+| Response depth | direct, brief support, moderate, deep |
+| Emotion state | frustration, anxiety, embarrassment, loneliness, uncertainty |
+| Problem domain | academics, career, relationships, family, finances, etc. |
+| Risk tier | ordinary, sensitive, safety-critical |
+| Conversation mode | information, support, planning, decision support |
+
+The metadata is primarily used for dataset control, analysis, filtering,
+and evaluation.
+
+---
+
+## Multi-Turn Design
+
+EHSAAS does not treat a multi-turn conversation as several independent
+single-turn examples.
+
+A meaningful multi-turn conversation should contain progression.
+
+For example:
+
+```text
+Turn 1:
+User describes a problem.
+
+Turn 2:
+Assistant responds to the immediate situation.
+
+Turn 3:
+User introduces new information or a constraint.
+
+Turn 4:
+Assistant adapts its response.
+
+Turn 5:
+User clarifies their actual goal.
+
+Turn 6:
+Assistant responds to the updated goal.
