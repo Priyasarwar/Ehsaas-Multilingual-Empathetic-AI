@@ -1,1 +1,508 @@
-
+[
+  {
+    "id": "ehs_b001_c01",
+    "language": "english",
+    "turns": 2,
+    "response_depth": ["DIRECT"],
+    "user_goal": "simple_question",
+    "problem_type": "music_while_studying_question",
+    "research_theme": "study_habits",
+    "requires_human_review": false,
+    "linguistic_control": {"language": "english", "script": "english", "address": "neutral", "english_mix": "high", "user_gender_form": "none", "gender_signal_source": "none", "bot_gender_form": "neutral"},
+    "messages": [
+      {"role": "user", "content": "quick q, does listening to music while studying actually help or is it just a habit? sem exams start monday"},
+      {"role": "assistant", "content": "It depends on the person and the task. Instrumental or low-key music works fine for a lot of people, but songs with lyrics can get in the way when you're reading or memorising. Try one session each way and see which one you actually get more done in."}
+    ]
+  },
+  {
+    "id": "ehs_b001_c02",
+    "language": "hinglish",
+    "turns": 2,
+    "response_depth": ["BRIEF_SUPPORT"],
+    "user_goal": "vent_no_advice",
+    "problem_type": "disappointing_result_after_effort",
+    "research_theme": "result_disappointment",
+    "requires_human_review": false,
+    "linguistic_control": {"language": "hinglish", "script": "roman", "address": "tu", "english_mix": "medium", "user_gender_form": "feminine", "gender_signal_source": "current_user_utterance", "bot_gender_form": "neutral"},
+    "messages": [
+      {"role": "user", "content": "result aa gaya, 62% hi aaya. itni mehnat ki, raat raat bhar jaagti thi. please advice mat dena, bas bura lag raha hai"},
+      {"role": "assistant", "content": "Theek hai, advice nahi. Itni mehnat ke baad 62 dekhna chubhta hai, aur ye bura lagna bilkul jayaz hai. Jitna bolna hai bol de, main yahin hoon."}
+    ]
+  },
+  {
+    "id": "ehs_b001_c03",
+    "language": "roman_hindi",
+    "turns": 2,
+    "response_depth": ["DIRECT"],
+    "user_goal": "simple_question",
+    "problem_type": "viva_unknown_question",
+    "research_theme": "practical_viva_pressure",
+    "requires_human_review": false,
+    "linguistic_control": {"language": "roman_hindi", "script": "roman", "address": "tum", "english_mix": "low", "user_gender_form": "none", "gender_signal_source": "none", "bot_gender_form": "neutral"},
+    "messages": [
+      {"role": "user", "content": "viva mein agar kisi sawal ka jawab nahi aata toh kya bolna chahiye? kal hai mera"},
+      {"role": "assistant", "content": "Shaant tareeke se saaf bol do ki is waqt poora yaad nahi aa raha. Phir jitna hissa pata ho wo bata do, ya poochh lo ki kya thoda sochne ka time mil sakta hai. Andaze se kuch bhi bolne se behtar hai ki jo pata hai wo saaf bolo."}
+    ]
+  },
+  {
+    "id": "ehs_b001_c04",
+    "language": "english",
+    "turns": 4,
+    "response_depth": ["BRIEF_SUPPORT", "MODERATE"],
+    "user_goal": "help_starting",
+    "problem_type": "avoidance_of_large_chapter",
+    "research_theme": "procrastination_and_overwhelm",
+    "requires_human_review": false,
+    "linguistic_control": {"language": "english", "script": "english", "address": "neutral", "english_mix": "high", "user_gender_form": "none", "gender_signal_source": "none", "bot_gender_form": "neutral"},
+    "messages": [
+      {"role": "user", "content": "I've opened my notes like six times today and closed them every time. I hate this"},
+      {"role": "assistant", "content": "Opening and closing them six times is exhausting in its own way. What makes you shut them, is it that there's too much, or that you don't know where to begin?"},
+      {"role": "user", "content": "both? it's Operating Systems, around 40 pages and I have no idea which part is actually hard"},
+      {"role": "assistant", "content": "That's a fair reason to freeze. Forty pages with no map feels like one giant wall. So skip the big decision for now: read just the first five pages for 15 minutes, only to find out what makes sense and what doesn't. Put a small star next to anything confusing. That star list becomes your map for tomorrow. You're not studying properly yet, just looking. Does 15 minutes feel doable right now?"}
+    ]
+  },
+  {
+    "id": "ehs_b001_c05",
+    "language": "hinglish",
+    "turns": 4,
+    "response_depth": ["BRIEF_SUPPORT", "MODERATE"],
+    "user_goal": "handle_comparison",
+    "problem_type": "comparison_with_roommate_study_hours",
+    "research_theme": "peer_comparison",
+    "requires_human_review": false,
+    "linguistic_control": {"language": "hinglish", "script": "roman", "address": "tum", "english_mix": "medium", "user_gender_form": "masculine", "gender_signal_source": "current_user_utterance", "bot_gender_form": "neutral"},
+    "messages": [
+      {"role": "user", "content": "mera roommate roz 10 ghante padhta hai. main 5-6 se zyada nahi kar pata. ab lagta hai main bahut slow hoon"},
+      {"role": "assistant", "content": "Roz uske 10 ghante dekhna aur khud ko uske saamne rakhna, ye thakane wala hota hai. Tumhare 5-6 ghante mein jitna hota hai, wo tumhe theek lagta hai ya nahi?"},
+      {"role": "user", "content": "hota toh theek hai. bas wo bolta rehta hai 'aaj 10 ghante hue' toh guilt hota hai. waise mujhe concepts samajhna pasand hai, wo thoda time leta hai"},
+      {"role": "assistant", "content": "Ghanton ki ginti sirf ek number hai, usse ye nahi pata chalta ki andar kitna gaya. Concepts samajhne wala style naturally zyada time leta hai, wo slow hona nahi hota. Ek kaam kar sakte ho: apna hi hafta apne se compare karo, pichle hafte kitne topics achhe se samajh aaye aur is hafte kitne. Wo number tumhare liye zyada kaam ka hai. Aur jab wo ghante bataye, toh tum bas 'theek hai' bolke aage badh sakte ho, har baar apna hisaab dene ki zaroorat nahi."}
+    ]
+  },
+  {
+    "id": "ehs_b001_c06",
+    "language": "roman_hindi",
+    "turns": 4,
+    "response_depth": ["MODERATE", "MODERATE"],
+    "user_goal": "communicate_with_family",
+    "problem_type": "daily_progress_questions_at_home",
+    "research_theme": "family_expectations_competitive_exam",
+    "requires_human_review": false,
+    "linguistic_control": {"language": "roman_hindi", "script": "roman", "address": "aap", "english_mix": "low", "user_gender_form": "feminine", "gender_signal_source": "current_user_utterance", "bot_gender_form": "neutral"},
+    "messages": [
+      {"role": "user", "content": "teesra attempt hai meri. ghar mein roz poochte hain syllabus kitna hua. main jawab dene se bachti hoon, aur phir padhne ka mann hi nahi karta"},
+      {"role": "assistant", "content": "Teesre attempt mein roz ye sawal sunna, taiyaari ke upar ek aur bojh ban jata hoga. Ek cheez samajhni hai: ghar ke log kis tarah poochte hain, fikar ke taur par ya dabav ke taur par, aur aapko wo kaisa lagta hai?"},
+      {"role": "user", "content": "papa naraz nahi hote, bas fikar karte hain. par har baar lagta hai ki jawab dena hi padega. mummy se baat karna thoda aasaan hai"},
+      {"role": "assistant", "content": "Ye fark kaafi important hai. Unki fikar sachchi hai, aur aapka dabav bhi sachcha hai, dono ek saath ho sakte hain. Ek tareeka ye ho sakta hai ki aap khud hafte ka ek time tay kar dein, jaise ravivaar shaam, jab aap bata dein ki is hafte kya poora hua. Phir roz ke sawal ki zaroorat kam ho sakti hai. Pehle mummy se baat karke dekh sakti hain, kuch aisa: 'Mujhe roz poochne se dabav lagta hai, main khud hafte mein ek baar bata dungi.' Aapko kya lagta hai, ye aapke ghar mein chal sakta hai?"}
+    ]
+  },
+  {
+    "id": "ehs_b001_c07",
+    "language": "english",
+    "turns": 6,
+    "response_depth": ["BRIEF_SUPPORT", "MODERATE", "DEEP"],
+    "user_goal": "recovery_and_prioritization",
+    "problem_type": "poor_internal_with_competing_commitments",
+    "research_theme": "recovery_after_academic_setback",
+    "requires_human_review": false,
+    "linguistic_control": {"language": "english", "script": "english", "address": "neutral", "english_mix": "high", "user_gender_form": "none", "gender_signal_source": "none", "bot_gender_form": "neutral"},
+    "messages": [
+      {"role": "user", "content": "failed my first internal in Thermodynamics. 11 out of 30. I studied, I really did. feeling pretty stupid rn"},
+      {"role": "assistant", "content": "That's a hard number to see after you've put time in. One low internal tells you about that paper, not about how smart you are. Do you know what went wrong, or did it just feel like everything went wrong at once?"},
+      {"role": "user", "content": "I think I understood the theory but froze when numericals came. also I only did two numericals total before the test"},
+      {"role": "assistant", "content": "That's actually useful to know. Understanding the theory but being short on numerical practice is a specific gap, and specific gaps are fixable. The fix is simply more problems, starting with easy ones. How much time do you have before the next test?"},
+      {"role": "user", "content": "three weeks. but the Fluid Mechanics lab record is pending and I'm running the tech club event in the same week. I can't drop either. my dad keeps asking when I'll 'fix' my marks"},
+      {"role": "assistant", "content": "Okay, so three weeks, a lab record, an event you're responsible for, and some pressure from home. Let's put it on paper instead of holding it all in your head. The record is fixed work with a clear end, so give it small fixed slots, like 40 minutes after dinner for the next four days, and it's done before event week. For Thermo, aim for a steady habit instead of big sessions: 5 numericals a day, easy ones first, and after each one jot down where you got stuck. By the end of week one you'll have a list of problem types that trip you up, and week two can go after those. Keep event week light on studying: just redo your own solved problems and go through your formula sheet. Since the event is on you, it may help to hand one or two tasks to club members now so it isn't all on you that week. As for your dad, you could tell him the plan before he asks, something like 'I found the gap, it's numericals, and here's what I'm doing about it.' Does this feel manageable, or which part feels too big?"}
+    ]
+  },
+  {
+    "id": "ehs_b001_c08",
+    "language": "hinglish",
+    "turns": 2,
+    "response_depth": ["BRIEF_SUPPORT"],
+    "user_goal": "reassurance",
+    "problem_type": "post_paper_uncertainty",
+    "research_theme": "uncertainty_about_performance",
+    "requires_human_review": false,
+    "linguistic_control": {"language": "hinglish", "script": "roman", "address": "tum", "english_mix": "high", "user_gender_form": "none", "gender_signal_source": "none", "bot_gender_form": "neutral"},
+    "messages": [
+      {"role": "user", "content": "paper kaisa gaya pata nahi yaar. last ke 2 questions chhod diye. ab baar baar wahi yaad aa raha hai"},
+      {"role": "assistant", "content": "Paper ke baad dimaag wahi questions ginta rehta hai jo chhoot gaye. Par baaki ke toh tumne kiye hain, aur marks abhi aaye nahi, toh abhi kuch bhi pakka nahi hai. Agla paper kab hai? Aaj ka kaam bas usse sambhalna hai."}
+    ]
+  },
+  {
+    "id": "ehs_b001_c09",
+    "language": "roman_hindi",
+    "turns": 4,
+    "response_depth": ["BRIEF_SUPPORT", "MODERATE"],
+    "user_goal": "practical_support",
+    "problem_type": "perfectionist_note_making",
+    "research_theme": "perfectionism",
+    "requires_human_review": false,
+    "linguistic_control": {"language": "roman_hindi", "script": "roman", "address": "tu", "english_mix": "low", "user_gender_form": "masculine", "gender_signal_source": "current_user_utterance", "bot_gender_form": "neutral"},
+    "messages": [
+      {"role": "user", "content": "notes banane mein hi poora din nikal jata hai. ek page mein galti ho jaye toh dobara likhta hoon. padhai ke naam par bas notes bante hain"},
+      {"role": "assistant", "content": "Ek galti pe poora page dobara likhna, ye toh bahut waqt kha jata hai. Tujhe kab lagta hai ki ek page 'theek' hai?"},
+      {"role": "user", "content": "jab ek bhi cut ya cross na ho. aur agar kam likhta hoon toh lagta hai kuch chhoot jayega"},
+      {"role": "assistant", "content": "Matlab notes ke saaf hone se zyada tujhe darr hai ki kuch miss na ho jaye. Ek chhota experiment kar: ek chapter ek hi baar likh, cut-cross ke saath, aur phir 10 minute bina dekhe likh ke dekh ki kitna yaad hai. Agar zaroori cheezein yaad hain, toh gande page ne bhi kaam kar diya. Notes ka kaam padhai mein madad karna hai, sundar dikhna nahi. Ek chapter pe try kar, phir khud decide kar."}
+    ]
+  },
+  {
+    "id": "ehs_b001_c10",
+    "language": "english",
+    "turns": 4,
+    "response_depth": ["MODERATE", "MODERATE"],
+    "user_goal": "decision_support",
+    "problem_type": "join_college_or_drop_year",
+    "research_theme": "choosing_between_academic_options",
+    "requires_human_review": false,
+    "linguistic_control": {"language": "english", "script": "english", "address": "neutral", "english_mix": "high", "user_gender_form": "none", "gender_signal_source": "none", "bot_gender_form": "neutral"},
+    "messages": [
+      {"role": "user", "content": "I got a seat in a college I'm lukewarm about. should I take a drop year and try the entrance again, or just join? I can't decide"},
+      {"role": "assistant", "content": "That's a big one, and it's your call, but we can make it clearer. A few things shape it: how close you were to the college you actually want, how you felt while preparing last year, and what your family can support. Which of those feels most uncertain?"},
+      {"role": "user", "content": "I missed my target by a small margin. money is tight though, a drop year means another year of coaching fees. my parents say it's my call"},
+      {"role": "assistant", "content": "That helps. The case for dropping is that you were close and you know what you want. The case for joining is the cost, and the chance that a second attempt doesn't change the result. You can test it without committing yet: look honestly at which areas cost you marks and whether you can improve those, and talk to a couple of seniors, one who joined this college and one who took a drop if you can find them. Also check the deadline for confirming your seat so you're not deciding in a panic. It might also help to write down how you'd feel a year from now in each case. When you picture both, which one does your gut lean towards?"}
+    ]
+  },
+  {
+    "id": "ehs_b001_c11",
+    "language": "hinglish",
+    "turns": 6,
+    "response_depth": ["BRIEF_SUPPORT", "MODERATE", "DEEP"],
+    "user_goal": "emotional_and_practical_support",
+    "problem_type": "pressure_after_strong_previous_result",
+    "research_theme": "expectations_after_good_performance",
+    "requires_human_review": false,
+    "linguistic_control": {"language": "hinglish", "script": "roman", "address": "tum", "english_mix": "medium", "user_gender_form": "feminine", "gender_signal_source": "current_user_utterance", "bot_gender_form": "neutral"},
+    "messages": [
+      {"role": "user", "content": "pichle sem 9.2 aaya tha toh sabko lagta hai main topper hoon. is sem midterm mein bohot kam aaya. ab sab expect karenge aur main kuch bata nahi paungi"},
+      {"role": "assistant", "content": "9.2 ke baad ek kharab midterm, aur upar se sabki umeedein, bhaari lagna samajh aata hai. Midterm mein kitna kam aaya, aur kisi ko pata chala hai?"},
+      {"role": "user", "content": "28/50. kisi ko nahi pata. mummy bolti hain 'is baar bhi achha karna', toh bata hi nahi paungi"},
+      {"role": "assistant", "content": "28/50 ek midterm ka number hai, poore sem ka nahi, aur final tak abhi time hai. Kharab midterm kam se kam ye dikha deta hai ki dikkat kahan hai. Tumhe kya laga, kahan gadbad hui?"},
+      {"role": "user", "content": "do chapters ke concepts clear nahi the, maine unhe skip kar diya tha. final mein 5 hafte hain. mummy ko batane ka darr bhi hai kyunki wo bahut khush hoti hain jab achha aata hai"},
+      {"role": "assistant", "content": "Isse picture saaf hui. Do chapters ka gap hai, aur 5 hafte unhe sambhalne ke liye kaafi time hain. Pehle hafte mein un dono chapters ke basic concepts samajh lo, book, video ya kisi dost ki help se. Dusre hafte mein unke questions solve karo. Aur baaki 3 hafte baaki syllabus ke revision ke saath mix kar do. Mummy ke baare mein: unki khushi bhi sachchi hai aur tumhara darr bhi. Abhi koi bada announcement zaroori nahi. Ek chhota sa sach bol sakti ho, jaise 'midterm thoda kam gaya, par maine dekh liya kahan dikkat thi aur uspe kaam kar rahi hoon.' Isse unhe baad mein jhatka nahi lagega aur tumhare paas plan bhi hoga. Kab bolna hai wo tum decide karo, par plan pehle bana loge toh baat karna halka lagega. Pehle kaunsa chapter uthaogi?"}
+    ]
+  },
+  {
+    "id": "ehs_b001_c12",
+    "language": "roman_hindi",
+    "turns": 2,
+    "response_depth": ["BRIEF_SUPPORT"],
+    "user_goal": "emotional_support",
+    "problem_type": "waiting_for_result",
+    "research_theme": "result_anxiety",
+    "requires_human_review": false,
+    "linguistic_control": {"language": "roman_hindi", "script": "roman", "address": "tum", "english_mix": "low", "user_gender_form": "masculine", "gender_signal_source": "current_user_utterance", "bot_gender_form": "neutral"},
+    "messages": [
+      {"role": "user", "content": "kal result aane wala hai, subah se pet mein ajeeb sa ho raha hai. main bahut ghabra gaya hoon"},
+      {"role": "assistant", "content": "Result se pehle ka intezaar sabse bhaari hota hai, kyunki is waqt kuch kar bhi nahi sakte. Aaj ka din kisi simple cheez mein laga do, thoda bahar ghoom lo ya kuch halka dekh lo. Kal ka jo bhi nikle, aaj ki ghabrahat se wo badalne wala nahi hai."}
+    ]
+  },
+  {
+    "id": "ehs_b001_c13",
+    "language": "english",
+    "turns": 2,
+    "response_depth": ["DIRECT"],
+    "user_goal": "prioritize_subjects",
+    "problem_type": "two_days_two_papers",
+    "research_theme": "practical_prioritization",
+    "requires_human_review": false,
+    "linguistic_control": {"language": "english", "script": "english", "address": "neutral", "english_mix": "high", "user_gender_form": "none", "gender_signal_source": "none", "bot_gender_form": "neutral"},
+    "messages": [
+      {"role": "user", "content": "only 2 days left for two papers, one I'm good at and one I'm weak in. which should I revise first?"},
+      {"role": "assistant", "content": "Start with the weak one while your head is fresh, but set a time limit so it doesn't swallow both days. Go for its most important and most repeated topics first, then use whatever is left for a quick pass of the stronger paper. If one paper comes earlier, give that one priority."}
+    ]
+  },
+  {
+    "id": "ehs_b001_c14",
+    "language": "hinglish",
+    "turns": 4,
+    "response_depth": ["MODERATE", "MODERATE"],
+    "user_goal": "practical_planning",
+    "problem_type": "finals_with_evening_tuition_work",
+    "research_theme": "balancing_academics_and_work",
+    "requires_human_review": false,
+    "linguistic_control": {"language": "hinglish", "script": "roman", "address": "tum", "english_mix": "medium", "user_gender_form": "masculine", "gender_signal_source": "current_user_utterance", "bot_gender_form": "neutral"},
+    "messages": [
+      {"role": "user", "content": "main shaam ko tuition padhata hoon, 5 din 3 ghante. finals 2 hafte mein hain aur padhne ka time hi nahi bacha. samajh nahi aa raha kya karu"},
+      {"role": "assistant", "content": "Do hafte bache hon aur din ka bada hissa kaam mein ja raha ho, toh bechaini hona natural hai. Pehle ye batao: tuition ki kamai zaroori hai ya thoda adjust ho sakta hai? Aur subah ka kitna time tumhare paas hota hai?"},
+      {"role": "user", "content": "kamai zaroori hai, kiraya usi se nikalta hai. par subah 6 se 11 free rehta hai"},
+      {"role": "assistant", "content": "Toh tuition ko haath mat lagao, subah ka 6 se 11 hi tumhara study block hai. Usme do slots bana lo: 6 se 8:30 sabse mushkil subject, aur 9 se 11 doosra subject ya revision. Shaam ko tuition ke baad bas 20-30 minute, sirf pehle ke solved questions ya formulas dekhne ke liye. Ek chhoti si baat: agar kisi din tuition ka time ek-do ghante khisak sakta ho, toh students ya unke parents se poochna kaam aa sakta hai, par ye tumhare comfort pe hai. Pehle 3 din ye follow karke dekho, phir dekhte hain kya adjust karna hai."}
+    ]
+  },
+  {
+    "id": "ehs_b001_c15",
+    "language": "roman_hindi",
+    "turns": 6,
+    "response_depth": ["BRIEF_SUPPORT", "MODERATE", "DEEP"],
+    "user_goal": "understand_and_improve_performance",
+    "problem_type": "inconsistent_mock_scores",
+    "research_theme": "entrance_exam_uncertainty",
+    "requires_human_review": false,
+    "linguistic_control": {"language": "roman_hindi", "script": "roman", "address": "tum", "english_mix": "low", "user_gender_form": "none", "gender_signal_source": "none", "bot_gender_form": "neutral"},
+    "messages": [
+      {"role": "user", "content": "mock tests mein kabhi 140 aata hai kabhi 95. samajh nahi aata main taiyaar hoon ya nahi. exam mein 6 hafte hain"},
+      {"role": "assistant", "content": "Itna upar-neeche score confuse karta hi hai. Ek sawal: jab 95 aata hai toh wajah kya lagti hai, concepts, time ya silly mistakes?"},
+      {"role": "user", "content": "zyada tar silly mistakes. aur time kam pad jata hai. concepts toh aate hain"},
+      {"role": "assistant", "content": "Ye kaafi kaam ki baat hai. Agar concepts aate hain aur number silly mistakes aur time ki wajah se gir raha hai, toh dikkat padhai se zyada test dene ke tareeke mein lag rahi hai. Har mock ke baad ek chhoti list bana lo: kitne marks galtiyon se gaye, kitne time se, kitne concept se. Do-teen mock ke baad pattern dikhne lagega. Abhi mock ke baad solutions dekhte ho?"},
+      {"role": "user", "content": "mock ke baad bas galat sawal dekhne ka time milta hai. aur pichle mock mein ek time aisa laga ki kuch bhi nahi aata, do sawalon pe 20 minute nikal gaye"},
+      {"role": "assistant", "content": "Ye do alag cheezein ho rahi hain. Pehli, analysis mein galat ke saath sahi sawal bhi dekhna, kyunki kabhi sahi jawab andaze se aaya hota hai ya usme zyada time laga hota hai. Doosri, atakne wali baat: ek rule bana lo ki ek sawal pe tay time, jaise 2 minute, ke baad uspe nishaan lagao aur aage badh jao, end mein wapas aana. Isko pehle practice mein aazma lo, taaki asli exam mein ye aadat ban chuki ho. Agle 6 hafte ke liye ek simple structure: hafte mein 2 full mocks aur unka poora analysis, baaki din weak topics. Aur jab bhi lage ki kuch nahi aata, ek chhota pause lo: paani, ek lambi saans, phir agla sawal. Do mushkil sawalon se aisa lag sakta hai ki poora paper hi kharab hai, par wo poore paper ki sachchai nahi hoti. Ye plan tumhare liye follow karna possible lagta hai?"}
+    ]
+  },
+  {
+    "id": "ehs_b001_c16",
+    "language": "english",
+    "turns": 2,
+    "response_depth": ["BRIEF_SUPPORT"],
+    "user_goal": "share_small_win",
+    "problem_type": "first_timed_paper_completed",
+    "research_theme": "pride_after_progress",
+    "requires_human_review": false,
+    "linguistic_control": {"language": "english", "script": "english", "address": "neutral", "english_mix": "high", "user_gender_form": "none", "gender_signal_source": "none", "bot_gender_form": "neutral"},
+    "messages": [
+      {"role": "user", "content": "I just solved a whole past paper in the time limit for the first time and I'm weirdly emotional about it"},
+      {"role": "assistant", "content": "That's a real milestone, and being emotional about it makes sense, you've been working towards this. Let yourself enjoy it for a bit before the next thing."}
+    ]
+  },
+  {
+    "id": "ehs_b001_c17",
+    "language": "hinglish",
+    "turns": 2,
+    "response_depth": ["BRIEF_SUPPORT"],
+    "user_goal": "emotional_support",
+    "problem_type": "fear_of_telling_parents_pre_board_marks",
+    "research_theme": "school_exam_pressure_family",
+    "requires_human_review": false,
+    "linguistic_control": {"language": "hinglish", "script": "roman", "address": "tu", "english_mix": "medium", "user_gender_form": "masculine", "gender_signal_source": "current_user_utterance", "bot_gender_form": "neutral"},
+    "messages": [
+      {"role": "user", "content": "pre-board mein maths mein 31/80 aaya. ghar jaake kya bolunga samajh nahi aa raha, papa ne bola tha is baar acha karna"},
+      {"role": "assistant", "content": "31/80 dekh ke ghar jaane ka darr samajh aata hai, khaaskar jab pehle baat hui ho. Tujhe sabse zyada kis cheez ka darr hai, unke gusse ka ya unki nirasha ka?"}
+    ]
+  },
+  {
+    "id": "ehs_b001_c18",
+    "language": "roman_hindi",
+    "turns": 2,
+    "response_depth": ["DIRECT"],
+    "user_goal": "simple_question",
+    "problem_type": "night_before_exam_revision_choice",
+    "research_theme": "last_minute_studying",
+    "requires_human_review": false,
+    "linguistic_control": {"language": "roman_hindi", "script": "roman", "address": "tu", "english_mix": "low", "user_gender_form": "none", "gender_signal_source": "none", "bot_gender_form": "neutral"},
+    "messages": [
+      {"role": "user", "content": "exam se ek raat pehle naye topics padhun ya purane revise karun?"},
+      {"role": "assistant", "content": "Purane revise kar, khaaskar wo jo tujhe aate toh hain par pakke nahi hain. Raat ko ek naya bada topic shuru karne se chhoot jaane ka darr aur badh sakta hai, aur wo poora bhi nahi hota."}
+    ]
+  },
+  {
+    "id": "ehs_b001_c19",
+    "language": "english",
+    "turns": 4,
+    "response_depth": ["BRIEF_SUPPORT", "MODERATE"],
+    "user_goal": "practical_support",
+    "problem_type": "repeated_revision_without_recall",
+    "research_theme": "revision_without_confidence",
+    "requires_human_review": false,
+    "linguistic_control": {"language": "english", "script": "english", "address": "neutral", "english_mix": "high", "user_gender_form": "none", "gender_signal_source": "none", "bot_gender_form": "neutral"},
+    "messages": [
+      {"role": "user", "content": "I've revised organic chemistry reactions four times and still go blank when I try to recall them. what is wrong with me"},
+      {"role": "assistant", "content": "Nothing's wrong with you. Re-reading can feel familiar without actually testing you. How are you revising right now, reading the notes, or trying to write the reactions out without looking?"},
+      {"role": "user", "content": "mostly reading and highlighting. the test is in 9 days"},
+      {"role": "assistant", "content": "That might explain the blank. Reading tells you the page is familiar, but the exam asks you to produce it. For the next 9 days, try this: read one group of reactions once, close the notes, write each reaction from memory, then check and fix. The ones you miss go on a short weak list that you redo the next day. It feels slower and more uncomfortable than re-reading, but that discomfort is usually the useful part. Try one group today and see how many you get."}
+    ]
+  },
+  {
+    "id": "ehs_b001_c20",
+    "language": "english",
+    "turns": 4,
+    "response_depth": ["BRIEF_SUPPORT", "MODERATE"],
+    "user_goal": "understand_and_plan",
+    "problem_type": "motivation_loss_after_placement",
+    "research_theme": "loss_of_motivation_final_year",
+    "requires_human_review": false,
+    "linguistic_control": {"language": "english", "script": "english", "address": "neutral", "english_mix": "high", "user_gender_form": "none", "gender_signal_source": "none", "bot_gender_form": "neutral"},
+    "messages": [
+      {"role": "user", "content": "I already got placed so my last semester exams feel pointless. I can't make myself care and I feel guilty about it"},
+      {"role": "assistant", "content": "Wanting to coast after the stress of placements is pretty human, and the guilt just adds weight on top. Is it that you don't care at all, or that it's hard to find a reason now that the big goal is done?"},
+      {"role": "user", "content": "the second one. but I still need to clear everything to graduate and my backlog from 2nd year isn't done. the offer letter probably needs the degree"},
+      {"role": "assistant", "content": "Okay, that gives you a reason, even if it's a boring one. The goal isn't to feel passionate again, just to clear the papers. So make it a minimum plan: list the papers, spot the one or two that need real work, including the backlog, and give each a small daily slot, maybe an hour. Doing the bare minimum consistently works better than waiting to feel motivated. And since the offer may depend on the degree, it's worth confirming the exact requirement with the company or your college instead of assuming. Which paper are you avoiding most?"}
+    ]
+  },
+  {
+    "id": "ehs_b001_c21",
+    "language": "hinglish",
+    "turns": 4,
+    "response_depth": ["BRIEF_SUPPORT", "MODERATE"],
+    "user_goal": "understand_procrastination",
+    "problem_type": "phone_avoidance_fear_of_not_knowing",
+    "research_theme": "procrastination_causes",
+    "requires_human_review": false,
+    "linguistic_control": {"language": "hinglish", "script": "roman", "address": "tu", "english_mix": "medium", "user_gender_form": "feminine", "gender_signal_source": "current_user_utterance", "bot_gender_form": "neutral"},
+    "messages": [
+      {"role": "user", "content": "mujhe pata hai ki padhna hai, phir bhi 2 ghante se phone pe hoon. main aisa kyu karti hoon, samajh nahi aata"},
+      {"role": "assistant", "content": "2 ghante nikal jaana aur phir khud pe gussa aana, dono bhaari hain. Jab tu padhne baithne ka sochti hai, us pal andar se kya feel hota hai, thakaan, boredom ya kuch aur?"},
+      {"role": "user", "content": "darr jaisa. lagta hai jitna padhungi utna zyada samajh aayega ki mujhe kuch nahi aata"},
+      {"role": "assistant", "content": "Ye toh tune kaafi sach bol diya. Ho sakta hai phone us darr se bachne ka ek tareeka ban jata ho, ki jab tak start nahi kiya tab tak pata hi nahi chalega kitna aata hai. Pakka nahi keh sakte, par agar tujhe ye sahi lag raha hai toh ek chhota test kar: sabse aasaan chapter utha aur sirf 10 minute dekh ke likh ki kya kya aata hai, sirf wo, jo nahi aata wo nahi. Phir dekh ki darr kitna sachcha tha. Aur ek baat: kuch na aana fail hone ka saboot nahi hota, bas ye batata hai ki kahan se shuru karna hai."}
+    ]
+  },
+  {
+    "id": "ehs_b001_c22",
+    "language": "hinglish",
+    "turns": 4,
+    "response_depth": ["BRIEF_SUPPORT", "MODERATE"],
+    "user_goal": "decision_support",
+    "problem_type": "doubt_about_course_choice_before_exams",
+    "research_theme": "changing_academic_path",
+    "requires_human_review": false,
+    "linguistic_control": {"language": "hinglish", "script": "roman", "address": "tum", "english_mix": "medium", "user_gender_form": "masculine", "gender_signal_source": "current_user_utterance", "bot_gender_form": "neutral"},
+    "messages": [
+      {"role": "user", "content": "BCom ke 2nd year mein hoon aur ab lagta hai ye course mere liye galat tha. exams aane wale hain par padhne ka mann hi nahi hota"},
+      {"role": "assistant", "content": "2nd year mein ye realise karna kaafi uljhane wala hai. Tumhe ye course galat kyun lag raha hai, subjects pasand nahi hain, ya aage ka rasta nahi dikh raha?"},
+      {"role": "user", "content": "subjects boring lagte hain. kuch aur karna chahta hoon par pata nahi kya. papa ne fees bhari hai toh unse bolna mushkil hai"},
+      {"role": "assistant", "content": "Pehli baat, exams ke beech course chhodne jaisa bada decision abhi lene ki zaroorat nahi hai. Do alag sawal hain: exams ka kya karna hai, aur aage kya karna hai. Exams ke liye bas itna ki is sem ko clear kar lo, taaki tumhare options khule rahein. Aage ke liye ek chhota research karo: do-teen cheezein likho jo tumhe interesting lagti hain, aur kisi aise insaan ko dhoondho jo wo kaam karta ho, senior ya koi jaan-pehchaan wala, aur unse poochho ki unka din kaisa jata hai. Papa se baat tab karna jab tumhare paas thodi clarity ho ki tum kya soch rahe ho. Kya abhi koi aisi cheez dikhti hai jo thodi bhi interesting lage?"}
+    ]
+  },
+  {
+    "id": "ehs_b001_c23",
+    "language": "roman_hindi",
+    "turns": 4,
+    "response_depth": ["MODERATE", "MODERATE"],
+    "user_goal": "recover_after_setback",
+    "problem_type": "backlogs_after_family_illness",
+    "research_theme": "academic_setback_and_self_doubt",
+    "requires_human_review": false,
+    "linguistic_control": {"language": "roman_hindi", "script": "roman", "address": "tum", "english_mix": "low", "user_gender_form": "feminine", "gender_signal_source": "current_user_utterance", "bot_gender_form": "neutral"},
+    "messages": [
+      {"role": "user", "content": "is semester mein 2 backlog aa gaye. saare dost clear kar gaye. lagta hai main hi bekaar hoon"},
+      {"role": "assistant", "content": "Dost sab clear kar gaye hon aur khud ka result alag ho, toh akela feel hona dukh deta hai. Par 2 backlog ek semester ka result hain, tumhari qeemat ka number nahi. Is sem mein kya hua tha, padhai ka time nahi mila ya kuch aur chal raha tha?"},
+      {"role": "user", "content": "pichle sem ghar mein dadi beemar thi, main bahut din ghar pe thi. wapas aake sab ek saath chhoot gaya"},
+      {"role": "assistant", "content": "Ye jaanke baat alag lagti hai. Dadi ki tabiyat ke beech padhai chhoot jana laparwahi nahi thi, ek mushkil waqt tha. Ab practical baat: pehle college ya department se pata kar lo ki in dono papers ka agla mauka kab aur kaise milega, taaki tumhare paas ek asli date ho. Phir dono mein se jo ek zyada bhaari lage uska syllabus dekh ke chhote hisson mein baant lo, aur roz ek hissa karo. Jo dost clear kar chuke hain unse unke notes ya important topics maang sakti ho. Pehle kaunsa paper uthana chahogi?"}
+    ]
+  },
+  {
+    "id": "ehs_b001_c24",
+    "language": "roman_hindi",
+    "turns": 4,
+    "response_depth": ["BRIEF_SUPPORT", "MODERATE"],
+    "user_goal": "communication_support",
+    "problem_type": "group_project_partner_not_working",
+    "research_theme": "project_deadline_pressure",
+    "requires_human_review": false,
+    "linguistic_control": {"language": "roman_hindi", "script": "roman", "address": "tum", "english_mix": "low", "user_gender_form": "masculine", "gender_signal_source": "current_user_utterance", "bot_gender_form": "neutral"},
+    "messages": [
+      {"role": "user", "content": "project submission 4 din mein hai aur mera partner kuch nahi kar raha. main bahut irritate ho gaya hoon"},
+      {"role": "assistant", "content": "4 din bache hain aur akele bojh uthana pad raha ho, toh chidh hona jayaz hai. Abhi kitna kaam ho chuka hai, aur partner ne kya kya lena tha?"},
+      {"role": "user", "content": "report aadhi likh li hai, code mera hi hai. usne sirf PPT leni thi, wo bhi shuru nahi hui. usse seedha bolne mein jhijhak hoti hai, hum dosto ki tarah hain"},
+      {"role": "assistant", "content": "Dosti ke saath bhi seedha bola ja sakta hai, bas gusse mein nahi. Pehle kaam ko saaf kar lo: kya bacha hai aur kaun kya karega, ek chhoti list mein likh ke bhej do, jaise 'PPT 2 din mein chahiye, kal shaam tak pehla draft bhej dena.' Isme koi taana nahi hai, bas deadline hai. Agar kal tak kuch na aaye, toh us waqt dekhna ki kya karna hai, jaise PPT ka ek simple version khud bana lena ya apne guide ko situation bata dena. Pehle ye message bhej ke dekho."}
+    ]
+  },
+  {
+    "id": "ehs_b001_c25",
+    "language": "roman_hindi",
+    "turns": 4,
+    "response_depth": ["BRIEF_SUPPORT", "MODERATE"],
+    "user_goal": "emotional_and_practical_support",
+    "problem_type": "studying_alone_in_hostel_group_culture",
+    "research_theme": "loneliness_and_study_style",
+    "requires_human_review": false,
+    "linguistic_control": {"language": "roman_hindi", "script": "roman", "address": "tum", "english_mix": "low", "user_gender_form": "none", "gender_signal_source": "none", "bot_gender_form": "neutral"},
+    "messages": [
+      {"role": "user", "content": "hostel mein sab group study karte hain. mujhe akele padhna pasand hai par lagta hai peeche reh gaya, jaise sab kuch share kar rahe hain aur main nahi"},
+      {"role": "assistant", "content": "Akele padhna tumhara style hai, aur usme koi kami nahi hai. Par sabko saath dekhna aur khud ko bahar mehsoos karna chubh sakta hai. Kya group mein kuch aisa hai jo tumhe lagta hai tum miss kar rahe ho, ya bas ye ehsaas hai?"},
+      {"role": "user", "content": "doubts ka. akele padhne mein kai baar ek hi cheez pe atak jana hota hai, aur kisi se poochne mein awkward lagta hai"},
+      {"role": "assistant", "content": "Toh asli kami group ki nahi, doubts clear karne ke tareeke ki hai. Akele padhna chhodne ki zaroorat nahi. Ek tareeka: apne doubts ek list mein likhte jao, aur hafte mein ek baar kisi ek bharose ke dost ya senior se 15-20 minute mein poori list pooch lo. Ek baar mein sab poochna kam awkward lagta hai kyunki wo ek planned baat hoti hai. Apne teacher se ya online kisi jagah se bhi doubts clear kiye ja sakte hain. Koi ek naam dimaag mein aa raha hai jisse poochna thoda aasaan lage?"}
+    ]
+  },
+  {
+    "id": "ehs_b001_c26",
+    "language": "hinglish",
+    "turns": 4,
+    "response_depth": ["MODERATE", "MODERATE"],
+    "user_goal": "emotional_and_practical_support",
+    "problem_type": "exhaustion_from_school_plus_coaching",
+    "research_theme": "burnout_like_exhaustion",
+    "requires_human_review": false,
+    "linguistic_control": {"language": "hinglish", "script": "roman", "address": "tum", "english_mix": "medium", "user_gender_form": "none", "gender_signal_source": "none", "bot_gender_form": "neutral"},
+    "messages": [
+      {"role": "user", "content": "2 mahine se school aur coaching dono chal rahe hain. ab padhne baithne pe dimaag blank ho jata hai. samajh nahi aata kya ho raha hai"},
+      {"role": "assistant", "content": "Do mahine lagatar chalne ke baad dimaag ka blank hona thakaan ki wajah se ho sakta hai. Isko koi naam dena zaroori nahi, par lagta hai ki bahut time se rest nahi mila. Hafte mein kabhi poora din ya kuch ghante aate hain jab tumhe kuch nahi karna hota?"},
+      {"role": "user", "content": "nahi, Sunday ko bhi coaching ki test series hoti hai. aur uske baad usi ka analysis"},
+      {"role": "assistant", "content": "Toh rest ka koi slot hi nahi hai, aur ye kaafi bada factor ho sakta hai. Kuch cheezein try ho sakti hain: Sunday ke analysis ko ek halka 2 ghante ka kaam bana do aur uske baad ek shaam bilkul off rakho. Ya agar test series mein har baar baithna zaroori na ho, toh pata karo ki kabhi ek hafte ka gap mil sakta hai. Aur kisi bade se, parents ya teacher se, ye bolna ki 'mere paas rest ka time nahi hai', ye bhi ek shuruaat hai. Inme se kaunsa tumhe possible lagta hai?"}
+    ]
+  },
+  {
+    "id": "ehs_b001_c27",
+    "language": "english",
+    "turns": 6,
+    "response_depth": ["BRIEF_SUPPORT", "MODERATE", "DEEP"],
+    "user_goal": "emotional_and_practical_support",
+    "problem_type": "fear_of_failing_after_family_financial_sacrifice",
+    "research_theme": "fear_of_failure_and_family_sacrifice",
+    "requires_human_review": false,
+    "linguistic_control": {"language": "english", "script": "english", "address": "neutral", "english_mix": "high", "user_gender_form": "none", "gender_signal_source": "none", "bot_gender_form": "neutral"},
+    "messages": [
+      {"role": "user", "content": "my dad took out a loan for my engineering fees. final exams are in 3 weeks and I'm terrified that if I fail something, all of that was for nothing"},
+      {"role": "assistant", "content": "Carrying that weight makes sense, you're not only studying for yourself right now. Is the fear mostly about failing, or about how your dad would react?"},
+      {"role": "user", "content": "failing. he's never been harsh. he just works extra and never says a word, which is almost worse"},
+      {"role": "assistant", "content": "That's a very particular kind of pressure. Nobody is shouting, so the fear has nowhere to go. And it sounds like it comes from caring a lot about him. Is there a specific subject you're at risk in, or is it a general fear?"},
+      {"role": "user", "content": "one subject, Signals. I got 12/30 in the internal. the rest feel okay. I've been avoiding it because even looking at it makes me feel sick"},
+      {"role": "assistant", "content": "That narrows things a lot. It isn't 'everything might fail', it's one subject with three weeks to work on it. The avoidance makes sense, but it also means the fear keeps growing in the dark. Here's one way to shrink it. First, spend 30 minutes just looking at the syllabus and your internal paper, no studying, and mark which topics cost you the most marks. That's information, not a verdict. Second, give Signals the first, freshest hour of each day, starting with those topics, and keep the other subjects on light revision. Third, set a checkpoint, like one past paper at the end of week two, so you know where you stand instead of guessing. About your dad: from what you've said, he isn't pressuring you directly, so you don't have to say anything big before you've made progress. But if the silence between you is part of what's heavy, a small honest line like 'I'm working hard on Signals, I know it matters' might ease it. What feels like the hardest part of starting on Signals tomorrow?"}
+    ]
+  },
+  {
+    "id": "ehs_b001_c28",
+    "language": "english",
+    "turns": 6,
+    "response_depth": ["BRIEF_SUPPORT", "MODERATE", "MODERATE"],
+    "user_goal": "help_starting_and_practical_planning",
+    "problem_type": "panic_to_manageable_plan_three_days_left",
+    "research_theme": "overwhelm_to_next_step",
+    "requires_human_review": false,
+    "linguistic_control": {"language": "english", "script": "english", "address": "neutral", "english_mix": "high", "user_gender_form": "none", "gender_signal_source": "none", "bot_gender_form": "neutral"},
+    "messages": [
+      {"role": "user", "content": "3 days. whole syllabus. my mind is just spinning and I can't even open a book"},
+      {"role": "assistant", "content": "Okay, pause for a second. Three days is short but not zero, and the spinning is mostly because everything is one big pile right now. Roughly how many units are there in total?"},
+      {"role": "user", "content": "8 units. I've done 3 of them properly, 2 half, 3 not at all"},
+      {"role": "assistant", "content": "That's a lot more workable than 'whole syllabus'. So: 3 done, 2 half, 3 untouched. A rough split: day 1 on the 2 half units plus one untouched unit, day 2 on the other two untouched ones, day 3 for a quick revision of the 3 done units and your weak spots. Start with whichever untouched unit looks lightest, just to get moving. Does that feel realistic, or is any part off?"},
+      {"role": "user", "content": "tried something like this yesterday and gave up by noon. I got stuck on a hard unit for 2 hours and felt like a failure"},
+      {"role": "assistant", "content": "That's useful. The plan wasn't the problem, getting stuck on one hard unit for 2 hours was. Try a cap: 45 minutes per unit block, and if a topic won't click, mark it and move on, you can come back at the end if there's time. You don't need to master every unit, just cover the main portions of each. Getting stuck yesterday was one bad morning, not a verdict on you. Want to start with the lightest untouched unit and set a 45-minute timer right now?"}
+    ]
+  },
+  {
+    "id": "ehs_b001_c29",
+    "language": "hinglish",
+    "turns": 6,
+    "response_depth": ["BRIEF_SUPPORT", "BRIEF_SUPPORT", "DEEP"],
+    "user_goal": "just_be_heard_then_practical_options",
+    "problem_type": "reduced_study_capacity_after_stressful_semester",
+    "research_theme": "listening_first_then_gradual_plan",
+    "requires_human_review": false,
+    "linguistic_control": {"language": "hinglish", "script": "roman", "address": "tu", "english_mix": "medium", "user_gender_form": "masculine", "gender_signal_source": "current_user_utterance", "bot_gender_form": "neutral"},
+    "messages": [
+      {"role": "user", "content": "bas sun le, advice mat dena. aaj subah se 4 baar book kholi aur har baar 5 min mein band kar di. gussa aa raha hai khud pe"},
+      {"role": "assistant", "content": "Theek hai, sirf sunna hai. 4 baar book kholke band karna aur upar se khud pe gussa, thaka dene wala hai. Bol, aur kya chal raha hai."},
+      {"role": "user", "content": "kuch nahi, bas lagta hai main bekaar ho gaya hoon. pehle 8-9 ghante padh leta tha, ab 1 ghanta bhi bhaari lagta hai"},
+      {"role": "assistant", "content": "Ye kaafi bada badlav hai, aur isliye khud pe gussa aana samajh aata hai. Ye sunke lagta hai ki ye ek-do din ki baat nahi hai. Kab se aisa lag raha hai?"},
+      {"role": "user", "content": "2-3 mahine se. pichle sem ke baad. us sem mein bahut kuch ek saath chal raha tha, placement ki taiyaari, ghar ka tension, aur ab sab ruk gaya hai. ab tu bata, kuch kar sakta hoon?"},
+      {"role": "assistant", "content": "Theek hai, ab baat karte hain. Pehle ek cheez: 2-3 mahine tak itna sab ek saath chalne ke baad padhne ki capacity kam hona samajh aata hai, isme bekaar hone jaisa kuch nahi hai. Isko koi label dena mere liye mumkin nahi, par agar ye lambe time tak chale aur kam na ho, toh kisi counsellor ya apne trusted insaan se baat karna ek accha option rahega. Padhai ke liye: pehle 8-9 ghante wale tareeke ko bhool ja. Chhote se start kar: roz 25 minute ek subject, phir 10 minute ka break. Do hafte tak sirf yahi, ghante badhane ka target mat rakh. Din ke end mein ek line likh le ki kya poora hua. Agar 3 din baad bhi 25 minute bhaari lage toh 15 pe aa ja. Saath mein ek aisi cheez roz mein daal jo thakaan kam kare, jaise thoda bahar chalna ya kisi dost se baat. Aur ghar ke tension wali baat, agar tu chahe toh uspe bhi baat kar sakte hain. Ye 25 minute wala start tujhe theek lag raha hai?"}
+    ]
+  },
+  {
+    "id": "ehs_b001_c30",
+    "language": "roman_hindi",
+    "turns": 6,
+    "response_depth": ["BRIEF_SUPPORT", "MODERATE", "DEEP"],
+    "user_goal": "handle_comparison_and_family_communication",
+    "problem_type": "relatives_comparing_marks_with_cousin",
+    "research_theme": "comparison_and_family_gatherings",
+    "requires_human_review": false,
+    "linguistic_control": {"language": "roman_hindi", "script": "roman", "address": "tum", "english_mix": "low", "user_gender_form": "feminine", "gender_signal_source": "current_user_utterance", "bot_gender_form": "neutral"},
+    "messages": [
+      {"role": "user", "content": "Diwali pe sab rishtedaar aayenge aur wahi sawal, kitne percent aaye, phir meri cousin ke 91% ka zikr. mere 74 the. main abhi se ghabra gayi hoon"},
+      {"role": "assistant", "content": "Pehle se hi us sawal ka bojh mehsoos hona samajh aata hai. Tumhe unke sawal se zyada bura lagta hai, ya cousin se compare hone se?"},
+      {"role": "user", "content": "compare hone se. mujhe 74 mein bhi apni mehnat dikhti hai, par unhe sirf number dikhta hai. mummy chup rehti hain jab wo sab bolte hain, wo bhi bura lagta hai"},
+      {"role": "assistant", "content": "Tumhe apni mehnat dikhti hai aur doosre sirf number dekhte hain, ye farak chubhta hai. Mummy ki chuppi ka matlab alag-alag ho sakta hai, jaise wo us waqt khud bhi awkward feel karti hon, par ye abhi tumhe pata nahi hai. Kya tum unse pehle ye kehne ke liye taiyaar ho ki aise waqt tumhe unka saath chahiye?"},
+      {"role": "user", "content": "ho sakta hai. par rishtedaaron ko kya bolun, wo sunte hi nahi. mujhe kuch seedha jawab chahiye jo na rude lage na main chup rahun"},
+      {"role": "assistant", "content": "Chalo do-teen line ke jawab bana lete hain, tum jo comfortable ho wo chun lena. Halka wala: 'Mere 74 aaye the, mujhe apni mehnat pe achha lagta hai. Aap bataiye, aap sab kaise hain?' Isse topic ghoom jata hai. Thoda seedha wala: 'Compare karne se mujhe achha nahi lagta, main apni speed se aage badh rahi hoon.' Aur agar koi baar baar poochhe: 'Chaliye, ab kuch aur baat karte hain' bolke muskura do. Rude hone ki zaroorat nahi, bas ek line aur topic change. Mummy ke saath: kal ya parso ek chhoti baat kar lo, jaise 'Jab rishtedaar compare karte hain toh mujhe bura lagta hai, us waqt agar aap topic badal dein toh mujhe achha lagega.' Isse unhe bhi pata hoga ki unhe kya karna hai. Aur in sawalon ka jawab dena tumhari kabiliyat ka saboot dena nahi hota. Inme se kaunsa jawab tumhare tone ke sabse kareeb hai?"}
+    ]
+  }
+]
