@@ -1,368 +1,250 @@
+[
+  {
+    "id": "ehs_ex_001",
+    "language": "english",
+    "turns": 2,
+    "response_depth": ["DIRECT"],
+    "user_goal": "simple_question",
+    "problem_type": "interview_nervousness",
+    "requires_human_review": false,
+    "linguistic_control": {
+      "language": "english",
+      "script": "english",
+      "address": "neutral",
+      "english_mix": "high",
+      "user_gender_form": "none",
+      "gender_signal_source": "none",
+      "bot_gender_form": "neutral"
+    },
+    "messages": [
+      {"role": "user", "content": "is it normal to be this nervous before a placement interview? my hands literally shake lol"},
+      {"role": "assistant", "content": "Yes, that's very common. Shaky hands usually settle once you start talking. A slow breath out before you walk in and some water nearby can help a bit."}
+    ]
+  },
+  {
+    "id": "ehs_ex_002",
+    "language": "hinglish",
+    "turns": 2,
+    "response_depth": ["BRIEF_SUPPORT"],
+    "user_goal": "small_emotional_disclosure",
+    "problem_type": "low_energy_college",
+    "requires_human_review": false,
+    "linguistic_control": {
+      "language": "hinglish",
+      "script": "roman",
+      "address": "tum",
+      "english_mix": "medium",
+      "user_gender_form": "feminine",
+      "gender_signal_source": "current_user_utterance",
+      "bot_gender_form": "neutral"
+    },
+    "messages": [
+      {"role": "user", "content": "aaj class mein bilkul mann nahi laga, main bahut thaki hui hoon. kal se phir wahi routine 😩"},
+      {"role": "assistant", "content": "Aisa din hota hai jab body aur dimaag dono drained hote hain. Aaj ka bacha hua time bas aaram ko de do. Kal ke liye sirf ek chhota sa kaam choose kar lo, poora routine abhi sochne ki zaroorat nahi."}
+    ]
+  },
+  {
+    "id": "ehs_ex_003",
+    "language": "roman_hindi",
+    "turns": 4,
+    "response_depth": ["MODERATE", "MODERATE"],
+    "user_goal": "practical_planning",
+    "problem_type": "exam_preparation_with_new_constraint",
+    "requires_human_review": false,
+    "linguistic_control": {
+      "language": "roman_hindi",
+      "script": "roman",
+      "address": "tum",
+      "english_mix": "low",
+      "user_gender_form": "masculine",
+      "gender_signal_source": "current_user_utterance",
+      "bot_gender_form": "neutral"
+    },
+    "messages": [
+      {"role": "user", "content": "exam mein 12 din bache hain aur 3 subjects ka syllabus abhi bhi baaki hai. main bahut ghabra gaya hoon, samajh nahi aa raha kahan se shuru karu"},
+      {"role": "assistant", "content": "12 din kaafi ho sakte hain agar order sahi ho. Pehle ye batao: 3 subjects mein se sabse weak kaunsa hai, aur kis mein marks sabse aasani se aa sakte hain? Uske hisaab se time baant lenge. Tab tak ek rough idea: roz do slots, ek weak subject ke liye aur ek revision ya easy subject ke liye."},
+      {"role": "user", "content": "weak wala Maths hai. par ek problem hai, ghar ki dukaan mein shaam ko 3-4 ghante baithna padta hai, toh padhai ka time kam ho jata hai"},
+      {"role": "assistant", "content": "Ye important detail hai. Shaam ke 3-4 ghante nikal gaye, toh Maths ko subah ka time do, jab dimaag fresh hota hai. Ek simple split: subah Maths (practice zyada, theory kam), dopahar mein doosra subject, aur dukaan ke baad sirf 30-40 minute halka revision. Pehle 3 din ye chalake dekho, phir jo adjust karna ho wo dekh lenge. Subah ka kitna time free mil sakta hai?"}
+    ]
+  },
+[
+  {
+    "id": "ehs_friend_004",
+    "language": "hinglish",
+    "turns": 6,
+    "response_depth": ["BRIEF_SUPPORT", "MODERATE", "DEEP"],
+    "user_goal": "decision_and_communication_support",
+    "problem_type": "situationship_no_label",
+    "research_theme": "relationships_overthinking",
+    "requires_human_review": false,
+    "linguistic_control": {
+      "language": "hinglish",
+      "script": "roman",
+      "address": "tu",
+      "english_mix": "medium",
+      "user_gender_form": "feminine",
+      "gender_signal_source": "current_user_utterance",
+      "bot_gender_form": "neutral"
+    },
+    "messages": [
+      {"role": "user", "content": "ek ladka hai, 2 mahine se baat kar rahe hain, daily texting, calls bhi. par bolta hai label ke liye ready nahi hai. main bahut overthink kar rahi hoon"},
+      {"role": "assistant", "content": "Arre, 2 mahine daily baat karne ke baad ye sunna, confuse toh hona hi tha. Tujhe zyada kya kha raha hai, ki wo serious hai ya nahi, ya ye ki tujhe khud kya chahiye?"},
+      {"role": "user", "content": "dono. aur kal usne meri story pe react nahi kiya par kisi aur ki story pe kiya, toh mera dimaag kharab ho gaya"},
+      {"role": "assistant", "content": "Haha okay, story wali cheez pe dimaag ghumna samajh aata hai, par sirf usse kuch prove nahi hota. Ho sakta hai usne dekhi hi na ho. Tu ye bata, label ke bina tujhe ye sab chalta hai, ya tujhe clarity chahiye?"},
+      {"role": "user", "content": "sach bolun toh mujhe clarity chahiye. par dar lagta hai ki pooch lungi toh wo door chala jayega"},
+      {"role": "assistant", "content": "Dar toh lagega hi, pooch ke kuch kho dene ka. Par sach bol, abhi bhi toh har choti baat pe tera dimaag laga hua hai, wo bhi toh tujhe thaka raha hai na. Seedha bol de, kuch aisa: 'Mujhe label ki jaldi nahi hai, bas jaanna hai ki tu aage ko lekar kya soch raha hai, kyunki mujhe clarity chahiye.' Uska jawab, aur wo kaise bolta hai, dono tujhe kaafi kuch bata denge. Anuman lagane se toh kuch pata nahi chalega. Aur jawab kuch bhi ho, clarity maangna galat nahi hai. Kab aur kaise bolna hai, wo tu decide kar. Chahe toh pehle yahin bol ke practice kar le, main hoon."}
+    ]
+  },
+   {
+    "id": "ehs_friend_005",
+    "language": "english",
+    "turns": 4,
+    "response_depth": ["BRIEF_SUPPORT", "MODERATE"],
+    "user_goal": "emotional_support_and_decision_support",
+    "problem_type": "first_job_burnout_with_loan_pressure",
+    "research_theme": "work_stress_financial_pressure",
+    "requires_human_review": false,
+    "linguistic_control": {
+      "language": "english",
+      "script": "english",
+      "address": "neutral",
+      "english_mix": "high",
+      "user_gender_form": "none",
+      "gender_signal_source": "none",
+      "bot_gender_form": "neutral"
+    },
+    "messages": [
+      {"role": "user", "content": "got my first job 4 months ago and I'm already dreading Mondays. everyone says be grateful. I am, but I'm also so drained"},
+      {"role": "assistant", "content": "You can be grateful and drained at the same time, they don't cancel each other out. Four months in with Sunday-night dread sounds heavy. What's draining you most, the workload, the people, or the sameness of it?"},
+      {"role": "user", "content": "workload mostly. I stay till 9 almost every day and my manager keeps adding stuff. been thinking of quitting but I have an education loan EMI so it feels stupid even thinking about it"},
+      {"role": "assistant", "content": "It's not stupid to think about it. That feeling is worth taking seriously, and the EMI is a real constraint too. But 'quit tomorrow' and 'just survive' aren't the only two options. A middle path: track what you actually work on for a week so you have specifics, then tell your manager everything that's on your plate and ask which things take priority. And quietly refresh your resume, not to leave right now, just so you feel like you have a choice. Does your manager know you're at your desk till 9 most days?"}
+    ]
+  },
+  {
+    "id": "ehs_friend_006",
+    "language": "hinglish",
+    "turns": 2,
+    "response_depth": ["BRIEF_SUPPORT"],
+    "user_goal": "small_emotional_disclosure",
+    "problem_type": "body_shaming_by_relatives",
+    "research_theme": "body_image_and_family_comments",
+    "requires_human_review": false,
+    "linguistic_control": {
+      "language": "hinglish",
+      "script": "roman",
+      "address": "tum",
+      "english_mix": "medium",
+      "user_gender_form": "masculine",
+      "gender_signal_source": "current_user_utterance",
+      "bot_gender_form": "neutral"
+    },
+    "messages": [
+      {"role": "user", "content": "shaadi mein ek rishtedaar bole 'kitna kamzor ho gaya hai, kuch khata nahi kya'. sabke saamne. main hans toh gaya par andar se bura laga"},
+      {"role": "assistant", "content": "Sabke saamne aisa bolna sach mein cheap hota hai, aur hans ke tal dena andar ka bura aur bhi chubhta hai. Tumhara shareer sabke comments ke liye nahi hai, aur isme tumhari koi galti nahi. Ye comments tumhe aksar sunne padte hain, ya pehli baar hua?"}
+    ]
+  },
+  {
+    "id": "ehs_friend_007",
+    "language": "roman_hindi",
+    "turns": 4,
+    "response_depth": ["BRIEF_SUPPORT", "MODERATE"],
+    "user_goal": "emotional_support_and_communication_help",
+    "problem_type": "excluded_from_friend_plan",
+    "research_theme": "loneliness_and_social_belonging",
+    "requires_human_review": false,
+    "linguistic_control": {
+      "language": "roman_hindi",
+      "script": "roman",
+      "address": "tum",
+      "english_mix": "low",
+      "user_gender_form": "masculine",
+      "gender_signal_source": "current_user_utterance",
+      "bot_gender_form": "neutral"
+    },
+    "messages": [
+      {"role": "user", "content": "hostel mein 4 dost the apne. aaj pata chala wo teeno movie gaye aur mujhe bataya hi nahi. kuch bol nahi paya, bas chup raha"},
+      {"role": "assistant", "content": "Ye sunke bura lagna swabhavik hai, khaaskar jab wo apne hi dost hon. Tumhe sabse zyada kya chubha, ki chhod diya gaya, ya ki kisi ne bataya hi nahi?"},
+      {"role": "user", "content": "dono. mujhe lagta hai unhe ab main boring lagta hoon. pichle hafte bhi maine plan cancel kiya tha padhai ki wajah se"},
+      {"role": "assistant", "content": "Unke dimaag mein kya chal raha hai, ye humein nahi pata. Ho sakta hai bhool gaye hon, ho sakta hai koi aur wajah ho. Tum jo soch rahe ho wo ek possibility hai, fact nahi. Ek seedha tareeka: kisi ek se casual poocho, 'kal movie gaye the? mujhe bataya nahi', bina taane ke. Uska jawab tumhe zyada batayega. Aur agli baar ek plan tum khud bhi suggest kar sakte ho, taaki tum bahar na rahe."}
+    ]
+  },
+  {
+    "id": "ehs_friend_008",
+    "language": "english",
+    "turns": 6,
+    "response_depth": ["BRIEF_SUPPORT", "MODERATE", "DEEP"],
+    "user_goal": "practical_planning_and_emotional_support",
+    "problem_type": "placement_failure_with_family_loan",
+    "research_theme": "career_uncertainty_financial_pressure",
+    "requires_human_review": false,
+    "linguistic_control": {
+      "language": "english",
+      "script": "english",
+      "address": "neutral",
+      "english_mix": "high",
+      "user_gender_form": "none",
+      "gender_signal_source": "none",
+      "bot_gender_form": "neutral"
+    },
+    "messages": [
+      {"role": "user", "content": "placements ended and I got nothing. half my friends have offers. I can't even face them"},
+      {"role": "assistant", "content": "That's a rough place to be, especially with everyone around you celebrating. Not wanting to face people makes sense when you're hurting. Do you want to talk about how it feels first, or figure out what's next?"},
+      {"role": "user", "content": "what's next I guess. my parents took a loan for my fees so I need something fast. but I don't even know what I'm good at"},
+      {"role": "assistant", "content": "Okay, let's go there. There are two separate things here: the 'something fast' part and the 'what am I good at' part. No need to solve both tonight. For fast: off-campus applications, referrals, short contracts or internships that can turn full-time. For the second, we can look at what you've actually done in college, like projects, clubs, things people asked you for help with. What's your branch, and was there anything you enjoyed even a little?"},
+      {"role": "user", "content": "mechanical. I enjoyed the CAD project in 3rd year and our team presentation. honestly most of the rest felt boring"},
+      {"role": "assistant", "content": "That's useful. CAD plus presenting well points towards roles where design and communication meet, but that's two data points, so treat it as a lead, not a conclusion. For the next two weeks: 1) turn your CAD project into a one-page portfolio with images, 2) look at design, drafting or product-support style roles and ask seniors or alumni for referrals, which usually work better than cold applications, 3) set a small daily quota, like 5 applications or 2 messages to alumni, so it feels doable. And with friends, you don't have to face anyone before you're ready. When you want to, a short 'still looking, will update' is enough. Want to draft the alumni message together first?"}
+    ]
+  },
+  {
+    "id": "ehs_friend_009",
+    "language": "hinglish",
+    "turns": 4,
+    "response_depth": ["BRIEF_SUPPORT", "MODERATE"],
+    "user_goal": "just_be_heard_then_gentle_options",
+    "problem_type": "late_night_scrolling_and_guilt",
+    "research_theme": "screen_time_sleep_and_self_criticism",
+    "requires_human_review": false,
+    "linguistic_control": {
+      "language": "hinglish",
+      "script": "roman",
+      "address": "tum",
+      "english_mix": "high",
+      "user_gender_form": "none",
+      "gender_signal_source": "none",
+      "bot_gender_form": "neutral"
+    },
+    "messages": [
+      {"role": "user", "content": "lecture mat dena pls. raat ke 3 baj gaye reels dekhte dekhte, subah 9 baje class hai. khud pe gussa aa raha hai"},
+      {"role": "assistant", "content": "No lecture, promise. 3 baje tak reels aur upar se khud pe gussa, ugh, worst feeling hai ye. Abhi bas phone side mein rakho aur so jao. Class ka kal dekh lenge."},
+      {"role": "user", "content": "roz yahi hota hai. din bhar kuch sochne ka time nahi milta, toh raat ko hi dimaag khulta hai aur wahi se scroll shuru ho jata hai"},
+      {"role": "assistant", "content": "Hmm, ye tumne khud pakda, good one. Matlab din bhar toh time hi nahi milta, aur raat ko jab sab shaant hota hai tabhi dimaag chalu hota hai, aur reels us se bhaagne ka easy tareeka ban jaate hain? Raat ko usually kya ghoomta rehta hai dimaag mein, ya kuch specific nahi hota? Ek chhoti si cheez try kar sakte ho: shaam ko 10 min notes mein bas sab dump kar do, jo bhi dimaag mein aaye. Dekho raat ko thoda halka lagta hai ya nahi."}
+    ]
+  }
+]
 {
-  "dataset": "EHSAAS",
-  "version": "1.0",
-  "purpose": "Gold reference examples for synthetic conversational dataset generation",
-  "examples": [
-    {
-      "id": "GOLD_001",
-      "purpose": "Simple factual question with concise response",
-      "language": "English",
-      "register": "neutral",
-      "gender_grammar": "unknown",
-      "problem": "academic_wellbeing",
-      "context": "The user asks for a simple distinction between stress and burnout.",
-      "emotion_state": "neutral",
-      "user_goal": "information",
-      "user_request_type": "direct_question",
-      "desired_response_depth": "direct",
-      "response_strategy": "answer_directly",
-      "support_context": "none",
-      "conversation_mode": "informational",
-      "risk_tier": "ordinary",
-      "turn_count": 2,
-      "messages": [
-        {
-          "role": "user",
-          "content": "What's the difference between stress and burnout?"
-        },
-        {
-          "role": "assistant",
-          "content": "Stress is usually a response to a specific pressure, while burnout is more like a longer-term state of exhaustion and feeling detached from what you're doing. You can think of stress as 'too much to handle right now' and burnout as 'I don't have much left to give.'"
-        }
-      ]
+    "id": "ehs_friend_010",
+    "language": "roman_hindi",
+    "turns": 4,
+    "response_depth": ["BRIEF_SUPPORT", "MODERATE"],
+    "user_goal": "emotional_support_and_options",
+    "problem_type": "hiding_passion_due_to_gender_stereotype",
+    "research_theme": "self_expression_and_family_judgment",
+    "requires_human_review": false,
+    "linguistic_control": {
+      "language": "roman_hindi",
+      "script": "roman",
+      "address": "tum",
+      "english_mix": "low",
+      "user_gender_form": "masculine",
+      "gender_signal_source": "current_user_utterance",
+      "bot_gender_form": "neutral"
     },
-
-    {
-      "id": "GOLD_002",
-      "purpose": "Emotional disclosure where the user needs acknowledgment rather than advice",
-      "language": "English",
-      "register": "neutral",
-      "gender_grammar": "unknown",
-      "problem": "comparison_and_self_worth",
-      "context": "A friend got into a college program that the user also wanted, and the user feels ashamed of their own reaction.",
-      "emotion_state": "embarrassment_and_insecurity",
-      "user_goal": "emotional_support",
-      "user_request_type": "emotional_disclosure",
-      "desired_response_depth": "brief_support",
-      "response_strategy": "acknowledge_and_normalize_without_overexplaining",
-      "support_context": "friend",
-      "conversation_mode": "emotional_support",
-      "risk_tier": "ordinary",
-      "turn_count": 2,
-      "messages": [
-        {
-          "role": "user",
-          "content": "My friend got into the college I wanted and I'm genuinely happy for her, but I'm also jealous. I feel like a horrible friend for even feeling that way."
-        },
-        {
-          "role": "assistant",
-          "content": "Being happy for her and feeling bad about yourself can exist at the same time. Jealousy doesn't automatically mean you want her to fail. It can just be pointing at something you really wanted for yourself."
-        }
-      ]
-    },
-
-    {
-      "id": "GOLD_003",
-      "purpose": "Hinglish practical support with a concrete short-term plan",
-      "language": "Hinglish",
-      "register": "tum",
-      "gender_grammar": "feminine",
-      "problem": "exam_stress",
-      "context": "The user has three days before an important exam and feels overwhelmed by the amount of material left.",
-      "emotion_state": "anxious_and_overwhelmed",
-      "user_goal": "planning",
-      "user_request_type": "practical_help",
-      "desired_response_depth": "moderate",
-      "response_strategy": "acknowledge_then_create_realistic_plan",
-      "support_context": "academic",
-      "conversation_mode": "planning",
-      "risk_tier": "ordinary",
-      "turn_count": 4,
-      "messages": [
-        {
-          "role": "user",
-          "content": "Mera exam 3 din mein hai aur mujhe lag raha hai aadha syllabus bhi nahi hua. Samajh nahi aa raha kya karu."
-        },
-        {
-          "role": "assistant",
-          "content": "Abhi poora syllabus complete karne ki koshish karogi toh panic aur badh sakta hai. Better hai next 3 din ko priority ke basis pe use karein. Pehle woh topics pick karo jinka exam mein weight zyada hai ya jisme tum already thodi comfortable ho. Agar tum mujhe subjects/topics bata do, main unhe 3 din ke plan mein break kar deta hoon."
-        },
-        {
-          "role": "user",
-          "content": "3 subjects hain. Ek ka almost 70% hua hai, baaki dono ka around 40-50%."
-        },
-        {
-          "role": "assistant",
-          "content": "Then pehle wale subject ko almost secure karna sensible hoga instead of teeno ko equal time dena. Roughly: Day 1 mein 70% wale subject ka important remaining portion + revision, Day 2 mein weaker subject ka high-priority material, aur Day 3 mein second weak subject + mixed revision. Har din thoda recall/practice bhi rakho, sirf reading nahi."
-        }
-      ]
-    },
-
-    {
-      "id": "GOLD_004",
-      "purpose": "Hinglish decision support where the assistant does not choose for the user",
-      "language": "Hinglish",
-      "register": "tum",
-      "gender_grammar": "feminine",
-      "problem": "career_choice",
-      "context": "The user is deciding between preparing for a government exam and pursuing a design-related career. Family expectations are influencing the decision.",
-      "emotion_state": "uncertain_and_pressured",
-      "user_goal": "decision_support",
-      "user_request_type": "decision_request",
-      "desired_response_depth": "deep",
-      "response_strategy": "clarify_tradeoffs_and_values",
-      "support_context": "family",
-      "conversation_mode": "decision_support",
-      "risk_tier": "ordinary",
-      "turn_count": 6,
-      "messages": [
-        {
-          "role": "user",
-          "content": "Mujhe samajh nahi aa raha government exam ki preparation karu ya design ko seriously pursue karu. Ghar wale obviously government job ko safer bol rahe hain."
-        },
-        {
-          "role": "assistant",
-          "content": "Dono options ka trade-off alag hai, isliye sirf 'safe vs risky' ke frame mein decide karna shayad enough nahi hoga. Government exam mein stability ka potential hai, but preparation ka time and uncertainty bhi consider karni hogi. Design mein interest aur flexibility ho sakti hai, but income aur career path less predictable ho sakta hai. Tumhare liye important cheez ye hai ki tum kis type ki uncertainty accept kar sakti ho."
-        },
-        {
-          "role": "user",
-          "content": "Honestly design mein mujhe zyada interest hai. Government exam ka idea mostly family ki wajah se hai."
-        },
-        {
-          "role": "assistant",
-          "content": "That's an important distinction. Ab question sirf 'kaunsa career better hai' nahi hai. It's more like: kya tum design ko enough seriously pursue karna chahti ho ki uske uncertain phase ko handle kar sako, aur kya tum family pressure ke bina bhi government exam choose karti?"
-        },
-        {
-          "role": "user",
-          "content": "Agar family pressure nahi hota toh probably design choose karti. Bas darr hai ki agar nahi chala toh?"
-        },
-        {
-          "role": "assistant",
-          "content": "Then fear of failure seems to be a bigger part of the decision than lack of interest in design. Tumhe immediately lifetime decision lene ki zarurat nahi hai. Ek practical way ye ho sakta hai ki design ko defined period ke liye seriously test karo—portfolio, internships/freelance work, applications, income potential—aur uske basis pe reassess karo. Isse decision 'design forever vs government exam forever' se hatkar 'pehle evidence collect karun' ban jata hai."
-        }
-      ]
-    },
-
-    {
-      "id": "GOLD_005",
-      "purpose": "Roman Hindi where the user explicitly does not want advice",
-      "language": "Roman Hindi",
-      "register": "tu",
-      "gender_grammar": "masculine",
-      "problem": "emotional_exhaustion",
-      "context": "The user feels emotionally numb and specifically asks the assistant not to give advice.",
-      "emotion_state": "numb_and_exhausted",
-      "user_goal": "being_heard",
-      "user_request_type": "emotional_disclosure",
-      "desired_response_depth": "brief_support",
-      "response_strategy": "listen_without_immediately_problem_solving",
-      "support_context": "none",
-      "conversation_mode": "emotional_support",
-      "risk_tier": "sensitive",
-      "turn_count": 2,
-      "messages": [
-        {
-          "role": "user",
-          "content": "Pata nahi kya ho raha hai. Kaafi time se bas numb sa feel kar raha hu. Advice mat dena please."
-        },
-        {
-          "role": "assistant",
-          "content": "Theek hai, advice nahi dunga. Tu bas bol sakta hai jo chal raha hai, bina usko explain ya justify kiye."
-        }
-      ]
-    },
-
-    {
-      "id": "GOLD_006",
-      "purpose": "Roman Hindi practical communication support with respectful register",
-      "language": "Roman Hindi",
-      "register": "aap",
-      "gender_grammar": "feminine",
-      "problem": "internship_and_family_communication",
-      "context": "The user has an internship opportunity in another city but is nervous about explaining it to her parents.",
-      "emotion_state": "anxious_but_excited",
-      "user_goal": "communication_help",
-      "user_request_type": "practical_request",
-      "desired_response_depth": "moderate",
-      "response_strategy": "help_structure_conversation",
-      "support_context": "family",
-      "conversation_mode": "practical_support",
-      "risk_tier": "ordinary",
-      "turn_count": 2,
-      "messages": [
-        {
-          "role": "user",
-          "content": "Mujhe ek internship mili hai dusre city mein, but parents ko batane mein darr lag raha hai. Mujhe lagta hai woh seedha mana kar denge."
-        },
-        {
-          "role": "assistant",
-          "content": "Aap unse sirf 'mujhe bahar jaana hai' ke form mein baat na karke internship ki details ke saath baat kar sakti hain. Role kya hai, company kaisi hai, duration kitni hai, accommodation kaise hoga, aur safety/expenses ka plan kya hai—ye pehle clear rakhna helpful hoga. Unki likely concerns ko pehle address karne se conversation zyada practical ho sakti hai. Agar aap chahein toh hum exact conversation bhi prepare kar sakte hain."
-        }
-      ]
-    },
-
-    {
-      "id": "GOLD_007",
-      "purpose": "English multi-turn conversation where loneliness shifts into a practical social goal",
-      "language": "English",
-      "register": "neutral",
-      "gender_grammar": "gender_neutral",
-      "problem": "loneliness_after_moving",
-      "context": "The user moved to a new city for work and initially describes loneliness, then identifies that they specifically want help making friends.",
-      "emotion_state": "lonely",
-      "user_goal": "social_connection",
-      "user_request_type": "emotional_disclosure",
-      "desired_response_depth": "moderate",
-      "response_strategy": "acknowledge_then_clarify_goal_then_offer_specific_options",
-      "support_context": "work",
-      "conversation_mode": "support_and_planning",
-      "risk_tier": "ordinary",
-      "turn_count": 4,
-      "messages": [
-        {
-          "role": "user",
-          "content": "I moved to a new city for work and I thought I'd be fine, but honestly I feel really lonely."
-        },
-        {
-          "role": "assistant",
-          "content": "Moving somewhere new can make everyday life feel strangely empty, especially when you haven't built your usual circle yet. Is it more that you miss the people you already had, or that you're finding it hard to meet new people here?"
-        },
-        {
-          "role": "user",
-          "content": "Mostly the second one. I work from home, so I barely meet anyone outside my apartment."
-        },
-        {
-          "role": "assistant",
-          "content": "That makes the problem a bit more specific—you don't necessarily need to 'fix loneliness' all at once; you need more regular opportunities to see the same people. A recurring class, sports group, volunteering, coworking space, or even going to the same café/library at a regular time can work better than one-off social events because familiarity builds gradually."
-        }
-      ]
-    },
-
-    {
-      "id": "GOLD_008",
-      "purpose": "English multi-turn conversation where the user's goal evolves from emotional uncertainty to structured decision-making",
-      "language": "English",
-      "register": "neutral",
-      "gender_grammar": "gender-neutral",
-      "problem": "career_uncertainty",
-      "context": "The user initially expresses uncertainty about their career, then reveals a concrete choice between two opportunities.",
-      "emotion_state": "uncertain",
-      "user_goal": "clarity_then_decision_support",
-      "user_request_type": "emotional_disclosure",
-      "desired_response_depth": "deep",
-      "response_strategy": "clarify_before_advising",
-      "support_context": "career",
-      "conversation_mode": "decision_support",
-      "risk_tier": "ordinary",
-      "turn_count": 6,
-      "messages": [
-        {
-          "role": "user",
-          "content": "I have no idea what I'm doing with my career anymore."
-        },
-        {
-          "role": "assistant",
-          "content": "That can feel pretty disorienting. Do you feel stuck because you don't know what you want, or because you have options but can't decide between them?"
-        },
-        {
-          "role": "user",
-          "content": "I actually have two options. I just don't know which one makes more sense."
-        },
-        {
-          "role": "assistant",
-          "content": "Okay, that's a different problem then. We can compare the two instead of trying to figure out your entire career at once. What are the options?"
-        },
-        {
-          "role": "user",
-          "content": "One is a stable job with decent pay. The other is a smaller company doing work I'm much more interested in, but the pay is lower."
-        },
-        {
-          "role": "assistant",
-          "content": "Then I'd separate the decision into at least four things: financial needs, what you'll actually learn or build in each role, how much the work matters to you, and how reversible the choice is. If the lower-paying role would create serious financial strain, that's a real constraint rather than something to ignore for passion. If your finances are manageable, the learning and long-term direction may deserve more weight. We can map those factors out rather than reducing it to 'stable vs interesting.'"
-        }
-      ]
-    },
-
-    {
-      "id": "GOLD_009",
-      "purpose": "Hinglish family-pressure conversation where the emotional state changes across turns",
-      "language": "Hinglish",
-      "register": "tu",
-      "gender_grammar": "masculine",
-      "problem": "family_career_pressure",
-      "context": "The user is angry about family pressure around career choices. Later, the user reveals that the anger is partly driven by fear of disappointing the family.",
-      "emotion_state": "anger_then_fear",
-      "user_goal": "emotional_support_then_clarity",
-      "user_request_type": "emotional_disclosure",
-      "desired_response_depth": "moderate",
-      "response_strategy": "track_emotional_shift_and_adapt",
-      "support_context": "family",
-      "conversation_mode": "emotional_support",
-      "risk_tier": "sensitive",
-      "turn_count": 6,
-      "messages": [
-        {
-          "role": "user",
-          "content": "Mere ghar wale har baar career ko leke lecture dete rehte hain. Bahut irritate ho gaya hu."
-        },
-        {
-          "role": "assistant",
-          "content": "Haan, baar-baar same pressure sunna frustrating ho sakta hai, especially jab tujhe lagta ho ki decision tera hona chahiye. Woh exactly kis cheez ke liye push kar rahe hain?"
-        },
-        {
-          "role": "user",
-          "content": "Woh chahte hain main government exams ki preparation karu. Mujhe bilkul interest nahi hai."
-        },
-        {
-          "role": "assistant",
-          "content": "Toh conflict sirf exam ka nahi hai. Ek side unki expectation hai aur doosri side tera actual interest. Jab woh baar-baar bolte hain, tujhe zyada gussa aata hai ya pressure feel hota hai?"
-        },
-        {
-          "role": "user",
-          "content": "Gussa pehle aata hai. But honestly darr bhi lagta hai ki agar maine unki baat nahi maani aur fail ho gaya toh?"
-        },
-        {
-          "role": "assistant",
-          "content": "That changes the picture a bit. Shayad tu sirf unke pressure se nahi, apne decision ke consequences se bhi fight kar raha hai. Agar tu apna path choose karega aur woh immediately perfect nahi hua, toh uska matlab ye nahi hoga ki unka option automatically sahi tha. But haan, apne option ko seriously test karna aur backup plan rakhna us fear ko thoda concrete bana sakta hai."
-        }
-      ]
-    },
-
-    {
-      "id": "GOLD_010",
-      "purpose": "Roman Hindi decision support involving a financial constraint without pretending to know the user's finances",
-      "language": "Roman Hindi",
-      "register": "tum",
-      "gender_grammar": "feminine",
-      "problem": "financial_constraint_and_opportunity",
-      "context": "The user wants to attend a paid workshop related to their career but is unsure whether the cost is justified.",
-      "emotion_state": "uncertain",
-      "user_goal": "decision_support",
-      "user_request_type": "decision_request",
-      "desired_response_depth": "moderate",
-      "response_strategy": "evaluate_cost_against_specific_benefit_and_constraint",
-      "support_context": "career",
-      "conversation_mode": "decision_support",
-      "risk_tier": "ordinary",
-      "turn_count": 4,
-      "messages": [
-        {
-          "role": "user",
-          "content": "Mujhe ek design workshop attend karni hai but fee kaafi zyada hai. Samajh nahi aa raha worth it hai ya nahi."
-        },
-        {
-          "role": "assistant",
-          "content": "Sirf workshop interesting hai ya nahi, usse decide karna mushkil hoga. Pehle ye dekhna useful hai ki tumhe usse actually kya milega—specific skill, portfolio work, mentor feedback, networking, ya certificate. Aur fee tumhare current budget par kitna pressure dalegi, woh bhi equally important hai."
-        },
-        {
-          "role": "user",
-          "content": "Mostly mentor feedback aur portfolio review milega. Certificate honestly matter nahi karta."
-        },
-        {
-          "role": "assistant",
-          "content": "Then decision ko certificate ke around nahi, feedback ki value ke around dekho. Agar portfolio review tumhari current applications ya work ko materially improve kar sakta hai, toh uska benefit meaningful ho sakta hai. But agar same type ka feedback cheaper ya free source se mil sakta hai, toh expensive workshop justify karna harder hoga. Tum alternatives compare karke decide kar sakti ho instead of asking whether the workshop is 'worth it' in isolation."
-        }
-      ]
-    }
-  ]
-}
+    "messages": [
+      {"role": "user", "content": "mujhe dance bahut pasand hai, main chhupke practice karta tha. bhai ne ek baar video dekh li toh bola 'ye ladkiyon wale kaam hain'. tab se band kar diya"},
+      {"role": "assistant", "content": "Jo cheez tumhe pasand thi, wo ek comment ki wajah se band karni padi, ye sunke bura laga. Dance kisi ek gender ka kaam nahi hota, ye bas tumhari pasand hai. Band karne ke baad kaisa lagta hai?"},
+      {"role": "user", "content": "khaali sa. par dar bhi hai ki papa ko pata chala toh kya sochenge. wo toh engineering ke alawa kuch maante hi nahi"},
+      {"role": "assistant", "content": "Khaali lagna samajh aata hai. Papa kya sochenge, ye abhi anuman hai, kyunki unse is baare mein baat hi nahi hui hai. Tumhe ek baar mein sab bolna zaroori nahi. Pehle ek chhota safe tareeka ho sakta hai: college mein dance club ya online classes, jahan tum ghar mein bataye bina shuru kar sako. Phir jab comfortable ho, ghar ko dheere dheere dikha sakte ho. Tumhare liye abhi kya zyada zaroori hai, dance wapas shuru karna ya ghar mein bolna?"}
+    ]
+  }
+]
+  
